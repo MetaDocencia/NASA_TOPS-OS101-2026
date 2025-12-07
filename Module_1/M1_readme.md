@@ -4,7 +4,7 @@
 
 ## About This Module
 
-Welcome to this introductory module on open science. Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. In this module, you take a closer look at what open science is, the current landscape as well as the benefits and challenges. You then get a glimpse into the practice of open science including a case study. To start your journey with open science, you are presented with actions that you can take starting today, such as exploring communities that you can engage with.
+Welcome to this introductory module on open science! For the purposes of this course, open science is defined as "a collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding." (Ramachandran et al. 2021) In this module, you will take a closer look at what open science is, the current landscape and best practices, as well as the benefits and challenges. You will also get a glimpse into the application of open science through a case study. To start your journey with open science, you will be presented with actions that you can take starting today, such as exploring scientific communities that you can engage with.
 
 ### Target Audience
 
@@ -14,7 +14,7 @@ This module is for anyone who is interested in open science and would like to le
 
 After completing this module, you should be able to:
 
-- Explain what open science is, why it's a good thing to do, and list some of the benefits and challenges of open science adoption.
+- Explain what open science is, why it's beneficial to implement it, and list some of the benefits and challenges of open science adoption.
 - Describe the practice of open science, including considerations when writing a management plan and the tasks in the "Use, Make, Share" framework.
 - Evaluate available options when determining whether research products should or should not be open.
 - List ways to connect with others who are part of the open science community.
@@ -23,42 +23,47 @@ After completing this module, you should be able to:
 
 Select the term to see the description.
 
-**Open Science** – The principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility and equity.
+**Open Science** – A collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding. (Ramachandran et al., 2021)
 
-**Open Data** – Data that can be freely used, re-used and redistributed by anyone. Learn more [here](https://opendatahandbook.org/guide/en/what-is-open-data/).
+**Open Data** – Data that can be freely used, reused and redistributed by anyone. (What is Open Data?, n.d.)
 
-**Open Source** – Computer programs in which the source code is available to the general public for use or modification from its original design. Learn more [here.](https://en.wikipedia.org/wiki/Open_source)
+**Open Source** – Computer programs in which the source code is available to the general public for use or modification from its original design. (Open Source, 2025)
 
-**Open Access** – Free access to information and unrestricted use of electronic resources for everyone. Learn more [here.](https://en.unesco.org/open-access/what-open-access)
+**Open Access** – Free access to information and unrestricted use of electronic resources for everyone. (Open Access, n.d.)
 
-**Interdisciplinary** – Combining multiple [academic disciplines](https://en.wikipedia.org/wiki/Academic_discipline) into one activity, such as a research project. Learn more [here.](https://en.wikipedia.org/wiki/Interdisciplinarity)
+**Citizen Science, Community Science, and Participatory Science** – CTerms used to describe projects where members of the public participate in the scientific process.
 
-**Equitable** – Indicates the absence of unfair, avoidable or remediable differences among groups of people, whether those groups are defined socially, economically, demographically, or geographically or by other dimensions of inequality (e.g. sex, gender, ethnicity, disability, or sexual orientation). Learn more [here.](https://www.who.int/health-topics/health-equity)
+- **Citizen Science** is defined by law as "a form of open collaboration in which individuals or organizations participate voluntarily in the scientific process in various ways." (*Crowdsourcing and citizen science*, 2025). Below is additional information regarding NASA's citizen science efforts:
 
-**Citizen Science or Community Science** – The practice of public participation and collaboration in scientific research to increase scientific knowledge. Learn more [here.](https://education.nationalgeographic.org/resource/citizen-science/)
+  - NASA defines citizen science projects as science projects that rely on volunteers. (National Aeronautics and Space Administration, 2018)
+  - [NASA's citizen science projects](https://science.nasa.gov/citizen-science/) are held to the same rigorous standards as any NASA science project.
+  - This important ethical practice respects volunteers by helping ensure that their work will result in real contributions to science — ideally published in the scientific literature. You can [learn more here](https://science.nasa.gov/citizen-science/how-to-guide/) about leading a NASA citizen science project.
 
-**Open Research** – How research is performed and how knowledge is shared based on the principle that research should be as open as possible. Learn more [here.](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/)
+- **Community Science** may include projects with or without professional scientists involved. (*Community Science*, 2025)
 
-**Open Scholarship** – An expansive term meant to encompass the rapid and widespread sharing of a range of scholarly activities and outputs across multiple disciplines. Learn more [here.](https://www.heliosopen.org/about)
+- **Participatory Science** is another term that avoids using the word "citizen" to lessen confusion and increase collaboration, since participation in citizen science and community science projects generally does not require citizenship in any particular country. (*Why Do We Call It Participatory Science?*, n.d.)
 
-**Reproducibility and Replicability** – Reproducibility is defined as obtaining consistent results using the same data and code as an original study (synonymous with computational reproducibility). Replicability means obtaining consistent results across studies aimed at answering the same scientific question using new data or other new computational methods. Learn more [here.](https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research)
+**Open Research** – How research is performed and how knowledge is shared based on the principle that research should be as open as possible. (Ensuring Open Research, 2024)
 
-**Peer Review** – The evaluation of work by one or more people with similar competencies as the producers of the work - that is, the authors' peers. Learn more [here.](https://en.wikipedia.org/wiki/Peer_review)
+**Open Scholarship** – An expansive term meant to encompass the rapid and widespread sharing of a range of scholarly activities and outputs across multiple disciplines. (Collaborating to build a more open scholarly ecosystem, 2024)
+
+**Reproducibility and Replicability** – - **Reproducibility** is defined as obtaining consistent results using the same data and code as an original study (synonymous with computational reproducibility).
+
+- **Replicability** means obtaining consistent results across studies aimed at answering the same scientific question using new data or other new computational methods. *(Reproducibility and Replicability in Research, 2019)*
+
+- In a different context such as with computer science, **reproducibility** may refer to researchers arriving at the same results using their own data and methods. While, **replicability** may refer to arriving at the same results using the original author's data or artifacts. *(Understanding Reproducibility and Replicability, 2019)*
+
+**Peer Review** – The evaluation of work by one or more people with similar competencies as the producers of the work - that is, the authors' peers. (Peer Review, 2025)
 
 **FAIR principles** – Principles to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. The principles emphasize machine- actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data.
 
-**Metrics (in context of scientiﬁc merit)** – Quantitative tools used to help assess the quality and impact of research outputs (eg. scientific articles, researchers, and more). Learn more [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/) and [here.](https://editorresources.taylorandfrancis.com/understanding-research-metrics/)
-
-**Altmetrics** – Alternative tools to assess the impact of a scientific article that do not involve journal-level usage information like impact factors.
-Learn more [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
+**Metrics (in context of scientiﬁc merit)** – Quantitative tools used to help assess the quality and impact of research outputs (eg. scientific articles, researchers, and more). (Kavic et al., 2021)
 
 **Openness** – A concept or personality trait that involves transparency, collaboration, honesty, and receptivity to new ideas and experiences.
 
 **Transparency** – The quality of being easy to perceive or detect.
 
-**Rigor** – Widely used by educators to describe instruction, schoolwork, learning experience, and educational expectations that are academically, intellectually, and personally challenging.
-
-**Computational Provenance** - Seeks to develop systematic, computationally-based processes and standards for capturing, and making available for us, information about who created an object, when it was created or modified, and the process or procedure that modified the object.
+**Rigor** – Widely-used by educators to describe instruction, schoolwork, learning experience, and educational expectations that are academically, intellectually, and personally challenging.
 
 ## Navigation
 
