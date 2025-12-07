@@ -65,6 +65,54 @@ Select the term to see the description.
 
 **Rigor** – Widely-used by educators to describe instruction, schoolwork, learning experience, and educational expectations that are academically, intellectually, and personally challenging.
 
+# References Cited
+
+- *Collaborating to build a more open scholarly ecosystem.* (2024). Helios Open.  
+  [https://www.heliosopen.org/about](https://www.heliosopen.org/about) (external link)
+
+- *Community Science.* (2025). California Academy of Sciences.  
+  [https://calacademy.org/Community-science](https://calacademy.org/Community-science) (external link)
+
+- *Crowdsourcing and citizen science.* (2025, March 26). Office of the Law Revision Counsel, United States Code.  
+  [https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3724&num=0&edition=prelim](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3724&num=0&edition=prelim) (external link)
+
+- *Ensuring Open Research.* (2024, September 25). UK Research and Innovation.  
+  [https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/) (external link)
+
+- Kavic, M., Satava, R. (2021). *Scientific Literature and Evaluation Metrics: Impact Factor, Usage Metrics, and Altmetrics.*  
+  *Journal of The Society of Laparoscopic & Robotic Surgeons*, 3, e2021.00010. doi: 10.4293/JSLS.2021.00010.  
+  [https://pmc.ncbi.nlm.nih.gov/articles/PMC8397294/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8397294/) (external link)
+
+- National Aeronautics and Space Administration. (2018). *Science Mission Directorate Policy: Citizen Science* (SMD Policy Document SPD-33).  
+  Washington, DC: U.S. Government Printing Office.  
+  [https://science.nasa.gov/wp-content/uploads/2023/04/SPD_33_Citizen_Science_TAGGED.pdf](https://science.nasa.gov/wp-content/uploads/2023/04/SPD_33_Citizen_Science_TAGGED.pdf)
+
+- *Open Access.* (n.d.). UNESCO.  
+  [https://www.unesco.org/en/open-access](https://www.unesco.org/en/open-access) (external link)
+
+- *Open Source.* (2025, March 19). Wikipedia.  
+  [https://en.wikipedia.org/wiki/Open_source](https://en.wikipedia.org/wiki/Open_source) (external link)
+
+- *Peer Review.* (2025, March 24). Wikipedia.  
+  [https://en.wikipedia.org/wiki/Peer_review](https://en.wikipedia.org/wiki/Peer_review) (external link)
+
+- Ramachandran, R., Bugbee, K., & Murphy, K. (2021). *From Open Data To Open Science.*  
+  *Earth and Space Science*, 8, e2020EA001562.  
+  [https://doi.org/10.1029/2020EA001562](https://doi.org/10.1029/2020EA001562) (external link)
+
+- *Reproducibility and Replicability in Research.* (2019, September 3). National Academies.  
+  [https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research](https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research) (external link)
+
+- *Understanding Reproducibility and Replicability, Reproducibility and Replicability in Science.* (2019). National Library of Medicine.  
+  [https://www.ncbi.nlm.nih.gov/books/NBK547546/](https://www.ncbi.nlm.nih.gov/books/NBK547546/) (external link)
+
+- *What is Open Data?* (n.d.). Open Data Handbook.  
+  [https://opendatahandbook.org/guide/en/what-is-open-data/](https://opendatahandbook.org/guide/en/what-is-open-data/) (external link)
+
+- *Why Do We Call It Participatory Science?* (n.d.). Smithsonian.  
+  [https://serc.si.edu/why-do-we-call-it-participatory-science](https://serc.si.edu/why-do-we-call-it-participatory-science) (external link)
+
+
 ## Navigation
 
 ### [Lesson 1: What is Open Science?](./Lesson_1)
