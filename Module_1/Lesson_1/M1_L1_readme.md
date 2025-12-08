@@ -378,3 +378,9 @@ Select all that apply.
 - The increase in paper usage due to the printing of scientific journals and articles.
 - The overpopulation of certain animal species used in laboratory testing.
 - The rising costs of luxury consumer goods are influenced by technological advancements.
+
+## References Cited
+- Gilet, C. (n.d.). Cold fusion: A case study for scientific behavior. Understanding Science. [https://undsci.berkeley.edu/cold-fusion-a-case-study-for-scientific-behavior/](https://undsci.berkeley.edu/cold-fusion-a-case-study-for-scientific-behavior/) (external link)
+- Nair-Bedouelle, S. (n.d.) Can science be more equitable so that everyone enjoyst he benefits? Open science is the answer. UNESCO. [https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer](https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer) (external link)
+- Ramachandran, R., Bugbee, K., & Murphy, K. (2021). From Open Data To Open Science. Earth and Space Science, 8, e2020EA001562. [https://doi.org/10.1029/2020EA001562](https://doi.org/10.1029/2020EA001562) (external link)
+- V. Stodden, J. Seiler, & Z. Ma, An empirical analysis of journal policy effectiveness for computational reproducibility, Proc. Natl. Acad. Sci. U.S.A. 115 (11) 2584-2589, [https://doi.org/10.1073/pnas.1708290115](https://doi.org/10.1073/pnas.1708290115) (external link) (2018).
