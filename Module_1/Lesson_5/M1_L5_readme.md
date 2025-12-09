@@ -369,47 +369,14 @@ There are many repositories that host open data, code, and results. We share man
 
 ### Continue Taking TOPS Open Science 101
 
-<img src="../images/media/image368.png" style="width: 100%; height: auto;" />
+[IMG: https://drive.google.com/file/d/1GehoBGlh8m5cwdYswecuapa9XtMcmiKh/view?usp=drive_link]
+Image credit: NASA
 
-The TOPS Open Science 101 curriculum is a good place to go for a more in-depth introduction to the various elements of Open Science – each of the next 4 modules provides details and practical exercises to help participants develop a better understanding of that specific topic.
+The Open Science 101 curriculum is a good place to go for a more in-depth introduction to the various elements of open science - each of the next four modules provides details and practical exercises to help participants develop a better understanding of that specific topic.
 
-But, if you want to also do an in-person or virtual workshop, we got you!
+#### Disclaimer
 
-<table>
-    <table>
-    <colgroup>
-        <col style="width: 33%" />
-        <col style="width: 33%" />
-    </colgroup>
-    <tbody>
-        <tr>
-            <td><img src="../images/media/image403.jpg" style="width: 98%; height: auto;" /></td>
-            <td><img src="../images/media/image253.jpg" style="width: 98%; height: auto;" /></td>
-            <td><img src="../images/media/image34.jpg" style="width: 98%; height: auto;" /></td>
-        </tr>
-         <tr>
-            <td>Self-Paced Online Course</td>
-            <td>Online Workshops</td>
-            <td>In-person Workshops</td>
-        </tr>
-    </tbody>
-</table>
-
-Images Credit: freepik.com
-
-NASA TOPS is coordinating online and in-person open science workshops!
-
-These events provide an opportunity for you to take Open Science 101 with others and engage with members of the open science community! To learn more go [here](https://nasa.github.io/Transform-to-Open-Science/)!
-
-### Additional Resources
-
-In addition to the resources listed elsewhere in this training, the below community resources are excellent sources of information about Open Software.
-
-**References and Guides**
-
-- [OpenSciency](https://opensciency.github.io/sprint-content/)
-- NASA SMD's [Open-Source Science Guidance for researchers](https://smd-cms.nasa.gov/wp-content/uploads/2023/08/smd-open-source-science-guidance-v2-20230407.pdf)
-- Turing [Way handbook to reproducible, ethical and collaborative data science](https://the-turing-way.netlify.app/index.html)
+Please note that we reference several papers throughout the course and depending on the paper it might be blocked by a paywall. If you would like to get a copy of the paper, please contact the author or search for it in an online preprint archive. For example, [bioRxiv.org](http://biorxiv.org/) (external link).
 
 ## Lesson 5: Summary
 
@@ -418,11 +385,10 @@ There is no one way of doing open science, and any steps you take to make your s
 ### What Have We Covered in this Module?
 
 - Preparing and organizing in advance are crucial components for ensuring the effectiveness of open science work.
-- Open Science and Data Management Plans (OSDMP) provide a plan for how open science is integrated into a project including the sharing of data, software, and results.
+- Open Science and Data Management Plans (OSDMP) provide a plan for how open science is integrated into a project, including the sharing of data, code, and results.
 - Designing for openness is a critical aspect of making sure that open science is integrated into the entire scientific workflow from start to finish. This includes resources that can be used, products that will be made, and how the science will be shared.
-- Open Science is already happening - there are already teams conducting their research openly and many resources that can be used to make your research more open.
-- There are more opportunities to participate and learn about Open Science – this is just the start!
-
+- Open science is already happening - there are already teams conducting their research openly and many resources that can be used to make your research more open.
+- There are more opportunities to participate and learn about open science - this is just the start!
 
 ## Lesson 5: Knowledge Check
 
@@ -468,17 +434,14 @@ Read the statement and decide whether it's true or false.
 
 **04/04**
 
-Which item is NOT one of the four steps to open science that anyone can take?
+Which item is NOT one of the three steps to open science that anyone can take?
 
-Select all that apply.
+Select an option below:
 
-- Engage with underrepresented communities to ensure  science encourages a more equitable, impactful, and
-positive future.
-- Ask colleagues about open science activities, and award credit for them in evaluations.
-- Think about all the different types of reviews you are involved with, and how to improve them with a goal of openness.
-- Create a new journal that requires an expensive subscription to read.
-- Keep seeking best practices for open science, and develop plans to be more open in your science or research.
-
+A. Ask colleagues about open science activities, and award credit for them in evaluations.
+B. Think about all the different types of reviews you are involved with, and how to improve them with a goal of openness.
+C. Create a new journal that requires an expensive subscription to read.
+D. Keep seeking best practices for open science, and develop plans to be more open in your science or research.
 
 ## The Ethos of the Open Science Summary
 
@@ -514,3 +477,7 @@ Congratulations! Now you should be able to:
 **Resources for Earth Science**
 
 [CLICK TO LEARN](https://www.earthdatascience.org/)
+
+### References Cited
+
+OpenSciency Contributors (2023, February 22). Opensciency - A core open science curriculum by and for the research community. Zenodo. DOI 10.5281/zenodo.7392118 [https://doi.org/10.5281/zenodo.7392118](https://doi.org/10.5281/zenodo.7392118) (external link)
