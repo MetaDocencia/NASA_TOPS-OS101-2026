@@ -1,53 +1,55 @@
-# Lección 5: Planificar para la Ciencia Abierta: De la teoría a la práctica
+# Lección 5: Planificar la Ciencia Abierta: de la teoría a la práctica
 
-## Contenidos
+## Navegación
 
-- [Planificar para la Ciencia Abierta](#planificar-para-la-ciencia-abierta)
-- [Diseñar para la apertura](#dise%C3%B1ar-para-la-apertura)
-- [Caso de estudio: Los resultados de un Plan Abierto](#Caso-de-estudio-los-resultados-de-un-plan-abierto)
-- [Pasos para continuar tu viaje hacia la Ciencia Abierta](#pasos-para-continuar-tu-viaje-hacia-la-ciencia-abierta)
-- [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
-- [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
-- [Resumen del Módulo 1: El Ethos de la Ciencia Abierta](#resumen-del-m%C3%B3dulo-1-el-ethos-de-la-ciencia-abierta)
+* [Planificar para la Ciencia Abierta](#planificar-para-la-ciencia-abierta)
+* [Diseñar para la apertura](#diseñar-para-la-apertura)
+* [Estudio de caso: resultados de un plan abierto](#estudio-de-caso-resultados-de-un-plan-abierto)
+* [Pasos para continuar tu recorrido en Ciencia Abierta](#pasos-para-continuar-tu-recorrido-en-ciencia-abierta)
+* [Lección 5: Resumen](#lección-5-resumen)
+* [Lección 5: Evaluación de conocimientos](#lección-5-evaluación-de-conocimientos)
+* [Resumen del espíritu de la Ciencia Abierta](#resumen-del-espíritu-de-la-ciencia-abierta)
 
 ## Descripción general
 
-Este módulo está casi terminado pero hay mucha más información disponible sobre la Ciencia Abierta, así que nuestra última lección es para quienes quieran aprender más. En esta lección revisaremos formas de comenzar nuestro viaje hacia la Ciencia Abierta, incluyendo una lista de recursos que se pueden usar ahora.
+Este módulo está casi terminado, pero existe mucha más información disponible sobre Ciencia Abierta. Por eso, la última lección está pensada para todas las personas que quieran seguir aprendiendo más. En esta lección se revisarán maneras de comenzar o continuar el recorrido en Ciencia Abierta, incluyendo una lista de recursos que se pueden utilizar desde ahora.
 
 ## Objetivos de aprendizaje
 
-Al finalizar esta lección deberías ser capaz de:
+Al finalizar esta lección se debería poder:
 
-- Reconocer los temas a incluir en una planificación para Ciencia Abierta y definir un plan de Ciencia Abierta y Gestión de Datos (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP).
-- Describir las distintas partes del flujo de un trabajo científico y cómo la Ciencia Abierta puede integrarse a él.
-- Diferenciar ejemplos del mundo real sobre cómo un equipo puede practicar Ciencia Abierta.
-- Enumerar cuatro pasos que cualquiera puede tomar para tener un enfoque más abierto.
+- Enumerar consideraciones que se deben incluir al planificar la Ciencia Abierta y definir un plan de Ciencia Abierta y gestión de datos (Open Science and Data Management Plan, OSDMP).
+- Describir las diferentes partes del flujo de trabajo científico y la forma en que la Ciencia Abierta puede integrarse en cada una.
+- Diferenciar ejemplos del mundo real acerca de cómo un equipo puede usar la Ciencia Abierta.
+- Enumerar cuatro pasos que cualquier persona puede dar para trabajar de manera más abierta.
 
 ## Planificar para la Ciencia Abierta
 
-<img src="../images/media/image329_es.png" style="width: 100%; height: auto;" />
+[IMG: https://drive.google.com/file/d/1Nnra3ymtRHQ6Y7gAjBzzh1wQMPfNWFao/view?usp=drive_link]
 
-Es importante pensar, discutir y planificar los productos y procesos deseados desde al comenzar tu investigación. Identifica y contacta cuáles son los mejores repositorios para tus materiales, discute sobre créditos y autorías para cada uno de los productos y comienza a usar herramientas de Ciencia Abierta para organizar tu trabajo. Ponte en contacto con repositorios de tu disciplina e institución (como la biblioteca) en caso de que necesites ayuda. Si incluyes esta información en tus planes tendrás más probabilidades de recibir fondos.
+Es importante pensar, conversar y planificar los resultados y procesos deseados desde el momento en que se comienza una investigación. Conviene conocer cuáles son los mejores repositorios para los materiales que se generarán, conversar sobre el crédito y la autoría de cada uno de los productos abiertos del proyecto y comenzar a utilizar herramientas de Ciencia Abierta para organizar el trabajo. En esta etapa, también se recomienda contactar repositorios de la propia disciplina y de la propia institución (a menudo administrados desde la biblioteca) para pedir ayuda. Incluir esta información en los planes de trabajo aumenta la probabilidad de obtener financiación.
 
-Planificar con anticipación los productos de tu trabajo implica:
+Planificar los productos con anticipación incluye:
 
-- Hablar sobre estos productos y organizarlos con tu grupo de investigación
-- Decidir qué herramientas usar
-- Pensar en autorías y créditos
-- Ponerse en contacto con las partes interesadas y equipos de investigación relevantes para la Ciencia Abierta como, por ejemplo, la industria
-- Identificar repositorios de software y de datos
-- Identificar revistas (u otros medios) para publicaciones
-- Resaltar estos enfoques en tus presentaciones de subvención y mucho más
+- Conversar sobre el tema y organizarse con el equipo de investigación.
+- Decidir qué herramientas se van a utilizar.
+- Pensar en la autoría y el crédito.
+- Involucrar a las partes interesadas y a los socios de investigación relevantes (por ejemplo, organizaciones del sector productivo, en relación con la Ciencia Abierta).
+- Identificar repositorios para código y datos.
+- Identificar revistas (u otros canales) para las publicaciones.
+- Destacar estos enfoques en las propuestas de financiación y mucho más.
 
-A fines prácticos, existe una fase exploratoria en la que compartir el producto puede no formar parte de tu plan. Durante la investigación activa y exploración de datos, es posible que se creen y eliminen datos, código e ideas cotidianamente. Tal vez no sea eficiente dedicar tiempo a hacer que todos estos materiales sean completamente abiertos (por ejemplo, crear DOIs o escribir documentación) porque sólo estás explorando. Aún así, puedes decidir publicar tu código a través de este proceso ya que, si de cualquier manera éste debe estar en un repositorio con control de versiones, no hace daño que sea público. Parte de esta planificación consiste en empezar a pensar qué sería valioso para la ciencia y descubrir la mejor manera de compartirlo.
+En la práctica, suele existir una etapa exploratoria en la que compartir los productos de investigación puede no formar parte del plan inicial. Durante la investigación activa y la exploración de datos pueden crearse y eliminarse datos, código e ideas incluso a diario. Puede no ser eficiente dedicar tiempo a que todo esto sea completamente abierto (por ejemplo, creando DOI o documentación) porque se trata de una etapa de exploración. Aun así, puede ser una buena decisión hacer público el código durante este proceso (de todas formas debería estar en algún sistema de control de versiones, y no hay desventaja en hacerlo público). Parte de esta planificación implica comenzar a pensar qué aspectos del trabajo podrían resultar valiosos para la ciencia y de qué manera se podrían compartir.
 
-Es importante discutir regularmente sobre Ciencia Abierta con tu equipo de investigación, laboratorio o grupo de trabajo. Puede parecer que gran parte de la Ciencia Abierta responsable está relacionada a los productos, como datos, software o publicaciones; pero preparar y organizar el trabajo con anticipación es un proceso clave. Es mucho más difícil aplicar las buenas prácticas de la Ciencia Abierta al final de una investigación, reorganizando los productos cuando ya están terminados. La Ciencia Abierta es tanto una mentalidad como una cultura que empieza junto con tu proyecto.
+Es importante dialogar sobre Ciencia Abierta de manera regular con el equipo de investigación, el laboratorio, el grupo o los socios del proyecto. Mucho de lo relacionado con la responsabilidad en la Ciencia Abierta puede parecer vinculado únicamente con los productos finales (como los datos, el código o las publicaciones), pero la preparación y organización previa de estos materiales es fundamental. Resulta mucho más difícil seguir las prácticas recomendadas si se intenta hacer todo al final de la investigación, en modo “después vemos”. La Ciencia Abierta es al mismo tiempo una forma de pensar y una cultura de trabajo que comienza desde el inicio del proyecto.
 
-### Planes de Ciencia Abierta y Gestión de Datos
+### Planes de Ciencia Abierta y gestión de datos
 
-Los organismos de financiamiento y patrocinadores consideran que la gestión de los datos es crucial para la Ciencia Abierta porque asegura que los datos de la investigación están bien organizados, accesibles y preservados. Durante los últimos años, muchos han incluido un Plan de Ciencia Abierta y Gestión de Datos (PCAGD) como requerimiento para las presentaciones de proyectos. El PCAGD incluye una descripción de los recursos que se van a utilizar, los productos que se van a crear, cómo se compartirán y quién/quiénes serán las personas responsables. Estos planes pueden incluir datos, software, publicaciones y proyectos de gobernanza.
+Las agencias gubernamentales y los organismos financiadores consideran que la gestión de datos es fundamental para la Ciencia Abierta, ya que permite que los datos de investigación estén bien organizados, sean accesibles y se conserven a lo largo del tiempo. En los últimos años, muchas de estas instituciones incluyeron el Plan de Ciencia Abierta y Gestión de Datos (Open Science and Data Management Plan, OSDMP) como requisito de las propuestas o planes de proyecto.
 
-Los planes de Ciencia Abierta y Gestión de Datos son esenciales porque mejoran la credibilidad y reproducibilidad de la investigación al garantizar que los datos están bien documentados, organizados y preservados en el tiempo. Los PCAGD bien hechos pueden traer beneficios como:
+Si bien el Plan de Ciencia Abierta y Gestión de Datos puede sonar muy similar a un plan de gestión de datos tradicional (Data Management Plan, DMP), como es de esperar incorpora componentes que van más allá del alcance de un DMP clásico. Además de datos, estos planes pueden incluir el código y el software del proyecto, las publicaciones y aspectos de gobernanza del proyecto, a menudo con un énfasis mucho mayor en cómo se compartirán estos productos con otros equipos de investigación y con el público. El OSDMP incluye una descripción de los recursos a utilizar, los productos que se crearán, el modo en que se compartirán y quién será responsable de cada parte del proceso. Los OSDMP suelen presentarse como una sección dentro del paquete de propuesta que describe cómo se planifica gestionar y entregar todos los productos de investigación de la forma más abierta y públicamente disponible posible.
+
+Los Planes de Ciencia Abierta y Gestión de Datos son esenciales porque mejoran la credibilidad y la reproducibilidad de la investigación al asegurar que los datos, el código y otros productos de investigación estén bien documentados, organizados y preservados a lo largo del tiempo. Los OSDMP bien diseñados pueden producir los siguientes beneficios:
 
 <table>
 <colgroup>
@@ -57,149 +59,152 @@ Los planes de Ciencia Abierta y Gestión de Datos son esenciales porque mejoran 
 <tbody>
     <tr>
         <td>Transparencia</td>
-        <td>No sólo genera confianza en los descubrimientos científicos, sino que también permite que otras personas que investigan los validen y construyan sobre ellos, fomentando una cultura de apertura y cooperación.</td>
+        <td>Genera confianza en los resultados científicos y también permite que otras personas investigadoras validen y construyan sobre esos resultados, favoreciendo una cultura de apertura y cooperación.</td>
     </tr>
     <tr>
-        <td>Eficiencia</td>
-        <td>La gestión de datos puede llevar a procesos de investigación más eficientes y económicamente eficaces. Al reducir el tiempo que se gasta en buscar y organizar los datos, las personas que investigan pueden dedicar más tiempo al análisis e interpretación, acelerando potencialmente el ritmo de descubrimiento e innovación.</td>
+        <td>Eficacia</td>
+        <td>Una buena gestión de datos puede dar lugar a procesos de investigación más eficientes y rentables. Al reducir el tiempo dedicado a buscar y organizar datos, se puede dedicar más tiempo al análisis y la interpretación, lo que potencialmente acelera el ritmo de los descubrimientos y la innovación.</td>
     </tr>
     <tr>
         <td>Reproducibilidad</td>
-        <td>Un principio clave del método científico es la reproducibilidad y un PCAGD bien desarrollado facilita que otras personas puedan validar tus resultados.</td>
+        <td>La reproducibilidad es un principio clave del método científico. Un OSDMP bien desarrollado ayuda a garantizar que otras personas puedan validar los resultados.</td>
     </tr>
     <tr>
         <td>Preservación</td>
-        <td>La investigación producida por fondos públicos representa una gran inversión y es importante que esa investigación se conserve para que las generaciones futuras puedan acceder a ella y comprenderla.</td>
+        <td>La investigación producida gracias a la financiación pública representa una inversión significativa y es importante que se conserve para que futuras generaciones puedan acceder a ella y comprenderla.</td>
     </tr>
     <tr>
-        <td>Inclusividad</td>
-        <td>Los PCAGD pueden incluir herramientas y procesos que mejoren significativamente los productos de la investigación a través de colaboraciones y asesorías.</td>
+        <td>Calidad</td>
+        <td>Los OSDMP pueden incluir herramientas de investigación y procesos que mejoran de manera significativa los resultados de la investigación a través de la colaboración y la consulta.</td>
     </tr>
 </tbody>
 </table>
 
-Aprende más sobre los PCAGD en el Módulo 2.
+Los OSDMP se explorarán con mayor detalle en los siguientes módulos.
 
 ### Una estrategia abierta
 
-Hoy en día, cada vez son más las fundaciones y agencias que esperan que las propuestas para subsidios de investigación incluyan una estrategia de Ciencia Abierta. Al incluir un documento de estrategia de Ciencia Abierta en tu proyecto, aseguras la accesibilidad y apertura en cada paso de tu flujo de trabajo. Concluye tu plan integral con pasos claros para que tus productos de investigación se encuentren fácilmente accesibles y abiertamente disponibles. Los pasos definidos en tu estrategia deberían estar integrados en tus procesos y prácticas científicas cotidianas.
+No todas las convocatorias exigirán un OSDMP completo. Incluso cuando no se requiera un OSDMP formal, las agencias financiadoras y las fundaciones suelen esperar que las propuestas incluyan una estrategia de Ciencia Abierta. Al incluir una estrategia de Ciencia Abierta en el plan científico, se promueve que cada paso del flujo de trabajo sea accesible y abierto. La idea es concluir el plan general con pasos claramente definidos para que los productos de investigación sean fácilmente accesibles y abiertamente disponibles. Estos pasos identificados en la estrategia deben integrarse en los procesos y prácticas científicas cotidianas.
 
-#### Requerimientos
+#### Abordar los requisitos
 
-Todas las importantes fundaciones de investigación y agencias gubernamentales actualmente requieren que las personas solicitantes envíen un Plan de Gestión de Datos (PGD) junto con su proyecto científico y plan de investigación. Algunas piden detalles adicionales sobre software/código y publicaciones.
+Todas las grandes fundaciones de investigación y las principales agencias gubernamentales requieren actualmente que quienes presentan propuestas científicas acompañen el plan de investigación con un plan de gestión de datos (DMP). Algunas piden detalles adicionales sobre software o código y sobre publicaciones. En la estrategia de Ciencia Abierta es importante asegurarse de abordar todos los requisitos de las agencias financiadoras.
 
-#### Incluye detalles de los flujos de trabajo de datos en el plan
+#### Incluir en el plan el flujo de trabajo completo de datos
 
-Describe tu gestión de flujo de trabajo para datos e investigación relacionada. Otros elementos, como el código o una publicación, tienen su propio ciclo de vida y flujo de trabajo que debe estar presente en el plan.
+Es importante describir el flujo de trabajo de gestión de datos y de la investigación relacionada. Otros elementos, como el código o las publicaciones, tienen su propio ciclo de vida y su propio flujo de trabajo, que también deben formar parte del plan.
 
-#### Incluye terminología y conceptos abiertos
+#### Incluir terminología y conceptos de apertura
 
-Los planes exitosos típicamente incluyen terminología clara sobre cómo la información se hace fácil de encontrar, accesible, interoperable y reusable. Esto puede incluir licencias, repositorios, formatos y la gobernanza del proyecto.
+Los planes que suelen tener éxito incluyen terminología clara sobre la forma en la que la información se vuelve localizable, accesible, interoperable y reutilizable. Esto puede abarcar licencias, repositorios, formatos y aspectos de gobernanza del proyecto.
 
 #### Preservación
 
-Los materiales de investigación son valiosos y reutilizables por un largo período de tiempo luego de que el apoyo financiero del proyecto termina. La reutilización puede extenderse más allá de nuestra vida. Por lo tanto, las personas que investigan deben tomar medidas para la conservación y accesibilidad que aseguren que el trabajo no se pierda cuando termine la investigación.
+Los materiales de investigación son valiosos y reutilizables mucho tiempo después de que finalice la financiación del proyecto. Su reutilización puede extenderse incluso más allá de la vida de quienes los producen. Por lo tanto, es necesario que se definan pasos de preservación y acceso que aseguren que el trabajo no se pierda cuando termina la interacción original de investigación.
 
 ## Diseñar para la apertura
 
-### La Ciencia Abierta aplica a todo el flujo de trabajo
+### La Ciencia Abierta se aplica a todo el flujo de trabajo
 
-<img src="../images/media/image402_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image402.jpg" style="width: 100%; height: auto;" />
 
-Fuente: Fases del flujo de trabajo de la Ciencia Abierta, OpenSciency
-
----
-
-Independientemente de tu disciplina científica o de la metodología que utilices, el flujo de trabajo sigue siendo relativamente el mismo. Cuenta con una fase de planificación, una fase de implementación y una fase de lanzamiento. Dentro de estas fases, hay hitos que varían en función del flujo de trabajo que sigas. Para el propósito de nuestra discusión en esta lección, y los otros módulos en este programa, hemos adoptado el flujo de trabajo científico con hitos generales descritos en el programa de [OpenSciency](https://opensciency.github.io/sprint-content/). Los detalles de tu flujo de trabajo pueden variar, pero los conceptos generales son los mismos. Lo importante aquí es que cuando se adopta la Ciencia Abierta, ésta impregna todas las etapas del flujo de trabajo. Te preparas para ello en la fase de planificación, pero luego continúa integrando los principios de la misma a lo largo de las fases de implementación y de lanzamiento.
-
-Los productos creados a lo largo del proceso científico son necesarios para que otras personas puedan reproducir los hallazgos. Quienes investigan y deseen hacer que sus resultados sean reproducibles deben poner los elementos clave de su estudio abiertamente a disposición de los demás.
-
-<img src="../images/media/image130_es.png" style="width: 100%; height: auto;" />
-
-Fuente: Fases del flujo de trabajo de la Ciencia Abierta, OpenSciency
+Flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
 
 ---
 
-Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los tipos de productos científicos que son creados en cada hito. Los productos especializados que crees pueden variar o ser completamente diferentes, pero el foco en el descubrimiento para el público sigue siendo el mismo. Cualquier tipo de productos que crees puede ser modificado para apoyar los principios y los conceptos de la Ciencia Abierta. El propósito del plan de estudios de esta Introducción a la Ciencia Abierta es identificar dónde y cómo integrar conceptos de Ciencia Abierta en tus productos.
+Independientemente de la disciplina científica o de la metodología utilizada, el flujo de trabajo sigue una estructura relativamente similar. Incluye una fase de planificación, una fase de implementación y una fase de difusión. Dentro de estas fases, existen hitos que varían según el flujo de trabajo específico que se siga.
+
+Para el propósito de esta lección y del resto de los módulos del plan de estudios, se adopta un flujo de trabajo científico con hitos generales, como se describe en el plan de estudios de [Opensciency](https://opensciency.github.io/sprint-content/) (enlace externo). Los detalles concretos de cada flujo de trabajo pueden variar, pero los conceptos generales son los mismos. Lo relevante aquí es que, al adoptar la Ciencia Abierta, esta atraviesa todas las fases del flujo de trabajo. Se comienza a prepararla en la fase de planificación y se continúan integrando sus principios en las fases de implementación y de difusión.
+
+Los productos que se generan a lo largo del proceso científico son necesarios para que otras personas puedan reproducir los hallazgos. Quienes deseen que sus resultados sean reproducibles deben poner a disposición de las demás personas elementos clave de su estudio de manera abierta para que puedan ser probados por otros equipos.
+
+<img src="../images/media/image130.jpg" style="width: 100%; height: auto;" />
+
+Productos del flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
+
+---
+
+Si se continúa recorriendo el flujo de trabajo, en este diagrama actualizado se muestran ahora los tipos de productos científicos que se crean en cada hito. Los productos especializados que se generen en cada caso pueden variar o ser completamente diferentes, pero la atención en el descubrimiento al servicio del público se mantiene. Cualquier tipo de producto que se genere puede adaptarse para que cumpla con los principios y conceptos de la Ciencia Abierta. La finalidad de este curso Open Science 101 es justamente mostrar dónde y cómo integrar los conceptos de Ciencia Abierta en cada producto.
 
 ### Usar, Hacer, Compartir
 
-<img src="../images/media/image165_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image165.png" style="width: 100%; height: auto;" />
 
-La idea de que la Ciencia Abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable pero recuerda, la Ciencia Abierta se da a través de todo un espectro –incluso los pequeños pasos hacia la apertura conducen a una ciencia más accesible, inclusiva y reproducible. Y el plan de estudios de Introducción a la Ciencia Abierta está aquí para ayudarte a atravesar este proceso.
+La idea de que la Ciencia Abierta puede influir en todo el flujo de trabajo científico puede parecer abrumadora y difícil de alcanzar, pero es importante recordar que la Ciencia Abierta ocurre a lo largo de un espectro. Incluso los pasos pequeños hacia la apertura pueden conducir a una ciencia más accesible, transparente y reproducible. El plan de estudios Open Science 101 está diseñado para acompañar ese proceso.
 
-En esta sección, presentamos el sistema "Usar, Hacer, Compartir" que puede empezar a aumentar gradualmente tu adopción de la Ciencia Abierta dependiendo de la naturaleza y el alcance de tu proyecto. ¡A lo largo del curso exploraremos cómo puede ser utilizado este marco de trabajo para hacer tu ciencia más abierta!
+En esta sección se presenta el marco “Usar, Hacer, Compartir”, que permite incrementar gradualmente la adopción de la Ciencia Abierta según la naturaleza y el alcance de cada proyecto. A lo largo del curso se explorará cómo utilizar este marco para hacer que el trabajo científico sea más abierto.
 
-### ¿Qué recursos utilizarás?
+### ¿Qué recursos vas a usar?
 
-¡Ya existen muchos recursos de Ciencia Abierta para que los utilices! La Ciencia Abierta cuenta ya con una larga historia. Por ejemplo, la ley que creó la NASA estipula que debe compartir sus descubrimientos con toda la humanidad y la NASA ha estado compartiendo sus datos abiertamente en Internet desde la década de 1980. Ahora, ya hay más de 100 Petabytes de datos de la NASA abiertamente disponibles para que busques, descargues, y utilices, y ejemplos de estos servicios se proporcionan en el Módulo 3. Se han desarrollado tecnologías y prácticas alrededor del código que facilitan la colaboración en la construcción de soluciones complejas, cuyos ejemplos se verán en el Módulo 4. Una serie de servicios facilitan el intercambio y el descubrimiento de publicaciones con acceso abierto, que son discutidos en el Módulo 5.
+Ya existen muchos recursos abiertos de Ciencia Abierta que se pueden utilizar desde ahora. La Ciencia Abierta tiene una historia extensa. Por ejemplo, la ley que creó la NASA incorporó el mandato de compartir sus descubrimientos con toda la humanidad. Además, la NASA ha estado compartiendo sus datos de manera abierta en internet desde la década de 1980. En la actualidad, hay más de 100 petabytes de datos de la NASA disponibles de forma abierta para buscar, descargar y usar. Más adelante, en el Módulo 3, se brindan ejemplos de estos servicios. También se han desarrollado tecnologías y prácticas en torno al código, que facilitan la colaboración en la construcción de soluciones complejas. El Módulo 4 presenta más ejemplos de esto. Finalmente, existe un conjunto de servicios que facilitan compartir y descubrir publicaciones de acceso abierto, tema que se abordará en el Módulo 5.
 
-En el Módulo 2, te presentaremos algunas de las herramientas que no sólo hacen posible la Ciencia Abierta, sino que también son fáciles de utilizar.
+En el Módulo 2 se presentarán algunas de las herramientas que no solo hacen posible la Ciencia Abierta, sino que además la vuelven más sencilla.
 
-### ¿Qué resultados obtendrás?
+### ¿Qué productos vas a hacer?
 
-A lo largo del proceso de investigación, habrá diferentes productos y resultados obtenidos. Estos pueden ir desde conjuntos de datos, muestras, código, informes, manuscritos, actas de conferencia, entradas de blog y videos. Cada uno de ellos tiene diferentes consideraciones sobre cómo crearlos incluyendo cómo pueden hacerse de formas abiertas y colaborativas.
+A lo largo de un proceso de investigación se generan distintos productos y resultados. Estos incluyen conjuntos de datos, muestras, código, informes, manuscritos, actas de congresos, entradas de blog y videos, entre otros. Cada uno de estos productos conlleva diferentes consideraciones sobre cómo se construyen, incluyendo de qué manera se pueden hacer en forma abierta y colaborativa.
 
-También hay diferentes maneras de dirigir un proyecto científico. ¿Tu proyecto va a ser abierto desde el comienzo o abierto en la publicación? Hay razones válidas para ambas aproximaciones, pero generalmente mientras antes abras los datos, el código y los resultados, más oportunidades tendrás  para hacer crecer las redes de colaboración y construir con otras personas (lo que es bastante divertido). A menudo los investigadores eligen ser abiertos dentro de sus equipos de proyecto durante el desarrollo, el intercambio de datos, el código, y los resultados, pero sólo abren el proyecto al mundo una vez que sienten que tienen un resultado en el que pueden confiar. Si bien este enfoque ha sido la “norma” cultural en muchas comunidades, esto está cambiando a medida que los grupos se sienten más cómodos con la apertura temprana en los proyectos y obtienen contribuciones valiosas de otras personas, y se construyen nuevas redes de colaboración.
+También existen diferentes formas de organizar un proyecto científico. En algunos casos, el proyecto será abierto desde su inicio. En otros, la apertura recién se concreta en el momento de la publicación. Hay razones válidas para ambos enfoques. Sin embargo, en general, cuanto más temprano se comparten los datos, el código y los resultados, más oportunidades existen de ampliar las redes de colaboración y construir junto con otras personas, lo cual suele ser muy enriquecedor. A menudo, quienes investigan optan por trabajar de forma abierta dentro de sus equipos de proyecto durante la etapa de desarrollo (compartiendo datos, código y resultados), pero recién comparten con el resto del mundo cuando sienten que cuentan con un resultado en el que confían. Este enfoque ha sido una “norma” cultural en muchas comunidades, aunque está cambiando a medida que los grupos se sienten más cómodos con la apertura temprana de sus proyectos y experimentan contribuciones valiosas de otras personas, así como la construcción de nuevas redes de colaboración.
 
-Los módulos 3, 4 y 5 abordarán cómo generar tus datos, código y resultados abiertos.
+Los Módulos 3, 4 y 5 abordarán cómo abrir los datos, el código y los resultados.
 
 ### ¿Cómo vas a compartir?
 
-<img src="../images/media/image257_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image257.png" style="width: 100%; height: auto;" />
 
 Crédito de la imagen: Freepik.com
 
-El lugar que elijas para compartir tus materiales y tus resultados de investigación tendrá una gran influencia en su impacto en qué tan fácil será para los demás encontrarlo, cuánto tiempo estará disponible, y lo fácil que será reutilizarlo.
+El lugar donde se elija compartir los materiales y los resultados de la investigación influirá en gran medida en el impacto del trabajo, es decir, en cuán fácil será para otras personas encontrarlo, durante cuánto tiempo estará disponible y qué tan sencillo será reutilizarlo.
 
-¿Compartirás datos en un archivo lleno de columnas con números no etiquetados sin ninguna unidad o explicación o, en cambio, estará en un formato abierto y estándar, y siguiendo los [principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reusable)](https://www.go-fair.org/fair-principles/)? El Módulo 3 cuenta con más detalles para ayudarte a entender mejor cómo compartir tus datos y explica las ideas como FAIR, y buenas prácticas a la hora de compartir datos. Esto incluye diferentes consideraciones sobre dónde compartir tus datos, así como la manera de hacerlos accesibles y preservarlos.
+Por ejemplo, es posible compartir datos en un archivo que contenga columnas de números sin etiquetas, sin unidades y sin explicación. También es posible compartir esos datos en un formato abierto y estándar, siguiendo los principios de [información localizable, accesible, interoperable y reutilizable (FAIR, por sus siglas en inglés)](https://www.go-fair.org/fair-principles/). El Módulo 3 ofrece más detalles para comprender mejor cómo compartir datos y explica conceptos como FAIR y las prácticas recomendadas en materia de difusión de datos. Esto incluye diferentes consideraciones sobre el tipo de repositorio al que se subirán los datos para que sean accesibles y se conserven a largo plazo.
 
-En el caso del software, ya que a menudo se actualiza y modifica, quienes investigan lo comparten primero en una plataforma con control de versiones como GitHub o GitLab, pero luego archivan una versión de la misma en un repositorio que tiene capacidades de preservación a largo plazo. ¡Aprende más sobre esto en el Módulo 4!
+En cuanto al código y el software, dado que a menudo se actualizan y modifican, muchas personas primero los comparten en una plataforma de control de versiones, como GitHub o GitLab, y luego archivan una versión en un repositorio con capacidades de preservación a largo plazo. Este tema se desarrollará con mayor detalle en el Módulo 4.
 
-En el caso de los resultados, las publicaciones de Acceso Abierto y los servidores de preimpresiones (_preprints_) son lugares comunes para compartirlos. El Módulo 5 aborda todas estas opciones.
+En relación con los resultados, las publicaciones de acceso abierto y los servidores de preprints (preimpresiones) son lugares habituales para compartir. El Módulo 5 presenta todas estas opciones.
 
 ### Actividad 5.1: Usar, Hacer, Compartir
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
-Tómate un momento para responder las siguientes preguntas sobre tu investigación actual o sobre la investigación que te gustaría hacer:
+Se propone dedicar un momento a responder las siguientes preguntas tomando como referencia una investigación en curso o bien una investigación que se desea realizar:
 
-- ¿Qué datos, software o publicaciones utilizas actualmente o desearías utilizar? ¿Son abiertos o cerrados?
-- ¿Cuáles son las herramientas y los procesos que actualmente utilizas? ¿Es fácil incluir a otras personas en la colaboración?
-- ¿Cómo se comparte o se planea compartir tu trabajo? ¿Puede alguien acceder a tus resultados?
+- ¿Qué datos, código o publicaciones se utilizan actualmente o se quisiera utilizar? ¿Son abiertos o cerrados?
+- ¿Qué herramientas y procesos se utilizan en este momento? ¿Resulta fácil incluir a otras personas en la colaboración?
+- ¿De qué manera se comparte el trabajo o cómo se piensa compartirlo? ¿Cualquier persona podría acceder a los resultados?
 
-## Caso de estudio: Los resultados de un Plan Abierto
+## Estudio de caso: resultados de un plan abierto
 
-<img style="width:100%;height:auto;" src="../images/media/natashaquote_es.jpg">
+<img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
 
-"Las pautas de la Ciencia Abierta de la NASA están centradas en nuestro trabajo de Ciencia de Temprana Liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo."
+“Los principios rectores de la Ciencia Abierta de la NASA son el eje de nuestro trabajo de Early Release Science, que apoya un proceso científico inclusivo, transparente y colaborativo.”
 
 **Coautora Dra. Natasha Batalha**
 
+Crédito de la imagen: modificado por la NASA a partir de “Unrecognizable chemist taking liquid with pipette from test tube in modern laboratory” de RF..studio vía [Pexels](https://www.pexels.com/) (enlace externo)
+
 ---
 
-Uno de los primeros [descubrimientos del telescopio espacial James Webb (JWST, por sus siglas en inglés) fue la primera detección de dióxido de carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://ciencia.nasa.gov/universo/webb-de-la-nasa-detecta-dioxido-de-carbono-en-atmosfera-de-exoplaneta/). Este descubrimiento fue posible gracias a los principios de la Ciencia Abierta adoptados tanto por el proyecto como por el equipo.
+Uno de los primeros descubrimientos del Telescopio Espacial James Webb (JWST, por sus siglas en inglés) fue la [primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento se hizo posible gracias a la adopción de principios de Ciencia Abierta tanto por parte del proyecto como del equipo de investigación.
 
-<img src="../images/media/image255_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
 
-Crédito de la imagen: @AdobeStock 2023, dimazel
+Crédito de la imagen: NASA's Goddard Space Flight Center Conceptual Image Lab
 
-<img src="../images/media/atmocomp_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/atmocomp.jpg" style="width: 100%; height: auto;" />
 
 Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
 ---
 
-Esto se llevó a cabo como parte del Programa de Ciencia de Liberación Temprana (ERS) del JWST como parte del programa de la Comunidad de Exoplanetas en Tránsito del JWST ERS (ERS-TRANSIT). Se trata de algunos de los primeros datos científicos que se tomaron con esta instalación y que se hicieron disponibles de forma abierta. Sin embargo, el equipo comenzó su trabajo años antes de las observaciones e incluyó la Ciencia Abierta en cada etapa del proceso. El equipo trabajó en un formato abierto desde la ideación hasta el análisis, pasando por la publicación y la comunicación.
+Este trabajo se realizó como parte del programa de Early Release Science (ERS) del JWST, específicamente en el marco del programa de la comunidad de exoplanetas en tránsito (JWST ERS Exoplanet Transiting Community program, ERS-TRANSIT). Se trató de algunos de los primeros datos científicos obtenidos por el JWST que se pusieron a disposición de manera abierta. Sin embargo, el equipo comenzó este trabajo varios años antes de las observaciones e integró la Ciencia Abierta en cada paso del proceso. El equipo trabajó en un formato abierto desde la fase de ideación hasta el análisis, y continuó haciéndolo durante la etapa de publicación y de comunicación de los resultados.
 
-Veamos qué resultados abiertos fueron producidos y, mientras lo hacemos, echemos un vistazo a las ventajas de hacerlo en cada etapa.
+A continuación se presenta un recorrido por los resultados abiertos que se produjeron. Al mismo tiempo, se analizan las ventajas de haber adoptado este enfoque en cada etapa.
 
-### Planificar para hacer Ciencia Abierta
+### Planificación para la Ciencia Abierta
 
-<img src="../images/media/image193_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image193.png" style="width: 100%; height: auto;" />
 
 <table>
-    <table>
     <colgroup>
         <col style="width: 50%" />
         <col style="width: 50%" />
@@ -207,47 +212,46 @@ Veamos qué resultados abiertos fueron producidos y, mientras lo hacemos, echemo
     <tbody>
         <tr>
             <td>Oportunidad</td>
-            <td>Crear un plan de "gobernanza": Un código abierto de conducta y una política de publicación que resalten las reglas del compromiso con el resultado final.</td>
+            <td>Crear un Plan de Gobernanza: un código de conducta abierto y una política de publicaciones que destaquen las reglas de participación para los resultados finales.</td>
         </tr>
         <tr>
             <td>Beneficio</td>
-            <td>Incorporación de nuevos miembros y facilitación de la colaboración.</td>
+            <td>Facilitar la incorporación de nuevas personas al equipo y la colaboración dentro del grupo.</td>
         </tr>
         <tr>
             <td>Resultado</td>
-            <td>Código de conducta y política de publicación.</td>
+            <td>Código de conducta y política de publicaciones.</td>
         </tr>
         <tr>
             <td>Disponibilidad</td>
             <td>
-                <p>En la página web del equipo y GitHub.</p>
-                <p><img src="../images/media/image219_es.jpg" style="width: 100%; height: auto;" /></p>
-                <p>La imagen muestra la política de publicación del Programa en su versión 1.0 de marzo de 2018. Se indica que todas las personas que integran el Programa están sujetas a esta política. A su vez la política aplica a las actividades núcleo del Programa, que detallan más abajo pero no forman parte de la imagen</p>
+                <p>En la página del equipo y en GitHub.</p>
+                <p><img src="../images/media/image219.jpg" style="width: 100%; height: auto;" /> The JWST Transiting Exoplanet Community Early Release Science Program Publication Policy [captura de pantalla]. (2023). GitHub. [https://ers-transit.github.io/documents/publication-policy-v1.0.pdf](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf) (enlace externo)</p>
             </td>
         </tr>
     </tbody>
 </table>
 
-Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quienes van a trabajar en él y cómo trabajarán juntos. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código, ¿cómo trabajarán todos juntos, cuáles serán los roles y responsabilidades, y cómo y cuándo se compartirán los materiales?. Esa fue una parte clave en la que este proyecto del JWST acertó.
+Uno de los aspectos más importantes al comenzar un proyecto es pensar quiénes participarán. También es necesario decidir cómo funcionará el equipo. Antes de recolectar muestras, antes de descargar datos, antes de escribir código, conviene responder algunas preguntas clave: ¿Cómo se trabajará en conjunto? ¿Cuáles serán los roles y las responsabilidades de cada integrante del equipo? ¿Cómo y cuándo se compartirán los materiales? Estas fueron algunas de las preguntas que el proyecto del JWST abordó de manera acertada.
 
-El equipo inicial, durante la fase de planificación, desarrolló y publicó abiertamente información en forma de [código de conducta](https://ers-transit.github.io/code-of-conduct.html) y [política de publicación](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
+En la fase de planificación, el equipo inicial desarrolló y publicó de forma abierta documentos como el [código de conducta](https://ers-transit.github.io/code-of-conduct.html) y la [política de publicaciones](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
 
-Básicamente, puedes trabajar con este equipo, pero aquí están nuestras normas. Y luego las personas a cargo del proyecto hablaron de esto regularmente con el equipo, especialmente a medida que este se expandió, para que todo el mundo supiera lo que se esperaba de ellos y lo que obtendrían a cambio (¡crédito!).
+En términos simples, el equipo dio la bienvenida a otras personas que quisieran trabajar con ellos, pero al mismo tiempo indicó reglas claras. Luego, las personas líderes del proyecto conversaron de forma habitual sobre estas expectativas con el resto del equipo, especialmente a medida que el grupo se iba ampliando, para que todas las personas supieran qué se esperaba de ellas y qué obtenían a cambio (por ejemplo, crédito).
 
-El resultado y el beneficio de publicar esta información fue la incorporación de nuevos miembros al equipo y una cultura colaborativa e inclusiva acordada y establecida entre quienes participaron del equipo.
+El resultado y el beneficio de publicar esta información fue la incorporación de nuevas personas al equipo, junto con una filosofía de colaboración explícitamente acordada entre quienes participaban.
 
-El equipo creció hasta casi 400 personas, todas trabajando juntas, todas sabiendo qué esperar y esto creó confianza.
+El equipo creció hasta reunir casi 400 personas, que trabajaron juntas sabiendo qué esperar del proceso. Esto generó confianza.
 
-**Lee más sobre documentos de colaboración y reconocimiento de autoría en OpenSciency**
+**Más información sobre documentos de colaboración y asignación de crédito en OpenSciency.**
 
-[HAZ CLIC PARA APRENDER MÁS](https://opensciency.github.io/sprint-content/open-results/lesson4-opportunities-and-credits.html)
+OpenSciency en GitHub  
+[CLICK TO LEARN (ENLACE EXTERNO)](https://opensciency.github.io/sprint-content/open-results/lesson4-opportunities-and-credits.html)
 
-### Software de Código Abierto\*\*
+### Software de código abierto
 
-<img src="../images/media/image6_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image6.jpg" style="width: 100%; height: auto;" />
 
 <table>
-    <table>
     <colgroup>
         <col style="width: 50%" />
         <col style="width: 50%" />
@@ -255,40 +259,39 @@ El equipo creció hasta casi 400 personas, todas trabajando juntas, todas sabien
     <tbody>
         <tr>
             <td>Oportunidad</td>
-            <td>Colaboración en un ciclo de producción de Software Abierto para procesamiento de datos</td>
+            <td>Colaborar en una canalización (pipeline) abierta de procesamiento de datos.</td>
         </tr>
         <tr>
             <td>Beneficio</td>
-            <td>Disminución de esfuerzos duplicados, quienes colaboran reciben reconocimiento por su trabajo y se acelera el proceso de preparación de datos</td>
+            <td>Disminuir esfuerzos duplicados, reconocer a quienes contribuyen y acelerar los procesos de preparación y manejo de datos.</td>
         </tr>
         <tr>
-            <td>Resultados</td>
-            <td>Ciclo de procesamiento de datos</td>
+            <td>Resultado</td>
+            <td>Canalización de procesamiento de datos.</td>
         </tr>
         <tr>
             <td>Disponibilidad</td>
             <td>
-                <p>Código en <i>GitHub</i>, lanzamiento en <i>Zenodo</i>, documentos publicados en <i>Journal of Open Source Software</i> (una revista de acceso abierto)</p>
-                <p><img src="../images/media/image221_es.jpg" style="width: 100%; height: auto;" /></p>
-                <p>La imagen muestra la portada del artículo donde se muestran la revista, el título ("Eureka! Un flujo de procesamiento de punta a punta para las series temporales de las observaciones de JWST") y las autorías.</p>
+                <p>Código disponible en <i>GitHub</i>, versión publicada en <i>Zenodo</i> y documentación con revisión por pares en el <i>Journal of Open Source Software</i> (una revista de acceso abierto).</p>
+                <p><img src="../images/media/image221.jpg" style="width: 100%; height: auto;" /> Eureka!: An End-to-End Pipeline for JWST Time-Series Observations [captura de pantalla]. (2023). The Journal of Open Source Software. [https://joss.theoj.org/papers/10.21105/joss.04503](https://joss.theoj.org/papers/10.21105/joss.04503) (enlace externo)</p>
             </td>
         </tr>
     </tbody>
 </table>
 
-Como la mayoría de los datos, JWST es complicado y necesita procesamiento y ciclos de producción de datos. La precisión necesaria para lograr este tipo de detección requiere un análisis detallado de las observaciones y una amplia gama de conocimientos.
+Los datos del JWST son complejos y necesitan procesamiento mediante canalizaciones de datos. La precisión requerida para lograr este tipo de detección demanda un análisis detallado de las observaciones y un rango amplio de conocimientos especializados.
 
-Durante la fase de implementación, el equipo colaboró en la creación del software de procesamiento de datos, para que todas las personas se beneficiaran. Imagínate el esfuerzo malgastado si las 400 personas hubieran escrito el software ellas mismas por separado. El beneficio y el resultado fue que, gracias a este esfuerzo de colaboración, el equipo disminuyó los esfuerzos duplicados, quienes colaboraron obtuvieron crédito por su trabajo, el software fue más preciso, y se aceleró el proceso de generación de datos. ¡EUREKA!, el software fue [creado de forma abierta](https://github.com/kevin218/Eureka)
-con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado con una [revisión por pares del paquete de software.](https://joss.theoj.org/papers/10.21105/joss.04503)
+Durante la fase de implementación, el equipo colaboró en la creación del software de procesamiento de datos, de manera que todas las personas que participaban se beneficiaran de ese trabajo conjunto. Imaginar que las casi 400 personas hubieran tenido que escribir el software por separado ayuda a dimensionar el esfuerzo que se evitó al trabajar en colaboración.
 
-¡Pero no tuvieron que empezar de cero! El equipo ERS-TRANSIT fue capaz de construir sobre el trabajo de otras personas. El software construido con el [ciclo de procesamiento de software de JWST](https://github.com/spacetelescope/jwst) fue desarrollado de forma abierta por el equipo de la misión JWST. Además, fueron capaces de construir un ecosistema de software de código abierto mucho más grande usando Python y Astropy.
+El beneficio y el resultado fue que, al colaborar en este desarrollo, el equipo redujo esfuerzos duplicados, quienes colaboraron recibieron crédito por su trabajo, el software resultó más preciso y el esfuerzo conjunto aceleró el proceso de manejo de datos. El software resultante, [Eureka!](https://github.com/kevin218/Eureka) (enlace externo), se creó de forma abierta, acompañado de [documentación](https://eurekadocs.readthedocs.io/en/latest/) (enlace externo) y de una [publicación con revisión por pares del paquete de software](https://joss.theoj.org/papers/10.21105/joss.04503) (enlace externo).
 
-### Del Acceso Abierto a los resultados
+Además, el equipo no tuvo que empezar desde cero. El grupo de ERS-TRANSIT pudo construir sobre el trabajo de otros equipos. Eureka! se apoyó en el [software de canalización del JWST](https://github.com/spacetelescope/jwst) (enlace externo), desarrollado de forma abierta por el equipo de la misión JWST. A su vez, este trabajo se construyó sobre un ecosistema de software de código abierto aún más amplio basado en Python y Astropy.
 
-<img src="../images/media/image244_es.png" style="width: 100%; height: auto;" />
+### Acceso abierto a los resultados
+
+<img src="../images/media/image244.jpg" style="width: 100%; height: auto;" />
 
 <table>
-    <table>
     <colgroup>
         <col style="width: 50%" />
         <col style="width: 50%" />
@@ -296,218 +299,189 @@ con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado c
     <tbody>
         <tr>
             <td>Oportunidad</td>
-            <td>Productos de investigación registrados en archivos públicos y disponibles abiertamente</td>
+            <td>Registrar los productos de investigación en archivos públicos y ponerlos a disposición de manera abierta.</td>
         </tr>
         <tr>
-            <td>Beneficios</td>
-            <td>Permite que las personas colaboradoras reciban crédito individual por sus contribuciones, lo que proporciona un mayor incentivo para su participación</td>
+            <td>Beneficio</td>
+            <td>Permitir que las personas colaboradoras reciban crédito individual por sus contribuciones, lo que genera un incentivo adicional para participar.</td>
         </tr>
         <tr>
             <td>Resultado</td>
-            <td>Productos intermedios, modelos y datos finales</td>
+            <td>Productos intermedios, modelos y datos finales.</td>
         </tr>
         <tr>
             <td>Disponibilidad</td>
             <td>
-                <p>Todos recopilados en la <a href="https://zenodo.org/communities/ers-transit">Comunidad de Zenodo</a> con el reconocimiento a quienes contribuyeron y los DOIs</p>
-                <p><img src="../images/media/zenodojwst_es.png" style="width: 100%; height: auto;" /></p>
+                <p>Todo el material se reunió en la <a href="https://zenodo.org/communities/ers-transit">comunidad Zenodo</a> de ERS-TRANSIT, con personas autoras individuales y DOIs independientes.</p>
+                <p><img src="../images/media/zenodojwst.jpg" style="width: 100%; height: auto;" /> The JWST Transiting Exoplanet Community Early Release Science Program [captura de pantalla]. (2023). Zenodo. [https://zenodo.org/communities/ers-transit](https://zenodo.org/communities/ers-transit)</p>
             </td>
         </tr>
     </tbody>
 </table>
 
-Durante la fase de lanzamiento, el equipo etiquetó de forma adecuada productos de investigación para su reutilización y reproducibilidad, también se publicaron en foros y repositorios públicos. Los beneficios y resultados incluyeron que quienes colaboraron recibieran crédito por los datos, software y otros productos de investigación digital que benefician a la comunidad científica. Los datos y el software fueron archivados abiertamente en el repositorio general de datos [Zenodo](https://zenodo.org/communities/ers-transit) y la publicación quedó disponible como [preimpresión (_preprint_)](https://arxiv.org/abs/2208.11692) y en una [publicación de Acceso Abierto](https://www.nature.com/articles/s41586-022-05269-w).
+En la fase de difusión, el equipo etiquetó y describió adecuadamente los productos de investigación para su reutilización y reproducibilidad, para luego publicarlos en foros y repositorios públicos. El resultado y los beneficios incluyeron que quienes colaboraron obtuvieran crédito por los datos, el código, el software y otros productos digitales de investigación que resultan útiles para la comunidad científica.
 
-Al hacer que tus resultados estén disponibles de forma abierta, también accedes a formas más claras de obtener reconocimiento y puedes reducir el riesgo de apropiación (ya que cada resultado puede ser referenciado individualmente tan pronto como esté disponible). Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto como documentos de preparación, conjuntos de datos, software, y reportes permite a otras personas investigadoras probar y reutilizar tu trabajo en su investigación. De esta forma se citarán más a menudo tus investigaciones, aportando así un reconocimiento justo a tu trabajo. Las personas que colaboran pueden estar más motivados para contribuir porque pueden obtener fácilmente reconocimiento en términos de autoría por sus contribuciones hechas para cada uno de los resultados obtenidos en la investigación.
+Datos, código y software se archivaron de forma abierta en el repositorio general de datos [Zenodo](https://zenodo.org/communities/ers-transit) (enlace externo), mientras que la publicación estuvo disponible como [preimpresión](https://arxiv.org/abs/2208.11692) (enlace externo) y también como [artículo de acceso abierto](https://www.nature.com/articles/s41586-022-05269-w) (enlace externo).
 
-**Más información sobre cómo abrir los resultados a lo largo del proceso de investigación en OpenSciency**
+Hacer que los resultados sean abiertos también habilita formas más claras de recibir crédito y reduce el riesgo de adelantos o apropiaciones indebidas de resultados, ya que cada producto puede ser referenciado individualmente desde el momento en que se publica. Aplicar prácticas de reproducibilidad de manera separada a las distintas partes del proyecto (por ejemplo, documentos de planificación, conjuntos de datos, código, software y reportes) permite que otras personas investigadoras prueben y reutilicen el trabajo en sus propios estudios. Como resultado, es más probable que el trabajo sea citado con más frecuencia, lo que contribuye a un reconocimiento más justo. Quienes colaboran también pueden sentirse más motivados a contribuir si pueden obtener reconocimiento claro en términos de autoría por cada aporte que hacen a los productos de investigación.
 
-[HAZ CLIC PARA APRENDER MÁS](https://opensciency.github.io/sprint-content/open-results/lesson2-results-and-open-science.html#what-are-the-advantages-of-making-results-open-throughout-the-research-process)
+**Más información sobre cómo hacer resultados abiertos a lo largo del proceso de investigación en OpenSciency.**
 
-## Pasos para continuar tu viaje hacia la Ciencia Abierta
+OpenSciency en GitHub  
+[CLICK TO LEARN (ENLACE EXTERNO)](https://opensciency.github.io/sprint-content/open-results/lesson2-results-and-open-science.html#what-are-the-advantages-of-making-results-open-throughout-the-research-process)
 
-Aquí vamos a explorar los pasos hacia la Ciencia Abierta que todo el mundo puede dar. La idea de que la Ciencia Abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero no es así. Puedes comenzar lentamente y poco a poco aumentar su adopción en función de la naturaleza y el alcance de tu proyecto. Aquí hay algunas maneras para empezar a participar, de forma inmediata, en Ciencia Abierta.
+## Pasos para continuar tu recorrido en Ciencia Abierta
 
-### A dónde ir desde aquí
+En esta sección se exploran los próximos pasos en Ciencia Abierta que cualquier persona puede dar. La idea de que la Ciencia Abierta puede influir en todo el flujo de trabajo científico puede parecer abrumadora y poco realista, pero no es así. Es posible comenzar de forma gradual e ir incrementando la adopción de prácticas abiertas según la naturaleza y el alcance de cada proyecto. A continuación se presentan algunas maneras inmediatas de comenzar a participar en la Ciencia Abierta.
 
-- Participa: Forma parte de una comunidad científica abierta en tu disciplina o tema.
-- Empieza a usar/compartir las herramientas de Ciencia Abierta de tu comunidad.
-- Aprende cómo utilizar/archivar datos en repositorios, herramientas comunitarias y recursos.
-- Breve declaración del Ethos de la Ciencia Abierta: ¡Busca, colabora y comparte!
+### Dónde continuar a partir de aquí
 
-### Identifica tus comunidades de Ciencia Abierta
+- Participar activamente. Incorporarse a una comunidad de Ciencia Abierta en el propio ámbito de trabajo.
+- Empezar a usar y compartir las herramientas de Ciencia Abierta que utiliza la propia comunidad.
+- Aprender a usar y archivar datos en repositorios, herramientas comunitarias y otros recursos.
+- En resumen: buscar, colaborar y compartir.
 
-Estos son los pasos que puedes dar para encontrar tu propia comunidad científica:
+### Identificar tus comunidades de Ciencia Abierta
 
-- Habla con tus colegas.
-- Lee literatura de tu campo.
-- Realiza búsquedas en áreas generales y específicas de la disciplina.
-- Investiga comunidades en línea que fomentan la Ciencia Abierta, como:
-  - El programa "[Foster Open Science](https://openscience.eu/foster-open-science)" de la Unión Europea (en inglés),
-  - [El manual online "The Turing Way"](https://book.the-turing-way.org/) (en inglés),
-  - [FORRT](https://forrt.org/) (en inglés), 
-  - [MetaDocencia](https://www.metadocencia.org/) (en español).
+A continuación se enumeran algunos pasos para encontrar la propia comunidad científica:
 
-Únete a comunidades de Ciencia Abierta. Existen algunas genéricas como las listadas aquí, o puedes buscar comunidades que no sólo estén dentro de tu dominio sino también dentro de tu área geográfica.
+- Hablar con colegas.
+- Leer la bibliografía de la propia disciplina.
+- Realizar búsquedas, tanto generales como específicas de la disciplina.
+- Investigar comunidades en línea que promueven la Ciencia Abierta, como por ejemplo:
+  - El programa “[Foster Open Science](https://www.fosteropenscience.eu/)” de la Unión Europea.
+  - El manual en línea [The Turing Way](https://the-turing-way.netlify.app/index.html).
+  - [FORRT](https://forrt.org/).
 
-- [Tablero de discusión en GitHub sobre TOPS (en inglés)](https://github.com/nasa/Transform-to-Open-Science/discussions)
-- [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson5-open-science-communities.html#communities-of-practice-list): lista comunitaria en línea de recursos de Ciencia Abierta (en inglés).
+También es posible incorporarse a comunidades de Ciencia Abierta generales, como las que se listan aquí, o buscar comunidades específicas que se encuentren tanto dentro del propio campo como en la propia región geográfica.
 
-### Explora repositorios abiertos
+- Foro de discusión de la Open Science Framework: [Open Science Framework's discussion board](https://groups.google.com/g/openscienceframework?pli=1) (enlace externo).
+- Lista de comunidades de Ciencia Abierta de Opensciency: [community list](https://opensciency.github.io/sprint-content/open-tools-resources/lesson5-open-science-communities.html#communities-of-practice-list) (enlace externo).
 
-Existen muchos repositorios que albergan datos abiertos, software y resultados. Compartiremos muchos de estos recursos en módulos posteriores, pero aquí hay dos repositorios de NASA que te permiten buscar colecciones de datos existentes que pueden ser relevantes para tus intereses:
+### Explorar repositorios abiertos
 
-- Buscador de descubrimientos científicos ([_Science Discovery Engine_](http://science.data.nasa.gov/search))
+Existen muchos repositorios que alojan datos, código y resultados abiertos. En los módulos posteriores se comparten varios de estos recursos, pero aquí se presentan dos repositorios de la NASA que permiten buscar colecciones de datos existentes que pueden ser relevantes para diferentes intereses:
+
+- [Science Discovery Engine](http://science.data.nasa.gov/search)
 - [https://data.nasa.gov/](https://data.nasa.gov/)
 
-### Cuatro pasos para abrir la ciencia que cualquiera puede dar
+### Tres pasos hacia la Ciencia Abierta que cualquier persona puede dar
 
-1. Continúa buscando las mejores prácticas para Ciencia Abierta y desarrolla planes para hacer más abierta tu ciencia o investigación.
-2. Piensa en los diferentes tipos de revisiones en las que participas y en cómo mejorarlas con el objetivo de lograr su apertura.
-3. Pregunta a tus colegas sobre actividades científicas abiertas y otórgales crédito por ellas en las evaluaciones.
-4. Involúcrate en comunidades subrepresentadas para garantizar que la ciencia fomente un futuro más equitativo, impactante y positivo.
+1. Seguir buscando prácticas recomendadas de Ciencia Abierta y desarrollar planes para trabajar de manera más abierta en ciencia o investigación.
+2. Analizar todos los tipos de revisión en los que se participa (por ejemplo, de artículos, de proyectos, de informes) y pensar cómo se pueden mejorar con un objetivo de apertura.
+3. Preguntar a colegas por sus actividades de Ciencia Abierta y reconocerlas explícitamente en las evaluaciones.
 
-### Continúa el plan de estudios de _Introducción a la Ciencia Abierta_
+### Seguir cursando el programa TOPS Open Science 101
 
-<img src="../images/media/image368_es.jpg" style="width: 100%; height: auto;" />
+[IMG: https://drive.google.com/file/d/1GehoBGlh8m5cwdYswecuapa9XtMcmiKh/view?usp=drive_link]  
+Crédito de la imagen: NASA
 
-El plan de estudios de _TOPS Introducción a la Ciencia Abierta_ es un buen lugar para una introducción más profunda de los diversos elementos de Ciencia Abierta. Cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a quienes participan del programa a desarrollar una mejor comprensión de este tema específico.
+El plan de estudios Open Science 101 es un buen lugar para profundizar en los distintos elementos de la Ciencia Abierta. Cada uno de los cuatro módulos siguientes proporciona detalles y ejercicios prácticos para ayudar a desarrollar una mejor comprensión de cada tema específico.
 
-Pero, si quieres hacer también un taller presencial o virtual, ¡es posible!
+#### Aviso
 
-<table>
-    <table>
-    <colgroup>
-        <col style="width: 33%" />
-        <col style="width: 33%" />
-    </colgroup>
-    <tbody>
-        <tr>
-            <td><img src="../images/media/image403_es.jpg" style="width: 98%; height: auto;" /></td>
-            <td><img src="../images/media/image253_es.jpg" style="width: 98%; height: auto;" /></td>
-            <td><img src="../images/media/image34_es.jpg" style="width: 98%; height: auto;" /></td>
-        </tr>
-         <tr>
-            <td>Curso en línea autoguiado</td>
-            <td>Talleres virtuales</td>
-            <td>Talleres presenciales</td>
-        </tr>
-    </tbody>
-</table>
-
-Créditos de imágenes: freepik.com
-
-¡NASA TOPS está coordinando talleres de Ciencia Abierta en línea y presenciales!
-
-¡Estos eventos te brindan la oportunidad de tomar _Introducción a la Ciencia Abierta_ con otras personas e interactuar con quienes forman parte de la comunidad de Ciencia Abierta! ¡Aprende más [aquí](https://nasa.github.io/Transform-to-Open-Science/)!
-
-### Recursos adicionales
-
-Además de los recursos mencionados en otras partes de esta capacitación, los siguientes recursos comunitarios ofrecen excelente información sobre Software Abierto.
-
-**Referencias y guías**
-
-- [OpenSciency](https://opensciency.github.io/sprint-content/)
-- [Guía de ciencia de código abierto para investigadores elaborada por NASA](https://smd-cms.nasa.gov/wp-content/uploads/2023/08/smd-open-source-science-guidance-v2-20230407.pdf).
-- [Manual de Turing Way para la ciencia de datos reproducible, ética y colaborativa](https://the-turing-way.netlify.app/index.html).
+A lo largo del curso se mencionan diferentes artículos científicos. Dependiendo del artículo, es posible que se encuentre detrás de un muro de pago. Si se desea obtener una copia del artículo, se puede contactar a las personas autoras o buscarlo en un archivo de preimpresiones en línea. Por ejemplo, [bioRxiv.org](http://biorxiv.org/) (enlace externo).
 
 ## Lección 5: Resumen
 
-No hay una única forma de hacer Ciencia Abierta y cualquier paso que se dé para hacer que la ciencia sea más abierta es extremadamente valioso, especialmente a medida que hacemos la transición a un ecosistema científico más abierto en el futuro. Queremos que las personas puedan identificar las cosas más importantes que "pueden" compartir abiertamente, pero con el objetivo final de una total apertura.
+No existe una única forma correcta de hacer Ciencia Abierta y cualquier paso hacia la apertura es extremadamente valioso, especialmente en este período de transición hacia un ecosistema científico más abierto en el futuro. El objetivo es que las personas puedan identificar qué aspectos de su trabajo pueden compartir de manera abierta, con la meta final de lograr una apertura completa cuando sea posible y responsable.
 
-### ¿Qué hemos cubierto en este módulo?
+### ¿Qué se ha tratado en este módulo?
 
-- La preparación y la organización anticipadas son componentes cruciales para garantizar la eficacia del trabajo científico abierto.
-- Los Planes de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) proporcionan un plan sobre cómo se integra la Ciencia Abierta en un proyecto, incluido el intercambio de datos, software y resultados.
-- Diseñar para la apertura es un aspecto fundamental para garantizar que la Ciencia Abierta se integre en todo el flujo de trabajo científico, de principio a fin. Esto incluye desde los recursos que serán utilizados, los productos que se harán y cómo se compartirá la ciencia.
-- La Ciencia Abierta ya está sucediendo. Ya hay equipos que están llevando a cabo sus investigaciones de manera abierta y pueden utilizarse muchos recursos disponibles para hacer que tu investigación sea más abierta.
-- Hay más oportunidades para participar y aprender acerca de Ciencia Abierta, ¡esto es sólo el comienzo!
+- La preparación y la organización anticipadas son componentes fundamentales para asegurar la efectividad del trabajo en Ciencia Abierta.
+- Los Planes de Ciencia Abierta y Gestión de Datos (OSDMP) ofrecen un plan que describe cómo se integrará la Ciencia Abierta en un proyecto, incluyendo el modo en que se compartirán datos, código y resultados.
+- Diseñar para la apertura es un aspecto crítico para garantizar que la Ciencia Abierta se integre en todo el flujo de trabajo científico, desde el inicio hasta el final. Esto incluye los recursos que se utilizarán, los productos que se generarán y la forma en que se compartirán los resultados científicos.
+- La Ciencia Abierta ya está ocurriendo. Existen equipos que realizan su investigación de manera abierta y hay una amplia variedad de recursos que se pueden utilizar para hacer que cada investigación sea más abierta.
+- Hay cada vez más oportunidades para participar y aprender sobre Ciencia Abierta. Esta lección es solo el comienzo.
 
-## Lección 5: Evaluación
+## Lección 5: Evaluación de conocimientos
 
-Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
+Responder las siguientes preguntas para poner a prueba lo aprendido.
 
-_Pregunta_
+*Pregunta*
 
 **01/04**
 
-Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto, ¿Qué les permite hacer a otras personas que investigan?
+Aplicar prácticas de reproducibilidad de manera separada a las diferentes partes de un proyecto permite que otras personas investigadoras puedan hacer qué cosas:
 
-Selecciona todas las opciones que correspondan.
+Seleccionar todas las que correspondan.
 
-- Ampliar el enfoque de investigación.
-- Considerar oportunidades para obtener mayor ventaja colaborativa.
-- Probar y reutilizar tu trabajo en sus investigaciones.
-- Citar tu investigación con más frecuencia para brindar un reconocimiento justo a tu trabajo.
+- Ampliar el foco de la investigación.
+- Considerar oportunidades para obtener mayores ventajas colaborativas.
+- Probar y reutilizar el trabajo en sus propias investigaciones.
+- Citar el trabajo con mayor frecuencia para otorgar un reconocimiento justo.
 - Comprender nuevos descubrimientos.
 
-_Pregunta_
+*Pregunta*
 
 **02/04**
 
- Lee esta afirmación y decide si es verdadera o falsa.
+Leer la afirmación y decidir si es verdadera o falsa.
 
-_El Plan de Ciencia Abierta y Gestión de Datos (OSDMP) describe cómo se gestionará y se pondrá a disposición de manera abierta la información científica que se producirá a partir de las actividades científicas._
+*El Plan de Ciencia Abierta y Gestión de Datos (OSDMP) describe cómo se gestionará la información científica que se producirá a partir de las actividades de investigación y cómo se pondrá a disposición de forma abierta.*
 
-- Verdadero
-- Falso
+- Verdadero  
+- Falso  
 
-_Pregunta_
+*Pregunta*
 
 **03/04**
 
- Lee esta afirmación y decide si es verdadera o falsa.
+Leer la afirmación y decidir si es verdadera o falsa.
 
-_Antes de comenzar un proyecto, es importante que quienes investigan consideren cómo colaborarán con otras personas investigadoras, cuáles son los roles y responsabilidades, y cómo y cuándo compartirán los materiales._
+*Antes de comenzar un proyecto, es importante que quienes investigan consideren cómo van a colaborar, qué roles y responsabilidades tendrá cada persona y cómo y cuándo se compartirán los materiales.*
 
-- Verdadero
-- Falso
+- Verdadero  
+- Falso  
 
-_Pregunta_
+*Pregunta*
 
 **04/04**
 
-¿Qué ítem NO es uno de los cuatro pasos que cualquiera puede dar para abrir la ciencia?
+¿Cuál de las siguientes opciones NO forma parte de los tres pasos hacia la Ciencia Abierta que cualquier persona puede dar?
 
-Selecciona todas las opciones que correspondan.
+Seleccionar una opción:
 
-- Involúcrate con comunidades subrepresentadas para garantizar que la ciencia fomente un futuro más equitativo, impactante y positivo.
-- Pregunta a tus colegas sobre actividades científicas abiertas y otórgales crédito en las evaluaciones.
-- Piensa en los diferentes tipos de revisiones en las que participas y en cómo mejorarlas con el objetivo de lograr la apertura.
-- Crea una nueva revista que requiera una costosa suscripción para su lectura.
-- Continúa buscando las mejores prácticas para Ciencia Abierta y desarrolla planes para una mayor apertura de tu ciencia o investigación.
+A. Preguntar a colegas por sus actividades de Ciencia Abierta y reconocerlas en las evaluaciones.  
+B. Pensar en todos los tipos de revisión en los que se participa y cómo se pueden mejorar con un objetivo de apertura.  
+C. Crear una nueva revista que requiera una suscripción costosa para poder leerla.  
+D. Seguir buscando prácticas recomendadas de Ciencia Abierta y desarrollar planes para trabajar de manera más abierta en ciencia o investigación.  
 
-## Resumen del Módulo 1: El Ethos de la Ciencia Abierta
+## Resumen del espíritu de la Ciencia Abierta
 
-¡Felicitaciones! Ahora, deberías ser capaz de:
+Felicitaciones. A esta altura se debería poder:
 
-- Explicar qué es la Ciencia Abierta y por qué se la entiende como una práctica positiva. También deberías poder enumerar algunos de los beneficios y los desafíos que supone la adopción de las prácticas de Ciencia Abierta.
-- Describir las prácticas de Ciencia Abierta, incluyendo las consideraciones que se deben tener a la hora de redactar un plan de gestión y las tareas enmarcadas en el enfoque de "Usar, Hacer, Compartir".
-- Evaluar las diferentes opciones disponibles al determinar si los productos de investigación deben estar o no abiertos.
-- Enumerar formas de conectarse con otras comunidades que forman parte de la comunidad científica abierta.
+- Explicar qué es la Ciencia Abierta, por qué es deseable adoptarla y enumerar algunos de los beneficios y desafíos de su implementación.
+- Describir la práctica de la Ciencia Abierta, incluyendo consideraciones para redactar un plan de gestión y las tareas que conforman el marco “Usar, Hacer, Compartir”.
+- Evaluar las opciones disponibles para decidir si los productos de investigación deberían ser abiertos o no en cada caso.
+- Enumerar maneras de conectarse con otras personas que forman parte de comunidades de Ciencia Abierta.
 
 ### Recursos adicionales
 
-**Masuzzo y Martens (2017). ¿Hablas 'en' Ciencia Abierta? Recursos y consejos para aprender el lenguaje**
+**Masuzzo y Martens (2017). Do you speak Open Science? Resources and tips to learn the language**
 
-[HAZ CLIC PARA APRENDER MÁS](https://peerj.com/preprints/2689v1/) (en inglés)
+[APRENDE MAS](https://peerj.com/preprints/2689v1/)
 
-**Principios guía para datos Fáciles de encontrar, Accesibles, Interoperables y Reusables. Versión publicada B1.0, Force 11**
+**Guiding Principles for Findable, Accessible, Interoperable and Re-usable Data. Publishing version B1.0, Force 11**
 
-[HAZ CLIC PARA APRENDER MÁS](https://www.force11.org/fairprinciples) (en inglés)
+[APRENDE MAS](https://www.force11.org/fairprinciples)
 
-**Fecher y Friesike (2014). Ciencia Abierta: un término, cinco escuelas de pensamiento**
+**Fecher y Friesike (2014). Open Science: One Term, Five Schools of Thought**
 
-[HAZ CLIC PARA APRENDER MÁS](http://doi.org/10.1007/978-3-319-00026-8_2) (en inglés)
+[APRENDE MAS](http://doi.org/10.1007/978-3-319-00026-8_2)
 
-**Grupo de Trabajo de la Comisión Europea sobre Educación y Habilidades en Ciencia Abierta (2017). Proveyendo a quienes investigan con las habilidades y competencias que necesitan para practicar Ciencia Abierta**
+**EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science**
 
-[HAZ CLIC PARA APRENDER MÁS](http://ec.europa.eu/) (en inglés)
+[APRENDE MAS](http://ec.europa.eu/)
 
-**"¿Qué es la Ciencia Abierta?"**
+**“What is Open Science”**
 
-[HAZ CLIC PARA APRENDER MÁS](https://blog.f1000.com/2014/11/11/what-is-open-science/) (en inglés)
+[APRENDE MAS](https://blog.f1000.com/2014/11/11/what-is-open-science/)
 
 **Recursos para Ciencias de la Tierra**
 
-[HAZ CLIC PARA APRENDER MÁS](https://www.earthdatascience.org/) (en inglés)
+[APRENDE MAS](https://www.earthdatascience.org/)
+
+### Referencias citadas
+
+OpenSciency Contributors (2023, 22 de febrero). Opensciency - A core open science curriculum by and for the research community. Zenodo. DOI 10.5281/zenodo.7392118 [https://doi.org/10.5281/zenodo.7392118](https://doi.org/10.5281/zenodo.7392118) (enlace externo)
