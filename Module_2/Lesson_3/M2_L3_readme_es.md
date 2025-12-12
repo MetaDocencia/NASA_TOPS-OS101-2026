@@ -9,308 +9,310 @@
 -   [Lección 3: Resumen](#lecci%C3%B3n-3-resumen)
 -   [Lección 3: Evaluación](#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
-## Descripción general
 
-Esta lección trata sobre los conceptos, consideraciones y herramientas para crear datos y resultados. Comienza con una mirada centrada en los principios FAIR y cómo se aplican a los datos. La lección incluye una introducción a los planes, las herramientas, los formatos de datos y otras consideraciones asociadas a la creación de datos y a la difusión de los resultados relacionados con esos datos.
+## Panorama general
+
+En esta lección vas a repasar conceptos, consideraciones y herramientas para hacer que los datos y los resultados sean abiertos. A partir de una mirada más detallada a los principios FAIR, vas a aprender cómo validar y reproducir datos abiertos. También vas a conocer planes, herramientas, formatos de datos y otras consideraciones relacionadas con la generación de datos y la publicación de resultados. Además, la lección incluye ejemplos de repositorios y comunidades de datos abiertos. Conocer estos conceptos y herramientas te va a facilitar hacer que tu propia investigación sea accesible y reutilizable.
 
 ## Objetivos de aprendizaje
 
 Al finalizar esta lección deberías ser capaz de:
 
--   Definir los diferentes tipos de datos científicos.
--   Definir qué significa el acrónimo FAIR y explicar cómo apoya a que se compartan Datos Abiertos.
--   Identificar prácticas de gestión de datos y herramientas para ubicar datos en repositorios.
--   Listar y explicar el propósito de los recursos usados comúnmente en la creación de datos, incluyendo los formatos de datos, la inspección de datos y la evaluación del ajuste de los datos a los principios FAIR.
+- Definir los diferentes tipos de datos científicos.
+- Definir qué significa el acrónimo FAIR y explicar cómo contribuye a compartir datos abiertos.
+- Identificar prácticas de gestión de datos y herramientas para localizar datos en repositorios.
+- Enumerar y explicar los recursos que se usan habitualmente al generar datos, incluidos formateo, inspección y evaluación del grado de “FAIR-dad” de los datos.
 
-## Introducción a los Datos Abiertos 
+## Introducción a los Datos Abiertos
 
-Los datos son una parte importante de la investigación científica y ¿por qué no lo serían? Son la base de las herramientas que usamos, las historias que leemos y las decisiones que tomamos a diario.
+Los datos son una parte central de la investigación científica, y tiene sentido que así sea. Informan herramientas que usamos, historias que leemos y decisiones que tomamos a diario.
 
-Por ejemplo, el [Servicio de Gestión de Emergencias de Copernicus](https://emergency.copernicus.eu/) (en inglés, *Copernicus Emergency Management Service*), de Acceso Abierto e implementado por la Comisión Europea, produce Datos Abiertos 24/7, que son recogidos por los satélites de la Agencia Espacial Europea (ESA, por las siglas en inglés de *European Space Agency*) y la NASA para producir mapas que informan sobre los esfuerzos en la preparación y la respuesta a desastres en todo el mundo. Este es sólo un ejemplo entre muchos otros que demuestran el valor de los datos, particularmente los datos públicos y abiertos, en nuestra vida cotidiana y para el bien público.
+Por ejemplo, el [Copernicus Emergency Management Service](https://emergency.copernicus.eu/) (enlace externo), de acceso abierto y ejecutado por la Comisión Europea, produce datos abiertos las 24 horas del día. Esos datos se recolectan con satélites de la ESA y de la NASA para producir mapas que orientan tareas de preparación y respuesta ante desastres en todo el mundo. Este es solo un ejemplo, entre muchos otros, que muestra el valor de los datos (en especial los datos públicos y abiertos) en la vida cotidiana y para el bien público.
 
-Los datos compartidos abiertamente en la investigación científica aportan un valor enorme a la comunidad científica y más allá, desde las comunidades indígenas hasta las poblaciones urbanas. Antes de entender el impacto general de los datos, veamos primero qué son los datos en el contexto de la investigación científica. Específicamente, discutiremos la definición y las características de los Datos Abiertos.
+Los datos compartidos abiertamente en investigación científica aportan un valor enorme a la comunidad científica y más allá, desde comunidades pequeñas y aisladas hasta grandes centros urbanos. Antes de avanzar hacia el impacto amplio de los datos, veamos primero qué son los datos en el contexto de la investigación científica. En particular, vamos a hablar de la definición y las características de los datos abiertos.
 
 ### ¿Qué son los datos?
 
-Los datos científicos son cualquier tipo de información recopilada, observada o creada en un contexto de investigación. Pueden ser:
+Los datos científicos son cualquier tipo de información que se recopila, observa o crea en el contexto de una investigación. Pueden ser:
 
--   Primarios -- Sin procesar, de mediciones o instrumentos
--   Secundarios -- Procesados a partir de análisis e interpretaciones secundarias.
--   Publicados -- Formato final disponible para uso y reutilización.
--   Metadatos -- Datos sobre tus datos.
+- Primarios (datos crudos provenientes de mediciones o instrumentos).
+- Secundarios (datos procesados a partir de análisis secundarios e interpretaciones).
+- Publicados (formato final disponible para uso y reúso).
+- Metadatos (datos sobre tus datos).
 
-Es todo aquello que necesitas para validar o reproducir los resultados de tu investigación, así como lo que se requiere para la comprensión y el manejo de los datos.
+Incluyen todo lo que se necesita para validar o reproducir los resultados de tu investigación, además de lo que se requiere para comprender y manejar esos datos.
 
-Las siguientes secciones discuten formas de asegurar que los datos sean totalmente utilizados y accesibles para la mayor cantidad de personas. Estas buenas prácticas se centran en marcos de trabajo comunitarios y herramientas que ayudan a quienes investigan a administrar y compartir Datos Abiertos.
+En las secciones siguientes vas a ver distintas maneras de asegurarte de que los datos se utilicen por completo y estén disponibles para la mayor cantidad posible de personas. Estas buenas prácticas se organizan en torno a marcos conceptuales comunitarios y herramientas que ayudan a quienes investigan a gestionar y compartir datos abiertos.
 
-## Principios FAIR  
+## Principios FAIR
 
-<img src="../images/media/image28.png" style="width:100%;height:auto;"/>
+<img src="../images/media/image28.png" style="width:100%;height:auto;" />
 
-Al igual que al conducir en una carretera, si todo el mundo sigue las normas acordadas, todo va mucho mejor. Las reglas no necesitan ser exactamente las mismas en todas las regiones, pero sí deben compartir prácticas comunes basadas en información sobre seguridad y eficiencia.
+Al igual que cuando se maneja por una ruta, si todas las personas siguen un conjunto de reglas acordadas, todo funciona de manera mucho más fluida. Las reglas no tienen que ser idénticas en cada región, pero comparten prácticas generales basadas en lo que se sabe sobre seguridad y eficiencia.
 
-Por ejemplo, puede que conduzcas en el lado izquierdo o en el lado derecho de la carretera. Los dos están bien, esos detalles deben decidirse en las diferentes comunidades. Sin embargo, existen pautas generales compartidas por comunidades de todo el mundo, como la regla de conducir en la carretera y no en la acera, usar una señal de giro cuando sea apropiado, respetar los semáforos que dirigen el tráfico en los cruces de calles y seguir los límites de velocidad. Algunas comunidades pueden aplicar reglas de manera más estricta que otras, o ponerlas en práctica de forma diferente, pero estas pautas ayudan a todo el mundo a moverse de forma segura a través de un acuerdo común sobre cómo conducir por las carreteras. Para los datos científicos, estas pautas son los principios Fácil de encontrar (*Findable*), Accesible (*Accesible*), Interoperable (*Interoperable*) y Reusable (*Reusable*), llamados Principios FAIR por sus siglas en inglés. Hacen por los datos lo que su título sugiere. Es decir, estos principios permiten a las demás personas (y a ti) encontrar, obtener, entender y usar correctamente los datos.
+Por ejemplo, se puede manejar por la izquierda o por la derecha. Ambas opciones pueden funcionar, y ese tipo de detalles se define en cada comunidad. Sin embargo, hay pautas generales que se comparten en distintos lugares, como manejar por la calzada y no por la vereda, usar las luces de giro cuando corresponde, respetar los semáforos en las intersecciones y cumplir con las velocidades máximas. Algunas comunidades pueden aplicar reglas más estrictas que otras o llevarlas adelante de manera diferente, pero esas pautas ayudan a que todas las personas se desplacen con seguridad a partir de un entendimiento común de cómo conducir.
 
-**Fácil de encontrar**:
+Para los datos científicos, estas pautas se publicaron en 2016 en Wilkinson et al. y se conocen como los principios FAIR (Findable, Accessible, Interoperable, Reusable). Hacen exactamente lo que su nombre sugiere: permiten que otras personas (y vos mismo más adelante) puedan encontrar, obtener, comprender y usar correctamente los datos.
 
-Para que sean [fáciles de encontrar:](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/)
+**Findable (Encontrables)**
 
--   Se asigna a los datos y a los resultados un identificador único y persistente a nivel global.
--   Los datos se describen con metadatos enriquecidos.
--   Los metadatos incluyen de forma clara y explícita el identificador de los datos que describen.
--   Los datos y los resultados se registran o se indexan en un recurso que permite realizar búsquedas.
+Para que los datos sean [Findable](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/) (enlace externo):
 
-Tecnología actual que lo permite:
+- Los datos y resultados cuentan con un identificador único y persistente a nivel global.
+- Los datos se describen con metadatos ricos.
+- Los metadatos incluyen de manera clara y explícita el identificador de los datos que describen.
+- Los datos y resultados se registran o indexan en un recurso que se puede buscar.
 
--   [Esquema de metadatos de DataCite (*DataCite's Metadata Schema*)](https://schema.datacite.org/)
--   PIDs: siglas en inglés de *Persistent IDentifiers*, Identificadores Persistentes (detalles adicionales en las siguientes secciones)
-    -   [Identificador de objeto digital (*Digital Object Identifier*](https://www.doi.org/), DOI): Un campo de nivel superior y obligatorio en los metadatos de cada registro: para datos, código, publicaciones.
-    -   [Identificador abierto de investigación y contribuyente (*Open Research and Contributor ID*](https://orcid.org/), ORCiD): Un código que identifica de forma unívoca a las personas autoras y contribuyentes de productos de investigación y comunicación del conocimiento.
+Tecnologías habilitantes actuales:
 
-**Accesible**
+- [Esquema de metadatos de DataCite](https://schema.datacite.org/) (enlace externo).
+- PIDs (identificadores persistentes, por sus siglas en inglés).
+  - [Digital Object Identifier (DOI)](https://www.doi.org/) (enlace externo): un campo obligatorio de primer nivel en los metadatos de cada registro (para datos, código y publicaciones).
+  - [Open Research and Contributor ID (ORCID)](https://orcid.org/) (enlace externo): un código que identifica de manera unívoca a autores y personas contribuyentes de productos de investigación y comunicación académica.
 
-Para ser [accesibles:](https://www.go-fair.org/fair-principles/metadata-retrievable-identifier-standardised-communication-protocol/)
+**Accessible (Accesibles)**
 
--   Los datos y los resultados son recuperables mediante sus identificadores utilizando un protocolo de comunicación estandarizado.
--   El protocolo es abierto, libre y universalmente implementable.
--   El protocolo permite un procedimiento de autenticación y autorización, cuando sea necesario.
--   Los datos y los resultados son accesibles al público y están licenciados bajo el dominio público.
-    -   Los metadatos son accesibles, incluso cuando los datos ya no están disponibles. Los datos y metadatos se conservarán durante toda la vida del repositorio.
-    -   Los metadatos se almacenan en servidores de bases de datos de alta disponibilidad.
+Para que los datos sean [Accessible](https://www.go-fair.org/fair-principles/metadata-retrievable-identifier-standardised-communication-protocol/) (enlace externo):
 
-Tecnología actual que lo permite:
+- Los datos y resultados se pueden recuperar mediante sus identificadores usando un protocolo de comunicación estandarizado.
+- El protocolo es abierto, gratuito y de implementación universal.
+- El protocolo permite un procedimiento de autenticación y autorización cuando sea necesario. Los datos y resultados son públicamente accesibles y tienen una licencia de dominio público.
+  - Los metadatos siguen siendo accesibles incluso cuando los datos ya no están disponibles. Los datos y metadatos se mantienen durante toda la vida útil del repositorio.
+  - Los metadatos se almacenan en servidores de bases de datos de alta disponibilidad.
 
--   [Protocolo de transferencia de archivos (*File Transfer Protocol*, FTP)](https://www.w3.org/Protocols/rfc959/), Protocolo seguro de transferencia de archivos (*File Transfer Protocol Secure*, FTPS)
--   [Protocolo de transferencia de hipertexto (*Hypertext Transfer Protocol*, HTTP)](https://www.w3.org/Protocols/), Protocolo seguro de transferencia de hipertexto (*Hypertext Transfer Protocol Secure*, HTTPS)
+Tecnologías habilitantes actuales:
 
-Ten en cuenta que Microsoft Exchange Server y Skype son ejemplos de protocolos propietarios.
+- [File Transfer Protocol (FTP)](https://www.w3.org/Protocols/rfc959/) (enlace externo) y File Transfer Protocol Secure (FTPS).
+- [Hypertext Transfer Protocol (HTTP)](https://www.w3.org/Protocols/) (enlace externo) y Hypertext Transfer Protocol Secure (HTTPS).
 
-**Interoperable**
+Tené en cuenta que Microsoft Exchange Server y Skype son ejemplos de protocolos propietarios. Como siempre, es necesario equilibrar accesibilidad con cuestiones de seguridad, lo que puede afectar el protocolo elegido.
 
-Para ser [interoperable:](https://www.go-fair.org/fair-principles/i1-metadata-use-formal-accessible-shared-broadly-applicable-language-knowledge-representation/)
+**Interoperable (Interoperables)**
 
--   Los datos usan un lenguaje formal, accesible, compartido y ampliamente aplicable para la representación del conocimiento.
--   Los datos usan un formato conocido y estandarizado.
--   Los datos utilizan vocabularios que siguen principios FAIR.
--   Los datos incluyen referencias calificadas a otros (meta)datos.
+Para que los datos sean [Interoperable](https://www.go-fair.org/fair-principles/i1-metadata-use-formal-accessible-shared-broadly-applicable-language-knowledge-representation/) (enlace externo):
 
-Tecnología actual que lo permite:
+- Usan un lenguaje formal, accesible, compartido y ampliamente aplicable para representar conocimiento.
+- Utilizan un formato de datos conocido y estandarizado.
+- Emplean vocabularios que también siguen principios FAIR.
+- Incluyen referencias calificadas a otros datos y metadatos.
 
--   [Zenodo](https://zenodo.org/) usa [JSON Schema](https://json-schema.org/) como representación interna de los metadatos y permite exportar a otros formatos populares como [Dublin Core](https://www.dublincore.org/) o [MARCXML](https://www.loc.gov/marc/marcxml.html).
--   Para ciertos términos hacemos referencia a vocabularios externos abiertos, por ejemplo: licencia ([Open Definition](https://opendefinition.org/od/2.1/es/)), financiadoras ([FundRef](https://www.crossref.org/services/funder-registry/)) y subsidios ([OpenAIRE](https://api.openaire.eu/)).
--   Cada referencia a una pieza de datos externos es calificada por una URL que puede ser resuelta.
+Tecnologías habilitantes actuales:
 
-**Reusable**
+- [Zenodo](https://zenodo.org/) (enlace externo) utiliza [JSON Schema](https://json-schema.org/) (enlace externo) como representación interna de los metadatos y ofrece exportar a otros formatos populares como [Dublin Core](https://www.dublincore.org/) (enlace externo) o [MARCXML](https://www.loc.gov/marc/marcxml.html) (enlace externo).
+- Para ciertos términos se recurre a vocabularios abiertos externos, por ejemplo: licencias en [Open Definition](https://opendefinition.org/) (enlace externo), financiadores en [FundRef](https://www.crossref.org/services/funder-registry/) (enlace externo) y proyectos con financiación en [OpenAIRE](https://explore.openaire.eu/) (enlace externo).
+- Cada fragmento de datos externos referenciado se identifica mediante una URL resolvible.
 
-Para ser [reusable:](https://www.go-fair.org/fair-principles/r1-metadata-richly-described-plurality-accurate-relevant-attributes/)
+**Reusable (Reutilizables)**
 
--   Los datos se describen en detalle, con una pluralidad de atributos precisos y relevantes.
--   Los datos se publican con una licencia de uso de datos clara y accesible.
--   Los datos se asocian a una procedencia detallada.
--   Los datos cumplen los estándares comunitarios relevantes para el dominio.
+Para que los datos sean [Reusable](https://www.go-fair.org/fair-principles/r1-metadata-richly-described-plurality-accurate-relevant-attributes/) (enlace externo):
 
-Tecnología actual que lo permite:
+- Se describen con un conjunto amplio de atributos precisos y relevantes.
+- Se publican con una licencia de uso clara y accesible.
+- Se asocian a información detallada sobre su procedencia.
+- Cumplen con estándares comunitarios relevantes para cada disciplina.
 
--   El registro de metadatos contiene como mínimo los términos obligatorios de [DataCite](https://schema.datacite.org/), y suma opcionalmente los términos recomendados por DataCite y los enriquecimientos de Zenodo.
--   [Zenodo](https://zenodo.org/) no es un repositorio específico de un dominio pero, a través del cumplimiento del Esquema de metadatos de DataCite (*DataCite's Metadata Schema*), los metadatos se ajustan a uno de los estándares interdominio más amplios disponibles.
+Tecnologías habilitantes actuales:
 
-Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship [Los principios guía FAIR para la gestión y administración de datos científicos]. Sci.Data 3:160018, doi: [1 0 .1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18) (2016)
+- El registro de metadatos contiene como mínimo los campos obligatorios de [DataCite](https://schema.datacite.org/) (enlace externo), con la opción de incluir campos recomendados adicionales de DataCite y enriquecimientos propios de Zenodo.
+- [Zenodo](https://zenodo.org/) (enlace externo) no es un repositorio específico de un dominio, pero al cumplir con el esquema de metadatos de DataCite, sus registros se ajustan a uno de los estándares transversales más amplios disponibles.
 
-Estas pautas son de alto nivel y, al igual que la Ciencia Abierta, tienen matices en su aplicación. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción/financiación para que datos y resultados sean FAIR. Para otros conjuntos de datos podría ser más sencillo. Se necesita un Plan de Gestión de Datos bien coordinado para cumplir plenamente con los principios FAIR y los detalles de esto se discutirán más en profundidad en el Módulo 3 - Datos Abiertos.
+(Wilkinson et al., 2016)
 
-## Herramientas para ayudar con la planificación de la creación de Datos Abiertos 
-### Plan de Gestión de Datos
+Estos principios son pautas generales y, como sucede con la ciencia abierta, su implementación es matizada. A veces se necesita el esfuerzo coordinado de un grupo y/o un proceso de producción largo (incluida financiación) para que datos y resultados cumplan plenamente con FAIR. En otros casos, el proceso puede ser más sencillo. Para lograr un cumplimiento completo, se necesita un plan de gestión de datos bien coordinado, cuyos detalles se analizan con mayor profundidad en el Módulo 3, “Datos Abiertos”.
 
-La lección anterior describe los requisitos de un Plan de Gestión de Datos (PGD) (en inglés, *Data Management Plan*, DMP). Debajo encontrarás dos recursos científicos abiertos para empezar a crear un Plan de Gestión de Datos:
+## Herramientas para ayudar con la planificación de la creación de Datos Abiertos
+
+### Plan de gestión de datos
+
+La lección anterior describe los requisitos de un plan de gestión de datos (Data Management Plan, DMP). A continuación se presentan dos recursos de ciencia abierta para empezar a elaborar un plan de gestión de datos:
 
 **DMPTool**
 
-[DMPTool](https://dmptool.org/) asiste a quienes investigan en EE.UU. mediante una plantilla que lista los requisitos de una determinada financiadora para solicitudes de propuestas (en inglés, *requests for proposals*, RFP). La herramienta DMPTool también publica PGD abiertos de otros proyectos financiados que pueden tomarse como referencia para mejorar los propios. El Organizador de Gestión de Datos de Investigación (OGDI) (en inglés, *Research Data Management Organizer*, RDMO) permite a las instituciones alemanas y sus equipos de investigación, planificar y llevar a cabo la gestión de datos de investigación.
+El [DMPTool](https://dmptool.org/) (enlace externo), con sede en Estados Unidos, ayuda a quienes investigan mediante plantillas que listan los requisitos de las entidades financiadoras para solicitudes específicas de propuestas (Request for Proposals, RFP). DMPTool también publica otros planes de gestión de datos abiertos de proyectos financiados que pueden usarse como referencia para mejorar tu propio plan. Por ejemplo, el Research Data Management Organizer (RDMO) permite a instituciones y personas en Alemania planificar y llevar adelante la gestión de sus datos de investigación.
 
 **ARGOS**
 
-[ARGOS](https://argos.openaire.eu/home) se usa para planificar las actividades de gestión de datos de investigación de proyectos financiados nacionalmente y por Europa (por ejemplo, *Horizon Europe*, CHIST-ERA, la Fundación Portuguesa de Ciencia y Tecnología - FCT). ARGOS produce y publica PGD compatibles con prácticas FAIR y procesables por máquina, que contienen enlaces a otros productos, por ej. publicaciones-datos-software, y minimiza el esfuerzo de crear PGD desde cero introduciendo automatizaciones en el proceso de escritura. OpenAIRE proporciona una guía sobre cómo crear PGD.
+[ARGOS](https://argos.openaire.eu/home) (enlace externo) se utiliza para planificar actividades de gestión de datos de investigación en proyectos financiados por programas europeos o nacionales (por ejemplo, Horizon Europe, CHIST-ERA o la Fundação para a Ciência e a Tecnologia de Portugal, FCT). ARGOS produce y publica planes de gestión de datos FAIR y ejecutables por máquina, que contienen enlaces a otros productos (como publicaciones, datos y software). Esto reduce el esfuerzo de crear planes de gestión de datos desde cero al incluir automatizaciones en el proceso de escritura. OpenAIRE ofrece una guía para crear estos planes.
 
 ### Repositorios de datos
 
-Un repositorio de datos es un espacio digital para alojar, curar y compartir resultados de investigación. Los repositorios de datos se usaron originalmente para apoyar las necesidades de las comunidades de investigación. Ejemplos de repositorios de datos incluyen:
+Un repositorio de datos es un espacio digital para alojar, curar y compartir productos de investigación. Los repositorios de datos surgieron para dar respuesta a necesidades de comunidades de investigación. Algunos ejemplos son:
 
--   [**Banco de Datos de Proteina (Protein Data Bank)**](https://www.rcsb.org/) utiliza un repositorio de datos para catalogar estructuras 3D de proteínas y ácidos nucleicos.
--   [**Genbank**](https://www.ncbi.nlm.nih.gov/genbank/) de los Institutos Nacionales de la Salud (NIH, por sus siglas en inglés) utiliza una base de datos de secuencias genéticas que contiene secuencias anotadas de ácidos nucleicos disponibles públicamente.
--   [**Recurso de datos de imágenes (The Image Data Resource)**](https://idr.openmicroscopy.org/) es un repositorio público de conjuntos de datos que contiene bioimágenes de microscopía procedentes de estudios publicados.
--   [**Archivo público de imágenes de microscopía electrónica (The Electron Microscopy Public Image Archive)**](https://www.ebi.ac.uk/empiar/) es un recurso público para imágenes cryo-EM sin procesar.
--   [**OpenNeuro**](https://openneuro.org/) es una plataforma abierta para validar y compartir datos de imágenes cerebrales. Las herramientas de Open Neuro permiten el fácil acceso, búsqueda y análisis de conjuntos de datos.
+- [Space Physics Data Facility de la NASA](https://spdf.gsfc.nasa.gov/): archivo permanente para datos de física espacial de misiones pasadas y actuales.
+- [Heliophysics Digital Resource Library de la NASA](https://hdrl.gsfc.nasa.gov/): ofrece acceso abierto a miles de conjuntos de datos de misiones heliosfísicas actuales e históricas de la NASA.
+- [High Energy Astrophysics Science Archive Research Center (HEASARC) de la NASA](https://heasarc.gsfc.nasa.gov/): archivo principal para misiones de la NASA (y de otras agencias espaciales) que estudian radiación electromagnética asociada a fenómenos cósmicos extremadamente energéticos. Incluye datos obtenidos por misiones espaciales, globos y observaciones desde tierra.
+- [Planetary Data System (PDS) de la NASA](https://pds.nasa.gov/): archivo de largo plazo de productos de datos digitales provenientes de misiones planetarias de la NASA y otras adquisiciones de datos en vuelo y en tierra, incluidas experiencias de laboratorio.
+- [Socioeconomic Data and Applications Center de la NASA](https://www.earthdata.nasa.gov/centers/sedac-daac): se centra en archivar y distribuir datos sobre las interacciones humanas con el ambiente.
+- [RCSB Protein Data Bank](https://www.rcsb.org/) (enlace externo), que utiliza un repositorio de datos para catalogar estructuras tridimensionales de proteínas y ácidos nucleicos.
+- [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) (enlace externo), del National Institutes of Health, que utiliza una base pública de secuencias genéticas anotadas de ácidos nucleicos.
+- [Image Data Resource](https://idr.openmicroscopy.org/) (enlace externo), un repositorio público de conjuntos de datos de microscopía bio-imagen de estudios publicados.
+- [Electron Microscopy Public Image Archive](https://idr.openmicroscopy.org/) (enlace externo), recurso público de imágenes crudas de crio-EM.
+- [OpenNeuro](https://openneuro.org/) (enlace externo), una plataforma abierta para validar y compartir datos de neuroimagen. Las herramientas que ofrece facilitan el acceso, búsqueda y análisis de conjuntos de datos anotados.
 
-Las herramientas de Ciencia Abierta, como los repositorios de datos, deben implementar los principios FAIR, especialmente en lo que respecta a la atribución de identificadores persistentes (por ejemplo, DOI), la anotación de metadatos y la capacidad de ser leídos por computadoras.
+Las herramientas de ciencia abierta, como los repositorios de datos, deberían aplicar principios FAIR, en especial en lo referido a atribución de identificadores persistentes (por ejemplo DOI), anotación de metadatos y legibilidad por máquinas.
 
-**ZENODO**
+Más ejemplos de repositorios de datos y otras herramientas de ciencia abierta incluyen, entre otros:
 
-[Zenodo](https://zenodo.org/) es un ejemplo de un repositorio de datos que permite la carga de datos de investigación y la creación de un DOI. Su popularidad entre la comunidad investigadora se debe a la simpleza de su interfaz, el apoyo a la gestión comunitaria y la función que permite a los investigadores depositar diversos tipos de resultados de investigación, desde conjuntos de datos e informes hasta publicaciones, software y contenidos multimedia.
+**Zenodo**
 
-**DATAVERSE**
+[Zenodo](https://zenodo.org/) (enlace externo) es un repositorio de datos que permite subir datos de investigación y asignar DOIs. Es muy popular en la comunidad científica porque tiene una interfaz simple, admite curaduría comunitaria y ofrece la posibilidad de depositar diversos tipos de productos de investigación: datos, informes, publicaciones, software y contenidos multimedia.
 
-[The Dataverse Project](https://dataverse.org/) es una aplicación en línea de Código Abierto para compartir, preservar, citar, explorar y analizar datos de investigación, disponible gratuitamente para investigadores de todas las disciplinas del mundo.
+**Dataverse**
 
-**DRYAD**
+[The Dataverse Project](https://dataverse.org/) (enlace externo) es una aplicación en línea de código abierto para compartir, preservar, citar, explorar y analizar datos de investigación. Está disponible de forma gratuita para personas de todas las disciplinas.
 
-[The Dryad Digital Repository](https://datadryad.org/) es un recurso en línea curado que hace que los datos de investigación sean fáciles de encontrar, reusables libremente y citables. A diferencia de las herramientas mencionadas anteriormente, opera en un esquema de membresía para organizaciones como instituciones de investigación y editores.
+**Dryad**
 
-**DATACITE**
+[The Dryad Digital Repository](https://datadryad.org/) (enlace externo) es un recurso en línea curado que hace que los datos de investigación sean descubribles, reutilizables y citables de manera libre. A diferencia de las herramientas mencionadas antes, funciona con un esquema de membresía para organizaciones como instituciones de investigación y editoriales.
 
-[Datacite](https://datacite.org/) es una organización global sin fines de lucro que proporciona DOI para datos de investigación y otros resultados de investigación mediante una membresía.
+**DataCite**
+
+[DataCite](https://datacite.org/) (enlace externo) es una organización global sin fines de lucro que proporciona DOIs para datos de investigación y otros productos, sobre la base de membresías institucionales.
 
 **OSF**
 
-[The Open Science Framework](https://osf.io/) es una plataforma de Código Abierto para compartir, administrar y colaborar en investigación.
+[Open Science Framework](https://osf.io/) (enlace externo) es una plataforma de código abierto para compartir, gestionar y colaborar en investigación.
 
-------------------------------------------------------------------------
+Los servicios y recursos de datos que sostienen la investigación requieren infraestructura robusta, que a su vez se apoya en la colaboración. La [EUDAT Collaborative Data Infrastructure](https://www.eudat.eu/) (enlace externo), una red estable de más de veinte organizaciones europeas de investigación, es un ejemplo de iniciativa que coordina esfuerzos sobre infraestructuras de servicios de datos.
 
-Los servicios de datos y los recursos de apoyo a la investigación requieren una infraestructura sólida basada en la colaboración. Un ejemplo de iniciativa sobre infraestructuras de servicios de datos procede de la [EUDAT infraestructura de datos colaborativa (Collaborative Data Infrastructure)](https://www.eudat.eu/), una red sostenida de más de 20 organizaciones europeas de investigación.
+Empresas privadas también alojan y mantienen herramientas en línea para compartir datos y archivos de investigación. Figshare es un ejemplo de servicio de acceso abierto y gratuito operado por empresas. Proporciona DOIs para todo tipo de archivos y recientemente incorporó un modelo de publicación restringida para contemplar requisitos de propiedad intelectual (Intellectual Property, IP). Permite compartir los productos solo dentro de un grupo de Figshare personalizado (por ejemplo, tu equipo de investigación) o con personas dentro de un determinado rango de IP. Otros avances incluyen la integración con repositorios de código como GitHub, GitLab y Bitbucket.
 
-Las empresas privadas también alojan y mantienen herramientas en línea para compartir datos y archivos de investigación. Por ejemplo, [Figshare](https://figshare.com/) es un ejemplo de un servicio de acceso libre y abierto operado por empresas privadas. Proporciona DOI para todo tipo de archivos y recientemente desarrolló un modelo de publicación restringido para adaptarse a los requisitos de derechos de propiedad intelectual. Permite compartir los productos sólo dentro de un grupo Figshare personalizado (podría ser tu equipo de investigación) o con personas usuarias en un rango de IP específico. Los avances adicionales incluyen la integración con repositorios de código, como GitHub, GitLab, y Bitbucket.
+Se pueden encontrar más repositorios de datos en el [Registro de Repositorios de Datos de Investigación](https://www.re3data.org/) (enlace externo). [OpenAIRE](https://explore.openaire.eu/search/find/dataproviders) (enlace externo), un motor de búsqueda hospedado, también ofrece una función potente para buscar datos y repositorios. Incluye filtros por país, tipo y área temática y permite descargar datos.
 
-Puede encontrar más repositorios de datos de investigación en el [Registro de Repositorios de Datos de Investigación (*Registry of Research Data Repositories*)](https://www.re3data.org/) de acceso público. [OpenAire](https://explore.openaire.eu/search/find/dataproviders), es un motor de búsqueda alojado que también ofrece una potente función de búsqueda de datos y repositorios. Dispone de un filtro por país, tipo y área temática, además de permitir la descarga de datos.
+La cantidad de datos, repositorios y políticas puede resultar abrumadora. Si te cuesta decidir qué repositorio se adapta mejor a tus necesidades, podés consultar con personas bibliotecarias, gestoras de datos y/o data stewards en tu institución, o preguntar dentro de tu disciplina o comunidad de práctica.
 
-La cantidad de datos, repositorios y políticas diferentes puede resultar abrumadora. Si tienes dudas sobre qué repositorio es el más adecuado para ti, consulta a las personas responsables de la biblioteca, quienes gestionan los datos y/o administran datos de tu institución, o consulta en tu disciplina específica u otra comunidad de práctica.
+### Actividad 3.1: Explorá Zenodo y registrate
 
-### Actividad 3.1: ¡Explora Zenodo y regístrate!
+Explorá repositorios abiertos para familiarizarte con su estructura y la información disponible sobre los productos. El repositorio más popular en este momento es Zenodo. Mirá el siguiente video de 4,5 minutos para tener una vista general de Zenodo y luego creá una cuenta. Podés usar tu cuenta de ORCID para registrarte si ya la tenés o si la creaste en la lección anterior.
 
-Explora los repositorios abiertos para familiarizarte con su estructura y la información disponible sobre sus productos. El repositorio más popular actualmente es Zenodo. Ve el siguiente vídeo de 4,5 minutos para obtener una visión general de Zenodo y, a continuación, regístrate para obtener una cuenta. Puedes utilizar tu ORCID para inscribirte si tienes uno o lo has creado en la lección anterior.
+[Ver video](https://www.youtube.com/watch?v=gEnq_RpVdAM) (enlace externo)
 
-[Mira el video](https://www.youtube.com/watch?v=gEnq_RpVdAM).
+### Herramientas para ayudar con el uso y manejo de Datos Abiertos
 
-## Herramientas para ayudar con el uso y manejo de Datos Abiertos 
+### Formatos de datos
 
-### Formato de los datos
+Un formato de archivo útil es aquel que puede ser leído en memoria por algún software. Se puede pensar el formato como una herramienta para hacer que los datos sean accesibles. Los formatos fáciles de usar suelen tener:
 
-Un formato de archivo útil puede ser leído en memoria por algún software. Piensa en el formato como una herramienta para hacer accesibles tus datos. 
+- Una estructura simple y fácil de comprender.
+- Una especificación clara y abierta del formato, idealmente no atada a un producto de software específico.
+- Bibliotecas de software abiertas y APIs que permitan analizar (parsear) el formato.
 
-Los formatos fáciles de usar tienen:
-
--   Una estructura simple y fácil de entender.
--   Una especificación clara y abierta del formato que, idealmente, no esté vinculada a un producto de software específico.
--   Bibliotecas o librerías de software abiertas y APIs que pueden analizar el formato.
-
-Los formatos que se consideran más interoperables según los criterios anteriores son los valores separados por comas (CSV), el lenguaje de marcado extensible (XML) y la notación de objetos JavaScript (JSON). Otros formatos habituales para las personas investigadoras son los basados en matrices binarias, como Network Common Data Form (NetCDF), Hierarchical Data Format (HDF), Geotiff, Flexible Image Transport System (FITS) y otros formatos diseñados para el almacenamiento y el acceso en la nube, como [Zarr](https://zarr.dev/), [Cloud Optimized GeoTIFF](https://www.cogeo.org/) y [Parquet](https://parquet.apache.org/). Muchos de estos formatos cuentan con herramientas que verifican que los conjuntos de datos cumplen con los estándares y son legibles.
+Los formatos más interoperables según estos criterios incluyen Comma Separated Values (CSV), Extensible Markup Language (XML) y JavaScript Object Notation (JSON). Otros formatos comunes para la investigación incluyen formatos binarios basados en arreglos como Network Common Data Form (NetCDF), Hierarchical Data Format (HDF), Geotiff, Flexible Image Transport System (FITS) y formatos diseñados para almacenamiento y acceso en la nube como [Zarr](https://zarr.dev/) (enlace externo), [Cloud Optimized GeoTIFF](https://www.cogeo.org/) (enlace externo) y [Parquet](https://parquet.apache.org/) (enlace externo). Muchos de estos formatos incluyen herramientas para verificar compatibilidad y legibilidad de conjuntos de datos.
 
 ### Inspección de datos
 
-Los formatos de datos modernos permiten almacenar mucho más que datos puntuales. Una vez que se adoptan estos estándares (por ejemplo, NetCDF), la búsqueda de los contenidos en cada archivo puede ser asistida por una variedad de herramientas que juntas ayudan a mapear los datos primarios y/o mostrar los metadatos asociados. Existen varias herramientas para inspeccionar datos, demasiadas para mencionarlas todas aquí. 
+Los formatos de datos modernos permiten almacenar mucho más que simples puntos de datos. Cuando se adoptan estos estándares (por ejemplo NetCDF), descubrir el contenido de cada archivo puede ser asistido por una variedad de herramientas que ayudan a mapear datos primarios y mostrar metadatos asociados. Existen muchas herramientas para inspeccionar datos, demasiadas para enumerarlas todas aquí. Algunas de las más destacadas son:
 
-Herramientas recomendadas para comenzar:
+**CSV, XML, JSON**  
+Estos archivos pueden abrirse con editores de texto comunes. También existen herramientas que pueden generar visualizaciones más amigables, por ejemplo:
 
-**CSV, XML, JSON** - Los archivos con estos formatos se pueden abrir con los editores de texto más comunes. Hay algunas herramientas que pueden crear vistas de los archivos que son más fáciles de usar, como:
+- csv: Microsoft Excel y Google Sheets.  
+- xml: La mayoría de los navegadores web y editores de texto como Notepad, Microsoft Word o Google Docs.  
+- json: [http://json.parser.online.fr/](http://json.parser.online.fr/) (enlace externo) y [https://jsonformatter.org/json-pretty-print](https://jsonformatter.org/json-pretty-print) (enlace externo).
 
--   CSV: Hojas de cálculo de Microsoft Excel y Google.
--   XML: La mayoría de los navegadores de Internet y cualquier editor de texto como el Bloc de notas, Microsoft Word, LibreOffice o Google Docs.
--   JSON: <http://json.parser.online.fr/> y <https://jsonformatter.org/json-pretty-print>.
+**NetCDF, HDF, FITS**  
+Estos formatos requieren herramientas específicas para visualizar su contenido. Muchas de estas herramientas también pueden graficar los datos.
 
-**NetCDF, HDF, FITS** - Estos archivos requieren herramientas de software especiales para ver sus contenidos. Muchas de estas herramientas también visualizan los datos.
+- NetCDF y HDF: Se pueden visualizar fácilmente usando la biblioteca de software abierto [Xarray](https://docs.xarray.dev/en/stable/) (enlace externo) en Python o la biblioteca [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) (enlace externo) en R.  
+- FITS: Hay muchas opciones; una lista se encuentra disponible en [https://fits.gsfc.nasa.gov/fits_viewer.html](https://fits.gsfc.nasa.gov/fits_viewer.html).
 
--   NetCDF y HDF: la mayoría de los archivos se visualizan fácilmente usando software de Código Abierto, como la librería [Xarray](https://docs.xarray.dev/en/stable/) en Python o [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) en R.
--   FITS: hay muchas opciones de software que permiten visualizar y trabajar con este formato de archivo. En <https://fits.gsfc.nasa.gov/fits_viewer.html> se ofrece una lista exhaustiva (en inglés).
+**Zarr, COG, Parquet**  
+También requieren herramientas específicas para visualizarse. Muchas también permiten graficar los datos.
 
-**ZARR, COG, PARQUET** - Estos archivos requieren herramientas de software especiales para ver su contenido. Muchas de estas herramientas permiten también visualizar los datos.
-
--   Zarr: los archivos se visualizan fácilmente utilizando software de Código Abierto, como las librerías [Xarray](https://docs.xarray.dev/en/stable/) de Python o [Pizzar](https://github.com/keller-mark/pizzarr) en R.
--   COG: los archivos se visualizan utilizando la librería [rioXarray](https://corteva.github.io/rioxarray/html/index.html) en Python o la librería [terra](https://cran.r-project.org/web/packages/terra/index.html) en R.
--   Parquet: los archivos se visualizan utilizando software de Código Abierto, como las librerías [Pandas](https://pandas.pydata.org/) en Python o [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) en R.
+- Zarr: Se visualiza con [Xarray](https://docs.xarray.dev/en/stable/) (enlace externo) en Python o con la biblioteca [Pizzarr](https://github.com/keller-mark/pizzarr) (enlace externo) en R.  
+- COG: Se visualiza con la biblioteca [rioXarray](https://corteva.github.io/rioxarray/html/index.html) (enlace externo) en Python o [terra](https://cran.r-project.org/web/packages/terra/index.html) (enlace externo) en R.  
+- Parquet: Se visualiza con [Pandas](https://pandas.pydata.org/) (enlace externo) en Python o [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) (enlace externo) en R.
 
 ### Evaluación FAIR
 
-¿Qué tan "FAIR" son tus datos? Dos grupos -[FAIRsharing.org](https://fairsharing.org/) y la [Research Data Alliance (RDA)](https://www.rd-alliance.org/) (en español, Alianza para los Datos de Investigación)- han desarrollado las [Métricas FAIR](https://www.nature.com/articles/sdata2018118) y el [Modelo de Madurez de Datos FAIR](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0) para ayudar a evaluar que tan "FAIR" es un conjunto de datos. Existen herramientas de Código Abierto para ayudar a quienes investigamos a evaluar sus datos:
+¿Cómo saber cuán “FAIR” es tu conjunto de datos? Dos grupos, [FAIRsharing.org](https://fairsharing.org/) (enlace externo) y la [Research Data Alliance (RDA)](https://www.rd-alliance.org/) (enlace externo), desarrollaron los [FAIR Metrics](https://www.nature.com/articles/sdata2018118) (enlace externo) y el [FAIR Data Maturity Model](http://dx.doi.org/10.15497/RDA00050) (enlace externo) para evaluar el nivel de cumplimiento FAIR. Existen herramientas de código abierto para ayudar a realizar esta evaluación:
 
-**AUSTRALIAN RESEARCH DATA COMMONS (ARDC)**
+**Australian Research Data Commons (ARDC)**  
+#### FAIR Data Self-Assessment Tool  
+[FAIR Data Self-Assessment Tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool/) (enlace externo) es un proceso manual mediante un cuestionario en línea.
 
-Cuestionario en línea (manual) - Ideal para:
+Mejor para:  
+- Generar conversaciones iniciales sobre implementación FAIR.  
+- Identificar áreas para mejorar.
 
--   Desencadenar debates en las fases iniciales de estudio, considerando la implementación de los principios FAIR.
--   Identificar áreas de mejora.
+Resultados incluyen:  
+- Barra de progreso para cada principio FAIR.  
+- Barra agregada total.
 
-Los resultados incluyen:
+**FAIR-Checker**  
+[FAIR-Checker](https://fair-checker.france-bioinformatique.fr/) (enlace externo) es automático (vía sitio web o API).
 
--   Barra de progreso para cada principio FAIR.
--   Barra de progreso agregada para todos los principios.
+Mejor para:  
+- Escalar a muchos conjuntos de datos.  
+- Identificar áreas de mejora.
 
-**FAIR-CHECKER**
+Resultados incluyen:  
+- Gráfico con puntajes y detalles.
 
-Herramienta automatizada a través del sitio web o API - Ideal para:
+**F-UJI**  
+[F-UJI](https://www.f-uji.net/) (enlace externo) también es automático.
 
--   Escalabilidad a muchos conjuntos de datos.
--   Identificar áreas de mejora.
+Mejor para:  
+- Evaluar muchos conjuntos de datos.  
+- Recibir documentación detallada de la herramienta.
 
-Los resultados incluyen:
+Resultados incluyen:  
+- Informe y gráfico con puntajes.
 
--   Un gráfico con puntuaciones y detalles.
+**FAIR Evaluation Services**  
+[FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) (enlace externo) es automático.
 
-**F-UJI**
+Mejor para:  
+- Evaluar múltiples conjuntos de datos.  
+- Crear evaluaciones personalizadas.
 
-Herramienta automatizada a través del sitio web o API - Ideal para:
+Resultados incluyen:  
+- Informe detallado y gráfico.
 
--   Escalabilidad a muchos conjuntos de datos.
--   Documentación detallada de la herramienta.
+## Lección 3: Resumen
 
-Los resultados incluyen:
+En esta lección aprendiste:
 
--   Un informe y gráfico con puntuaciones y detalles.
+- Los diferentes tipos de datos científicos, incluidos datos primarios, secundarios, publicados y metadatos.
+- Prácticas de ciencia abierta para implementar principios FAIR que permiten que datos y resultados sean accesibles para una amplia variedad de personas.
+- Herramientas digitales para planificar la creación y el intercambio de datos abiertos.
 
-**FAIR EVALUATION SERVICES**
+## Lección 3: Evaluación de conocimiento
 
-Herramienta automatizada a través del sitio web o API - Ideal para:
+**Pregunta 01/03**
 
--   Escalabilidad a muchos conjuntos de datos.
--   Generación de una evaluación personalizada.
+Elegí los principios FAIR entre las opciones siguientes.  
+Seleccioná todas las que correspondan.
 
-Los resultados incluyen:
+- Reproducible  
+- Reusable  
+- Responsible  
+- Findable  
+- Interactive  
+- Interoperable  
+- Interspersed  
+- Accessible  
+- Authorizable  
 
--   Un informe detallado y un gráfico.
+**Pregunta 02/03**
 
-## Lección 3: Resumen  
+¿Cuáles de las siguientes acciones pueden ayudar a que tus datos sean FAIR?  
+Seleccioná todas las que correspondan.
 
-En esta lección has aprendido:
+- Obtener una licencia para tus datos  
+- Hacer que tus metadatos sean accesibles solo mientras tus datos lo sean  
+- Obtener un PID para tus datos  
 
--   Los diferentes tipos de datos científicos, incluyendo datos primarios, secundarios, publicados y metadatos.
--   Una lista de prácticas de Ciencia Abierta para aplicar los principios FAIR que hacen que los datos y resultados sean fácilmente accesibles a muchas personas.
--   Herramientas digitales que facilitan la planificación, creación e intercambio de Datos Abiertos.
+**Pregunta 03/03**
 
-## Lección 3: Evaluación 
+¿Cuáles de las siguientes opciones son ejemplos de repositorios?  
+Seleccioná todas las que correspondan.
 
-Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
+- Zenodo  
+- Dataverse  
+- Dryad  
+- Google  
 
-*Pregunta*
+## Referencias citadas
 
-**01/03**
-
-Selecciona los principios FAIR de la siguiente lista. Elige todas las opciones que correspondan.
-
--   Reproducibilidad
--   Reusable
--   Responsable
--   Fácil de encontrar
--   Interactivo
--   Interoperable
--   Intercalado
--   Accesible
--   Autorizable
-
-*Pregunta*
-
-**02/03**
-
-¿Cuál de las siguientes opciones puede ayudar a que tus datos sean FAIR? Selecciona todas las opciones que correspondan.
-
--   Obtener una licencia para tus datos
--   Desarrollar tus propios metadatos
--   Obtener un PID para tus datos
-
-*Pregunta*
-
-**03/03**
-
-¿Cuáles de los siguientes son ejemplos de repositorios? Selecciona todas las opciones que correspondan.
-
--   Zenodo
--   Dataverse
--   Dryad
--   Datacite
--   Google
+- Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data* 3:160018, [doi:10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18) (enlace externo) (2016).
