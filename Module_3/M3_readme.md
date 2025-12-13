@@ -4,7 +4,7 @@
 
 ## About This Module
 
-This module focuses on the practice and application of open science for data. It provides a 'how to' process for finding and assessing open data for use, for making open data and for sharing open data. The step-by-step flows are easy to follow and can be used as checklists after you complete the module. Some of the key topics discussed include: data management plans, the process for assessing data for reuse, creating a plan for making data including choosing open formats and adding documentation, and the considerations for sharing data and making your data citable. 
+This module focuses on the practice and application of open science for data. It provides a "how to" process for finding and assessing open data for use, for making open data, and for sharing open data. The step-by-step flows are easy to follow and can be used as checklists after you complete the module. Some of the key topics discussed include: data management plans, the process for assessing data for reuse, creating a plan for making data including choosing open formats and adding documentation, the considerations for sharing data, and making your data citable.
 
 ### Module Learning Objectives
 
@@ -12,37 +12,39 @@ After completing this module you should be able to:
 
 - Describe the meaning and purpose of open data, its benefits, and how FAIR principles are used.
 - Recall methods to assess the reusability of data based on its documentation, and cite the data as instructed.
-- Implement an open data management plan, select open data formats, add the needed documentation, including metadata, README files and version control, to make the data reusable and findable.
+- Implement an open data management plan; select open data formats; add the needed documentation, including metadata, README files, and version control; and make the data reusable and findable.
 - Evaluate whether your data should and can be shared.
-- Recall practices to make data more accessible, including the registration of an affiliated DOI and the inclusion of citation instructions in documentation.
+- Recall practices to make data more available, including the registration of an affiliated DOI and the citation instructions in documentation.
 
 ## Key Terms
 
 These key terms are important topics for this module. Select the term to see the description.
 
-**Copyright** – A type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression. Many different types of works are covered by copyright law including data products and software. (As well as books, poems, paintings, photographs, illustrations, musical compositions, and many more.)
+**Copyright** – A type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression. Many different types of works are covered by copyright law including data products and software (as well as books, poems, paintings, photographs, illustrations, musical compositions, and many more).
 
-**Data** – Any type of information, recordable, or observable facts. Data are now most commonly stored electronically.
+Note: Raw data, which are considered facts, are not covered by copyright law.
+
+**Data** – Factual information (such as measurements or statistics) used as a basis for reasoning, discussion, or calculation.
 
 **Data License** – Data licenses give any data creator a way to grant the public permission to use their products under copyright law. Similarly, data licenses give data users clear guidelines regarding how they can reuse the material.
 
-**CC-BY and CC0 License** – CC-BY and CC0 are Creative Commons data licenses. CC-BY allows reusers to distribute, remix, adapt, and build upon the material in any medium or format so long as attribution is given to the creator. The license allows for commercial use. CC0 allows creators to give up their copyright and put their works into the worldwide public domain. CC0 allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
+**Data Products** – Data products are reusable assets that process data and generate insights that help organizations make better decisions. Data products can include datasets, data streams, data feeds, APIs, code, data models, analytics models, and dashboards.
 
-**Data Management Plan** – A data management plan (DMP) describes the what, where, when, and who for data that will be created during a research project. Common components of data management plans include a description of the type, volume, and format of the data; where and when the data will be made available, and who will make the data available. The plan can also describe data variables, sources, accuracy, and precision if that information is available.
+**CC-BY and CC0 License** – CC-BY and CC0 are Creative Commons data licenses. CC-BY allows reusers to distribute, remix, adapt, and build upon the material in any medium or format so long as attribution is given to the creator. This license allows for commercial use. CC0 allows creators to give up their copyright and put their works into the worldwide public domain. CC0 allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
 
-**Metadata** – Data that describes data. It can be global – describing the overall contents of a single file or collection of files – or local – describing an individual variable within the file. Typically, global metadata offers information about who created the file, information about the data set, what satellite/instrument/lab/etc. created the set, the DOI, and file format information, among other metadata fields. Local metadata about variables contains information such as the full/long name of the variable, any scaling factors or uncertainty information, and measurement units.
+**Data Management Plan** – A data management plan (DMP) describes the what, where, when, and who for data that will be created during a research project. Common components of data management plans include a description of the type, volume, and format of the data; where and when the data will be made available; and who will make the data available. The plan can also describe data variables, sources, accuracy, and precision if that information is available.
 
-**Machine-Readable Persistent Identiﬁers (PID)** – A unique string that identifies an object, such as a dataset. Though the online location of the object may change, the PID will not, and will also lead back to the data, ensuring that citations referencing the PID will always be valid.
+**Metadata** – Data that describes data. It can be global - describing the overall contents of a single file or collection of files - or local - describing an individual variable within the file. Typically, global metadata offers information about who created the file, information about the data set, what satellite/instrument/lab/etc. created the set, the DOI, and file format information, among other metadata fields. Local metadata about variables contains information such as the full/long name of the variable, any scaling factors or uncertainty information, and measurement units.
 
-**Findable (data)** – Data that is readily discoverable to both humans and machines. It should include a unique persistent identifier and rich metadata describing the data and context and be registered in an index that is searchable.
+**Persistent Identiﬁers (PID)** – A unique string that identifies an object, such as a dataset. Though the online location of the object may change, the PID will not, and will also lead back to the data, ensuring that citations referencing the PID will always be valid.
+
+**Findable (data)** – Data that is readily discoverable to both humans and machines. It should include a unique persistent identifier, rich metadata describing the data and context, and be registered in an index that is searchable.
 
 **Accessible (data)** – Data that can be accessed over standard communication protocols, with metadata that can be accessed even if the data itself is no longer available.
 
 **Interoperable** (data) – Data that uses controlled ontologies and vocabularies so that it can be used and/or combined with other relevant data sets in different applications.
 
-**Reusable (data)** – Data that has a clear license, detailed provenance, adequate description/definition and meets community/domain standards, and can be replicated or combined with other data.
-
-**Dataﬂow** – The data workflow that includes how data are used, made, and shared. Different actors will have different (or multiple) roles in this workflow.
+**Reusable (data)** – Data that has a clear license, detailed provenance, adequate description/definition, meets community/domain standards, and can be replicated or combined with other data.
 
 ## Navigation
 
