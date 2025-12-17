@@ -12,26 +12,26 @@
 
 ## Overview
 
-In this lesson, you learn the steps for using existing open code in your work. These steps include discovering, assessing, reusing, citing, and acknowledging.
+In the previous lesson, you learned the core principles of open code and how it can accelerate the scientific process. Here, you will discover how to use existing open code in your own work. This lesson will explore where to search for open code and assess it for desired qualities. Keep in mind the functionality, usability, and security of the open code you find. Then, you will learn how to reuse open software and employ its latest supported version, as well as how to test the software. Finally, you will dive into the best practices for citing and acknowledging open code.
 
 ## Learning Objectives
 
 After completing this lesson, you should be able to:
 
-- Describe the process of using open code and list some key elements of discovering code.
+- Describe the process for using open code and list some key elements of discovering code.
 - Describe the four key considerations when assessing open software: functionality, interoperability, security, and licenses.
-- List some common problems that arise when reusing Open Code and best practices to resolve them.
-- Describe how, where, and under what circumstances one should acknowledge (cite) code.
+- List some common problems that arise when reusing open code and best practices to resolve them.
+- Describe how, where, and under what circumstances one should acknowledge/cite code.
 
 ## Discovering Open Code and Software
 
-Many people discover code through discussions with their colleagues or by reading journal articles and attending talks at conferences. This is a great way to find out about code that might have applications for your scientific problem.
+Many people discover code through discussions with their colleagues, reading journal articles, or attending talks at conferences. These are great ways to find code that might have applications for your scientific problem or research question.
 
-What other ways can someone search for open code? As a first step, look for code that already exists because chances are that someone else has already had a similar problem and published their code online. A common way to search for existing code is with a general search engine. Search engines offer one indicator of a code’s relevancy, how recently it was updated, and how frequently others reference it.
+What are other ways someone can search for open code? As a first step, look for code that already exists, because chances are that someone else has already had a similar problem and published their code online. A common way to search for existing code is with a general search engine. Search engines offer one indicator of a code's relevancy, how recently it was updated, and how frequently others reference it.
 
 |  |  |
 |---|---|
-| Example | I'm a new graduate student starting to work on modeling turbulence in the Southern Ocean to better understand sea surface temperature (or ocean heat uptake) and climate change. Is there some software available to model how eddies in the ocean affect sea-surface temperature? |
+| Example | I'm a new graduate student starting to work on modeling turbulence in the Southern Ocean to better understand sea surface temperature (or ocean heat uptake) and ocean dynamics. Is there some software available to model how eddies in the ocean affect sea-surface temperature? |
 | Exercise | General Search on the term "Software for ocean turbulence modeling" |
 | Result | General Ocean Turbulence Model (GOTM) |
 
@@ -39,37 +39,38 @@ This successful search is predicated on the developers of GOTM making their code
 
 ### Open Software Discovery Depends on Developers Following FAIR Principles
 
-Discovering open software depends on developers making their software easy to find. The Findable, Accessible, Interoperable and Reusable (FAIR) Principles for research software suggest:
+The discoverability of open software depends on developers making their software easy to find. The Findable, Accessible, Interoperable and Reusable (FAIR) Principles for research software suggest:
 
 - Software and its associated metadata must be easy for humans and machines to find.
 - Software must be described with rich, searchable, and indexable metadata.
-- Software must be findable from all relevant search points
+- Software must be findable from all relevant search points.
 
-**Reference:** "The FAIR Guiding Principles for scientific data management and stewardship" Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). See also Module 1.
+(Wilkinson et al., 2016)
 
 However, you may have more specific needs. The following sections cover additional ways to help discover relevant software that meets specific research demands.
 
 ### How to Search for Open Code
 
-A successful search for open code demands a clearly defined purpose. Developers must first determine the tasks they expect their code to carry out. The requirements associated with these tasks can determine the best suited programming language.
+A successful search for open code demands a clearly-defined purpose. Developers must first determine the tasks they expect their code to carry out. The requirements associated with these tasks can determine the best-suited programming language.
 
-Next, familiarize yourself with the terminology of others who created open software with similar requirements to your own. The keywords affiliated with your programming purpose or requirements can serve as a starting point when searching for relevant code. These keywords can be found in community forums about open source programming and in related scientific journal articles. With adoption of open access principles by many academic journals, prospective programmers can peruse scientific papers from fields related to their research in order to find, and sometimes make use of, existing code that will fulfill their requirements.
+Next, if you want to find open code with similar requirements to your own, familiarize yourself with the terminology employed by others. The keywords affiliated with your programming purpose or requirements can serve as a starting point when searching for relevant code. These keywords can be found in community forums about open source programming and in related scientific journal articles. With adoption of open access principles by many academic journals, prospective programmers can peruse scientific papers from fields related to their research in order to find, and sometimes make use of, existing code that will fulfill their requirements.
 
 ### Know Where to Search
 
-The open software ecosystem is vast, organic, multifaceted, and highly distributed.
+The open code ecosystem is vast, organic, multifaceted, and highly distributed.
 
-If you are looking for scientific software, community standards increasingly require code to be published and linked to scientific papers.
+If you are looking for scientific code, community standards have increasingly required code to be published and linked to scientific papers.
 
 <img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
+Image Credit: NASA
 
-Thus, the scientific literature and its ancillary code archives are increasingly a great place to look for scientific open code.
+Thus, the scientific literature and its ancillary code archives are a great place to look for scientific open code.
 
 Most open code is not developed by or for scientists. However, open code enables research every day.
 
 ### Where to Look Depends on What You Need
 
-There are several popular search engines for code snippets. First, you can simply search on Google. Other commonly used search engines include GitHub Code Search and Stack Overflow. These search engines allow you to search for specific code snippets by programming language, keyword, or other criteria. GitHub Code Search allows you to search GitHub, a popular code repository for scientific software. Stack Overflow allows you to search forums, where users discuss solutions to coding problems.
+There are several popular search engines for code snippets. First, you can simply search on Google. Other commonly-used search engines include GitHub Code Search and Stack Overflow. These search engines allow you to search for specific code snippets by programming language, keyword, or other criteria. GitHub Code Search allows you to search GitHub, a popular code repository for scientific code. Stack Overflow allows you to search forums, where users discuss solutions to coding problems.
 
 #### Examples of code repositories:
 
@@ -93,33 +94,38 @@ There are several popular search engines for code snippets. First, you can simpl
 </tbody>
 </table>
 
+**Logo credit:**
+
+**GitHub** - GITHUB®, the GITHUB® logo design, and the INVERTOCAT logo design are trademarks of GitHub, Inc., registered in the United States and other countries.
+**GitLab** - GITLAB and the GITLAB logo are trademarks of GitLab Inc. in the United States and other countries and regions.
+**Bitbucket** - BITBUCKET and the BITBUCKET logo are trademarks of Atlassian Pty Ltd.
+
 **Example - GitHub Code Search**
 
 In this example, we will practice searching for open access code on GitHub. Let's work through a scenario in which you would like to search for the Lomb and Scargle method for estimating a power spectrum.
 
 **Example background**
 
-GitHub enables users to collaborate on a shared project and track their changes with version control. Users can create a repository and grant others access, or make it open access. GitHub involves a large community of open access users who make their code available for free.
+GitHub enables users to collaborate on a shared project and track their changes with version control. Users can create a repository and grant others access, or make it open access. GitHub involves a large community of open access users who make their code available for free!
 
 **Example instruction**
 
-Begin by visiting the GitHub website to search for openly available software packages. You will need to create a free account for this action. Navigate to the Search Code page to begin your search and access tutorials on the interface and capabilities of the search portal. Alternatively, you can simply input your search terms in the search bar while on your profile page. Next, input the related keywords into the search bar. Search for "Lomb Scargle" and find several repositories with relevant code in various languages, along with thousands of related snippets of code. Congratulations! You have begun your open access software journey and can now view the work of thousands of others who once were where you are now. Upwards and onwards!
+Begin by visiting the GitHub website to search for openly-available software packages. You will need to create a free account for this action. Navigate to the Search Code page to begin your search. You can even access tutorials on the interface and capabilities of the GitHub search portal. Alternatively, you can simply input your search terms in the search bar while on your profile page. Next, input the related keywords into the search bar. Search for "Lomb Scargle" and find several repositories with relevant code in various languages, along with thousands of related snippets of code. Congratulations! You have begun your open access code journey and can now view the work of thousands of others who once were in your footsteps.
 
 <img src="../images/media/image335.jpg" style="width:100%;height:auto;" />
-
-Screenshot of the repositories returned from our search
+GitHub search [Screenshot]. (2023). GitHub. [https://github.com/](https://github.com/) (external link)
 
 <img src="../images/media/image496.jpg" style="width:100%;height:auto;" />
-
-Screenshot of the code snippets returned from our search
+GitHub search [Screenshot]. (2023). GitHub. [https://github.com/](https://github.com/) (external link)
 
 ---
 
-With open software, knowing where to search and what to search for can be a challenging problem. You can always start with a Google Search. However, it can be valuable to think through some of the questions that guide the discovery process. If the user lacks relevant experience, it can also be helpful to engage experienced colleagues at this stage.
+With open code, knowing where to search and what to search for can be a challenging problem. You can always start with a Google search. However, it can be valuable to think through some of the questions that guide the discovery process. If the user lacks relevant experience, it can also be helpful to engage experienced colleagues at this stage.
 
-Review the flow chart that illustrates how the search follows the definition of the need.
+Review the flow chart below that illustrates how a search follows the definition of the need:
 
 <img src="../images/media/image128.jpg" style="width:6.23514in;height:3.24979in" />
+Image Credit: NASA
 
 ### Open Software is Aggregated and Searchable in Repositories
 
@@ -174,29 +180,44 @@ Most research code should be open source software, which is stored in code repos
 </tbody>
 </table>
 
+**Logo credit:**
+
+**Software Heritage** - Software Heritage and the Software Heritage logo are registered trademarks by Inria.
+**Open Source Development Network (OSDN)** - OSDN and the OSDN logo are trademarks of Appirits Inc.
+**SourceForge** - SourceForge and the SourceForge logo are Slashdot Media trademarks or registered trademarks in the United States and in other countries (the “Slashdot Media Marks”).
+**Free and Open-Source Software Hub (FOSSHUB)** - Fosshub® and the FossHub® logo are registered trademarks of FossHub.
+**Google Open Source** - Google Open Source and the Google Open Source logo are trademarks of Google LLC and this curriculum is not endorsed by or affiliated with Google in any way.
+**Comprehensive Perl Archive Network** - The CPAN logo was created by J.C. Thorpe and is distributed under Artistic License or GPLv1+.
+**PyPl** - PyPI, Python Package Index, and the blocks logos are trademarks or registered trademarks of the [Python Software Foundation](https://www.python.org/psf-landing/) (external link) referring to the products and services associated with [pypi.org](https://www.python.org/psf-landing/) (external link).
+**CRAN** - The R logo is © 2016 [The R Foundation](https://www.r-project.org/logo/) (external link) under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/) (external link) (CC-BY-SA 4.0).
+
 **NASA Resources for Discovering Open Software**
 
-These are a few links to NASA-specific repositories that may be of interest: 
+Here are a few links to NASA-specific repositories that may be of interest:
+
 - [NASA Open Source Software](https://code.nasa.gov/)
 - [NASA Open APIs](https://api.nasa.gov/)
-- [Science Discovery Engine A strophysics Data System](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
+- [Science Discovery Engine](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
+- [Astrophysics Data System](https://ui.adsabs.harvard.edu/) (external link)
 - [Earthdata Developer Portal](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
-[Exoplanet Modeling and Analysis Center](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
+- [Exoplanet Modeling and Analysis Center](https://emac.gsfc.nasa.gov/)
 
 ## Assessing Open Code and Software
 
-So, you've discovered some exciting open code that might help you solve your scientific problem. Can you trust this code you discovered on the web? Will it be useful? How much time will it take to learn it? Could the code contain malware? Could you get in legal trouble for using it?
+So, you've discovered some exciting open code that might help you solve your scientific problem. But there are several key questions to consider: Can you trust this code you discovered on the web? How much time will it take to learn it? Could the code contain malware? Could you get in legal trouble for using it?
 
-**Examples:** You found the “General Ocean Turbulence Model (GOTM)” on the internet, and it looks promising. Or, you just found lots of code snippets and functions related to the Lomb-Scargle power spectrum. Now you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
+**Example:** You found the "General Ocean Turbulence Model (GOTM)" on the internet, and it looks promising. Or, you just found lots of code snippets and functions related to the Lomb-Scargle power spectrum. Now, you would like to assess these pieces of code to help you decide if you should use them.
+
+This section discusses some best practices for assessing whether the code will help you.
 
 ### Four General Considerations for Assessing Open Software
 
 Software assessment criteria are similar, for any level of openness:
 
 - **Functionality:** Will it be useful for your scientific problem?
-- **Interoperability:** How hard will it be to use?
+- **Interoperability:** How difficult will it be to use?
 - **Security:** Is it safe? Would using the software create a security risk?
-- **Licenses/restrictions:** Can you use it? Is it legal to use the software in your project?
+- **Licenses/restrictions:** Are you allowed use it? Is it legal to use the software in your project?
 
 ### Functionality: Assessing Scientiﬁc Utility
 
@@ -204,8 +225,8 @@ Software assessment criteria are similar, for any level of openness:
 
 - Does it address your specific science question? 
 - Do studies similar to yours use it?
-- What papers cite it and how do they use it?
-- Talk to your advisors or colleagues that might have experience with it.
+- Which papers cite it and how do they use it?
+- Do your advisors or colleagues have experience with it?
 
 #### Testing the scientiﬁc compatibility
 
@@ -221,7 +242,7 @@ It can be easier to use coding languages that you are familiar with, then import
 
 #### Check for good documentation
 
-Read the README file. Does the software meet your functional requirements? Are the environmental dependencies well-defined and reasonable?
+Check the README file. Does the code meet your functional requirements? Are the environmental dependencies well-defined and reasonable?
 
 #### Check the evidence of interoperability with other projects and codes
 
@@ -229,34 +250,37 @@ It is a good sign if you can find evidence that the code has been used successfu
 
 ### Factors for assessing the quality of open source software
 
-To quickly assess the community usage and quality of software repository, use the tools from the repository where you found it. GitHub, for example, permits a quick scan of development activity as evidenced by the number of times the code has been downloaded or ‘forked’ in GitHub parlance. You can also view the amount of activity in a community. GitHub also provides insights into the quality of the software.
+To quickly assess the community usage and quality of software in a repository, use the tools from the repository where you found it. GitHub, for example, permits a quick scan of development activity as evidenced by the number of times the code has been downloaded or, in GitHub parlance, 'forked.' You can also view the amount of activity in a community. GitHub also provides insights into the quality of the software.
 
 <img src="../images/media/image291.jpg" style="width:100%;height:auto;" />
+Modified GitHub search [Screenshot]. (2023). GitHub. [https://github.com/astropy/astropy](https://github.com/astropy/astropy) (external link)
 
 ### The Importance of the README File
 
-- Example above: [Astropy](https://github.com/astropy/astropy/blob/main/README.rst)
-- Always the starting point when assessing software.
+- Is a universally-accepted starting point when assessing software.
 - Explains what the software does, how to install and use it, or points to files with that information.
-- Assumes limited prior knowledge by the reader / potential user.
-- Includes a compatibility description, e.g., dependencies.
+- Assumes limited prior knowledge by the reader or potential user.
+- Includes a compatibility description, e.g. dependencies.
 - Includes usage examples and/or test cases.
 
 ### Security: Considerations When Using Open Code
 
-You have found some Open Code that will help you solve your scientific problem and it looks easy to use. However, you may still have some reservations. Perhaps you are unsure if the code poses a security risk, for example.
+You've found some open code that will help you solve your scientific problem, and it looks easy to use! However, you may still have some reservations. Perhaps you are unsure if the code poses a security risk, for example.
 
-The risks are relatively low for small snippets of code that are easy for you to fully understand. However, you may not be able to fully understand all components of a large Open Software Package.
+The risks are relatively low for small snippets of code that are easy for you to fully understand. However, you may not be able to fully understand all components of a large open software package.
 
-Open software is perceived to have more security risks. This is generally less of a problem for open source code than executables because the code can be audited for security vulnerabilities by the community. How can you assess security in this case?
+Open software is perceived to have more security risks. This is generally less of a problem for open-source code than executables, because the code can be audited for security vulnerabilities by the community. How can you assess security for the code you have discovered?
 
-- Consult with your institutional open software policies and IT staff
-- Use authoritative reputable sources to minimize security risks
-- Set strict security rules and standards when using a dependency
-- Use security tools to check for vulnerabilities (e.g., [Open Worldwide Application Security</u> Project®](https://owasp.org/))
-- Avoid unsupported open-source software. Switch to actively developed components or develop it yourself
-- Check with your latest institutional policies on using Machine Learning and Artificial Intelligence tools
-- Use caution when using external tools with secure or closed access data. It may be possible for the external tool to publicly share what should be restricted information
+- Consult with your institutional open software policies and IT staff.
+- Use security tools to check for vulnerabilities, e.g. [Open Worldwide Application Security Project®](https://owasp.org/) (external link).
+- Check with your latest institutional policies on using Machine Learning and Artificial Intelligence tools.
+
+Best practices for using open code:
+
+- Use authoritative, reputable sources to minimize security risks.
+- Set strict security rules and standards when using a dependency.
+- Avoid unsupported open source software. Switch to actively developed components or develop it yourself.
+- Use caution when using external tools with secure or closed access data. It may be possible for the external tool to publicly share what should be restricted information.
 
 ### Licenses
 
@@ -266,7 +290,7 @@ Although licensing is a nuanced subject that you will learn more about in Lesson
 
 ## Reusing Open Code
 
-Software can be reused in a variety of ways. A software package can be executed on its own to provide a complete analysis or models depending on the input parameters. Alternatively, the package could be imported as part of a larger library to provide specific functionality. Also, code snippets can be copied into existing code, if permitted, or the code could be re-written and incorporated into new software.
+Software and code can be reused in a variety of ways. A software package can be executed on its own to provide a complete analysis or model depending on the input parameters. Alternatively, the package could be imported as part of a larger library to provide specific functionality. Also, code snippets can be copied into existing code, if permitted, or the code could be re-written and incorporated into new software.
 
 If you simply intend to reuse a code snippet, continuously test that your selected code works as you expect. If you are reusing a more complex code, there are additional considerations.
 
@@ -283,42 +307,42 @@ Consider the following when selecting among multiple versions of open source sof
 ### Resolve Problems in Reusing Software
 
 - Implement tests to verify that the software performs as expected in your application.
-- If you run into problems, revisit the release notes, issue tracker, and/or user/developer forums.
+- If you run into problems, revisit the release notes, issue tracker, and/or user and developer forums.
 - Don't be afraid to ask experienced colleagues for help.
-- It is better to seek and obtain help in a public forum than in private (eg. email). Part of open science is working in the open. Often you may find through a search that other users have similar questions. Someone may have already offered a solution. If not, it is likely that others will benefit from your question being answered in public.
+- It is better to seek and obtain help in a public forum than using private communication (e.g. email). Part of open science is working in the open. - Often you may find through your search that other users have had similar questions. Someone may have already offered a solution. If not, it is likely that others will benefit from your question being answered in public.
 
 ### Activity 2.1: Ways to Get Help Using Open Software
 In this activity, you are asked to select from a list of ways you can resolve some common problems that arise when using open software.
 
 #### Exercise 1
 
-Select how you can resolve this problem when using open software: Difficulty finding open software that meets your needs.
+Select how you can resolve this problem when using open software: difficulty finding open software and determining that it meets your needs.
 
 Select all that apply.
 - Reach out to expert colleagues
-- Read related peer reviewed literature
+- Read related peer-reviewed literature
 - Conduct a search of various popular repositories
 - Read the README file
 - Read the license file
 
 #### Exercise 2
 
-Select how you can resolve the problem when using open software: installation difficulties. 
+Select how you can resolve this problem when using open software: installation difficulties. 
 
 Select all that apply.
 - Reach out to the developers on a public forum
-- Read related peer reviewed literature
+- Read related peer-reviewed literature
 - Conduct a search of various popular repositories
 - Read the README file
 - Read the license file
 
 #### Exercise 3
 
-Select how you can resolve the problem when using open software: software is not working as expected. 
+Select how you can resolve this problem when using open software: software is not working as expected.
 
 Select all that apply.
 - Reach out to the developers on a public forum
-- Read related peer reviewed literature
+- Read related peer-reviewed literature
 - Conduct a search of various popular repositories
 - Read the README file
 - Read the license file
@@ -326,13 +350,15 @@ Select all that apply.
 
 #### Exercise 4
 
-After answering the questions above, work through some specific examples of how you would resolve problems on your own. For example, navigate to the astropy code repository on GitHub or another repository of your choice, and find the README and LICENSE files. Determine how you would contact the developers for help, etc.
+After answering the questions above, work through some specific examples of how you would resolve problems on your own. For example, navigate to the astropy code repository on GitHub (or another repository of your choice) and find the README and LICENSE files. Determine how you would contact the developers for help, etc.
 
 ## Citing and Acknowledging Open Code Use
 
-Imagine that you’ve used Open Code pulled from the web and it made a big difference for your project research paper. How should you provide due credit for the open access code that contributed to your research?
+Imagine that you've used open code pulled from the web and it made a big difference in your project research paper. How should you provide due credit for the open access code that contributed to your research?
 
-**Example:** You managed to implement GOTM to learn something new about ocean turbulence in the Southern Ocean, or you managed to compute a Lomb-Scargle periodogram using astropy. Here are some questions to consider:
+**Example:** You managed to implement GOTM to learn something new about ocean turbulence in the Southern Ocean, or you managed to compute a Lomb-Scargle periodogram using astropy.
+
+Here are some questions to consider:
 
 ### Should you cite the Open Code?
 
@@ -341,7 +367,7 @@ Cite any code that you view as having contributed to your research:
 - Did the code play a critical part in your research?
 - Did the code provide something novel?
 
-In most cases, a code snippet on Stack Overflow does not constitute a citable research contribution. However, an author can still decide to cite it if they chose.
+In most cases, a code snippet on Stack Overflow does not constitute a citable research contribution. However, an author can still decide to cite it if they choose.
 
 Instances when shared code directly impacts the scientific results and requires a detailed description include:
 
@@ -354,23 +380,23 @@ In some cases, a software’s licensing terms and conditions require acknowledge
 
 ### How to cite?
 
-Ideally, use and cite code that is archived in a long-term repository with a persistent DOI. Follow the guidance about the preferred citation format, which is provided in the long- term repository and may appear in a README or a CITATION file.
+Ideally, use and cite code that is archived in a long-term repository with a persistent DOI. Follow the guidance about the preferred citation format, which is usually provided in the long-term repository and may appear in a README or a CITATION file.
 
-DOIs provide a persistent identifier/link for research outputs. Thus, it is preferable to cite code in long-term repositories linked to a DOI. URLs (e.g., Stack Overflow) and active repositories (e.g., on GitHub) are mutable but can be used if there is no alternative.
+DOIs provide a persistent identifier/link for research outputs. Thus, it is preferable to cite code in long-term repositories linked to a DOI. URLs (e.g. Stack Overflow) and active repositories (e.g. on GitHub) are mutable but can be used if there is no alternative.
 
 Packages may provide a way to cite individual versions as well. For reproducibility, cite both the overall package and the version that is used in your work. As functionality of a package may evolve with the release of new versions, this helps provide a specific description of your work.
 
-If you are writing software, you can also cite in the comments and documentation of the software that you have used.
+If you are writing software, you can also cite the software that you have used during your work in the comments and documentation.
 
 ## Lesson 2: Summary
 
 In this lesson, you learned that:
 
-- Open code exists in a vast, organic, and distributed ecosystem. Discovering Open Code depends on defining your requirements, knowing where to look, and developers using FAIR principles.
-- Scientific papers are now a good place to discover scientific Open Code, since many journals require the code used in the paper to be linked via a DOI.
-- Before use, it is important to assess open software for functionality, quality, interoperability, security, and license/reuse restrictions. Your first step should be to look for a README file.
+- Open code exists in a vast, organic, and distributed ecosystem. Discovering open code depends on defining your requirements, knowing where to look, and using FAIR principles.
+- Scientific papers are now a good place to discover scientific open code, since many journals require the code used in the paper to be linked via a DOI.
+- Before use, it is important to assess open software for functionality, quality, interoperability, security, and license/reuse restrictions. Your first step should be to look for a README file for these details.
 - When reusing open software, use the latest supported version and test the software to ensure it functions as expected. If problems arise, reach out to the developers or user community, ideally via a public forum.
-- It is important to cite and acknowledge open software that significantly contributes to your work, as well as share your lessons learned and any contributions with the developers and user community.
+- It is important to cite and acknowledge open code and software that significantly contributes to your work, and share your lessons learned or any contributions openly with the developers and user community.
 
 ## Lesson 2: Knowledge Check
 
@@ -384,10 +410,10 @@ Discovering open software successfully depends on which of the following:
 
 Select all that apply.
 
-- Well defined requirements
+- Well-defined requirements
 - Knowing where to search
-- FAIR open software exists to meet your needs
-- All of the above
+- FAIR open code exists to meet your needs
+- Knowing how to write license files
 
 *Question*
 
@@ -406,5 +432,9 @@ Read the statement and decide whether it's true or false:
 
 When citing Open Code, it is best practice to cite:
 
-- The primary working repository, e.g. on GitHub. It has the most recent version of the code, including any updates since your paper was written.
-- A long-term code repository linked to a DOI, e.g. on Zenodo. This repository contains a persistent version of the code that you used.
+- A. The primary working repository, e.g. on GitHub. It has the most recent version of the code, including any updates since your paper was written.
+- B. A long-term code repository linked to a DOI, e.g. on Zenodo. This repository contains a persistent version of the code that you used.
+
+### References Cited
+
+- Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18) (external link)
