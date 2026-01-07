@@ -10,7 +10,7 @@
 
 ## Descripción general
 
-¿Qué significa “Ciencia Abierta”? En esta lección vas a ver con más detalle lo que significa la Ciencia Abierta, así como los objetivos y los resultados que se persiguen al adoptarla tanto de forma individual como como parte de una comunidad más amplia. A continuación, revisarás los distintos componentes de la ciencia y los pilares que los conforman, seguidos de ejemplos de Ciencia Abierta en acción, incluyendo un caso de estudio sobre investigación en ciencia ciudadana. Finalmente, la lección concluye con un análisis más detallado de por qué es necesario adoptar la Ciencia Abierta en el mundo científico actual.
+¿Qué significa “Ciencia Abierta”? En esta lección vas a ver con más detalle lo que significa la Ciencia Abierta, así como los objetivos y los resultados que se persiguen al adoptarla tanto de forma individual como como parte de una comunidad más amplia. A continuación, revisarás los distintos componentes de la ciencia y los pilares que los conforman, seguidos de ejemplos de Ciencia Abierta en acción, incluyendo un caso de estudio sobre investigación en Ciencia Ciudadana. Finalmente, la lección concluye con un análisis más detallado de por qué es necesario adoptar la Ciencia Abierta en el mundo científico actual.
 
 ## Objetivos de aprendizaje
 
@@ -54,7 +54,7 @@ Al financiar una variedad de actividades de investigación, desde ciencia básic
 
 Las prácticas y principios de la Ciencia Abierta que desempeñan un papel fundamental en el éxito de las misiones de la NASA son igualmente relevantes para otras agencias e instituciones gubernamentales. Se necesitan consideraciones, enfoques y comportamientos similares en diversos contextos científicos. Las herramientas para los marcos y los flujos de trabajo basados en la Ciencia Abierta siguen, por lo general, modelos similares.
 
-Las prácticas y principios de la Ciencia Abierta pueden aplicarse a todas las fases del proceso de investigación. Uno de los primeros ejemplos de los esfuerzos de la NASA por implicar a más personas en la ciencia es el conjunto de [proyectos de ciencia ciudadana de exoplanetas](https://exoplanets.nasa.gov/citizen-science/) (en inglés), entre los cuales el proyecto [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (en inglés) es una parte importante de este esfuerzo.
+Las prácticas y principios de la Ciencia Abierta pueden aplicarse a todas las fases del proceso de investigación. Uno de los primeros ejemplos de los esfuerzos de la NASA por implicar a más personas en la ciencia es el conjunto de [proyectos de Ciencia Ciudadana de exoplanetas](https://exoplanets.nasa.gov/citizen-science/) (en inglés), entre los cuales el proyecto [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (en inglés) es una parte importante de este esfuerzo.
 
 <img src="../images/media/image266_es.png" style="width: 100%; height: auto;" />
 
@@ -200,8 +200,8 @@ Compartir de manera abierta no solo ayuda a la sociedad, sino que también puede
   <tbody>
     <tr>
         <td colspan="2">
-            <p>JunoCam es una cámara/telescopio que está a bordo de la nave espacial Juno que orbita alrededor de Júpiter. Se añadió a Juno específicamente para comunidades de Ciencia Ciudadana y con fines de divulgación pública.</p>
-            <p>El propósito original de la cámara no era hacer ciencia, sino sólo observar. Sin embargo, se dio acceso a personas que hacen ciencia ciudadana, quienes procesaron las fotografías ensamblando las distintas series de imágenes de JunoCam. La participación de la comunidad que hace ciencia ciudadana ayudó a incrementar la utilidad de la cámara y <a href="https://www.nasa.gov/missions/europa-clipper/citizen-scientists-enhance-new-europa-images-from-nasas-juno/">llevó a un éxito imprevisto</a>. Las icónicas imágenes de Júpiter y Europa creadas por la ciudadanía científica han intrigado e inspirado a personas de todo el mundo.</p>
+            <p>JunoCam es una cámara/telescopio a bordo de la nave espacial Juno, que orbita Júpiter. Se añadió a Juno específicamente para comunidades de Ciencia Ciudadana y con fines de divulgación pública.</p>
+            <p>El propósito original de la cámara no era hacer ciencia, sino sólo observar. Sin embargo, se dio acceso a personas que hacen Ciencia Ciudadana, quienes procesaron las fotografías ensamblando las distintas series de imágenes de JunoCam. La participación de la comunidad que hace Ciencia Ciudadana ayudó a incrementar la utilidad de la cámara y <a href="https://www.nasa.gov/missions/europa-clipper/citizen-scientists-enhance-new-europa-images-from-nasas-juno/">llevó a un éxito imprevisto</a>. Las icónicas imágenes de Júpiter y Europa creadas por la ciudadanía científica han intrigado e inspirado a personas de todo el mundo.</p>
             <p>Los datos recogidos también beneficiaron a la ciencia tradicional:</p>
             <p>"Prácticamente todo lo que estamos aprendiendo sobre las estructuras y la dinámica de las nubes de Júpiter procede de imágenes editadas públicamente", afirma Candice Hansen, científica planetaria y responsable de JunoCam. Hansen explica: "El equipo está procesando algunas imágenes por sí mismo, pero al no disponer de personal para ello, el grupo de investigación confía en el trabajo de la ciudadanía científica".</p>
             <p>El equipo de la nave espacial Juno hizo posible una ciencia nueva e inesperada gracias a los datos abiertos y de fácil acceso. La participación pública aportó nuevas perspectivas y amplió la capacidad del equipo para llevar a cabo valiosas investigaciones.</p>
@@ -385,3 +385,10 @@ _Pregunta_
 - Aumento del uso de papel debido a la impresión de revistas y artículos científicos.
 - La superpoblación de determinadas especies animales usadas en ensayos de laboratorio.
 - Los crecientes costos de los bienes de consumo de lujo se ven influidos por los avances tecnológicos.
+
+## Referencias citadas
+- Gilet, C. (s. f.). Fusión fría: un estudio de caso sobre el comportamiento científico. Understanding Science. [https://undsci.berkeley.edu/cold-fusion-a-case-study-for-scientific-behavior/](https://undsci.berkeley.edu/cold-fusion-a-case-study-for-scientific-behavior/) (enlace externo)
+- Nair-Bedouelle, S. (s. f.). ¿Puede la ciencia ser más equitativa para que todas las personas disfruten de sus beneficios? La ciencia abierta es la respuesta. UNESCO. [https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer](https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer) (enlace externo)
+- Ramachandran, R., Bugbee, K. y Murphy, K. (2021). De los datos abiertos a la ciencia abierta. Earth and Space Science, 8, e2020EA001562. [https://doi.org/10.1029/2020EA001562](https://doi.org/10.1029/2020EA001562) (enlace externo)
+- Stodden, V., Seiler, J. y Ma, Z. (2018). Un análisis empírico de la efectividad de las políticas de revistas para la reproducibilidad computacional. Proc. Natl. Acad. Sci. U.S.A. 115(11), 2584-2589. [https://doi.org/10.1073/pnas.1708290115](https://doi.org/10.1073/pnas.1708290115) (enlace externo)
+
