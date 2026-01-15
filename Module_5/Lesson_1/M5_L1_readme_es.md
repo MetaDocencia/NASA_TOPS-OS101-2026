@@ -88,7 +88,7 @@ Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación**
 
 ### Llegar a nuevas audiencias
 
-<img src="../images/media/image9_es.png" style="width:350px;height:auto;" />
+<img src="../images/media/image9_es.png" style="width:100%;height:auto;" />
 Taller de Google Earth Engine y geemap en GeoPython Conference 2021 [captura de pantalla]. (2025). YouTube. [https://www.youtube.com/watch?v=wGjpjh9IQ5I](https://www.youtube.com/watch?v=wGjpjh9IQ5I) (enlace externo)
 
 Qiusheng Wu es profesor asociado en la University of Tennessee. Publicó más de 500 tutoriales en video en [YouTube](https://www.youtube.com/%40giswqs) (enlace externo), que alcanzaron más de 42 mil suscriptores y más de 1,9 millones de visualizaciones (a febrero de 2025).
