@@ -200,7 +200,7 @@ Tu institución, agencia financiadora o propuesta de investigación puede exigir
 
 ### Vías para publicar en acceso abierto
 
-<img src="../images/media/image68_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image68_es.png" style="width:100%;height:auto;" />
 Crédito de la imagen: Esta imagen fue creada por Scriberia para la comunidad de The Turing Way y se usa bajo una licencia CC BY 4.0.
 
 ---
