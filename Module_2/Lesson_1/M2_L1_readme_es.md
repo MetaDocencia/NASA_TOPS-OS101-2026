@@ -35,7 +35,7 @@ Crédito de la imagen: «Earth Science», NASA [1992]
 
 El conocimiento científico, o productos de investigación, adopta la forma de datos, resultados, código y software.
 
-[IMG: https://drive.google.com/file/d/1jkWtcYwOX5_k-RNQnhxL2vjKg4zlJ6o8/view?usp=drive_link]  
+<img style="width:100%;height:auto;" src="../images/media/science-data.png">
 Crédito de la imagen: modificado a partir de «Scientist explaining with graph», illustrAC
 
 Dentro de estos productos de investigación se incluyen además otros tipos de productos, como metodologías, algoritmos y artefactos físicos.
@@ -101,7 +101,7 @@ En las siguientes lecciones de este módulo exploraremos diferentes herramientas
 
 ### Componentes de la Ciencia Abierta
 
-[IMG: https://drive.google.com/file/d/1IduduABTYGsC8rV2T752x_TC41JaPpbU/view?usp=drive_link]
+<img style="width:100%;height:auto;" src="../images/media/new_pyramid_es.png">
 
 Los cuatro componentes principales de la Ciencia Abierta pueden organizarse en una pirámide de productos de investigación compartidos abiertamente.
 
