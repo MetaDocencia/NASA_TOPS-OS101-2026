@@ -460,7 +460,7 @@ Un repositorio de software es un espacio dinámico y colaborativo donde quienes 
 
 Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Las personas usuarias acceden a estos archivos para obtener versiones confiables del software, lo que asegura la estabilidad y la confiabilidad de sus aplicaciones. Comprender la diferencia entre ambos es crucial para un desarrollo y distribución de software eficaces.
 
-<img src="../images/media/image45_es.png" style="width:350px;height:auto;" />
+<img src="../images/media/image45_es.jpg" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA
 
 Git/GitHub y Bitbucket son opciones populares para repositorios de software.
