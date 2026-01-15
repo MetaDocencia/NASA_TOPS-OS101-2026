@@ -41,7 +41,7 @@ Sin embargo, incluso si ya existe una solución, puede haber buenas razones para
 - La licencia no es lo suficientemente abierta como para adoptarlo.
 - Quieres probar nuevas técnicas o desarrollar una comprensión más profunda del problema.
 
-<img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image333_es.jpg" style="width:350px;height:auto;" />
 
 Puede llevar más tiempo iniciar un proyecto nuevo o integrar el código de otra persona que escribir el tuyo propio. Esa decisión deberá tomarse en cada caso.
 
@@ -61,7 +61,7 @@ Esta lección se centra principalmente en la cuestión de cómo gestionar códig
 
 ### Organización de un proyecto
 
-<img src="../images/media/image353.png" style="width:250px;height:auto;" />
+<img src="../images/media/image353_es.png" style="width:250px;height:auto;" />
 Crédito de la imagen: Foto de XKCD con licencia Creative Commons Attribution-NonCommercial 2.5
 
 ---
