@@ -27,7 +27,7 @@ Luego de completar esta lección, deberías poder:
 
 ## Planificar cómo compartir el código
 
-<img src="../images/media/image540.png" style="width:350px;height:auto;" />
+<img src="../images/media/image540_es.png" style="width:350px;height:auto;" />
 
 Imagina que has estado trabajando en un fragmento de código y que una posible persona colaboradora se acerca porque quiere usar tu código en su proyecto. ¿Cuál es la mejor forma de compartirlo? ¿Por correo electrónico? ¿Cuándo deberías compartir el código y qué deberías incluir para asegurarte de que la otra persona pueda usarlo con facilidad? Desarrollar un plan para compartir antes de iniciar el proyecto te ahorrará tiempo y esfuerzo más adelante.
 
@@ -126,7 +126,7 @@ Si tu proyecto está financiado mediante una subvención, revisa la convocatoria
 
 ### Actividad 4.1: identificar las políticas de publicación de software de tu organización
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 Supón que deseas iniciar un nuevo proyecto de software de código abierto:
 
@@ -157,7 +157,7 @@ Otras organizaciones pueden tener lineamientos diferentes, por lo que siempre es
 
 ### Consideraciones generales
 
-<img src="../images/media/image197.png" style="width:100%;height:auto;" />
+<img src="../images/media/image197_es.png" style="width:100%;height:auto;" />
 Crédito de la imagen: NASA
 
 Al igual que los datos, el código puede compartirse de diversas maneras, como por correo electrónico o en un sitio web personal, pero estos métodos no son recomendados. Entonces, ¿dónde debería compartirse el código abierto?
