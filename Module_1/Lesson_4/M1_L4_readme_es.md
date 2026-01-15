@@ -26,7 +26,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ### Actividad 4.1: Reflexión personal sobre preocupaciones en torno a la Ciencia Abierta
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 Tómate un momento para pensar en las preocupaciones que genera adoptar la Ciencia Abierta. Estas podrían ser preocupaciones que has experimentado en tu trabajo o sobre adoptar mayor apertura en el futuro. No existen respuestas equivocadas aquí: este es un momento para reflexionar sobre lo que podría estar impidiéndote hacer Ciencia Abierta.
 
@@ -137,7 +137,7 @@ Actualizar la forma de medir el éxito de la ciencia puede fomentar que las pers
 
 En esta actividad, reflexiona sobre las respuestas a las preguntas y luego compara esas reflexiones con los puntos clave.
 
-<img style="width:350px;height:auto;" src="../images/media/tobeopen.jpg">
+<img style="width:350px;height:auto;" src="../images/media/tobeopen_es.jpg">
 
 Crédito de la imagen: NASA 2023, Stennis Space Center.
 
@@ -145,7 +145,7 @@ Crédito de la imagen: NASA 2023, Stennis Space Center.
 
 La mayoría de las veces las conferencias son lugares abiertos. Piensa en quién puede asistir a una conferencia. ¿Qué tan abierta/cerrada está?
 
-<img style="width:350px;height:auto;" src="../images/media/subscribetojournal.jpg">
+<img style="width:350px;height:auto;" src="../images/media/subscribetojournal_es.jpg">
 
 Las publicaciones pueden tener elementos abiertos y cerrados. ¿De qué manera están abiertas?
 
