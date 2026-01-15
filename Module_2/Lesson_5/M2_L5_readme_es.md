@@ -48,7 +48,7 @@ Recuerda que los preprints cumplen un rol significativo en la ciencia abierta al
 
 Una forma habitual de compartir un artículo es elegir una revista que ya sea completamente de acceso abierto y adoptar su licencia. Una manera de descubrir revistas abiertas es utilizar el [Directory of Open Access Journals (DOAJ)](https://doaj.org/) (enlace externo). El DOAJ ofrece un índice buscable de todas las revistas y artículos de acceso abierto conocidos, y sirve como una herramienta útil en las etapas tempranas de la planificación de la investigación. Este directorio y otros índices similares ayudan a los investigadores a determinar qué revistas considerar cuando llega el momento de publicar sus resultados.
 
-![](../images/media/image51.jpeg)
+![](../images/media/image51_es.png)
 
 ### Actividad 5.1: Identificar una revista de acceso abierto
 
@@ -109,7 +109,7 @@ Como ejemplo, el [Open Science Framework (OSF)](https://osf.io/) (enlace externo
 
 El OSF está diseñado como una plataforma colaborativa donde los usuarios pueden compartir objetos de investigación de diversas fases de un proyecto. Apoya a una audiencia amplia y diversa, incluyendo investigadores que podrían no haber tenido acceso a ciertos recursos debido a distintas barreras. El OSF también contiene otras herramientas dentro de su propia plataforma.
 
-<img style="width:100%;height:auto;" src="../images/media/osfquote.jpg">
+<img style="width:100%;height:auto;" src="../images/media/osfquote_es.jpg">
 
 "Mientras que hay muchas funciones integradas en el OSF, la plataforma también permite complementos o integraciones de terceros que fortalecen su funcionalidad y su carácter colaborativo. Estos complementos se dividen en dos categorías: integraciones de gestión de citas e integraciones de almacenamiento. Mendeley y Zotero pueden integrarse para apoyar la gestión de citas, mientras que Amazon S3, Box, Dataverse, Dropbox, figshare, GitHub y oneCloud pueden integrarse para apoyar el almacenamiento. El OSF ofrece almacenamiento ilimitado para proyectos, pero los archivos individuales están limitados a 5 gigabytes (GB) cada uno." – Foster y Deardorff, 2017
 
@@ -153,7 +153,7 @@ Zotero ayuda a gestionar metadatos y citas de software, datos y publicaciones me
 - Plugins para Word y navegadores
 - Exportación de citas a BibTeX
 
-<img src="../images/media/image53.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image53_es.png" style="width:100%;height:auto;" />
 
 ## Lección 5: Resumen
 
