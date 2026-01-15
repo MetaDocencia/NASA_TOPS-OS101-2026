@@ -107,7 +107,7 @@ Los materiales de investigación son valiosos y reutilizables por un largo perí
 
 ### La Ciencia Abierta aplica a todo el flujo de trabajo
 
-<img src="../images/media/image402_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image402_es.png" style="width: 100%; height: auto;" />
 
 Flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
 
@@ -119,7 +119,7 @@ Para el propósito de nuestra discusión en esta lección y en los otros módulo
 
 Los productos creados a lo largo del proceso científico son necesarios para que otras personas puedan reproducir los hallazgos. Quienes investigan y deseen hacer que sus resultados sean reproducibles deben poner los elementos clave de su estudio abiertamente a disposición de los demás.
 
-<img src="../images/media/image130_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image130_es.png" style="width: 100%; height: auto;" />
 
 Productos del flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
 
@@ -191,7 +191,7 @@ Uno de los primeros descubrimientos del Telescopio Espacial James Webb (JWST, po
 
 Crédito de la imagen: NASA's Goddard Space Flight Center Conceptual Image Lab
 
-<img src="../images/media/atmocomp_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/atmocomp_es.png" style="width: 100%; height: auto;" />
 
 Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
@@ -250,7 +250,7 @@ OpenSciency en GitHub
 
 ### Software de código abierto
 
-<img src="../images/media/image6_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image6_es.png" style="width: 100%; height: auto;" />
 
 <table>
     <colgroup>
@@ -290,7 +290,7 @@ El beneficio y el resultado fue que, gracias a este esfuerzo de colaboración, e
 
 ### Acceso abierto a los resultados
 
-<img src="../images/media/image244_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image244_es.png" style="width: 100%; height: auto;" />
 
 <table>
     <colgroup>
@@ -314,7 +314,7 @@ El beneficio y el resultado fue que, gracias a este esfuerzo de colaboración, e
             <td>Disponibilidad</td>
             <td>
                 <p>Todos recopilados en la <a href="https://zenodo.org/communities/ers-transit">comunidad de Zenodo</a> de ERS-TRANSIT, con el reconocimiento a quienes contribuyeron y los DOIs</p>
-                <p><img src="../images/media/zenodojwst_es.jpg" style="width: 100%; height: auto;" /> El Programa de Ciencia de Publicación Temprana para la Comunidad de Exoplanetas en Tránsito del JWST [captura de pantalla]. (2023). Zenodo. [https://zenodo.org/communities/ers-transit](https://zenodo.org/communities/ers-transit)</p>
+                <p><img src="../images/media/zenodojwst_es.png" style="width: 100%; height: auto;" /> El Programa de Ciencia de Publicación Temprana para la Comunidad de Exoplanetas en Tránsito del JWST [captura de pantalla]. (2023). Zenodo. [https://zenodo.org/communities/ers-transit](https://zenodo.org/communities/ers-transit)</p>
             </td>
         </tr>
     </tbody>
