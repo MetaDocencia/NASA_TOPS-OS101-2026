@@ -51,7 +51,7 @@ Los productos de investigación bien documentados también demuestran la calidad
 
 ### Dar y recibir crédito al usar los resultados de otras personas
 
-<img src="../images/media/image260_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image260_es.png" style="width: 100%; height: auto;" />
 Crédito de la imagen: ilustración del proyecto The Turing Way por Scriberia, con licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807 (enlace externo).
 
 Además de documentar tus propias investigaciones, la práctica de dar crédito a todos quienes han contribuido fortalecerá tu reputación en la comunidad científica y actualizará los valores compartidos de la Ciencia Abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas.
