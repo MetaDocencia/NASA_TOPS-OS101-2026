@@ -121,7 +121,7 @@ Los datos pueden usarse para navegación, así como para planificación y logís
 
 [Matplotlib](https://matplotlib.org/) se desarrolló alrededor de 2002 por el posdoctorado John Hunter para visualizar datos de neurobiología en los que estaba trabajando. No era desarrollador de software, era neurobiólogo. Podría haber publicado el artículo en una revista revisada por pares y, tal vez, compartido su código para crear las figuras, pero en cambio inició un proyecto abierto en GitHub y pensó: “Bueno, si esto me resulta útil a mí, tal vez les sea útil a otras personas...”.
 
-<img src="../images/media/image12M5L1_es.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image12M5L1_es.jpeg" style="width:100%;height:auto;" />
 Crédito de imagen: “Man in Black Suit Jacket Using Computer” de Kampus Production vía [Pexels](https://www.pexels.com/) (enlace externo)
 
 Matplotlib es ahora la biblioteca de gráficos más utilizada para el lenguaje de programación Python y un componente central del ecosistema científico de Python, junto con NumPy, SciPy e IPython. Matplotlib se utilizó para visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
@@ -140,7 +140,7 @@ Al público le interesa lo que estás haciendo, y llegar a ese público puede im
 
 Las plataformas de comunicación abierta ampliaron de manera notable el alcance y la audiencia de los resultados.
 
-<img src="../images/media/image14_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image14_es.png" style="width:100%;height:auto;" />
 - Publicación de Megan Weiner Mansfield [captura de pantalla]. (2023). X. [https://x.com/cornerof_thesky/status/1595086671275589632?s=20](https://x.com/cornerof_thesky/status/1595086671275589632?s=20) (enlace externo)  
 - Publicación de Vivien Parmentier [captura de pantalla]. (2023). X. [https://x.com/V_Parmentier/status/1595127493199302656?s=20](https://x.com/V_Parmentier/status/1595127493199302656?s=20) (enlace externo)  
 - Publicación de Astro jacket [captura de pantalla]. (2023). TikTok. [https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1](https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1) (enlace externo)  
