@@ -189,7 +189,7 @@ La Ciencia Abierta introduce un mayor nivel de escrutinio en la investigación, 
 
 El virus del Zika, uno de los muchos virus transmitidos por mosquitos, se convirtió en motivo de preocupación durante un brote a partir del momento en que se observó que un aumento de infecciones en mujeres embarazadas coincidía con un incremento de casos de microcefalia en fetos y recién nacidos. Este vínculo fue confirmado por los Centros para el Control y la Prevención de Enfermedades (CDC, por sus siglas en inglés) en 2016.
 
-[https://drive.google.com/drive/u/0/folders/12yqERpnOKxTg952VZlk7IGVLJxfzZouQ](https://drive.google.com/drive/u/0/folders/12yqERpnOKxTg952VZlk7IGVLJxfzZouQ)  
+<img src="../images/media/zika_example_es.jpg" style="width: 100%; height: auto;" />
 Crédito de la imagen: el proyecto Open Zika utilizó la plataforma World Community Grid de IBM y técnicas de aprendizaje automático para identificar posibles candidatos a fármacos para tratar el virus del Zika. Imagen reproducida con permiso de *Journal of Chemical Information and Modeling*. Copyright 2024 American Chemical Society.
 
 Ante la necesidad urgente de tratamientos para combatir el Zika, se puso en marcha un proyecto global, colaborativo, de Ciencia Abierta y basado en colaboración masiva (*crowdsourcing*), llamado OpenZika (enlace externo). OpenZika integró estrategias computacionales y experimentales, lo que permitió evaluar rápidamente millones de compuestos frente a todas las estructuras de proteínas del virus del Zika descubiertas por equipos de investigación de todo el mundo. Los resultados de todos los estudios de cribado se hicieron públicamente disponibles, de modo que se pudieron identificar múltiples candidatos al tratamiento. Este ejemplo de Ciencia Abierta llevó a avances significativos en la manera de tratar los síntomas y reducir el riesgo de complicaciones en personas infectadas por el Zika, mejorando las capacidades médicas y salvando incontables vidas.
@@ -206,7 +206,7 @@ El intercambio abierto de productos y procesos científicos hace que la ciencia 
 
 La mejor manera de incluir a un grupo de personas dedicadas a la Ciencia Abierta consiste en eliminar las barreras existentes. Más allá de eso, es importante aprender a comunicarse de manera eficaz con colaboradores que tengan distintos niveles de formación, trayectorias profesionales, antecedentes y áreas de especialización. La capacidad de construir y gestionar equipos es una habilidad que puede aprenderse y desarrollarse.
 
-[https://drive.google.com/file/d/1LXjypI74JAfOIK-E0nJrRuFUYfa_8pF9/view?usp=drive_link](https://drive.google.com/file/d/1LXjypI74JAfOIK-E0nJrRuFUYfa_8pF9/view?usp=drive_link)
+<img src="../images/media/open-science-book1L2_es.png" style="width: 100%; height: auto;" />
 
 ---
 
