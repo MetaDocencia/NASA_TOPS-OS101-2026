@@ -151,7 +151,7 @@ Nuevas formas de trabajo con enfoques creativos para la colaboración y la comun
   </tbody>
 </table>
 
-<img style="width:100%;height:auto;" src="../images/media/turingwayillustration_es.jpg">
+<img style="width:100%;height:auto;" src="../images/media/turingwayillustration_es.png">
 
 Crédito de imagen: Esta imagen fue creada por Scriberia para la comunidad de The Turing Way y se utiliza bajo una licencia CC-BY 4.0.
 
@@ -163,7 +163,7 @@ Ya te encontraste con algunos de estos en las lecciones anteriores y, con suerte
 
 La ciencia abierta, en última instancia, informa nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados sean abiertos en distintas etapas. Uno de los propósitos principales de los resultados abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada mediante definiciones como la siguiente:
 
-<img src="../images/media/stoddenquote_es..jpg" style="width:100%;height:auto;" />
+<img src="../images/media/stoddenquote_es.jpg" style="width:100%;height:auto;" />
 
 "La reproducibilidad es la capacidad de una persona investigadora de obtener los mismos resultados en un artículo publicado utilizando los datos en bruto y el código usados en el estudio original. (Stodden, 2015)"
 
@@ -271,7 +271,7 @@ Involucrar y reconocer los roles de todas las personas contribuyentes es una par
 
 ### Estudio de caso EHTC: Reconocer a todas las personas contribuyentes
 
-<img src="../images/media/image52.png" style="width:100%;height:auto;" />
+<img src="../images/media/image52.jpeg" style="width:100%;height:auto;" />
 
 Crédito de imagen: "A map of the EHT. Stations active in 2017 and 2018 are shown with connecting lines and labeled in yellow, sites in commission are labeled in green, and legacy sites are labeled in red. From Paper II (Figure 1)" de The Astrophysical Journal Letters está licenciado bajo CC-BY 4.0.
 
@@ -534,7 +534,7 @@ Las publicaciones científicas han sido tradicionalmente uno de los modos más p
 
 ### Estudio de caso EHTC: Capturar resultados en actividades que van desde la colaboración hasta las observaciones, desde la generación de imágenes hasta la interpretación
 
-<img src="../images/media/image53.png" style="width:100%;height:auto;" />
+<img src="../images/media/image53.jpeg" style="width:100%;height:auto;" />
 
 La imagen polarizada de la sombra del agujero negro M87 tal como se observó el 11 de abril de 2017 por el EHT (panel izquierdo), una imagen de la Biblioteca de Modelos del EHT con una configuración magnética MAD (panel derecho) y una lista de artículos que describen distintos conjuntos de resultados. [Captura de pantalla]. (2023). IOPscience. [https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) (enlace externo)
 
