@@ -49,7 +49,7 @@ Los formatos de datos preferidos son aquellos respaldados por la comunidad, legi
 - ¿Se requieren herramientas especializadas para leer el formato de datos?
 - ¿El formato de datos se usa habitualmente en tu campo? Los estándares comunitarios aseguran compatibilidad, interoperabilidad y facilidad de uso al intercambiar o compartir datos entre investigadores u organizaciones de una misma comunidad científica.
 
-<img src="../images/media/image31.png" style="width:100%;height:auto;" />
+<img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
 Crédito de la imagen: NASA
 
 Investiga si tu agencia financiadora, institución y(o) repositorio de datos tiene requisitos adicionales u orientaciones sobre formatos de datos.
@@ -182,7 +182,7 @@ Además, un versionado adecuado preserva la calidad y la procedencia de los dato
 
 ## Hacer que los datos sean reutilizables mediante licenciamiento
 
-<img src="../images/media/image32.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image32_es_es.png" style="width:100%;height:auto;" />
 
 Crédito de la imagen: XKCD con licencia CC BY-NC 2.5 DEEX.
 
@@ -190,7 +190,7 @@ Crédito de la imagen: XKCD con licencia CC BY-NC 2.5 DEEX.
 
 Los datos son propiedad intelectual del(de los) investigador(es), o posiblemente de su(s) financiador(es) o institución(es) de apoyo. Los datos son propiedad intelectual, pero eso no significa que no puedan ser utilizados por otros investigadores, con la atribución adecuada, por supuesto.
 
-<img style="width:100%;height:auto;" src="../images/media/applylicensetoyourwork.jpg">
+<img style="width:100%;height:auto;" src="../images/media/applylicensetoyourwork_es.jpg">
 Crédito de la imagen: "Black and Blue Framed Eyeglasses on Silver Laptop" por Alexandr Bricky, vía [Pexels](https://www.pexels.com/photo/black-and-blue-framed-eyeglasses-on-silver-laptop-393044/) (enlace externo)
 
 "Al aplicar una licencia a tu trabajo, dejas en claro qué pueden hacer otros con lo que compartes, y también bajo qué condiciones lo estás ofreciendo. (DeHaven, 2020) También puedes requerir que quienes copien tu trabajo hagan algo a cambio."
@@ -203,7 +203,7 @@ Un conjunto de datos sin licencia no necesariamente significa que los datos sean
 
 Comprender cuándo y dónde aplica una licencia es crucial. Por ejemplo, los datos creados con fondos públicos de investigación del gobierno de Estados Unidos están, por defecto, en el dominio público. Sin embargo, esto solo aplica a la jurisdicción de Estados Unidos. Para que esto aplique internacionalmente, quienes crean los datos deben seleccionar una licencia abierta.
 
-<img src="../images/media/image34.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image34_es_es.png" style="width:100%;height:auto;" />
 Crédito: NASA
 
 Existen varios tipos de licencias que se construyen unas sobre otras. Las licencias Creative Commons (CC) se usan con frecuencia para conjuntos de datos. CC0 (también conocida como "dominio público") es la licencia que permite mayor reutilización porque impone la menor cantidad de restricciones sobre lo que los usuarios pueden hacer. Aunque la licencia CC0 no exige explícitamente citación, deberías seguir buenas prácticas comunitarias y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de allí, pueden agregarse restricciones sobre uso comercial, posibilidad de adaptar o modificar los datos, o requisitos de compartir bajo la misma licencia. Estas otras variantes reducen la usabilidad al agregar restricciones, de modo que otros científicos pueden verse imposibilitados de usar los datos debido a restricciones institucionales o legales. Las agencias financiadoras pueden requerir el uso de una licencia específica. En el caso de agencias públicas, suele tratarse de CC0 o CC-BY, maximizando así el retorno de la inversión y asegurando la reutilización más amplia posible.
