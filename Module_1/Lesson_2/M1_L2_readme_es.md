@@ -31,7 +31,7 @@ Esta lección presenta una perspectiva sobre el desarrollo de la ciencia, centra
 
 Además, destaca los beneficios de la Ciencia Abierta en una amplia gama de grupos de interesados, junto con ejemplos que invitan a los lectores a investigar más. La lección explora también los desafíos más usuales a la hora de adoptar prácticas en Ciencia Abierta.
 
-<img src="../images/media/image377.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image377_es.jpg" style="width: 100%; height: auto;" />
 
 Figura: Existen muchos beneficios de la Ciencia Abierta. [CC-BY Danny Kingsley y Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
 
@@ -43,7 +43,7 @@ Hacer Ciencia Abierta no solo permite que otras personas entiendan y reproduzcan
 
 Si tu trabajo se comparte públicamente, nunca perderás el acceso, incluso si cambias de institución o de empleo. Al compartir datos, código y resultados en repositorios abiertos, siempre se mantiene el acceso a ellos.
 
-<img src="../images/media/image261.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image261_es.png" style="width: 350px; height: auto;" />
 
 La implementación de buenas prácticas de Ciencia Abierta en el trabajo no solo facilita el acceso a la propia investigación, sino que también puede fortalecer las propuestas de financiación. Las agencias financiadoras han comenzado a notar que compartir abiertamente los productos de investigación puede incrementar la reutilización del trabajo y favorecer un mayor número de citas, lo que se traduce en un mejor retorno de la inversión.
 
@@ -51,14 +51,14 @@ Los productos de investigación bien documentados también demuestran la calidad
 
 ### Dar y recibir crédito al usar los resultados de otras personas
 
-<img src="../images/media/image260.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image260_es.jpg" style="width: 100%; height: auto;" />
 Crédito de la imagen: ilustración del proyecto The Turing Way por Scriberia, con licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807 (enlace externo).
 
 Además de documentar tus propias investigaciones, la práctica de dar crédito a todos quienes han contribuido fortalecerá tu reputación en la comunidad científica y actualizará los valores compartidos de la Ciencia Abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas.
 
 Con frecuencia, las revistas científicas exigen que se atribuya el trabajo realizado como parte de un artículo mediante una declaración de contribución autoral, como en el ejemplo que se muestra en la figura. Además, resulta importante incluir una sección de agradecimientos para dar crédito a quienes hayan compartido recursos, equipamiento o conocimientos sin los cuales el producto final o el artículo no habría sido posible.
 
-<img src="../images/media/image262.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image262_es.png" style="width: 350px; height: auto;" />
 
 Figura: *The Na+-K+-ATPase is needed in glia of touch receptors for responses to touch in C. elegans* [captura de pantalla]. (2025). *Journal of Neurophysiology*. https://journals.physiology.org/ (enlace externo).
 
@@ -68,7 +68,7 @@ Figura: *The Na+-K+-ATPase is needed in glia of touch receptors for responses to
 
 Además de mejorar la precisión científica, adherirse a las prácticas científicas abiertas potencialmente ofrece beneficios personales para quienes investigan. La investigación publicada de forma abierta tiene mucho más visibilidad y potencial de impacto con grandes audiencias a través de Internet, que puede llevar a más citas, colaboradores de ideas afines y oportunidades de carrera/financiación, de acuerdo con un estudio de 2016 (McKiernan et al., 2016).
 
-<img src="../images/media/image263.png" style="width:100%;height:auto;" />
+<img src="../images/media/image263_es.png" style="width:100%;height:auto;" />
 
 #### Evidencias emergentes de que algunos aspectos de la Ciencia Abierta pueden aumentar la cantidad de citas
 
@@ -89,7 +89,7 @@ Existen muchos tipos de productos de investigación que se pueden compartir abie
 
 Todos estos son productos científicos tangibles. Gran parte del tiempo de la actividad investigadora se dedica a escribir código, recolectar datos y preparar clases, no solo a crear publicaciones. Compartir estos materiales públicamente incrementa la probabilidad de recibir citas.
 
-<img src="../images/media/image269.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image269_es.png" style="width: 100%; height: auto;" />
 
 ### Más colaboraciones
 
@@ -101,7 +101,7 @@ Prácticas de Ciencia Abierta, como el pre-registro (*pre-registration*), median
 
 En esta actividad, reflexiona sobre las respuestas a las preguntas y luego compara esas reflexiones con los puntos clave.
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 - ¿Puedes encontrar tu propio trabajo previo, post publicación y/o preimpresión? ¿Puedes llevar tus materiales de investigación (datos, código, resultados) contigo si cambias de institución?
 - ¿Puedes encontrar el trabajo de tus colaboradores? ¿De colegas de otros campos que encuentras interesante? ¿Te has acercado a otras personas para colaborar con ellas después de encontrar resultados interesantes?
@@ -121,7 +121,7 @@ Cuando se usan computadoras para producir investigación científica, el código
 
 ### La Ciencia Abierta puede mejorar la precisión
 
-<img src="../images/media/image267.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image267_es.png" style="width: 350px; height: auto;" />
 
 Un estudio reciente (Chambers y Tzavella, 2022) mostró que quienes practican la transparencia y promueven la verificabilidad se benefician de lectores y partes interesadas que evalúan si los resultados presentados son precisos y, según un estudio relacionado (John et al., 2012), de la posibilidad de demostrar que esos resultados no fueron producidos mediante prácticas de investigación cuestionables que conducen a resultados engañosos o poco confiables.
 
@@ -133,7 +133,7 @@ A continuación, se presenta un ejemplo de Ciencia Abierta que permitió identif
 
 Una persona colega, al revisar esos archivos, descubrió un error de codificación en el script y lo informó rápidamente a las personas autoras. Tras realizar un nuevo análisis con el código corregido, los resultados fueron mucho menos significativos de lo descrito inicialmente y ya no aportaban la evidencia necesaria para sostener las conclusiones publicadas originalmente. La autora principal se puso entonces en contacto con la persona editora de la revista y solicitó una [retractación](https://doi.org/10.1016/j.actpsy.2019.102886) (enlace externo, en inglés), proporcionando detalles sobre el error y el nuevo análisis.
 
-<img src="../images/media/image216.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image216_es.jpg" style="width: 350px; height: auto;" />
 Crédito de la imagen: reproducida con permiso de *Acta Psychologica*. Copyright 2018 Elsevier B.V.
 
 La figura anterior, marcada por las personas autoras en su [declaración de retractación](https://doi.org/10.1016/j.actpsy.2019.102886) (enlace externo, en inglés), indica que el valor de FluencyN-1 era incorrecto en la publicación original, lo que llevó a informar erróneamente de una interacción significativa y a extraer conclusiones inexactas.
@@ -146,7 +146,7 @@ El [Observatorio Solar y Heliosférico (SOHO)](https://soho.nascom.nasa.gov/) ha
 
 El gran éxito de SOHO como buscador de cometas depende, por supuesto, de las personas que analizan los datos de la misión, una tarea que se abrió al mundo gracias a la disponibilidad pública en tiempo real de esos datos.
 
-<img src="../images/media/image268.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image268_es.jpg" style="width: 350px; height: auto;" />
 Crédito de la imagen: SOHO/ESA/NASA/NRL.
 
 Un grupo de astrónomos aficionados voluntarios se ha dedicado a buscar estos cometas mediante el [Proyecto Sungrazer](https://science.nasa.gov/citizen-science/the-sungrazer-project/), financiado por la NASA. Mientras que muchos especialistas buscan en las imágenes eventos solares muy específicos, varios miembros de la comunidad astronómica eligen revisar con gran detalle todas las imágenes disponibles en busca de otros fenómenos interesantes, como los cometas. Hasta la fecha, se han descubierto más de 2300 cometas y alrededor del 75% fueron identificados por personas que realizan Ciencia Ciudadana. Las imágenes que contienen cometas identificados por seres humanos también pueden utilizarse para crear conjuntos de datos de entrenamiento que mejoran los algoritmos y el software utilizados para identificar cometas de forma automática.
@@ -161,7 +161,7 @@ Las prácticas de Ciencia Abierta, como los informes registrados (*registered re
 
 Otras prácticas de Ciencia Abierta, como el pre-registro, permiten un vistazo parcial a proyectos que, por diversas razones (como la falta de financiación, las dificultades logísticas o los cambios en las prioridades organizacionales), no se han completado o difundido, según un estudio de 2023 (Evans et al., 2023). Esto otorga a dichos proyectos un resultado público que puede ayudar a informar sobre el estado actual de la investigación.
 
-<img src="../images/media/image254.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image254_es.png" style="width: 350px; height: auto;" />
 
 Al usar herramientas de acceso abierto y hacer que tanto los procesos como los productos científicos sean más accesibles, se aumenta la posibilidad de que quienes lo deseen participen en la comunidad científica global.
 
@@ -177,7 +177,7 @@ El uso generalizado de la Ciencia Abierta comenzó relativamente hace poco tiemp
 
 La colaboración, la innovación, la educación, el avance tecnológico y las políticas públicas basadas en evidencia científica mejoran cuando los productos de investigación están disponibles de forma abierta. Compartir todos los productos de investigación (por ejemplo, datos, código y resultados) vuelve el proceso científico más transparente, lo que, a su vez, puede contribuir a incrementar la confianza del público en la ciencia. También la Ciencia Abierta aumenta la participación de quienes realizan Ciencia Ciudadana y de personas no expertas en el proceso de investigación. Las diversas perspectivas que aporta una comunidad abierta contribuyen a resultados científicos más robustos y, a menudo, más precisos.
 
-<img src="../images/media/image264.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image264_es.png" style="width: 350px; height: auto;" />
 
 La ciencia aborda temas que afectan a todos los aspectos de la vida. Sin embargo, el interés del público en la ciencia sigue siendo bajo debido a la falta de confianza, a la falta de comprensión y a factores socioculturales. Resulta difícil esperar que el público confíe en la ciencia en torno a cuestiones complejas y, con frecuencia, polémicas —como el desarrollo de vacunas o la llegada a la Luna— si no se permite que vea el proceso y los resultados. Generar confianza en la ciencia es esencial para una sociedad bien informada y la Ciencia Abierta ofrece un camino para lograrlo.
 
