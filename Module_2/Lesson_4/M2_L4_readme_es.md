@@ -384,18 +384,18 @@ Sigue estos pasos:
 
 1. Navega a la lección “[Calculating ENSO with Xarray (Calculando ENOS con Xarray)](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)” (enlace externo)
 2. Localiza y selecciona la opción "Binder" que se encuentra dentro del desplegable del icono del cohete (en inglés, Rocket). Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse.
-![](../images/media/calculatingenso.jpg)  
+![](../images/media/calculatingenso_es.png)  
 Ejemplo de Notebook Paso 2. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
 3. Después de cargar el Cuaderno Computacional, deberías encontrarte ahora en una interfaz de edición con un arbol de archivos y una sección de edición de los archivos del árbol.Nota -- ¡Esto realmente utiliza la vista de JupyterLab!
-![](../images/media/calculatingenso2.jpg)  
+![](../images/media/calculatingenso2_es.jpg)  
 Ejemplo de Notebook Paso 3. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
 4. Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos. Está bien si no lo entiendes todo. ¡Aún puedes apreciar los bonitos gráficos que estás a punto de hacer!
 5. ¡Ahora ya puedes ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Run" (Ejecutar) y elegir "Run All Cells" (Ejecutar todas las celdas)
-![](../images/media/calculatingenso3.jpg)  
+![](../images/media/calculatingenso3_es.jpg)  
 Ejemplo de Notebook Paso 5. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
 6. Esto sólo debería tomar unos pocos segundos y aparecerán unas visualizaciones bonitas que acabas de crear:
 Usa los botones "<" y ">" para navegar entre las imágenes.
-![](../images/media/calculatingenso4.jpg)  
+![](../images/media/calculatingenso4_es.png)  
 Salida del Notebook Ejemplo 1. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)  
 ![](../images/media/image44.jpeg)  
 Salida del Notebook Ejemplo 2. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
@@ -460,7 +460,7 @@ Un repositorio de software es un espacio dinámico y colaborativo donde quienes 
 
 Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Las personas usuarias acceden a estos archivos para obtener versiones confiables del software, lo que asegura la estabilidad y la confiabilidad de sus aplicaciones. Comprender la diferencia entre ambos es crucial para un desarrollo y distribución de software eficaces.
 
-<img src="../images/media/image45.png" style="width:350px;height:auto;" />
+<img src="../images/media/image45_es.png" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA
 
 Git/GitHub y Bitbucket son opciones populares para repositorios de software.
