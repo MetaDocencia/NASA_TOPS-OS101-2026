@@ -212,7 +212,7 @@ Existen varios tipos de licencias que se construyen unas sobre otras. Las licenc
 
 A continuación se presenta un ejemplo de cómo una licencia de datos puede afectar la reutilización. El Coupled Model Intercomparison Project Phase 6 (CMIP6) consiste en "corridas" de alrededor de cien modelos distintos de patrones climáticos producidos por cuarenta y nueve grupos de modelado diferentes. Estos datos se utilizan para comprender cómo podrían ser los patrones climáticos futuros. Versiones previas de estos datos estaban licenciadas bajo CC-BY-NC-SA (requiere citación, solo uso no comercial, compartir igual).
 
-[IMG: https://drive.google.com/file/d/1-bSqCbM36WWeRpEGHAWorFtilgv8rzwy/view?usp=drive_link]  
+<img src="../images/media/ipccm3l3_es.png" style="width:100%;height:auto;" />
 Fuente de la imagen: "An IPCC Special Report" por ResearchGate
 
 ---
