@@ -32,12 +32,12 @@ Revisemos algunos ejemplos conocidos de grupos que compartieron su código y cu�
 
 Usa los botones para navegar entre los ejemplos.
 
-<img src="../images/media/image394.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image394_es.jpg" style="width:350px;height:auto;" />
 Crédito de la imagen: Event Horizon Telescope Collaboration
 
 La primera imagen de un agujero negro no habría sido posible en esta década si todo el código requerido hubiera tenido que ser escrito únicamente por las personas científicas involucradas. Estas personas pudieron usar software de código abierto que era gratuito, robusto, bien probado y aceptado por la comunidad para realizar su análisis y crear esta imagen que hoy es famosa. El código utilizado para capturar esta imagen fue desarrollado por 21.485 contribuyentes. Los sofisticados pipelines y algoritmos iterativos de procesamiento de datos usados por el equipo de investigación fueron desarrollados y probados por la comunidad, haciendo posible una ciencia robusta y reproducible sin tener que reescribir cada pieza de software necesaria.
 
-<img src="../images/media/image553.png" style="width:350px;height:auto;" />
+<img src="../images/media/image553_es.png" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA/JPL-Caltech
 
 Este es el helicóptero Ingenuity, o como le dicen las personas ingenieras, Ginny. Llegó a Marte viajando junto al rover Perseverance y aterrizó en el cráter Jezero en 2021.
@@ -50,7 +50,7 @@ Detrás de ese helicóptero de cuatro libras hay más de 12.000 personas que con
 
 Además, el software final de Ginny desarrollado en el Jet Propulsion Lab, llamado F prime, era en sí mismo de código abierto y desde entonces se ha usado en investigación de vuelo, drones y CubeSats. De hecho, F prime había sido copiado a repositorios de otras personas más de 1.200 veces.
 
-<img src="../images/media/image408.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image408_es.jpg" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA GSFC/CIL/Adriana Marique Gutierrez
 
 La mayoría de los datos de telescopios espaciales tienen un embargo de doce meses, y solo la persona científica principal y su equipo seleccionado pueden trabajar con los datos. En un caso particular, una pequeña porción de datos del nuevo Telescopio Espacial James Webb (JWST) de NASA ofreció un programa de liberación temprana. Estos datos del JWST estuvieron disponibles de manera inmediata.
@@ -65,7 +65,7 @@ De forma destacada, el equipo de la Dra. Batalha publicó la primera identificac
 
 Este ejemplo ilustra los beneficios de aplicar principios de ciencia abierta para producir investigación significativa con rapidez.
 
-<img src="../images/media/image168.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image168_es.jpg" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA's Earth Observatory
 
 Nuevos conjuntos de modelos climáticos de código abierto incorporan características que apuntan a hacer la investigación climática más colaborativa, eficiente y confiable. (Junker, 2018)
@@ -87,7 +87,7 @@ Búsqueda en deal.II [captura de pantalla]. (2023). deal.II. https://dealii.org/
 
 ### ¿Qué es código vs. software?
 
-<img src="../images/media/image109.png" style="width:350px;height:auto;" />
+<img src="../images/media/image109_es.png" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA
 
 Cuando escribimos “software”, en realidad estamos escribiendo código en texto y usando un intérprete o compilador para traducirlo a un programa que la máquina pueda ejecutar. El código es un lenguaje que las personas pueden escribir y entender. El software suele ser una colección de programas, datos y otra información que un sistema informático usa para realizar tareas específicas. Un ejemplo es una biblioteca de software, que es un conjunto de datos y código de programación que se utiliza para desarrollar programas y aplicaciones.
@@ -302,13 +302,13 @@ Aunque personas investigadoras e instituciones pueden no ser capaces de comparti
 
 *En la actividad de abajo, arrastra cada control para explorar el espectro de apertura.*
 
-<img src="../images/media/image110.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image110_es.png" style="width:100%;height:auto;" />
 
 ### La práctica de lo “abierto”
 
 Revisa cómo se cubren las tareas clave del ciclo de vida de desarrollo de código en el flujo del marco “Usar, Crear, Compartir”.
 
-<img src="../images/media/image290.png" style="width:100%;height:auto;" />
+<img src="../images/media/image290_es.png" style="width:100%;height:auto;" />
 
 Al igual que con datos abiertos, distintos aspectos del código abierto se describen en términos de “Usar, Crear y Compartir” código abierto.
 
