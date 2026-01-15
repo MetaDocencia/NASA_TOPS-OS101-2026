@@ -123,7 +123,7 @@ Con código abierto, saber dónde buscar y qué buscar puede ser un desafío. Si
 
 Revisa el diagrama de flujo a continuación, que ilustra cómo una búsqueda sigue la definición de la necesidad:
 
-<img src="../images/media/image128_es.jpg" style="width:6.23514in;height:3.24979in" />
+<img src="../images/media/image128_es.jpg" style="width:100%;height:auto;" />
 Crédito de la imagen: NASA
 
 ### El software abierto se agrega y se puede buscar en repositorios
