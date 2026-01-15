@@ -60,7 +60,7 @@ El ecosistema de código abierto es vasto, orgánico, multifacético y altamente
 
 Si estás buscando código científico, los estándares comunitarios han exigido cada vez más que el código se publique y se vincule a artículos científicos.
 
-<img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image333_es.jpg" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA
 
 Por lo tanto, la literatura científica y sus archivos de código asociados son un excelente lugar para buscar código científico abierto.
@@ -81,9 +81,9 @@ Existen varios motores de búsqueda populares para fragmentos de código. Primer
 </colgroup>
 <tbody>
     <tr>
-        <td><img style="width:98%" src="../images/media/examplecoderepo1.png"></td>
-        <td><img style="width:98%" src="../images/media/examplecoderepo2.png"></td>
-        <td><img style="width:98%" src="../images/media/examplecoderepo3.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo1_es.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo2_es.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo3_es.png"></td>
     </tr>
     <tr>
         <td>GitHub</td>
@@ -111,10 +111,10 @@ GitHub permite a las personas usuarias colaborar en un proyecto compartido y ras
 
 Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Necesitarás crear una cuenta gratuita. Navega a la página de búsqueda de código para iniciar tu búsqueda. También puedes acceder a tutoriales sobre la interfaz y las capacidades del portal de búsqueda de GitHub. Alternativamente, puedes ingresar tus términos de búsqueda directamente en la barra de búsqueda desde tu perfil. Luego, introduce palabras clave relacionadas. Busca “Lomb Scargle” y encuentra varios repositorios con código relevante en distintos lenguajes, junto con miles de fragmentos relacionados. Felicitaciones: has comenzado tu recorrido por el código de acceso abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron en tu lugar.
 
-<img src="../images/media/image335.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image335_es.jpg" style="width:100%;height:auto;" />
 Búsqueda en GitHub [captura de pantalla]. (2023). GitHub. https://github.com/ (enlace externo)
 
-<img src="../images/media/image496.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" />
 Búsqueda en GitHub [captura de pantalla]. (2023). GitHub. https://github.com/ (enlace externo)
 
 ---
@@ -123,7 +123,7 @@ Con código abierto, saber dónde buscar y qué buscar puede ser un desafío. Si
 
 Revisa el diagrama de flujo a continuación, que ilustra cómo una búsqueda sigue la definición de la necesidad:
 
-<img src="../images/media/image128.jpg" style="width:6.23514in;height:3.24979in" />
+<img src="../images/media/image128_es.jpg" style="width:6.23514in;height:3.24979in" />
 Crédito de la imagen: NASA
 
 ### El software abierto se agrega y se puede buscar en repositorios
@@ -145,32 +145,32 @@ La mayor parte del código de investigación debería ser software de código ab
 </colgroup>
 <tbody>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo1.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo2.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo1_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo2_es.png"></td>
     </tr>
     <tr>
         <td>Software Heritage</td>
         <td>Open Source Development Network (OSDN)</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo3.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo4.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo3_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo4_es.png"></td>
     </tr>
     <tr>
         <td>SourceForge</td>
         <td>Free and Open Source Software Hub (FOSSHUB)</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo5.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo6.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo5_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo6_es.png"></td>
     </tr>
     <tr>
         <td>Googlecode</td>
         <td>Comprehensive Perl Archive Network</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo7.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo8.jpg"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo7_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo8_es.jpg"></td>
     </tr>
     <tr>
         <td>PyPI</td>
@@ -239,7 +239,7 @@ Es una buena señal encontrar evidencia de uso exitoso por otras personas con ne
 
 Para una evaluación rápida del uso comunitario y la calidad del software, utiliza las herramientas del repositorio donde lo encontraste. Por ejemplo, GitHub permite revisar actividad de desarrollo, número de descargas o bifurcaciones, y otros indicadores de calidad.
 
-<img src="../images/media/image291.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image291_es.jpg" style="width:100%;height:auto;" />
 Búsqueda modificada en GitHub [captura de pantalla]. (2023). GitHub. https://github.com/astropy/astropy (enlace externo)
 
 ### La importancia del archivo README
