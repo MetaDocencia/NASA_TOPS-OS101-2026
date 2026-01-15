@@ -145,7 +145,7 @@ Crédito de la imagen: NASA 2023, Stennis Space Center.
 
 La mayoría de las veces las conferencias son lugares abiertos. Piensa en quién puede asistir a una conferencia. ¿Qué tan abierta/cerrada está?
 
-<img style="width:350px;height:auto;" src="../images/media/subscribetojournal_es.jpg">
+<img style="width:350px;height:auto;" src="../images/media/subscribetojournal_es.png">
 
 Las publicaciones pueden tener elementos abiertos y cerrados. ¿De qué manera están abiertas?
 
