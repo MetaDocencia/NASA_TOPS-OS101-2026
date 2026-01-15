@@ -36,7 +36,7 @@ Cuando la difusión de datos o resultados de investigación puede generar riesgo
 
 *NASA ha recopilado datos biomédicos relacionados con vuelos espaciales tripulados desde el inicio del programa Apolo…*
 
-<img src="../images/media/image259_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image259_es.png" style="width: 100%; height: auto;" />
 
 *… pero los únicos datos humanos incluidos en el Life Sciences Data Archive son de astronautas que firmaron autorizaciones para que sus datos fueran públicos.*
 
@@ -98,7 +98,7 @@ Si envías tu manuscrito a una editorial que exige ser la dueña de los derechos
 
 Ejemplo: En los escenarios en los que se solicita el consentimiento antes de compartir (o se modifican las condiciones para compartir), puede resultar complejo aplicar los cambios. Biopython, un conjunto de herramientas de software libre para biología, comenzó a cambiar la licencia de su código en 2016 y todavía seguía trabajando en ese proceso en 2023, revisando persona colaboradora por persona colaboradora.
 
-<img src="../images/media/image106_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image106_es.png" style="width: 100%; height: auto;" />
 
 [Texto alternativo de la imagen]Cambiar al uso de la licencia BSD de 3 cláusulas [captura de pantalla]. (2023). GitHub. [biopython/biopython#898](https://github.com/biopython/biopython/issues/898) (enlace externo).
 
@@ -112,7 +112,7 @@ El licenciamiento es una forma de ayudar a los demás a reusar tu trabajo legalm
 
 Crédito de la imagen: Umberto, en Unsplash, licencia CC BY-NC-ND 4.0.
 
-<img src="../images/media/image328_es.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image328_es.png" style="width: 350px; height: auto;" />
 
 Crédito de la imagen: XKCD, licencia CC BY-NC 2.5 DEEX.  
 
