@@ -367,79 +367,79 @@ Dado que Jupyter Notebooks permite integrar código con visualizaciones y texto,
 
 [HAZ CLIC PARA APRENDER (ENLACE EXTERNO)](https://jupyter.org/)
 
-Si quieres empezar, revisa la lección de Project Pythia "Getting Started with Jupyter", orientada a científicos sin asumir un trasfondo previo en programación.
+Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a personas sin conocimientos previos de programación.
 
-### Actividad 4.1: Ejecuta un Jupyter Notebook desde el navegador
+### Actividad 4.1: Ejecuta un Jupyter Notebook desde tu navegador
 
-Usemos un ejemplo de Project Pythia para mostrar cómo los cuadernos computacionales pueden usarse en ciencia. Project Pythia es un centro educativo para la comunidad de geociencias. Tienen excelentes recursos de aprendizaje y cuadernos de investigación de ejemplo que son desarrollados y mantenidos por la comunidad, y además están disponibles de forma libre.
+Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geocientífica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad y de libre acceso.
 
-En esta actividad, ejecutarás código Python ya escrito en un Jupyter Notebook desde tu navegador para generar gráficos relacionados con la Oscilación del Sur de El Niño (o ENSO, por sus siglas en inglés). Usarás el paquete de software de Código Abierto llamado Xarray para leer datos de temperatura superficial del mar de un modelo climático global (el Community Earth System Model, CESM) y crear algunas visualizaciones de eventos ENSO en los últimos 20 años aproximadamente. El objetivo es recrear el gráfico de abajo para los últimos ~20 años. Esta figura muestra los años y la magnitud de los eventos El Niño en rojo y de los eventos La Niña en azul.
+En esta actividad, ejecutarás código Python ya escrito en un Jupyter Notebook desde tu navegador para generar gráficos relacionados con el fenómeno El Niño-Oscilación del Sur (o ENOS). Utilizarás el paquete de software de Código Abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra, en inglés Community Earth System Model, CESM) y crear algunas visualizaciones de eventos ENOS a lo largo de los últimos 20 años. El objetivo es recrear el siguiente gráfico para los últimos aproximadamente 20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
-![](../images/media/image39_es.png)  
+![](../images/media/image39.jpeg)  
 Crédito de la imagen: "ONI: 1950-2018: Base:1960-1989". [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni) (enlace externo)
 
 ---
 
 Sigue estos pasos:
 
-1. Navega a la lección “[Calculating ENSO with Xarray](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)” (enlace externo)
-2. En la esquina superior derecha, pasa el cursor por encima del ícono de cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la nube. Ten en cuenta que puede tardar varios minutos en configurarse el Notebook.
-![](../images/media/calculatingenso_es.png)  
+1. Navega a la lección “[Calculating ENSO with Xarray (Calculando ENOS con Xarray)](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)” (enlace externo)
+2. Localiza y selecciona la opción "Binder" que se encuentra dentro del desplegable del icono del cohete (en inglés, Rocket). Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse.
+![](../images/media/calculatingenso.jpg)  
 Ejemplo de Notebook Paso 2. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
-4. Después de que cargue el Notebook, deberías ver algo como lo siguiente. Nota: ¡esto en realidad usa la vista de JupyterLab!
-![](../images/media/calculatingenso2_es.jpg)  
+3. Después de cargar el Cuaderno Computacional, deberías encontrarte ahora en una interfaz de edición con un arbol de archivos y una sección de edición de los archivos del árbol.Nota -- ¡Esto realmente utiliza la vista de JupyterLab!
+![](../images/media/calculatingenso2.jpg)  
 Ejemplo de Notebook Paso 3. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
-6. Puedes tomarte un tiempo para revisar por encima el texto y el código del Notebook, pero ten presente que esta lección asume bastante conocimiento previo, así que está bien si no entiendes todo. ¡De todos modos puedes apreciar los gráficos que estás por generar!
-7. Ya estás listo para ejecutar el notebook. Para hacerlo, puedes ir al menú "Run" en la parte superior izquierda de la ventana de JupyterLab y elegir "Run All Cells":
-![](../images/media/calculatingenso3_es.jpg)  
+4. Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos. Está bien si no lo entiendes todo. ¡Aún puedes apreciar los bonitos gráficos que estás a punto de hacer!
+5. ¡Ahora ya puedes ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Run" (Ejecutar) y elegir "Run All Cells" (Ejecutar todas las celdas)
+![](../images/media/calculatingenso3.jpg)  
 Ejemplo de Notebook Paso 5. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
-9. Esto debería tardar solo unos segundos y, si te desplazas hacia abajo, podrás ver un par de visualizaciones que acabas de crear.  
-*Usa los botones "\<" y "\>" para navegar entre las imágenes.*
-![](../images/media/calculatingenso4_es.png)  
+6. Esto sólo debería tomar unos pocos segundos y aparecerán unas visualizaciones bonitas que acabas de crear:
+Usa los botones "<" y ">" para navegar entre las imágenes.
+![](../images/media/calculatingenso4.jpg)  
 Salida del Notebook Ejemplo 1. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)  
-![](../images/media/image44_es.png)  
+![](../images/media/image44.jpeg)  
 Salida del Notebook Ejemplo 2. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
-7. Tómate un tiempo para mirar el Notebook con más detalle. Verás que hay texto (incluyendo encabezados, enlaces e incluso una tabla al inicio), código y figuras integradas. Este es solo un ejemplo de cómo los científicos usan cuadernos computacionales para su investigación.
+7. Tómate algo de tiempo para explorar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo quienes hacen ciencia utilizan Cuadernos Computacionales para su investigación.
 
-Puedes explorar más recursos de aprendizaje de Python de Project Pythia en su [Foundations Book](https://foundations.projectpythia.org/landing-page.html) (enlace externo). Para ejemplos más avanzados de flujos de trabajo de investigación en geociencias que usan cuadernos computacionales, revisa estos "[Cookbooks](https://cookbooks.projectpythia.org/)" (enlace externo) para ver cómo se usan cuadernos en ciencia. Si te interesan las geociencias, incluso puedes contribuir con tu propio cuaderno si quieres.
+Puedes explorar más recursos de aprendizaje sobre Python de Project Pythia en su [Libro de Fundamentos](https://foundations.projectpythia.org/landing-page.html) (enlace externo). Para ejemplos más avanzados de flujos de trabajo de investigación en geociencias que usan cuadernos computacionales, revisa estos "[Cookbooks (Guías Rapidas)](https://cookbooks.projectpythia.org/)" (enlace externo) para ver cómo se usan cuadernos en ciencia. Si te interesan las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook si lo tienes y quieres compartirlo!
 
 ### Plataformas de cómputo
 
-Usamos el término "plataforma de cómputo" para referirnos a la máquina computacional usada para ejecutar código. Hay muchas plataformas de cómputo diferentes que puedes elegir y cada una tiene sus propios pros y contras. Aquí hay una descripción general de tres opciones de cómputo:
+Usamos el término "plataforma de cómputo" para referirnos a la máquina computacional usada para ejecutar código. Hay muchas plataformas de cómputo diferentes que puedes elegir y cada una tiene sus ventajas y desventajas. A continuación se ofrece una descripción general de tres opciones de plataformas:
 
-#### Computadora personal (por ejemplo, una notebook)
+#### Computadora personal (por ejemplo, una computadora portátil)
 
-Pros:
-- Conveniente: puedes ejecutar cómputos cuando y donde quieras
-- Puedes ajustar el entorno de software para que sea exactamente lo que necesitas
-- No tienes que compartir tus recursos de cómputo
+Ventajas:
+- Es conveniente: puedes ejecutar cálculos cuando y donde tú elijas.
+- Puedes adaptar el entorno de software para que sea exactamente lo que necesitas.
+- No tienes que compartir tus recursos informáticos.
 
-Contras:
-- Tiene poder de cómputo limitado
-- Requiere descargar datos y software
+Desventajas:
+- Tiene potencia computacional limitada.
+- Requiere descargar datos y software.
 
 #### Computación de Alto Desempeño (HPC, por sus siglas en inglés)
 
-Pros:
-- Alto poder de cómputo
+Ventajas:
+- Alto poder computacional
 
-Contras:
-- Suele ser propiedad y estar administrada por una institución: puede ser necesario estar afiliado a esa institución para acceder a su HPC
-- Puede que tengas que esperar tiempos significativos para ejecutar tu código, ya que suelen compartirse entre muchas personas y grupos
-- Se necesitan fondos importantes para construir un HPC
+Desventajas:
+- Por lo general, es propiedad de una institución en particular y está administrada por ella; es posible que debas contar con una afiliación a dicha institución para acceder a su HPC.
+- Es posible que tengas que esperar mucho tiempo para ejecutar el código, ya que normalmente se comparte entre muchas personas y grupos.
+- Se necesitan fondos considerables para construir una HPC.
 
-#### Computación en la nube
+#### Computación en la nube (Cloud Computing)
 
-Pros:
-- Alto poder de cómputo
-- Tiempos de espera mínimos para ejecutar código
-- Normalmente accesible para cualquiera con conexión a Internet
-- Opciones de precios bajo demanda: solo tienes que pagar por lo que usas
+Ventajas:
+- Potencia computacional extremadamente alta.
+- Tiempos de espera mínimos para ejecutar el código.
+- Normalmente accesible para cualquier persona con conexión a Internet.
+- Opciones de precios bajo demanda: solo tienes que pagar por lo que usas.
 
-Contras:
-- Alto costo por cómputo
-- Falta de transparencia en los costos: por ejemplo, el uso de datos puede costar significativamente según regiones de nube, pero no siempre es claro en qué región están tus datos y tu cómputo
-- Puede requerir conocimiento adicional sobre cómo funciona la computación en la nube
+Desventajas:
+- Alto costo por cálculo.
+- Falta de transparencia en los costos. Por ejemplo leer datos de diferentes regiones de la nube puede costar mucho dinero, pero no siempre está claro en qué región se encuentran los datos y dónde se realizan los cálculos.
+- Puede requerir algún conocimiento adicional sobre cómo funciona el cómputo en la nube.
 
  Ejemplos de proveedores de nube:
  - Amazon Web Services (AWS)
@@ -448,19 +448,19 @@ Contras:
 
 Muchos proveedores de datos, especialmente de conjuntos de datos grandes, están migrando sus datos a la nube para aumentar la accesibilidad y aprovechar la gran capacidad de almacenamiento que ofrece la nube. Por ejemplo, NASA Earthdata (que aloja todos los datos de ciencias de la Tierra de la NASA) ahora usa AWS para almacenar la mayoría de sus datos. Muchos proveedores de nube también tienen una serie de conjuntos de datos públicos disponibles, incluyendo [Google Cloud](https://cloud.google.com/storage/docs/public-datasets/#:~:text=Available%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A,from%202015%20through%20the%20present.%20...%20More%20items) (enlace externo) y [AWS](https://registry.opendata.aws/) (enlace externo).
 
-Al elegir una plataforma de cómputo, es importante considerar dónde están guardados tus conjuntos de datos y qué tan grandes son. Por ejemplo, al trabajar con conjuntos de datos pequeños, suele ser preferible usar una computadora personal, ya que la descarga de datos tomará poco tiempo y es probable que no se necesiten grandes recursos de cómputo. Sin embargo, al trabajar con conjuntos de datos grandes, es mejor minimizar la cantidad de descargas y cargas de datos necesarias, ya que esto puede tomar mucho tiempo y ancho de banda de Internet. Si tus conjuntos de datos grandes ya están almacenados en la nube, por lo general es mejor usar recursos de la nube también para el cómputo, y lo mismo aplica para el uso de HPC.
+Al elegir una plataforma de cómputo, es importante considerar dónde se almacenan los conjuntos de datos y qué tan grandes pueden ser. Por ejemplo, cuando se trabaja con conjuntos de datos pequeños, suele ser preferible utilizar una computadora personal, ya que la descarga de datos llevará un tiempo mínimo y probablemente no se necesiten grandes recursos informáticos. Sin embargo, cuando se trabaja con grandes conjuntos de datos, es mejor minimizar la cantidad de descarga y carga de datos, ya que esto puede consumir cantidades significativas de tiempo y ancho de banda de internet. Si tus grandes conjuntos de datos ya están almacenados en la nube, es mejor utilizar recursos de la nube, así como para el cálculo y el uso de HPC.
 
 ## Herramientas adicionales
 
 ### Repositorio de software vs archivo de software
 
-Los repositorios de software y los archivos de software proporcionan lugares centralizados para almacenar y compartir software, pero hay diferencias clave importantes entre ambos que discutiremos en esta sección.
+Los repositorios y archivos de software proporcionan ubicaciones centralizadas para almacenar y compartir software. Existen algunas diferencias clave entre ellos, que analizaremos en esta sección.
 
-Un repositorio de software es un espacio dinámico y colaborativo donde los desarrolladores trabajan sobre el código más reciente, lo que lo convierte en el corazón del desarrollo continuo de software y del control de versiones. Aloja bases de código mantenidas activamente, lo que alienta la colaboración y la mejora continua, a menudo impulsada por la comunidad.
+Un repositorio de software es un espacio dinámico y colaborativo donde quienes desarrollan trabajan en el código más reciente, lo que lo convierte en el corazón del desarrollo continuo del software y del control de versiones. Alberga bases de código mantenidas activamente, lo que fomenta la colaboración y la mejora continua, a menudo impulsadas por la comunidad.
 
-En cambio, un archivo de software es un almacenamiento estático donde se guardan versiones estables y probadas exhaustivamente del software. Los usuarios acceden a estos archivos para obtener versiones confiables, asegurando estabilidad y confiabilidad en sus aplicaciones. Además, los gestores de paquetes facilitan la instalación de archivos de software especializados dentro de una aplicación o de un sistema operativo. Comprender la diferencia entre ambos es crucial para el desarrollo y la distribución efectiva de software.
+Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Las personas usuarias acceden a estos archivos para obtener versiones confiables del software, lo que asegura la estabilidad y la confiabilidad de sus aplicaciones. Comprender la diferencia entre ambos es crucial para un desarrollo y distribución de software eficaces.
 
-<img src="../images/media/image45_es.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image45.png" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA
 
 Git/GitHub y Bitbucket son opciones populares para repositorios de software.
@@ -476,12 +476,12 @@ Git/GitHub y Bitbucket son opciones populares para repositorios de software.
     <tr>
         <td colspan="2">
             <ul>
-              <li>Es un lugar para compartir código.</li>
+              <li>Es una ubicación para compartir código.</li>
               <li>A menudo usa sistemas de control de versiones como Git, Mercurial y Subversion para rastrear cambios</li>
-              <li>Generalmente contiene la versión de desarrollo más reciente (a veces llamada "master" o "trunk") de un proyecto de software, sobre la cual los desarrolladores pueden trabajar activamente.</li>
-              <li>Se usa para desarrollo colaborativo de software y para compartir código entre un equipo o una comunidad de desarrolladores.</li>
+              <li>Generalmente contiene la versión de desarrollo más reciente (a veces denominada "maestra", *master*, o "troncal", *trunk*) de un proyecto de software, sobre la cual los desarrolladores pueden trabajar activamente.</li>
+              <li>Se usa para el desarrollo colaborativo de software y para compartir código entre un equipo o una comunidad de desarrollo.</li>
             </ul>
-            <p><strong>Nota importante:</strong> Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio a menudo son una misma cosa. Es importante entender la distinción. Sin embargo, hay sitios que son simplemente "dropboxes" para ejecutables o archivos zip de código fuente.</p>
+            <p><strong>Nota importante:</strong> Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio suelen ser lo mismo. Es importante entender la distinción. Sin embargo, algunos sitios web son puramente buzones (dropboxes) para archivos ejecutables o zip de código fuente.</p>
         </td>
     </tr>
   </tbody>
@@ -498,8 +498,8 @@ Git/GitHub y Bitbucket son opciones populares para repositorios de software.
     <tr>
         <td colspan="2">
             <ul>
-              <li>A menudo se usa para distribución y preservación a largo plazo de software.</li>
-              <li>Un sistema de almacenamiento que contiene lanzamientos o versiones específicas y estables de software, paquetes binarios compilados o lanzamientos de código fuente.</li>
+              <li>A menudo se usa para la distribución y preservación a largo plazo de software.</li>
+              <li>Un sistema de almacenamiento que contiene lanzamientos o versiones específicas y estables de software, paquetes binarios compilados o versiones de código fuente.</li>
               <li>Los usuarios suelen descargar software desde un archivo para instalarlo y usarlo en sus sistemas.</li>
             </ul>
         </td>
@@ -509,7 +509,7 @@ Git/GitHub y Bitbucket son opciones populares para repositorios de software.
 
 **Contenedores**
 
-Un contenedor de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, incluyendo el código, el entorno de ejecución, herramientas del sistema, configuraciones del entorno y bibliotecas. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, asegurando consistencia y portabilidad entre distintos entornos de cómputo. Un contenedor es una herramienta útil que puede aportar eficiencia, escalabilidad y facilidad de despliegue. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker y Apache Mesos.
+Un contenedor (container) de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, como el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecas o librerías. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre distintos entornos informáticos. Un contenedor es una herramienta útil que puede aportar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker y Apache Mesos.
 
 ### Actividad 4.2: Relaciona herramientas
 
@@ -526,7 +526,7 @@ Relaciona cada elemento con su descripción:
         Entorno de desarrollo integrado (IDE)
       </td>
       <td>
-        Editor de texto mejorado para código. Ayuda a identificar sintaxis y constructos del código
+        Editor de texto mejorado para el código. Ayuda a identificar la sintaxis y las construcciones o desarrollos de código.
       </td>
     </tr>
     <tr>
@@ -534,7 +534,7 @@ Relaciona cada elemento con su descripción:
         Archivo de software
       </td>
       <td>
-        Almacenamiento estático donde se guardan lanzamientos de software estables y probados exhaustivamente.
+        Almacenamiento estático donde se guardan versiones de software estables y completamente probadas.
       </td>
     </tr>
     <tr>
@@ -542,7 +542,7 @@ Relaciona cada elemento con su descripción:
         Plataforma de control de versiones
       </td>
       <td>
-        Herramienta que ayuda a los desarrolladores de software a gestionar y rastrear cambios en.
+        Herramienta que ayuda a quienes desarrollan software a gestionar y realizar un seguimiento de los cambios.
       </td>
     </tr>
   </tbody>
@@ -550,39 +550,39 @@ Relaciona cada elemento con su descripción:
 
 ## Lección 4: Resumen
 
-En esta lección aprendiste:
+En esta lección has aprendido:
 
-- La utilidad de herramientas digitales que gestionan, fomentan la colaboración y alojan código.
-- Cómo los sistemas de control de versiones como Git y plataformas como GitHub pueden aumentar la colaboración y la gestión del código.
-- Algunas herramientas comunes para editar código, incluyendo Entornos de Desarrollo Integrados (IDE) como Visual Studio Code y Jupyter Notebooks.
-- La diferencia entre repositorios y archivos de software, y también cómo los contenedores de software pueden ayudar al intercambio y la reproducibilidad del código.
+- La utilidad de herramientas digitales que gestionan, fomentan la colaboración y albergan Código Abierto.
+- Cómo los sistemas de control de versiones, como Git, y plataformas como GitHub pueden aumentar la colaboración y la gestión del código.
+- Algunas herramientas comunes para editar Código Abierto, incluidos entornos de desarrollo integrados (IDEs) como Visual Studio Code y Jupyter Notebooks.
+- La diferencia entre repositorios y archivos de software y también cómo los contenedores de software pueden ayudar a compartir y reproducir código.
 
 ## Lección 4: Evaluación
 
-Responde las siguientes preguntas para evaluar lo que aprendiste hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 *Pregunta*
 
 **01/03**
 
-¿Cuál NO es un beneficio de usar control de versiones y plataformas de control de versiones?
+¿Cuál de las siguientes NO es una ventaja de utilizar plataformas de control de versiones?
 
 - Capacidad de rastrear cambios que se hicieron
 - No puedes volver atrás para hacer cambios
-- Facilidad para colaborar en código con otros
+- Facilidad de colaboración en el código, con otras personas
 - Directorio limpio y sin desorden: no hace falta tener múltiples copias de archivos
-- Un sistema de respaldo muy dirigido para tu trabajo
+- Un sistema de respaldo muy específico para tu trabajo
 
 *Pregunta*
 
 **02/03**
 
-Un entorno de cómputo interactivo que combina ejecución de código, documentación y visualización de datos en una sola interfaz se conoce como:
-
+Un entorno informático interactivo que combina ejecución de código, documentación y visualización de datos en una única interfaz se conoce como:
+  
 - Plataforma de control de versiones
 - Repositorio de software
 - Cuaderno computacional
-- Contenedor
+- Contenedor (container)
 
 *Pregunta*
 
@@ -593,6 +593,6 @@ Un repositorio de software y un archivo de software son lo mismo.
 - Verdadero
 - Falso
 
-### Referencias citadas
+### Referencias
 ---
 - 2022 Developer Survey. (2022, mayo). Stack Overflow. [https://survey.stackoverflow.co/2022/](https://survey.stackoverflow.co/2022/) (enlace externo)
