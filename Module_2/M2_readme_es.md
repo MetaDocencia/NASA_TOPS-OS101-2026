@@ -1,6 +1,6 @@
 # Introducción a la Ciencia Abierta Módulo 2: Herramientas y Recursos Abiertos
 
-Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y recursos abiertos
+Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y Recursos Abiertos
 
 ## Acerca de este módulo
 
@@ -10,7 +10,7 @@ Este módulo está diseñado para ayudarte a comenzar tu camino hacia la prácti
 
 -   Definir los elementos fundamentales de la Ciencia Abierta, que incluye los productos de la investigación, el marco de "usar, hacer, compartir" y el papel de un Plan de Ciencia Abierta y Gestión de Datos.
 -   Listar y explicar el propósito de los recursos utilizados para descubrir y evaluar los productos de investigación para reutilización incluyendo repositorios, portales de búsqueda, publicaciones, documentación como archivos README (LEEME), metadatos y licencia.
--   Desarrollar una estrategia de alto nivel para crear y compartir datos a partir de los principios FAIR, incorporando un plan de gestión de datos, rastreo de datos y autores con identificadores y citas persistentes, y utilizar los formatos y herramientas de datos apropiados para generar datos y compartir los resultados.
+-   Desarrollar una estrategia de alto nivel para crear y compartir datos a partir de los principios FAIR, incorporando un Plan de Gestión de Datos, rastreo de datos y autores con identificadores y citas persistentes, y utilizar los formatos y herramientas de datos apropiados para generar datos y compartir los resultados.
 -   Describir el ciclo de vida del software y diseñar una estrategia de alto nivel para crear y compartir software que considere el uso de un plan de gestión de software, las herramientas necesarias para el desarrollo incluyendo código fuente, núcleos o Kernels, lenguajes de programación, software de terceros, control de versiones, y las herramientas y documentación utilizadas para publicar y curar Software Abierto.
 -   Listar los recursos para compartir productos de investigación incluyendo preimpresiones (_preprints_), publicaciones de Acceso Abierto, sistemas de administración de referencias y recursos para apoyar la reproducibilidad.
 
@@ -28,9 +28,9 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **ORCID** -- Un código numérico utilizado para identificar de forma única a las personas autoras o colaboradoras de la comunicación científica. Quienes investigan proporcionan un ORCID para sus publicaciones y membresía de asociaciones. ORCID también es una organización internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad académica para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
 
-**Identificadores persistentes (PIDs, por sus siglas en inglés)** - Una referencia digital de larga duración para una entidad.
+**Identificadores persistentes (PIDs, por sus siglas en inglés)** -- Una referencia digital de larga duración para una entidad.
 
-**Identificadores de objetos digitales (DOIs, por sus siglas en inglés)** -- Una cadena de caracteres estandarizada por la Organización Internacional para la Estandarización (*International Organization for Standardization*) asignada a una pieza de contenido digital, que señala su ubicación digital.
+**Identificadores de objetos digitales (DOIs, por sus siglas en inglés)** -- Una cadena de caracteres estandarizada por la Organización Internacional de Normalización (*International Organization for Standardization*) asignada a una pieza de contenido digital, que señala su ubicación digital.
 
 ## Contenidos
 
