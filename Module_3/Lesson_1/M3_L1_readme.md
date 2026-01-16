@@ -43,7 +43,7 @@ Using vast space-flown animal and human samples as well as astronaut biological 
 
 Mitochondria are components within our cells that affect respiratory and energy function. This discovery could be crucial to overcoming human health-related problems in space. Understanding the source of this issue could help scientists develop countermeasures and therapies to keep people healthy in space for longer periods of time.
 
-For additional information about the study of mitochondrial stress in the bodies of astronauts, watch Living and Working in Space: Twins Study (external link) on NASA's YouTube channel.
+For additional information about the study of mitochondrial stress in the bodies of astronauts, watch [Living and Working in Space: Twins Study](https://www.youtube.com/watch?v=c9moR-KQpDQ) (external link) on NASA's YouTube channel.
 
 ## Definition and Considerations of Open Data
 
