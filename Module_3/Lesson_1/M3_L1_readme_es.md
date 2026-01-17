@@ -124,43 +124,44 @@ Compartir datos tiene muchos beneficios y puede facilitar el acceso al conocimie
 
 #### Ejemplo: Pruebas de calidad del agua en Beirut
 
-Una persona que hace ciencia ciudadana es (puede ser aficionada a la ciencia) quien colabora con investigaciones profesionales para ayudar a recopilar o interpretar datos en una escala espacial y temporal más amplia de la que el equipo investigador podría lograr sin su colaboración. Esta externalización de la responsabilidad favorece que el público en general participe en actividades científicas que, en última instancia, los benefician y permiten que la investigación se realice en una escala mayor de la que podría ser posible solo con personas investigadoras. La Ciencia Ciudadana está ganando popularidad y reconocimiento como una valiosa contribución a los avances científicos.
+Una persona que hace ciencia ciudadana (puede ser aficionada a la ciencia) colabora con investigaciones profesionales para ayudar a recopilar o interpretar datos en una escala espacial y temporal más amplia de la que el equipo investigador podría lograr sin su colaboración. Esta externalización de la responsabilidad favorece que el público en general participe en actividades científicas que, en última instancia, los benefician y permiten que la investigación se realice en una escala mayor de la que podría ser posible solo con personas investigadoras. La Ciencia Ciudadana está ganando popularidad y reconocimiento como una valiosa contribución a los avances científicos.
 
-Por ejemplo, se reclutaron personas voluntarias en Beirut de 50 aldeas para ayudar a probar la calidad del agua; fuente: capítulo 5 de *Contextualizando la apertura: situando la Ciencia Abierta* (en inglés). Estas personas voluntarias se formaron para realizar las pruebas. No solo se recogieron datos para informar los avances científicos, sino que quienes participaron en este proyecto de Ciencia Ciudadana tuvieron la oportunidad de aprender a gestionar mejor sus recursos hídricos y pudieron mejorar las condiciones, creando una interacción mutuamente beneficiosa. (Chan et al., 2019)
+Por ejemplo, se reclutaron en Beirut a 50 personas voluntarias de aldeas para ayudar a evaluar la calidad del agua; fuente: capítulo 5 de *Contextualizando la apertura: situando la Ciencia Abierta* (en inglés). Estas personas voluntarias se formaron para realizar las pruebas. No solo se recogieron datos para informar sobre los avances científicos, sino que quienes participaron en este proyecto de Ciencia Ciudadana tuvieron la oportunidad de aprender a gestionar mejor sus recursos hídricos y pudieron mejorar las condiciones, creando una interacción mutuamente beneficiosa. (Chan et al., 2019)
 
 **Datos Abiertos e intercambio equitativo de conocimientos**
 
-En última instancia, la distribución libre del conocimiento incrementa la participación en la ciencia.
+La libre distribución del conocimiento aumenta la participación en la ciencia.
 
 En un ecosistema de investigación donde el conocimiento es una mercancía, con la moneda principal en forma de artículos publicados y conjuntos de datos acaparados, hacer que la investigación no esté disponible o sea difícil de obtener para la comunidad científica puede limitar el progreso científico y afectar negativamente los resultados.
 
-#### Ejemplo: Reconocimiento del trabajo de investigadores africanos sobre ébola
+#### Ejemplo: reconocimiento y compensación por el trabajo del equipo investigador africano del ébola
 
-Durante el brote de ébola de África occidental entre 2014 y 2016, investigadores de África occidental trabajaron activamente para recolectar datos de muestras de sangre, con el fin de comprender mejor el virus del ébola y ayudar a frenar la rápida propagación del virus. Sin embargo, la mayoría de las muestras de sangre se enviaron al extranjero, a Estados Unidos y Europa, donde investigadores usaron esos datos para escribir artículos sobre ébola. Como resultado, los datos tardaron mucho más en difundirse de regreso al público, y los investigadores de África occidental recibieron poco crédito. Según un artículo de 2019 en *Nature*, "esto frustró a investigadores en los países devastados por el virus, que esperaban que estudiar aspectos de la epidemia fortaleciera su capacidad de responder a futuros brotes de enfermedades infecciosas". (Maxmen, 2019)
 
-Al fomentar una cultura de investigación transparente, donde el trabajo es reconocido adecuadamente, crearemos un modelo sostenible que incremente la transparencia y la calidad de la producción científica.
+Durante el brote de ébola en África Occidental entre 2014 y 2016, el equipo de investigación de África Occidental trabajó activamente para recolectar muestras de sangre con el fin de comprender mejor el virus del ébola y ayudar a detener su rápida propagación. Sin embargo, la mayoría de las muestras de sangre se enviaron al extranjero, a EE. UU. y Europa, donde los grupos de investigación utilizaron esas muestras de datos para escribir artículos sobre el ébola. Como resultado, los datos tardaron mucho más en difundirse de regreso al público y los investigadores de África occidental recibieron poco crédito. Según un artículo de 2019 en *Nature*, "esto frustró a investigadores en los países devastados por el virus, que esperaban que estudiar aspectos de la epidemia fortaleciera su capacidad de responder a futuros brotes de enfermedades infecciosas". (Maxmen, 2019)
+
+Al fomentar una cultura de investigación transparente, donde el trabajo sea reconocido adecuadamente, crearemos un modelo sostenible que incremente la transparencia y la calidad de la producción científica.
 
 ---
 
-### Resumen de beneficios de los Datos Abiertos
+### Resumen de los beneficios de los Datos Abiertos
 
-Los datos abiertos que están disponibles para el escrutinio benefician la innovación científica al permitir un proceso científico más robusto, que se nutre de múltiples perspectivas. Esta apertura también permite la identificación temprana de hallazgos erróneos, así como la intervención temprana ante impactos negativos no previstos.
+Los Datos Abiertos que están disponibles para el escrutinio benefician la innovación científica al permitir un proceso científico más robusto, que se nutre de múltiples perspectivas. Esta apertura también permite identificar a tiempo hallazgos erróneos, así como intervenir ante impactos negativos no previstos.
 
-Los datos abiertos permiten que investigadores no tradicionales contribuyan al desarrollo científico y aporten sus hallazgos particulares. Con estos beneficios en mente, debemos recordar siempre que los datos abiertos requieren una consideración cuidadosa de sus posibles desventajas. Este módulo del currículo de Ciencia Abierta discute consideraciones importantes para la gestión responsable, la recolección y el uso de datos abiertos por parte de todos los actores involucrados.
+Los Datos Abiertos permiten a los equipos de investigación no tradicionales contribuir al desarrollo científico y aportar sus hallazgos particulares. Con estos beneficios en mente, debemos recordar siempre que los Datos Abiertos requieren una consideración cuidadosa de sus posibles desventajas. En la siguiente lección, “Uso de Datos Abiertos”, analizaremos consideraciones importantes para la gestión, recopilación y uso responsable de Datos Abiertos por parte de todas las partes interesadas.
 
 ### Beneficios para ti
 
-Los datos abiertos también benefician tu investigación y tu carrera. Para empezar, eres tu propio colaborador futuro.
+Los Datos Abiertos también benefician a tu investigación y tu carrera. Para empezar, ¡eres quien colaborará contigo en el futuro!
 
-Hacer ciencia abierta no solo permite que otras personas comprendan y reproduzcan tus resultados, sino que también te permite hacer lo mismo. Implementar principios de ciencia abierta como buena documentación y control de versiones te ayuda a ti, a posibles colaboradores y a cualquier otra persona a comprender tus resultados. En 2 horas, 2 semanas o 2 años, todavía podrás entender lo que hiciste.
+Hacer Ciencia Abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, ¡sino que también te lo permite a ti! Implementar principios de Ciencia Abierta como la buena documentación y el control de versiones te ayuda a ti, a potenciales colaboradores y al resto de las personas a entender tus resultados. En 2 horas, 2 semanas o 2 años, todavía podrás entender lo que hiciste.
 
-Beneficios específicos de abrir datos para ti como individuo:
+Beneficios específicos que tendrás si tus datos son abiertos:
 
-- Nunca perderás acceso a tu trabajo previo, sin importar a qué institución estés afiliado. Muchos investigadores cambian de instituciones y organizaciones, y al tener tus datos accesibles públicamente en repositorios, siempre tendrás acceso a ellos.
-- Tus datos pueden citarse y recibirás crédito.
+- Nunca perderás el acceso a tu trabajo anterior, sin importar el instituto al que pertenezcas. Muchos investigadores se mueven por instituciones y organizaciones y, al tener sus datos accesibles públicamente en repositorios, siempre tendrán acceso a ellos.
+- Cuando tus datos sean citados, obtendrás el crédito correspondiente.
 - Según un estudio de 2020, las publicaciones que incluyen enlaces a datos se citan más. (Colavizza et al., 2020)
 
-Además, implementar buenas prácticas de ciencia abierta puede fortalecer tus propuestas de financiamiento. Las agencias financiadoras están reconociendo que compartir investigación abiertamente genera mayor retorno de su inversión. Productos de investigación bien documentados también demuestran la calidad de tu trabajo, lo que ayuda en la comunicación pública y puede atraer colaboradores de calidad. A todo el mundo le gusta trabajar con personas confiables y que hacen bien su trabajo.
+La implementación de buenas prácticas para la Ciencia Abierta puede fortalecer tus solicitudes de financiación. Las agencias de financiación se están dando cuenta de que compartir abiertamente la investigación proporciona un mayor retorno sobre su inversión. Los resultados de investigación bien documentados también demuestran la calidad de tu trabajo, lo que ayuda con la comunicación pública y también puede atraer colaboradores de calidad. Todo el mundo prefiere trabajar con personas confiables y que hagan un buen trabajo.
 
 ### Actividad 1.1 Revisión de Datos Abiertos
 
@@ -170,37 +171,38 @@ Tómate un momento para reflexionar sobre lo que significa para ti compartir dat
 
 Fuente de la imagen: Nube de palabras "Open Research Data - the FAIRest Data is the Future of Science - Estonia national OpenAIRE event" por OpenAIRE, con licencia CC 4.0
 
-La nube de palabras anterior muestra la variedad de significados e interpretaciones que las personas tienen sobre los datos abiertos. ¿Cuántos términos de la nube de palabras reconoces? ¿Hay alguno que sea nuevo para ti?
+La imagen muestra una nube de palabras (en inglés) con mayor presencia de términos como FAIR (principios FAIR), Datos Abiertos de investigación (Open Research Data), Ciencia Abierta (Open Science), Datos Abiertos (Open Data), Planes de Gestión de Datos (Data Management Plans), DOI (identificador de objeto digital), almacenamiento (storage) y reuso (reuse). También, con menor presencia, personas investigadoras (researchers), repositorio (repository), archivo (archiving), publicación (publishing), DataCite y OpenAire, entre otras.
 
 ## Desafíos de los Datos Abiertos
 
-Si bien los datos abiertos tienen muchos beneficios, también puede haber desafíos en su creación y uso. A lo largo de este módulo, discutimos muchos de estos desafíos y posibles soluciones. En esta sección veremos algunas de las preocupaciones más comunes junto con acciones para mitigarlas.
+Si bien los Datos Abiertos tienen muchos beneficios, su creación y uso también pueden plantear desafíos. A lo largo de este módulo analizaremos muchos de estos desafíos y sus posibles soluciones. En esta sección, abordamos algunas de las preocupaciones más comunes junto con acciones para mitigarlas.
 
 ### Restricciones para compartir datos
 
-Algunos datos solo deberían compartirse con mucho cuidado o directamente no compartirse. Razones para no compartir pueden incluir:
+Algunos datos sólo deben compartirse con mucho cuidado o no compartirse en absoluto. Las razones para no compartir pueden incluir:
 
 - Los datos incluyen secretos militares de un país o violaciones de intereses nacionales.
-- Los datos incluyen información médica privada o datos personales identificables de un individuo.
+- Los datos incluyen información médica privada o datos de identificación personal de un individuo.
 - Los datos incluyen propiedad intelectual.
 
-Es importante familiarizarse con requisitos, expectativas y limitaciones que afectarán el intercambio de tus datos, como políticas de tu agencia financiadora o institución, o leyes de protección de datos. Estos temas se discuten más adelante en otros módulos.
+Es importante adquirir familiaridad con las políticas que rigen el intercambio de datos y las políticas de tu agencia de financiación, institución o legislación en materia de protección de datos. Esto se analiza con más detalle en módulos posteriores.
 
-### Miedos comunes al compartir datos abiertos
+### Preocupaciones comunes a la hora de compartir datos
 
-#### NOTA: Discutiremos más adelante en este módulo muchos de los conceptos mencionados en la columna de discusión(mitigación).
+#### NOTA: Analizaremos muchos de los conceptos mencionados en la columna de discusión/mitigación más adelante en este módulo.
 
 |  |  |
 |---|---|
-| Miedo: Alguien reutilizará mis datos para publicar un resultado en el que estoy trabajando (por ejemplo, adelantarse) | Sí, esto puede pasar. Pero en muchos campos, si es claro que alguien está trabajando activamente en un problema, la decisión de otro de adelantarse puede traer una ganancia de corto plazo pero una pérdida de largo plazo. En ciencia, la reputación es muy importante y colaborar, por lo general, conduce a mayores éxitos de carrera. Si estás compartiendo tus datos, asegúrate de que tengan un identificador de objeto digital (DOI). Esto no impide que alguien use tus datos sin atribución, pero ayuda a que otros puedan citarlos fácilmente. Hay un artículo útil sobre esto [aquí](https://datascience.codata.org/articles/10.5334/dsj-2017-029). |
-| Miedo: Interpretación errónea o mal uso | Proporciona información contextual suficiente (documentación) para permitir que otros comprendan plenamente tus datos y reducir este riesgo. |
-| Miedo: Mis datos se usarán pero no se citarán | Si bien no es común que investigadores citen datos, la ética científica indica que deberías ser citado si se usa tu trabajo. Y recuerda citar datos de otros, para no contribuir al problema. |
-| Miedo: Los datos son demasiado sensibles para compartir | Usa acceso controlado para ayudar a mantener sensibilidad y seguridad. |
-| Miedo: Mis datos no serán útiles para nadie más | Nunca se sabe cómo pueden usarse los materiales. Marineros en los años 1800 recolectaron datos de temperatura que todavía hoy siguen siendo una parte importante de nuestro registro climático oceánico. (NPR, 2019) |
+| Preocupación: Apropiación. ¿Qué pasa si alguien reusa mis datos para publicar un resultado en el que yo estaba trabajando? | Sí, esto puede suceder. Pero en muchos ámbitos, si está claro que alguien está trabajando activamente en un problema, la decisión de otro de sacar provecho puede tener una ganancia a corto plazo pero una pérdida a largo plazo. En ciencia, la reputación es muy importante y la colaboración generalmente conduce a mayores éxitos profesionales. Si compartes tus datos, asegúrate de que tengan un identificador de objeto digital (DOI). Esto no impide que alguien use tus datos sin atribución, pero ayuda a que otros puedan citar tus datos más fácilmente. Hay un buen artículo (en inglés) sobre esto [aquí](https://datascience.codata.org/articles/10.5334/dsj-2017-029). |
+| Preocupación: Mala Interpretación o Mal Uso | Para reducir este riesgo, puedes proporcionar suficiente información contextual (documentación) que permita a los demás comprender plenamente tus datos. |
+| Preocupación: Mis datos serán usados, pero no citados | Si bien no es común que las personas en investigación citen datos, la ética científica exige citar si se utiliza tu trabajo. ¡Y recuerda citar los datos de los demás para no contribuir al problema! |
+| Preocupación: Los datos son demasiado sensibles para compartirlos | Puedes usar el acceso controlado para ayudar a mantener la confidencialidad y la seguridad. |
+| Preocupación: Mis datos no serán útiles para nadie más | Nunca se sabe cómo podrán usarse los materiales. Marineros en los años 1800 recolectaron datos de temperatura que, todavía hoy, siguen siendo una parte importante de nuestro registro climático oceánico. (NPR, 2019) |
 
-Estas son preocupaciones válidas al compartir datos abiertamente, pero como indica el movimiento global hacia la ciencia abierta, los beneficios generales superan las preocupaciones.
+Todas estas son preocupaciones válidas cuando se comparten datos abiertamente, pero como lo muestra el movimiento global hacia la Ciencia Abierta, los beneficios generales superan las preocupaciones.
 
-En última instancia, eres libre de implementar principios y recursos de datos abiertos en tu investigación para maximizar su impacto y cumplir con expectativas de patrocinadores y comunidad, a la vez que gestionas costos.
+En última instancia, eres libre de implementar los principios y recursos de los Datos Abiertos en tu investigación para maximizar su impacto y cumplir con las expectativas de quienes te patrocinan y de la comunidad, mientras reduces los costos.
+
 
 ## Aplicación de los Principios FAIR
 
@@ -210,24 +212,24 @@ Crédito de la imagen: Una caricatura que describe el intercambio de datos FAIR 
 
 ---
 
-### FAIR: Encontrables, Accesibles, Interoperables, Reutilizables
+### FAIR: Fácil de encontrar, Accesible, Interoperable, Reusable
 
-La gran mayoría de los datos hoy se comparten en línea. Aunque FAIR fue introducido en el Módulo 2, Lección 3, se ofrecen a continuación algunos detalles adicionales. Los Principios FAIR ayudan a que investigadores hagan un mejor uso de (y conecten a una audiencia más amplia con) sus datos científicos que lo que permitirían técnicas desactualizadas. Los datos FAIR son más valiosos para la ciencia porque son más fáciles de usar. Los datos pueden ser FAIR independientemente de si se comparten abiertamente o no. Si los datos se comparten abiertamente, ser FAIR ayuda con la reutilización y amplía el impacto científico de los datos.
+La gran mayoría de los datos actuales se comparten en línea. Los principios FAIR ayudan a las personas investigadoras a hacer un mejor uso de sus datos científicos y a interactuar con una audiencia más amplia de lo que permitirían las técnicas obsoletas. Los datos FAIR son más valiosos para la ciencia porque resultan más fáciles de usar. Los datos pueden ser FAIR independientemente de si se comparten abiertamente o no. Si los datos se comparten abiertamente, ser FAIR ayuda al reuso y amplía el impacto científico de los datos.
 
-Los Principios FAIR no abarcan instrucciones de implementación exhaustivas para cada tipo de datos, pero ofrecen ideas generales para mejorar la posibilidad de compartir y reutilizar. A veces se necesita un esfuerzo grupal y(o) un proceso largo de producción para que los datos y resultados sean FAIR. El proceso comienza en la etapa de planificación de un proyecto de investigación. Un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) bien coordinado suele ser necesario para el cumplimiento completo de FAIR, dependiendo del tamaño y del tipo de proyecto para el que se estén usando los datos.
+Los principios FAIR no abarcan instrucciones de aplicación exhaustivas para cada tipo de datos, pero ofrecen ideas generales para mejorar la capacidad de compartir y reusar. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción para que los datos y los resultados sean FAIR. El proceso comienza en la etapa de planificación de un proyecto de investigación. A menudo se necesita un plan de gestión de datos y Ciencia Abierta bien coordinado para cumplir plenamente con FAIR, dependiendo del tamaño y el tipo de proyecto para el que se utilizan los datos.
 
-**Información actualizada sobre los Principios FAIR puede encontrarse en el sitio de la Iniciativa GO FAIR**
+**Puedes encontrar información actualizada sobre los principios FAIR en el sitio de la Iniciativa GO FAIR**
 
 [HAZ CLIC PARA APRENDER (ENLACE EXTERNO)](https://www.go-fair.org/)
 
-Revisemos cómo hacer que los datos sean FAIR para tu comunidad.
+Repasemos cómo hacer que los datos sean FAIR para tu comunidad.
 
 *Selecciona cada pestaña para ver más información.*
 
 <table>
   <thead>
     <tr>
-        <th>ENCONTRABLES &#9745;</th>
+        <th>FÁCILES DE ENCONTRAR &#9745;</th>
         <th>ACCESIBLES</th>
         <th>INTEROPERABLES</th>
         <th>REUTILIZABLES</th>
@@ -236,13 +238,13 @@ Revisemos cómo hacer que los datos sean FAIR para tu comunidad.
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Para asegurar que los datos sean encontrables por quienes integran tu comunidad:</p>
+            <p>Para garantizar que los miembros de tu comunidad puedan encontrar los datos:</p>
             <ul>
             <li>Deposita los datos en repositorios para preservarlos a lo largo del tiempo.</li>
-            <li>Asigna a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI).</li>
-            <li>Agrega metadatos ricos y autoexplicativos en tus archivos de datos y registra esos metadatos en un catálogo de metadatos, habilitando que tus datos queden correctamente curados.</li>
+            <li>Asigna a tu conjunto de datos un identificador persistente (PID, por sus siglas en inglés), como por ejemplo un identificador de objeto digital (DOI).</li>
+            <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos, y registra los metadatos en un catálogo de metadatos que permitirá que estos se seleccionen adecuadamente.</li>
                 <ul>
-                <li>Ten en cuenta que algunas imágenes o archivos binarios no pueden indexarse o buscarse fácilmente y necesitarán archivos de metadatos complementarios o diccionarios para asegurar que puedan descubrirse en una búsqueda.</li>
+                <li>Ten en cuenta que algunas imágenes o archivos binarios no se pueden indexar ni buscar fácilmente y necesitarán archivos de metadatos o diccionarios complementarios para garantizar que se puedan descubrir en una búsqueda.</li>
                 </ul>
             <li>Automatiza el intercambio de tus metadatos con comunidades objetivo, si corresponde.</li>
             </ul>
@@ -254,7 +256,7 @@ Revisemos cómo hacer que los datos sean FAIR para tu comunidad.
 <table>
   <thead>
     <tr>
-        <th>ENCONTRABLES</th>
+        <th>FÁCILES DE ENCONTRAR</th>
         <th>ACCESIBLES &#9745;</th>
         <th>INTEROPERABLES</th>
         <th>REUTILIZABLES</th>
@@ -263,12 +265,12 @@ Revisemos cómo hacer que los datos sean FAIR para tu comunidad.
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Para asegurar que los datos puedan ser accesibles para quienes integran tu comunidad:</p>
+            <p>Para garantizar que los miembros de tu comunidad puedan acceder a los datos:</p>
             <ul>
-                <li>Archiva en un repositorio(centro) de datos con protocolos de acceso estandarizados.</li>
-                <li>Los protocolos de acceso del repositorio deberían estar bien definidos y, de ser posible, soportar acceso entre máquinas.</li>
-                <li>Proporciona información sobre cómo los usuarios pueden acceder a tus datos, idealmente de forma automatizada y basada en máquinas.</li>
-                <li>Si el contenido completo no puede ponerse a disposición abierta por alguna razón (por ejemplo, sensibilidad de datos, acceso poco frecuente a los datos, problemas de almacenamiento), los metadatos igualmente pueden ponerse a disposición abierta para que los usuarios sepan a quién contactar para solicitar los datos (si es posible).</li>
+                <li>Archiva en un repositorio de datos/centro de datos con protocolos de acceso estandarizados.</li>
+                <li>Los protocolos de acceso al repositorio deben estar bien definidos e idealmente deberían admitir el acceso de máquina a máquina.</li>
+                <li>Provee información sobre cómo pueden acceder las personas usuarias a tus datos, idealmente de forma automatizada y computacional.</li>
+                <li>Si el contenido completo no puede estar disponible abiertamente por algún motivo (sensibilidad de los datos, acceso poco frecuente a los datos, problemas de almacenamiento de los archivos), los metadatos pueden ponerse a disposición del público para que las personas usuarias puedan averiguar a quién deben contactar para solicitar los datos (de ser posible).</li>
             </ul>
         </td>
     </tr>
@@ -278,7 +280,7 @@ Revisemos cómo hacer que los datos sean FAIR para tu comunidad.
 <table>
   <thead>
     <tr>
-        <th>ENCONTRABLES</th>
+        <th>FÁCILES DE ENCONTRAR</th>
         <th>ACCESIBLES</th>
         <th>INTEROPERABLES &#9745;</th>
         <th>REUTILIZABLES</th>
@@ -290,8 +292,8 @@ Revisemos cómo hacer que los datos sean FAIR para tu comunidad.
             <p>Para asegurar que los datos sean interoperables para quienes integran tu comunidad:</p>
             <ul>
                 <li>Reporta los datos en un formato estándar de la comunidad.</li>
-                <li>Usa metadatos estandarizados existentes, si están disponibles, para minimizar problemas de "pérdida en la traducción" y soportar legibilidad por máquinas.</li>
-                <li>El uso de terminologías, vocabularios y ontologías controladas es necesario para soportar interoperabilidad, pero puede que todavía no esté disponible en todos los campos de investigación.</li>
+                <li>Usa metadatos estandarizados existentes, si están disponibles, para minimizar los problemas generados por mala comunicación de la información y para respaldar la legibilidad automática.</li>
+                <li>El uso de terminologías controladas, vocabularios y ontologías es necesario para respaldar la interoperabilidad, pero puede que aún no estén disponibles en todos los campos de investigación.</li>
             </ul>
         </td>
     </tr>
@@ -301,7 +303,7 @@ Revisemos cómo hacer que los datos sean FAIR para tu comunidad.
 <table>
   <thead>
     <tr>
-        <th>ENCONTRABLES</th>
+        <th>FÁCILES DE ENCONTRAR</th>
         <th>ACCESIBLES</th>
         <th>INTEROPERABLES</th>
         <th>REUTILIZABLES &#9745;</th>
@@ -312,88 +314,88 @@ Revisemos cómo hacer que los datos sean FAIR para tu comunidad.
         <td colspan="4">
             <p>Para asegurar que los datos sean reutilizables por quienes integran tu comunidad:</p>
             <ul>
-                <li>Asegura que los metadatos describan con precisión los datos y sus variables, así como particularidades o limitaciones.</li>
+                <li>Asegúrate de que los metadatos describan con precisión los datos y sus variables, así como cualquier particularidad o limitación.</li>
                 <li>Especifica licencias de uso claras para tus datos.</li>
-                <li>Proporciona información precisa sobre procedencia en tus metadatos.</li>
-                <li>Agrega suficiente información de metadatos para que tus datos puedan citarse adecuadamente cuando se usen.</li>
+                <li>Proporciona información precisa sobre la procedencia en tus metadatos.</li>
+                <li>Agrega suficiente información en los metadatos para que tus datos puedan ser citados correctamente cuando se utilicen.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### El rol central de los metadatos al aplicar FAIR
+### El papel central de los metadatos en la aplicación de los principios FAIR
 
-Los metadatos son importantes para que motores de búsqueda encuentren datos y para que las personas puedan comparar fácilmente lo que se devuelve.
+Los metadatos son importantes para que los motores de búsqueda encuentren datos y para que las personas puedan comparar fácilmente lo que se devuelve.
 
-- Los metadatos son esenciales para implementar los Principios FAIR y habilitar que los datos puedan usarse por máquinas de forma automatizada.
-- Mientras más ricos y autoexplicativos sean los metadatos, mejor podrán ser manejados por cualquiera que esté interesado en tus datos.
+- Los metadatos son esenciales para la aplicación de los Principios FAIR y permiten que los datos sean utilizados por las máquinas de forma automatizada.
+- Cuanto más ricos y autodescriptivos sean los metadatos, mejor serán manejados por cualquiera que esté interesado en tus datos.
 
 ### Licenciar datos
 
-Una licencia es un documento legal que le dice a los usuarios cómo pueden usar un conjunto de datos en particular. Si no licencias tu conjunto de datos, otros no pueden y no deberían reutilizarlo, incluso si tú quieres que lo hagan. Es imprescindible comprender las condiciones de licenciamiento de un conjunto de datos antes de reutilizarlo. Sin una buena comprensión de lo que una licencia permite, los usuarios pueden encontrarse con infracciones de copyright u otros problemas de propiedad intelectual.
+Una licencia es un documento legal que indica a las personas usuarias cómo pueden utilizar un conjunto de datos en particular. Si no licencias tu trabajo, otros no podrán o no deberían reusarlo, ¡aunque lo quieras! Es imprescindible conocer las condiciones de licencia de un conjunto de datos antes de reusarlos. Sin una buena comprensión de lo que permite una licencia, las personas usuarias de los datos pueden enfrentarse a problemas de infracción de derechos de autor u otros problemas de propiedad intelectual.
 
-Para asegurar la reutilización abierta de tus datos, puedes usar una licencia abierta. Una licencia abierta incluye lenguaje que describe la capacidad del usuario para acceder, reutilizar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que son abiertas en distintos grados, y se discutirán con mayor profundidad en la Lección 3, "Producir Datos Abiertos".
+Para asegurar el reúso libre de tus datos, puedes recurrir a una licencia abierta. Una licencia abierta contiene un texto que describe la capacidad del usuario para acceder, reusar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que tienen distintos grados de apertura, y que se tratarán con más detalle en la lección 3 de este mismo módulo "Hacer de Datos Abiertos".
 
-## Planificar la apertura: El sistema  para los Datos Abiertos
+## Planificar la apertura: El sistema "Usar, hacer, compartir" para los Datos Abiertos
 
-### Planes de Ciencia Abierta y Gestión de Datos
+### Planificar proyectos de Ciencia Abierta y gestión de datos
 
-La mayoría de las agencias financiadoras y organizaciones científicas solicitan un plan de intercambio de investigación cuando se presenta una propuesta de proyecto. Un ejemplo de plan de ciencia abierta es el Plan de Ciencia Abierta y Gestión de Datos (Open Science and Data Management Plan, [OSDMP](https://science.nasa.gov/researchers/sara/faqs/osdmp)) de la NASA, para su Science Mission Directorate (SMD), que describe cómo se gestionará y se pondrá a disposición abierta la información científica que se producirá a partir de actividades científicas. El OSDMP incluye secciones sobre gestión de datos, gestión de software y el intercambio de publicaciones; las últimas dos se discutirán en módulos futuros. Si tu estudio tiene otros tipos de resultados, como muestras físicas, hardware u otros, deberías incluirlos en el plan también. Puede encontrarse más información y plantillas en [OSDMP en NASA](https://science.nasa.gov/researchers/sara/faqs/osdmp/).
+La mayoría de las agencias y organismos de financiamiento científico solicitan un plan de difusión de los resultados cuando se propone un proyecto de investigación. [Un ejemplo de un plan de Ciencia Abierta](https://science.nasa.gov/researchers/sara/faqs/osdmp) es el Plan de Ciencia Abierta y Gestión de Datos (OSDMP por sus siglas en inglés) de la Dirección de Misión de Ciencia de la NASA (SMD por sus siglas en inglés) que describe cómo se gestionará y pondrá a disposición del público la información producida a partir de las actividades científicas. El OSDMP incluye secciones sobre gestión de datos, gestión de software e intercambio de publicaciones; estas dos últimas se tratarán en los próximos módulos. Si tu estudio tiene otros tipos de resultados, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlos en el plan. Puedes encontrar más información y modelos en [OSDMP en NASA](https://science.nasa.gov/researchers/sara/faqs/osdmp/) (en inglés).
 
-Una buena práctica al comenzar tu recorrido de datos abiertos es crear un plan de gestión de datos (DMP), que va dentro del OSDMP. Este describe cómo gestionarás, preservarás y liberarás los datos durante y después de un proyecto de investigación. Elementos comunes de los DMP relevantes para datos abiertos incluyen una descripción de lo siguiente:
+Una buena práctica al comenzar tu viaje hacia los Datos Abiertos es crear un Plan de Gestión de Datos (PGD). En él se describe cómo se gestionarán, preservarán y publicarán los datos durante y después de un proyecto de investigación. Los elementos comunes a todos los Planes de Gestión de Datos (PGD) relevantes para Datos Abiertos incluyen una descripción teniendo en cuenta lo siguiente:
 
 |  |  |
 |---|---|
 | ¿Qué? | Tipos de datos, volumen, formatos y (cuando corresponda) estándares. |
-| ¿Cuándo? | El cronograma para archivado e intercambio de datos. |
-| ¿Dónde? | Los repositorios previstos para datos archivados. |
-| ¿Cómo? | Cómo el plan habilita la preservación a largo plazo de los datos. |
-| ¿Quién? | Roles y responsabilidades de miembros del equipo para implementar el DMP. |
+| ¿Cuándo? | El cronograma para archivar y compartir. |
+| ¿Dónde? | Los repositorios destinados a datos archivados. |
+| ¿Cómo? | Manera en que el plan permite la conservación a largo plazo de los datos. |
+| ¿Quién? | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD. |
 
-Investiga si tu institución de origen o tu fuente de financiamiento tiene orientación, estándares o plantillas para DMP. Otras organizaciones también tienen guías y ejemplos de DMP:
+Consulta si tu institución o tu organismo de financiación dispone de pautas, normas o modelos para PGDs. Sino, hay entidades que también disponen de guías y muestras de PGD, como ser:
 
 - [USGS](https://www.usgs.gov/data-management/data-management-plans) (enlace externo)
 - [NOAA](https://marinedebris.noaa.gov/sites/default/files/DataManagementPlanGuidance%26Sample.pdf) (enlace externo)
 - [NSF](https://new.nsf.gov/funding/data-management-plan) (enlace externo)
 
-Se brindarán más detalles sobre cómo crear estos planes en la lección "De la teoría a la práctica".
+Se proporcionarán más detalles sobre cómo crear estos planes en la lección 5 de este mismo módulo "De la teoría a la práctica".
 
 ### Flujo de trabajo científico
 
-Existen diversos modelos de flujo de trabajo científico que explican la ciencia abierta. Los datos cumplen un rol central en el flujo de trabajo científico, donde los usuarios pueden proponerse crear nuevos datos, recolectar y empaquetar datos durante su proyecto y luego archivarlos para almacenamiento a largo plazo, uso y reutilización.
+Hay una variedad de modelos de flujo de trabajo científico que aclaran y facilitan la comprensión de los principios y prácticas de la Ciencia Abierta. Los datos juegan un papel central en el flujo de trabajo, donde las personas usuarias pueden proponer crear nuevos datos, recopilar y empaquetar sus datos durante su proyecto, y luego archivarlos para su almacenamiento/uso/reuso a largo plazo.
 
-Para este currículo, usamos un modelo de flujo de trabajo derivado de Opensciency y The Turing Way. (OpenSciency Contributors, 2023; The Turing Way, 2024) Se utiliza para ilustrar que, independientemente del modelo de flujo de trabajo que uses, la adopción de datos abiertos se realiza a lo largo de todo el flujo de trabajo y de la producción de entregables asociados.
+Para este plan de estudios, utilizamos el modelo de flujo de trabajo de Opensciency (en inglés). Se utiliza para ilustrar que, independientemente del modelo de flujo de trabajo que se utilice, la adopción de Datos Abiertos se realiza durante todo el flujo de trabajo y la producción de entregables asociados.
 
-Si tu proyecto ya está en marcha, es una buena idea actualizar futuros lanzamientos de datos para adherir a principios de datos abiertos tanto como sea posible. Para proyectos nuevos, tus propuestas deberían incluir la creación de datos abiertos desde el inicio del proyecto.
+Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaciones de datos para adherirse a los principios de Datos Abiertos en la medida de lo posible. Para nuevos proyectos, tus propuestas deberían incluir la creación de Datos Abiertos desde el inicio de tu proyecto.
 
 <img src="../images/media/image10_es.png" style="width:100%;height:auto;" />
 Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
-En este currículo, el contenido está organizado según cómo podrías usarlo, producirlo y compartirlo. Parte de hacer ciencia abierta es construir sobre materiales de otros (usar), crear materiales propios (producir) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones están organizadas alrededor de estos pasos en el flujo de trabajo científico.
+En este plan de estudios, el contenido se organiza según cómo podrías usarlo, hacerlo y compartirlo. Una parte de la Ciencia Abierta consiste en construir sobre los materiales de otros (usar), crear materiales por ti mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
 
-El marco "Usar, Hacer, Compartir" categoriza las tareas comúnmente usadas en la práctica de la ciencia abierta.
+El sistema "Usar, Hacer, Compartir" clasifica las tareas más habituales en la práctica de la Ciencia Abierta.
 
 <img src="../images/media/image11_es.png" style="width:100%;height:auto;" />
 
 ### Roles en Usar, Hacer, Compartir
 
-Las personas que interactúan con datos en distintos puntos del flujo de trabajo científico pueden asumir diferentes roles. Es posible que estos roles se superpongan según requisitos del proyecto, el tamaño del equipo e incluso el financiamiento. Todos los miembros deberían usar principios de datos abiertos para realizar sus tareas. En general, los roles incluyen:
+Las personas que interactúan con los datos en distintos puntos del flujo de trabajo científico pueden desempeñar diferentes roles. Es posible que estos roles se superpongan según los requisitos del proyecto, el tamaño de su equipo e incluso la financiación. Todos deben utilizar principios de Datos Abiertos para realizar sus tareas. Por lo general, los roles incluyen:
 
 *Selecciona cada pestaña para ver más información.*
 
 <table>
   <thead>
     <tr>
-        <th>USUARIOS DE DATOS &#9745;</th>
-        <th>PRODUCTORES DE DATOS (PROVEEDORES DE DATOS)</th>
-        <th>QUIENES COMPARTEN DATOS (PUBLICADORES DE DATOS)</th>
+        <th>QUIENES USAN DATOS &#9745;</th>
+        <th>QUIENES HACEN DATOS (PROVEEN DATOS)</th>
+        <th>QUIENES SON RESPONSABLES DE COMPARTIR LOS DATOS (EDITAR DATOS)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los usuarios de datos principalmente descubren, evalúan y utilizan datos en proyectos de investigación.</p>
+            <p>Las personas usuarias de datos principalmente descubren, evalúan y usan datos en proyectos de investigación.</p>
         </td>
     </tr>
   </tbody>
@@ -402,15 +404,15 @@ Las personas que interactúan con datos en distintos puntos del flujo de trabajo
 <table>
   <thead>
     <tr>
-        <th>USUARIOS DE DATOS</th>
-        <th>PRODUCTORES DE DATOS (PROVEEDORES DE DATOS) &#9745;</th>
-        <th>QUIENES COMPARTEN DATOS (PUBLICADORES DE DATOS)</th>
+        <th>QUIENES USAN DATOS</th>
+        <th>QUIENES HACEN DATOS (PROVEEN DATOS) &#9745;</th>
+        <th>QUIENES SON RESPONSABLES DE COMPARTIR LOS DATOS (EDITAR DATOS)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los productores de datos a menudo procesan datos recolectados por un proyecto(actividad) y los empaquetan según principios de ciencia abierta.</p>
+            <p>Las personas creadoras de datos suelen procesar los datos recogidos por un proyecto/actividad y empaquetarlos según los principios de la Ciencia Abierta.</p>
         </td>
     </tr>
   </tbody>
@@ -419,42 +421,42 @@ Las personas que interactúan con datos en distintos puntos del flujo de trabajo
 <table>
   <thead>
     <tr>
-        <th>USUARIOS DE DATOS</th>
-        <th>PRODUCTORES DE DATOS (PROVEEDORES DE DATOS)</th>
-        <th>QUIENES COMPARTEN DATOS (PUBLICADORES DE DATOS) &#9745;</th>
+        <th>QUIENES USAN DATOS</th>
+        <th>QUIENES HACEN DATOS (PROVEEN DATOS)</th>
+        <th>QUIENES SON RESPONSABLES DE COMPARTIR LOS DATOS (EDITAR DATOS) &#9745;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Quienes comparten datos tienen la responsabilidad de difundir los datos y generar conciencia sobre ellos hacia el público.</p>
+            <p>Las personas que comparten los datos tienen la responsabilidad de difundirlos y darlos a conocer al público.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-Hacer que los datos sean abiertos (y FAIR) es un esfuerzo grupal: todos en la cadena de datos tienen un rol que cumplir.
+Hacer que los datos sean abiertos (y cumplan con los principios FAIR) es un esfuerzo grupal: todas las personas en la cadena de datos tienen un papel que desempeñar.
 
 ## Lección 1: Resumen
 
-En esta lección aprendiste:
+En esta lección has aprendido:
 
-- Los datos abiertos son un pilar esencial de la ciencia abierta. Compartir datos abiertamente con otros habilita reproducibilidad, transparencia, validación, reutilización y colaboración.
-- Existen varios desafíos para crear datos abiertos, pero la mayoría tiene medidas de mitigación directas.
-- Los Principios FAIR pueden aplicarse a datos para hacerlos más abiertos.
-- Principios y tareas de datos abiertos se usan a lo largo de todo el flujo de trabajo científico.
+- Los Datos Abiertos son un pilar esencial de la Ciencia Abierta. Compartir abiertamente los datos con otras personas permite la reproducibilidad, la transparencia, la validación, el reuso y la colaboración.
+- Hay varios retos para la creación de Datos Abiertos, pero la mayoría tienen medidas sencillas de solución.
+- Los principios FAIR pueden aplicarse a los datos para hacerlos más abiertos.
+- Los principios y tareas relacionados con los Datos Abiertos se usan a lo largo de todo el flujo del trabajo científico.
 
-## Lección 1: Autoevaluación
+## Lección 1: Evaluación
 
-Responde las siguientes preguntas para evaluar lo que aprendiste hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 *Pregunta*
 
 **01/04**
 
-Lee la afirmación y decide si es verdadera o falsa.
+Lee la siguiente afirmación y decide si es Verdadera o Falsa.
 
-*Los datos abiertos pueden usarse libremente, reutilizarse y redistribuirse por cualquier persona, sujetos, como máximo, al requisito de atribuir y compartir bajo la misma licencia.*
+*Los Datos Abiertos pueden ser libremente utilizados, reusados y redistribuidos por cualquiera, sujeto, como mucho, al requisito de atribuir y compartir por igual.*
 
 - Verdadero
 - Falso
@@ -463,25 +465,25 @@ Lee la afirmación y decide si es verdadera o falsa.
 
 **02/04**
 
-Completa la oración:
+Termina la frase:
 
-*Hacer que los datos sean abiertos te ayuda a TI porque ____.*
+*Hacer que los datos estén abiertos te ayuda porque ____.*
 
-- tus datos pueden citarse y recibirás crédito
-- no perderás acceso a tus datos, incluso si cambias de institución
-- es más probable que tus publicaciones se citen cuando incluyes enlaces a datos abiertos
+- tus datos pueden ser citados y se te dará credito
+- no perderás el acceso a tus datos, incluso si cambias de institución
+- tus publicaciones tienen más probabilidades de ser citadas cuando se vinculan a Datos Abiertos
 - todas las anteriores
 
 *Pregunta*
 
 **03/04**
 
-Elige los Principios FAIR de la lista a continuación. Selecciona todos los que correspondan.
+Selecciona los principios FAIR de la siguiente lista. Selecciona todos los que correspondan.
 
 - Reproducibles
 - Reutilizables
 - Responsables
-- Encontrables
+- Fáciles de encontrar
 - Interactivos
 - Interoperables
 - Intercalados
@@ -492,7 +494,7 @@ Elige los Principios FAIR de la lista a continuación. Selecciona todos los que 
 
 **04/04**
 
-¿Cuáles de las siguientes opciones pueden ayudar a que tus datos sean FAIR? Selecciona todos los que correspondan.
+¿Cuál de las siguientes opciones puede ayudar a que tus datos sean FAIR? Selecciona todas los que correspondan.
 
 - Obtener una licencia para tus datos
 - Hacer que tus metadatos sean accesibles solo mientras tus datos estén disponibles
