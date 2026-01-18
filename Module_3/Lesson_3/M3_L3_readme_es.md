@@ -89,7 +89,7 @@ Algunos ejemplos de formatos de datos abiertos incluyen:
 
 Al adoptar estándares abiertos, quienes producen datos pueden evitar barreras innecesarias y maximizar las posibilidades de que los datos sean útiles para sus comunidades científicas.
 
-## Hacer que los datos sean reutilizables mediante documentación
+## Hacer que los datos sean reusables mediante la documentación
 
 ### Agregar documentación y metadatos para la reutilización
 
@@ -180,7 +180,7 @@ Además, un versionado adecuado preserva la calidad y la procedencia de los dato
 - Guardar archivos de datos en pasos clave del proceso.
 - Apuntar a la verificación(validación) posterior de los hallazgos originales.
 
-## Hacer que los datos sean reutilizables mediante licenciamiento
+## Hacer que los datos sean reusables mediante las licencias
 
 <img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
 
@@ -228,7 +228,7 @@ A continuación se presentan los principales aprendizajes de esta lección:
 - Agrega siempre documentación que permita a otros investigadores evaluar la relevancia y reutilización de tu producto. Esto incluye metadatos, archivos README y detalles de control de versiones.
 - Es importante asignar una licencia abierta a tus datos para habilitar la reutilización. Existen distintos tipos de licencias abiertas que pueden adaptarse a tus necesidades.
 
-## Lección 3: Autoevaluación
+## Lección 3: Evaluación
 
 Responde las siguientes preguntas para evaluar lo que aprendiste hasta ahora.
 
