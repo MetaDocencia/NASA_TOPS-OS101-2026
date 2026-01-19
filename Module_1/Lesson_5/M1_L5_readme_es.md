@@ -232,7 +232,8 @@ Veamos qué resultados abiertos se obtuvieron y, mientras lo hacemos, echemos un
             <td>Disponibilidad</td>
             <td>
                 <p>En la página del equipo y en GitHub.</p>
-                <p><img src="../images/media/image219_es.jpg" style="width: 100%; height: auto;" /> The JWST Transiting Exoplanet Community Early Release Science Program Publication Policy [captura de pantalla]. (2023). GitHub. [https://ers-transit.github.io/documents/publication-policy-v1.0.pdf](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf) (enlace externo)</p>
+                <p><img src="../images/media/image219_es.jpg" style="width: 100%; height: auto;" alt="Captura de pantalla de un documento titulado: “La política de publicaciones del Programa de Ciencia de Liberación Temprana de la Comunidad de Exoplanetas en Tránsito del JWST”. Debajo se lee: “Versión 1.0, 5 de marzo de 2018”. Luego aparece un párrafo que comienza: “Todas las personas del Equipo ERS del Programa de Tránsitos ERS (ERS 1366) deben cumplir esta política…”, y más abajo el encabezado: “Valores y requisitos centrales:”." />
+ The JWST Transiting Exoplanet Community Early Release Science Program Publication Policy [captura de pantalla]. (2023). GitHub. [https://ers-transit.github.io/documents/publication-policy-v1.0.pdf](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf) (enlace externo)</p>
             </td>
         </tr>
     </tbody>
@@ -255,7 +256,7 @@ OpenSciency en GitHub
 
 ### Software de código abierto
 
-<img src="../images/media/image6_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image6_es.png" style="width: 100%; height: auto;" alt="Línea de tiempo con hitos de un proyecto para Ciencia Abierta. Aparecen en orden: Ideación; Planificación; Planificación del proyecto; Compromiso y formación; Recolección de datos; Gestión de datos (remarcado); Exploración de datos; Preservación; Reporte y publicación."/>
 
 <table>
     <colgroup>
@@ -279,7 +280,8 @@ OpenSciency en GitHub
             <td>Disponibilidad</td>
             <td>
                 <p>Código en <i>GitHub</i>, lanzamiento en <i>Zenodo</i>, documentos publicados en <i>Journal of Open Source Software</i> (una revista de acceso abierto).</p>
-                <p><img src="../images/media/image221_es.jpg" style="width: 100%; height: auto;" /> "Eureka! Un flujo de procesamiento de punta a punta para las series temporales de las observaciones de JWST" (en inglés, Eureka!: An End-to-End Pipeline for JWST Time-Series Observations) [captura de pantalla]. (2023). The Journal of Open Source Software. [https://joss.theoj.org/papers/10.21105/joss.04503](https://joss.theoj.org/papers/10.21105/joss.04503) (enlace externo)</p>
+                <p><img src="../images/media/image221_es.jpg" style="width: 100%; height: auto;" alt="Captura de pantalla de la revista JOSS (The Journal of Open Source Software). Se ve el título del artículo: “Eureka!: An End-to-End Pipeline for JWST Time-Series Observations”. Debajo aparece un listado con autorías." />
+ "Eureka! Un flujo de procesamiento de punta a punta para las series temporales de las observaciones de JWST" (en inglés, Eureka!: An End-to-End Pipeline for JWST Time-Series Observations) [captura de pantalla]. (2023). The Journal of Open Source Software. [https://joss.theoj.org/papers/10.21105/joss.04503](https://joss.theoj.org/papers/10.21105/joss.04503) (enlace externo)</p>
             </td>
         </tr>
     </tbody>
@@ -295,7 +297,7 @@ El beneficio y el resultado fue que, gracias a este esfuerzo de colaboración, e
 
 ### Acceso abierto a los resultados
 
-<img src="../images/media/image244_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image244_es.png" style="width: 100%; height: auto;" alt="Línea de tiempo con hitos de un proyecto para Ciencia Abierta. Aparecen en orden: Ideación; Planificación; Planificación del proyecto; Compromiso y formación; Recolección de datos; Gestión de datos; Exploración de datos; Preservación (remarcado); Reporte y publicación." />
 
 <table>
     <colgroup>
@@ -319,7 +321,8 @@ El beneficio y el resultado fue que, gracias a este esfuerzo de colaboración, e
             <td>Disponibilidad</td>
             <td>
                 <p>Todos recopilados en la <a href="https://zenodo.org/communities/ers-transit">comunidad de Zenodo</a> de ERS-TRANSIT, con el reconocimiento a quienes contribuyeron y los DOIs</p>
-                <p><img src="../images/media/zenodojwst_es.png" style="width: 100%; height: auto;" /> El Programa de Ciencia de Publicación Temprana para la Comunidad de Exoplanetas en Tránsito del JWST [captura de pantalla]. (2023). Zenodo. [https://zenodo.org/communities/ers-transit](https://zenodo.org/communities/ers-transit)</p>
+                <p><img src="../images/media/zenodojwst_es.png" style="width: 100%; height: auto;" alt="Captura de pantalla de Zenodo. El título de la página dice: “El programa científico de lanzamiento temprano de la comunidad de exoplanetas en tránsito del JWST”. El resultado de la búsqueda muestra “14 resultados encontrados” y se muestra un registro con el título “Productos y modelos para ‘Nubes nocturnas y química de desequilibrio en el caliente Júpiter WASP-43b’” y el listado de autorías." />
+ El Programa de Ciencia de Publicación Temprana para la Comunidad de Exoplanetas en Tránsito del JWST [captura de pantalla]. (2023). Zenodo. [https://zenodo.org/communities/ers-transit](https://zenodo.org/communities/ers-transit)</p>
             </td>
         </tr>
     </tbody>
@@ -381,7 +384,8 @@ Existen muchos repositorios que albergan datos abiertos, software y resultados. 
 
 ### Continúa el plan de estudios de Introducción a la Ciencia Abierta
 
-<img src="../images/media/lightbulb-ethos-of-open-science_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/lightbulb-ethos-of-open-science_es.png" style="width: 100%; height: auto;" alt="Ilustración de una bombilla que representa el ethos de la Ciencia Abierta. Dentro de la bombilla hay cuatro secciones con los textos: Herramientas Abiertas, Código Abierto, Datos Abiertos y Resultados Abiertos. Alrededor de la bombilla aparecen beneficios asociados: Reproducibilidad y transparencia, Aceleración del ritmo de la ciencia, Fomento de la colaboración y Maximización del impacto científico. En la base de la bombilla se lee: El ethos de la Ciencia Abierta." />
+
 Crédito de la imagen: NASA
 
 Este plan de estudios de Introducción es un buen lugar para una introducción más profunda de los diversos elementos de Ciencia Abierta. Cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a quienes participan del programa a desarrollar una mejor comprensión de este tema específico.
