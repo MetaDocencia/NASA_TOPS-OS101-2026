@@ -56,9 +56,9 @@ Las prácticas y principios de la Ciencia Abierta que desempeñan un papel funda
 
 Las prácticas y principios de la Ciencia Abierta pueden aplicarse a todas las fases del proceso de investigación. Uno de los primeros ejemplos de los esfuerzos de la NASA por implicar a más personas en la ciencia es el conjunto de [proyectos de Ciencia Ciudadana de exoplanetas](https://exoplanets.nasa.gov/citizen-science/) (en inglés), entre los cuales el proyecto [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (en inglés) es una parte importante de este esfuerzo.
 
-<img src="../images/media/image266_es.png" alt="Colaboración abierta Kepler de datos: En 48 horas, más de 10.000 personas han participado en Exploradores/as de Exoplanetas y clasificado más de 2 millones de sistemas. Resultados: 44 planetas del tamaño de Júpiter; 72 planetas del tamaño de Neptuno; 44 planetas del tamaño de la Tierra; 53 planetas más pequeños que Neptuno." style="width: 100%; height: auto;" />
+<img src="../images/media/image266_es.png" alt="Ilustración del telescopio espacial Kepler" style="width: 100%; height: auto;" />
 
-[Colaboración abierta Kepler de datos: En 48 horas, más de 10.000 personas han participado en Exploradores/as de Exoplanetas y clasificado más de 2 millones de sistemas. Resultados: 44 planetas del tamaño de Júpiter; 72 planetas del tamaño de Neptuno; 44 planetas del tamaño de la Tierra; 53 planetas más pequeños que Neptuno.]<img src="../images/media/image266_es.png" style="width: 100%; height: auto;" />
+[Ilustración del telescopio espacial Kepler](img src="../images/media/image266_es.png" style="width: 100%; height: auto;" /)
 
 “Stargazing Live” fue un programa de televisión emitido en vivo durante tres noches consecutivas en 2017. Quienes conducían invitaban a la audiencia a identificar exoplanetas a partir de un conjunto de datos de acceso abierto. En las 48 horas posteriores al estreno del programa, más de 10.000 personas participaron en [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (en inglés) y clasificaron más de 2 millones de sistemas.
 
