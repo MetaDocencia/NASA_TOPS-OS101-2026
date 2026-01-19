@@ -36,7 +36,7 @@ Cuando la difusión de datos o resultados de investigación puede generar riesgo
 
 *NASA ha recopilado datos biomédicos relacionados con vuelos espaciales tripulados desde el inicio del programa Apolo…*
 
-<img src="../images/media/image259_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image259_es.png" style="width: 100%; height: auto;" alt="Captura compuesta: a la izquierda, una ficha del repositorio de datos de la NASA para el estudio OSD-530 (GeneLab); a la derecha, foto de dos astronautas con el texto “Historia destacada: Resultados del estudio de gemelos de la NASA”." />
 
 *… pero los únicos datos humanos incluidos en el Life Sciences Data Archive son de astronautas que firmaron autorizaciones para que sus datos fueran públicos.*
 
@@ -90,7 +90,7 @@ En algunos casos, la propiedad intelectual no está protegida. El dominio públi
 
 Entender estas preguntas es una parte importante de la práctica de la Ciencia Abierta y ayuda a garantizar que la propiedad intelectual pueda compartirse ampliamente. A continuación se presenta una imagen que sirve como ejemplo de estas cuestiones.
 
-<img src="../images/media/image348_es.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image348_es.png" style="width: 350px; height: auto;" alt="Globo de diálogo con el texto: “¿Qué sucede con todo lo que produces? Imagina dentro de 5 o 10 años. ¿Qué sucedería si tuvieras que reescribir todo tu código?”" />
 
 Al principio, preocuparse por la propiedad intelectual y los derechos de autoría puede parecer un detalle innecesario. Sin embargo, anticiparse a los cambios en tu situación asegurando la propiedad permanente de tu trabajo en la fase de planificación de tu investigación, te puede ayudar a evitar problemas legales e institucionales más adelante.
 
@@ -98,7 +98,7 @@ Si envías tu manuscrito a una editorial que exige ser la dueña de los derechos
 
 Ejemplo: En los escenarios en los que se solicita el consentimiento antes de compartir (o se modifican las condiciones para compartir), puede resultar complejo aplicar los cambios. Biopython, un conjunto de herramientas de software libre para biología, comenzó a cambiar la licencia de su código en 2016 y todavía seguía trabajando en ese proceso en 2023, revisando persona colaboradora por persona colaboradora.
 
-<img src="../images/media/image106_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image106_es.png" style="width: 100%; height: auto;" alt="Captura de pantalla de un issue de GitHub titulado “Cambiar al uso de la licencia BSD de 3 cláusulas” (#898), abierto el 25 de julio de 2016 por peterjc. En el texto se explica que Biopython usa una variante de la licencia estilo Python/HPND y se propone cambiar a la licencia BSD de 3 cláusulas para simplificar el empaquetado y la reutilización, con enlaces a las licencias y a discusiones previas." />
 
 [Texto alternativo de la imagen]Cambiar al uso de la licencia BSD de 3 cláusulas [captura de pantalla]. (2023). GitHub. [biopython/biopython#898](https://github.com/biopython/biopython/issues/898) (enlace externo).
 
@@ -106,13 +106,13 @@ Ejemplo: En los escenarios en los que se solicita el consentimiento antes de com
 
 El licenciamiento es una forma de ayudar a los demás a reusar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden utilizar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo reciba el crédito adecuado. Por lo general, reusar contenidos sin licencia es ilegal y puede constituir una falta de ética académica, aunque estos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido, así como tu trabajo de ser utilizado sin un permiso explícito. Afortunadamente, es fácil permitir que otras personas reusen tu trabajo.
 
-<img style="width:100%;height:auto;" src="../images/media/knowledgebasequote_es.jpg">
+<img style="width:70%;height:auto;" src="../images/media/knowledgebasequote_es.jpg" alt="Primer plano del símbolo de Creative Commons con el texto “BY-NC-ND”." />
 
 "Al aplicar una licencia a tu trabajo, dejas en claro qué pueden hacer otras personas con lo que compartes y también estableces las condiciones bajo las cuales lo proporcionas (por ejemplo, citarte)."
 
 Crédito de la imagen: Umberto, en Unsplash, licencia CC BY-NC-ND 4.0.
 
-<img src="../images/media/image328_es.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image328_es.png" style="width: 350px; height: auto;" alt="Viñeta de XKCD: un dibujo de una persona sentada bajo un árbol con el texto “A veces simplemente no puedo indignarme con los derechos de autoría”." />
 
 Crédito de la imagen: XKCD, licencia CC BY-NC 2.5 DEEX.  
 
@@ -173,7 +173,7 @@ Las licencias pueden aplicarse a datos, código, informes, publicaciones y casi 
   </tbody>
 </table>
 
-<img src="../images/media/image294_es.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image294_es.png" style="width: 350px; height: auto;" alt="Iconos de licenciamiento: símbolo de dominio público y logotipos de Creative Commons (CC) y CC BY (atribución)." />
 
 En módulos posteriores se presentarán más detalles sobre las licencias para cada tipo de producto, incluidos los distintos tipos de licencias, el momento oportuno para solicitarlas y las herramientas disponibles para incorporarlas a tus trabajos. Creative Commons y la Open Source Initiative son dos recursos de referencia que ofrecen más información sobre licencias abiertas.
 
@@ -373,7 +373,7 @@ Al reusar ciencia recuerda:
 - Considera citar todos los recursos utilizados: conjuntos de datos, software, infraestructura, etc.
 - Es de esperar que otras personas actúen de igual manera al utilizar tu trabajo (la ética científica dicta que deberían hacerlo).
   
-<img src="../images/media/image332_es.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image332_es.jpg" style="width: 350px; height: auto;" alt="Ilustración de un hombre cpon corona y barba llevando sobre sus hombros a otra persona más pequeña, que señala hacia adelante." />
 
 “Pararse sobre hombros de gigantes” (dominio público).  
 
