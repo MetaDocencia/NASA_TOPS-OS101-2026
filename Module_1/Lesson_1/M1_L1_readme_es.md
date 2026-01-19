@@ -83,7 +83,7 @@ La ciencia es más robusta y precisa cuando la comunidad científica valida los 
 
 **¿Cuántos estudios se reprodujeron?**
 
-<img src="../images/media/image242_es.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image242_es.png" alt="Gráfico circular: 74% en NOP y 26% en SÍ." style="width: 350px; height: auto;" />
 
 <img src="../images/media/image218_es.png" style="width:0.16667in;height:0.16667in" /> **No** <img src="../images/media/image270_es.png" style="width:0.16667in;height:0.16667in" /> **Sí**
 
@@ -93,7 +93,7 @@ En esta sección veremos un ejemplo, basado en Gilet (s. f.), de cómo la cienci
 
 Stanley Pons y Martin Fleischmann eran electroquímicos de la Universidad de Utah que colaboraron en un proyecto de investigación sobre fusión en frío en la década de 1980. El equipo construyó una “célula de fusión” compuesta por una varilla de paladio y otra de platino, sumergidas en agua pesada. El agua pesada consiste en una molécula de agua (H₂O) en la que los átomos de hidrógeno han sido reemplazados por deuterio, un isótopo del hidrógeno. El deuterio contiene un neutrón, un protón y un electrón; el hidrógeno elemental solo contiene un protón y un electrón. Pons y Fleischmann teorizaron que, si lograban separar las moléculas de agua pesada mediante un proceso de electrólisis, el deuterio liberado sería absorbido por las varillas de paladio, los átomos de deuterio se fusionarían entre sí y se liberaría una enorme cantidad de energía en forma de calor. Llevaron a cabo el experimento y midieron una cantidad de calor producida cien veces mayor que la que podría atribuirse a procesos químicos típicos. Entusiasmados por el posible descubrimiento de una fuente de energía barata y accesible, Pons y Fleischmann buscaron más financiación para continuar con su investigación. Con resultados prometedores en mano, solicitaron subvenciones del gobierno.
 
-<img src="../images/media/Fussion-Cell1L1_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/Fussion-Cell1L1_es.png" alt="Esquema de una “Celda de fusión”: una barra de paladio y una barra de platino sumergidas en agua pesada (D2O) dentro de un baño de temperatura constante, conectadas a una batería; el dibujo señala el calor que se escapa y el transporte por los gases D2 y O2." style="width: 100%; height: auto;" />
 
 Una de las personas que revisaron la propuesta, el físico nuclear Steven Jones, que también trabajaba en fusión en frío, sugirió la posibilidad de una colaboración entre ambos equipos. Sin embargo, Pons y Fleischmann, que consideraban que su experimento era la clave para desbloquear la fusión en frío, rechazaron la oferta, lo que creó, sin proponérselo, una carrera no oficial entre los dos grupos por publicar primero sus resultados. Animado y respaldado por sus instituciones para publicar rápidamente, por miedo a que otra persona se adelantara, el grupo de investigación dejó de lado los estándares tradicionales de la práctica científica y no expuso sus ideas de manera suficiente a pruebas y análisis.
 
@@ -111,13 +111,13 @@ La publicación de Acceso Abierto ha aumentado significativamente el número de 
 
 El problema del acceso limitado a los artículos publicados también impulsa la Ciencia Abierta. Según Nair-Bedouelle (n.d.) y como se muestra en los gráficos de más abajo, a pesar de que hay más investigaciones con acceso abierto sobre el clima que en otros campos científicos, la mayoría de los artículos de investigación climática, incluidos muchos de los más importantes, siguen siendo de pago. La desinformación está al alcance de cualquiera en Internet, mientras que los resultados científicos sobre el clima se ocultan al público tras barreras de pago. Esta práctica no incrementa la confianza en la ciencia.
 
-<img src="../images/media/perc-of-res-pub1L1_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/perc-of-res-pub1L1_es.png" alt="Gráficos circulares sobre el porcentaje de publicaciones de investigación de la última década que son de Acceso Abierto. Todas las publicaciones de investigación científica: 70% detrás de un muro de pago y 30% de acceso abierto. Publicaciones de investigación sobre estudios del clima: 60% detrás de un muro de pago y 40% de acceso abierto." style="width: 100%; height: auto;" />
 
 ## ¿Qué es la Ciencia Abierta?
 
 Pero ¿qué es exactamente la Ciencia Abierta? Existen distintas definiciones en uso en distintas organizaciones, pero todas comparten un tema central. Para este curso, usamos una definición de Ciencia Abierta desarrollada en 2021 por personas científicas que trabajan para la [Administración Nacional de Aeronáutica y el Espacio (NASA)](https://www.nasa.gov/).
 
-<img src="../images/media/OS1L1embeddedhtml_es.png" style="width: 100%; height: auto;" alt="La Ciencia Abierta es una cultura colaborativa habilitada por la tecnología que impulsa el intercambio abierto de datos, información y conocimiento dentro de la comunidad científica y con el público en general para acelerar la investigación y la comprensión científica. - Ramachandran et al., 2021" />
+<img src="../images/media/OS1L1embeddedhtml_es.png" style="width: 100%; height: auto;" alt="La Ciencia Abierta es una cultura de colaboración, posibilitada por la tecnología, que fortalece el intercambio abierto de datos, información y conocimiento dentro de la comunidad científica y también con el público en general, con el objetivo de acelerar la investigación y la comprensión científica. (Ramachandran et al. 2021)" />
 
 Esta definición se elaboró tras revisar numerosas definiciones de Ciencia Abierta provenientes de agencias, instituciones y organizaciones de todo el mundo. Muchas de estas definiciones cambiaron con el tiempo a medida que la comprensión colectiva de la Ciencia Abierta fue madurando y haciéndose más matizada. Vamos a desglosar la definición un poco más:
 
@@ -144,7 +144,7 @@ El objetivo de *Open Science 101* de la NASA es impulsar a la comunidad en su co
 | --- | --- |
 | Consenso comunitario sobre el comportamiento “apropiado”. | Conjunto personal de estándares sobre la “buena” conducta. |
 
-<img src="../images/media/image258_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image258_es.jpg" style="width: 100%; height: auto;" alt="Nube de palabras en forma de manzana con términos en inglés asociados a la Ciencia Abierta; destacan Access (acceso), Transparency (transparencia), Open (abierto), Collaborative (colaborativo), Reproducible (reproducible), Fair (justo), Data (datos), Community (comunidad), Shared (compartido), Tools (herramientas), Inclusive (inclusivo), Diverse (diverso), Equity (equidad), Public (público), Free (libre), Experts (expertos), Learning (aprendizaje), Standards (estándares), Responsible (responsable), Discovery (descubrimiento), Impact (impacto), Justice (justicia), NoPaywalls (sin muros de pago), NoGates (sin barreras)." />
 
 Puede que hayas oído hablar del término «Ciencia Abierta» antes de este curso. Si lo has hecho, es probable que tengas alguna idea preconcebida de la Ciencia Abierta y de cómo es en la práctica. Analicemos conjuntamente esas distintas concepciones.
 
@@ -178,7 +178,7 @@ Los objetivos de la Ciencia Abierta incluyen:
 
 ### Fomentar colaboraciones y reproducibilidad
 
-<img src="../images/media/OSgivescredit1L1_es.png" style="width: 350px; height: auto;" />
+<img src="../images/media/OSgivescredit1L1_es.png" style="width: 350px; height: auto;" alt="Diagrama circular con el texto central “El Código Abierto da crédito” y tres acciones alrededor: “Publicar en una revista de Acceso Abierto”, “Vincular tus datos y resultados de software” y “Hacer que tus resultados sean reproducibles”." />
 
 Utilizar, crear y compartir abiertamente los resultados de la investigación, el software o los conjuntos de datos permite que todas las personas reciban reconocimiento por su trabajo.
 
@@ -205,10 +205,11 @@ Compartir de manera abierta no solo ayuda a la sociedad, sino que también puede
             <p>Los datos recogidos también beneficiaron a la ciencia tradicional:</p>
             <p>"Prácticamente todo lo que estamos aprendiendo sobre las estructuras y la dinámica de las nubes de Júpiter procede de imágenes editadas públicamente", afirma Candice Hansen, científica planetaria y responsable de JunoCam. Hansen explica: "El equipo está procesando algunas imágenes por sí mismo, pero al no disponer de personal para ello, el grupo de investigación confía en el trabajo de la ciudadanía científica".</p>
             <p>El equipo de la nave espacial Juno hizo posible una ciencia nueva e inesperada gracias a los datos abiertos y de fácil acceso. La participación pública aportó nuevas perspectivas y amplió la capacidad del equipo para llevar a cabo valiosas investigaciones.</p>
+            <p><img src="../images/media/image243_es.jpg" style="width: 100%; height: auto;" alt="Dos imágenes lado a lado de una superficie: a la izquierda, una vista en escala de grises; a la derecha, una versión procesada con más contraste y color que resalta los detalles."/>
+</p>
             <p><strong>Créditos:</strong></p>
             <p>Datos de la imagen: NASA/JPL-Caltech/SwRI/MSSS</p>
             <p>Procesamiento de imágenes: Navaneeth Krishnan S ©️ CC BY</p>
-            <p><img src="../images/media/image243_es.jpg" style="width: 100%; height: auto;"/></p>
         </td>
     </tr>
   </tbody>
@@ -250,7 +251,7 @@ La Ciencia Abierta es multifacética y puede significar cosas diferentes para di
 
 Como se ha señalado, la Ciencia Abierta no sólo involucra a quienes investigan; muchas otras partes interesadas se ven afectadas por los resultados de la Ciencia Abierta. Las partes interesadas incluyen a cualquier persona que pueda afectar o verse afectada por proyectos de Ciencia Abierta.
 
-<img src="../images/media/researchers1L1_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/researchers1L1_es.png" style="width: 100%; height: auto;" alt="Diagrama que muestra a las “Personas que investigan” en el centro y, alrededor, otros roles vinculados: responsables de políticas públicas, proveedores de infraestructura, técnicas y técnicos, personas que hacen ciencia ciudadana, gestoras y gestores de datos, personas educadoras y mentoras, gestoras y gestores de comunidad, ingenieras e ingenieros y periodistas de ciencia." />
 
 La investigación científica debería beneficiar a la humanidad. Aunque la Ciencia Abierta tiene muchas partes interesadas, la interacción ventajosa entre la ciencia y la sociedad tiene lugar entre tres grupos principales de personas: quienes investigan, quienes son responsables de las políticas y el público. Las personas investigadoras hacen ciencia y comparten sus resultados con las responsables de la política y con el público en general para informar sus decisiones y mejorar sus vidas. El público ayuda a financiar la investigación mediante impuestos y puede aportar ideas sobre futuras áreas de estudio. Las personas que deciden políticas ayudan a implementar medidas basadas en evidencia científica para mejorar la salud, el medio ambiente y la calidad de vida de la sociedad.
 
