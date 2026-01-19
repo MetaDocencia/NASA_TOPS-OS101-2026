@@ -50,15 +50,13 @@ La NASA financia algunas de las investigaciones más diversas de cualquier agenc
 
 Al financiar una variedad de actividades de investigación, desde ciencia básica hasta ingeniería aplicada, los conjuntos de datos de la NASA abarcan muchos temas. Esto incluye biología, química, ciencias ambientales, geología y otros campos relacionados con la exploración planetaria robótica y humana, la evolución estelar y la búsqueda de vida extraterrestre.
 
-<img src="../images/media/image238_es.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image238_es.png" alt="Logo de la NASA." style="width: 350px; height: auto;" />
 
 Las prácticas y principios de la Ciencia Abierta que desempeñan un papel fundamental en el éxito de las misiones de la NASA son igualmente relevantes para otras agencias e instituciones gubernamentales. Se necesitan consideraciones, enfoques y comportamientos similares en diversos contextos científicos. Las herramientas para los marcos y los flujos de trabajo basados en la Ciencia Abierta siguen, por lo general, modelos similares.
 
 Las prácticas y principios de la Ciencia Abierta pueden aplicarse a todas las fases del proceso de investigación. Uno de los primeros ejemplos de los esfuerzos de la NASA por implicar a más personas en la ciencia es el conjunto de [proyectos de Ciencia Ciudadana de exoplanetas](https://exoplanets.nasa.gov/citizen-science/) (en inglés), entre los cuales el proyecto [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (en inglés) es una parte importante de este esfuerzo.
 
 <img src="../images/media/image266_es.png" alt="Ilustración del telescopio espacial Kepler" style="width: 100%; height: auto;" />
-
-![Ilustración del telescopio espacial Kepler](img src="../images/media/image266_es.png") style="width: 100%; height: auto;" /
 
 “Stargazing Live” fue un programa de televisión emitido en vivo durante tres noches consecutivas en 2017. Quienes conducían invitaban a la audiencia a identificar exoplanetas a partir de un conjunto de datos de acceso abierto. En las 48 horas posteriores al estreno del programa, más de 10.000 personas participaron en [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (en inglés) y clasificaron más de 2 millones de sistemas.
 
