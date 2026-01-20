@@ -101,7 +101,8 @@ En las siguientes lecciones de este módulo exploraremos diferentes herramientas
 
 ### Componentes de la Ciencia Abierta
 
-<img style="width:100%;height:auto;" src="../images/media/new_pyramid_es.png">
+<img style="width:100%;height:auto;" src="../images/media/new_pyramid_es.png" alt="Ilustración en forma de pirámide que organiza componentes de la Ciencia Abierta. En la base hay tres secciones: Datos, Resultados y Código, cada una con un ícono asociado (gráfico, lupa y pantalla). En la parte superior, como cúspide de la pirámide, aparece Artículo científico con un ícono de documento." />
+
 
 Los cuatro componentes principales de la Ciencia Abierta pueden organizarse en una pirámide de productos de investigación compartidos abiertamente.
 
@@ -114,13 +115,14 @@ La práctica de compartir estos componentes puede darse en distintos grados de e
 Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que los preserve y los haga encontrables. La siguiente imagen ofrece algunas consideraciones a la hora de compartir datos a través de [Zenodo](https://zenodo.org/) (enlace externo), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. Ver el Módulo 3 «Datos Abiertos» para obtener más detalles sobre cómo compartir datos abiertos.
 Zenodo
 
-<img src="../images/media/image8_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image8_es.png" style="width:100%;height:auto;" alt="Diagrama con recomendaciones para compartir datos abiertos en Zenodo, organizadas en tres niveles: Bueno, Mejor y Óptimo. Paso 1 (Bueno): Elige una licencia (https://creativecommons.org/choose). Paso 2 (Bueno): Arrastra y suelta tus archivos a Zenodo (https://zenodo.org) (o FigShare). Nota: el archivo de citas es generado automáticamente por el repositorio de datos. Paso 3 (Mejor): Incluye una descripción de los datos. Paso 4 (Óptimo): Adopta formatos de archivo populares. Paso 5 (Óptimo): Adopta las convenciones sobre los metadatos en tu disciplina (por ejemplo, convenciones netCDF sobre el clima y la predicción del tiempo). Recuadro TL, DR: Dónde: https://zenodo.org. Licencia: CC BY." />
+
 
 ### Compartir código abierto
 
 Cuando se comparte Código Abierto, con frecuencia se hace a través de una plataforma en línea de control de versiones que permite a quienes tengan interés contribuir al software y proporciona un historial de cambios en el mismo. Por ejemplo, muchas veces quienes investigan optan por publicar archivos de código en [GitHub](https://github.com/) (enlace externo) bajo la licencia BSD (de 3 cláusulas). Esto permite que otras personas contribuyan y reutilicen el software. Los pasos para preservar el código y hacerlo accesible se abordan en el Módulo 4, «Código Abierto».
 
-<img src="../images/media/image9_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image9_es.png" style="width:100%;height:auto;" alt="Diagrama con recomendaciones para compartir código abierto, organizadas en tres niveles: Bueno, Mejor y Óptimo. Paso 1 (Bueno): Elige una licencia (https://choosealicense.com). Paso 2 (Bueno): Añade tus archivos a GitHub (https://github.com) (o BitBucket). Paso 3 (Mejor): Incluye alguna descripción (pueden ser comentarios dentro del código) e instrucciones básicas de instalación. Paso 4 (Óptimo): Describe las dependencias de software (Linux: apt-get; Mac: brew; Windows: Chocolatey; Python: pip). Paso 5 (Óptimo): Usa integración continua (por ejemplo, GitHub Actions). Paso 6 (Óptimo): Libera una imagen (por ejemplo, Docker). Recuadro TL, DR: Dónde: https://github.com. Licencia: BSD 3-Clause." />
 
 ### Compartir un artículo abierto
 
@@ -134,11 +136,12 @@ Cuando compartimos resultados es conveniente incluir la metodología que fue usa
 
 A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite que estos sean citados en todas las versiones o una única versión.
 
-<img src="../images/media/image10_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image10_es.png" style="width:100%;height:auto;" alt="Diagrama con tres columnas que muestran un ejemplo de proyecto de Ciencia Abierta con identificadores persistentes. Columna 1, Datos: captura de una página de Zenodo con un conjunto de datos; debajo se listan dos enlaces DOI, uno para “Esta versión” (https://doi.org/10.5281/zenodo.3688691) y otro para “Todas las versiones” (https://doi.org/10.5281/zenodo.3688690). Columna 2, Resultados (Paper): imagen de un artículo científico; debajo aparece el DOI de “Esta versión” (https://doi.org/10.1175/JHM-D-19-0084.1). Columna 3, Software: captura de un repositorio en GitHub con archivos del proyecto; una flecha y un rótulo indican “Resultados etiquetados aquí”; debajo se listan dos enlaces DOI, uno para “Esta versión” (https://doi.org/10.5281/zenodo.3765342) y otro para “Todas las versiones” (https://doi.org/10.5281/zenodo.593867)." />
 
 Aquí se pueden revisar por separado los distintos elementos de la imagen anterior. Seleccionar los botones «\<» y «\>» para navegar.
 
-<img src="../images/media/image11_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image11_es.jpeg" style="width:100%;height:auto;" alt="Captura de pantalla de una página de Zenodo que muestra el registro de un conjunto de datos. Título: “RRR/RAPID input and output files corresponding to ‘Underlying Fundamentals of Kalman Filtering for River Network Modeling’”. En la parte superior aparece un aviso indicando que existe una versión más nueva del registro." />
+
 
 **Datos**
 
@@ -146,13 +149,15 @@ Esta versión: [https://doi.org/10.5281/zenodo.3688691](https://doi.org/10.5281/
 
 Todas las versiones: [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/zenodo.3688690)
 
-<img src="../images/media/image12_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image12_es.jpeg" style="width:100%;height:auto;" alt="Primera página del artículo científico titulado 'Underlying Fundamentals of Kalman Filtering for River Network Modeling'. Se ve el encabezado de la revista (March 2020, Emery et al., p. 453), el título, la lista de autores y afiliaciones, y el comienzo del resumen (abstract)." />
+
 
 **Resultados**
 
 [https://doi.org/10.1175/JHM-D-19-0084.1](https://doi.org/10.1175/JHM-D-19-0084.1)
 
-<img src="../images/media/image13_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image14_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de la página del repositorio ‘rapid’ en GitHub (github.com/c-h-david/rapid). Se ve el listado de archivos y carpetas del proyecto, junto con información del repositorio. En la parte inferior aparece el archivo LÉAME con el título ‘RÁPIDO’ y etiquetas que indican un DOI en Zenodo (10.5281/zenodo.593867) y la licencia BSD 3-Clause." />
+
 
 **Software**
 
