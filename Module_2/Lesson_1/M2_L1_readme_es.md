@@ -156,7 +156,7 @@ Todas las versiones: [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10
 
 [https://doi.org/10.1175/JHM-D-19-0084.1](https://doi.org/10.1175/JHM-D-19-0084.1)
 
-<img src="../images/media/image14_es.jpg" style="width:100%;height:auto;" alt="Captura de pantalla de la página del repositorio ‘rapid’ en GitHub (github.com/c-h-david/rapid). Se ve el listado de archivos y carpetas del proyecto, junto con información del repositorio. En la parte inferior aparece el archivo LÉAME con el título ‘RÁPIDO’ y etiquetas que indican un DOI en Zenodo (10.5281/zenodo.593867) y la licencia BSD 3-Clause." />
+<img src="../images/media/image13_es.jpg" style="width:100%;height:auto;" alt="Captura de pantalla de la página del repositorio ‘rapid’ en GitHub (github.com/c-h-david/rapid). Se ve el listado de archivos y carpetas del proyecto, junto con información del repositorio. En la parte inferior aparece el archivo LÉAME con el título ‘RÁPIDO’ y etiquetas que indican un DOI en Zenodo (10.5281/zenodo.593867) y la licencia BSD 3-Clause." />
 
 
 **Software**
