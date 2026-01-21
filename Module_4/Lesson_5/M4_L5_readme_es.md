@@ -13,14 +13,14 @@
 
 ## Descripción general
 
-Esta lección final articula el desarrollo de software de acceso abierto con la puesta en práctica de un plan de gestión de software (SMP). Se introduce la dimensión comunitaria del software abierto, comenzando con una discusión sobre la redacción de planes de gestión de software y continuando con cómo vincularse con comunidades de software abierto. Este recorrido se contextualiza a partir de los beneficios de las comunidades de software y de los distintos roles que se desempeñan en ellas. Luego de presentar una lista de comunidades, se propone explorar e interactuar con algunas de ellas. Finalmente, la lección cierra con recursos adicionales y sugerencias útiles para contribuir al software abierto.
+Esta lección relaciona los conceptos de desarrollo de software de Acceso o de Código Abierto con el funcionamiento de un Plan de Gestión de Software. La lección presenta, además, el aspecto comunitario del software de Código Abierto. Comienza con una discusión sobre cómo redactar Planes de Gestión de Software, luego continúa con información sobre cómo conectarse con comunidades de software de Código Abierto. Esta información se contextualiza con una introducción a los beneficios de una comunidad de software y los roles que se desempeñan en estos grupos. También se presenta una lista de comunidades y te solicitamos que explores e interactúes con algunas de ellas. La lección concluye con sugerencias útiles para contribuir al software de Código Abierto y recursos adicionales.
 
 ## Objetivos de aprendizaje
 
-Luego de completar esta lección, deberías poder:
+Al finalizar esta lección deberías ser capaz de:
 
-- Recordar la definición de un plan de gestión de software, potencialmente como parte de un Plan de Ciencia Abierta y Gestión de Datos (OSDMP), y dónde encontrar recursos útiles.
-- Enumerar formas de involucrarse y contribuir a comunidades de software abierto.
+- Recordar la definición de un Plan de Gestión de Software, potencialmente como parte de un Plan de Ciencia Abierta y Gestión de Datos, donde encontrar recursos útiles.
+- Enumerar formas de interactuar y contribuir en las comunidades de software de Código Abierto.
 
 ## Planes de Ciencia Abierta y Gestión de Datos
 
@@ -28,228 +28,250 @@ Muchas convocatorias de NASA requieren la presentación de un Plan de Ciencia Ab
 
 <img style="width: 100%; height: auto;" src="../images/media/codebg_es.jpg">
 
-> “Un Plan de Ciencia Abierta y Gestión de Datos de NASA (OSDMP) describe cómo se gestionará y se pondrá a disposición de forma abierta la información científica producida a partir de actividades científicas financiadas por NASA. El OSDMP debe incluir secciones sobre gestión de datos, gestión de software y compartición de publicaciones.”
+> "Un Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) describe cómo se gestionará y se pondrá a disposición abiertamente la información científica producida a partir de actividades científicas financiadas por la NASA. El PCAGD debe incluir secciones sobre gestión de datos, gestión de software y uso compartido de publicaciones".
 > — NASA Science Mission Directorate, 2025
 
 Crédito de la imagen: “Codes on Tilt Shift Lens” de Markus Spiske vía [Pexels](https://www.pexels.com/photo/codes-on-tilt-shift-lens-2004161/) (enlace externo)
 
 ---
 
-Ejemplos de secciones a incluir en un OSDMP:
+Secciones de ejemplo para incluir en un PCAGD:
 
-- Plan de Gestión de Datos (DMP)
-- Plan de Gestión de Software (SMP)
-- Compartición de publicaciones
-- Otras actividades de ciencia abierta
+- Plan de Gestión de Datos (PGD)
+- Plan de Gestión de Software (PGS)
+- Cómo compartir publicaciones
+- Otras actividades de Ciencia Abierta
 - Roles y responsabilidades
 
-### Repaso de los pasos de un SMP vistos en lecciones anteriores
+### Recuerda los pasos para un PGS de las lecciones anteriores
 
-- **Qué:** descripción de la gestión, preservación y liberación del código.
-- **Cuándo:** cronograma para el archivado y la compartición del software o código.
-- **Dónde:** lugar donde el software o código será compartido y archivado a largo plazo.
-- **Cómo:** habilitar la reutilización del software o código mediante la asignación de un DOI, una licencia, lineamientos de contribución, etc.
-- **Quién:** roles y responsabilidades de las personas integrantes del equipo.
+- **Qué:** Descripción de la gestión, la conservación y la distribución del software.
+- **Cuándo:** El cronograma para archivar y compartir el software.
+- **Dónde:** Ubicación donde se compartirá y se archivará el software a largo plazo.
+- **Cómo:** Habilitar la reusabilidad del software mediante la asignación de un DOI, licencia, pautas de contribución, etc.
+- **Quién:** Roles, funciones y responsabilidades de las personas que participan en el equipo.
 
 <img style="width: 350px; height: auto;" src="../images/media/recallsteps_es.jpg">
 
-## ¿Cómo planificamos hacer abierto nuestro código?
+## ¿Cómo planificar abrir nuestro código?
 
-### ¿Es necesario escribir un plan de gestión de software o de datos?
+### ¿Debería redactarse un Plan de Gestión de Datos o Software?
 
-Si estás planificando un proyecto que puede requerir un plan de gestión de software o de datos, redactar ese plan es un excelente primer paso antes de comenzar el proyecto. En este contexto, “software” refiere a programas informáticos científicamente o técnicamente relevantes, tanto en forma de código fuente como de software ejecutable. A continuación se presenta una lista de razones por las cuales deberías, o no, redactar un SMP:
+Si estás planificando un proyecto que requiere un Plan de Gestión de Datos, redactarlo es un buen primer paso. Existe un umbral por encima del cual se debe redactar un Plan de Gestión de Datos/Software. "Software" aquí significa programas informáticos científica o técnicamente relevantes, tanto código fuente como software ejecutable.
+
 
 |  |  |
 |---|---|
-| **El SMP es requerido** | Necesitas un SMP para: <ul><li>Presentarte a convocatorias de financiamiento (por ejemplo, NASA, NSF y, probablemente, cada vez más agencias)</li><li>Colaborar en un equipo que planea liberar software o código al público</li><li>Gestionar con éxito misiones o proyectos de gran escala</li></ul> |
-| **El SMP no es requerido** | Probablemente no necesites un SMP si estás trabajando en: <ul><li>Un artículo en solitario (o con un grupo muy pequeño)</li><li>Exploraciones iniciales de ideas o experimentación con código de análisis</li><li>Actividades con fines educativos</li></ul> |
+| **Se requiere PGS** | Necesita un PGS para:: <ul><li>Solicitar financiación (por ejemplo, NASA, NSF y probablemente, pronto en todas partes)</li><li>Colaborar en un equipo que pretende publicar código para el público</li><li>Gestionar con éxito cualquier misión o proyecto grande</li></ul> |
+| **No se requiere PGS** | Probablemente no necesites un PGS si estás trabajando en: <ul><li>Un artículo que escribes sólo (o con un grupo muy pequeño de personas colaboradoras)</li><li>La exploración inicial de ideas o la experimentación con código de análisis</li><li>Actividades centradas en la educación</li></ul> |
 
-Es posible que tu proyecto no encaje exactamente en estas categorías. Por ejemplo, si tu objetivo es que otras personas puedan reproducir tus resultados, la decisión de redactar un SMP quedará a tu criterio.
+Quizás tu proyecto no encaje en estas categorías. Por ejemplo, si tu objetivo es que otras personas reproduzcan tus resultados, entonces redactar un PGS queda a tu decisión.
 
-El material que sigue asume que ya alcanzaste ese umbral y que estás redactando un plan de gestión de datos o de software.
+El siguiente material asume que ya estás escribiendo un Plan de Gestión de Datos/Software.
 
-### Manos a la obra: comenzar a escribir un plan
+### Lápiz y papel: cómo empezar a escribir un plan
 
 Si estás solicitando financiamiento, es muy probable que la convocatoria incluya requisitos específicos de gestión de datos. Por ejemplo, la entidad financiadora puede exigir el uso de una licencia determinada o de un repositorio específico. Asegúrate de contrastar tu plan con esos requisitos.
 
-**Ejemplos de planes de gestión de software**
+**Ejemplos de Planes de Gestión de Software**
 
-- <https://www.software.ac.uk/resources/guides/software-management-plans> (enlace externo)
-- <https://www.esciencecenter.nl/national-guidelines-for-software-management-plans/> (enlace externo)
-- <https://zenodo.org/record/7589725> (enlace externo)
+- <https://www.software.ac.uk/resources/guides/software-management-plans> (enlace externo, en inglés)
+- <https://www.esciencecenter.nl/national-guidelines-for-software-management-plans/> (enlace externo, en inglés)
+- <https://zenodo.org/record/7589725> (enlace externo, en inglés)
 
 **Requisitos**
 
-¿Cuáles son los requisitos para un SMP (qué indican la agencia financiadora o la institución)?
+¿Cuáles son los requisitos para un PGS (qué dice la agencia de financiamiento que hagamos)?
 
-- ¿Qué formatos de datos deben utilizarse?
-- ¿Cuáles son los requisitos de archivado y preservación del software o código?
+- ¿Qué formatos de datos deben usarse?
+- ¿Cuáles son los requisitos para archivarlo y preservarlo?
 - ¿Qué roles y responsabilidades son necesarios para cumplir todos los requisitos?
 
 ### Agencias financiadoras
 
-Las agencias de financiamiento científico suelen recurrir a evaluaciones por pares para respaldar decisiones de financiamiento. Estas evaluaciones, de manera explícita o implícita, consideran el software o código abierto asociado. La participación comunitaria es necesaria para alcanzar consensos sobre estándares comunitarios de financiamiento.
+Las agencias de financiamiento científico generalmente solicitan revisiones por pares para respaldar sus decisiones. Estas revisiones evalúan explícita o implícitamente el software de Código Abierto relacionado. La participación de la comunidad es necesaria para alcanzar un consenso sobre los estándares comunitarios de financiación.
 
-Por ejemplo, la política SPD-41a de la Dirección de Misiones Científicas de NASA se aplica a todas las actividades científicas financiadas por SMD y establece explícitamente que “el software financiado debe seguir las buenas prácticas de las comunidades relevantes de código abierto e investigación” (NASA Science Mission Directorate, 2022).
+Por ejemplo, la política SPD-41a de la Dirección de Misiones Científicas de NASA se aplica a todas las actividades científicas financiadas por SMD y establece explícitamente que “el software financiado debe seguir las mejores prácticas en las comunidades de investigación y de Código Abierto relevantes” (NASA Science Mission Directorate, 2022).
 
-### Políticas establecidas de código abierto en sociedades profesionales
+### Políticas de Software Abierto establecidas por sociedades profesionales
 
-Sociedades profesionales como AAAS, AGU, AAS y otras influyen en las políticas de las agencias financiadoras y afectan directamente las políticas sobre software y código utilizados para generar publicaciones. Involucrarse con la comunidad a través de documentos de consenso y sociedades profesionales es clave para orientar decisiones de política sobre software de código abierto en ciencia.
+Las sociedades profesionales como AAAS, AGU, AAS, etc. influyen en las políticas de las agencias de financiación e influyen directamente en las políticas relativas al software usado para generar publicaciones. Es importante interactuar con la comunidad a través de documentos de consenso y sociedades profesionales para guiar las decisiones políticas relacionadas con el software de Código Abierto en la ciencia.
 
-Science (AAAS) establece explícitamente: “En general, todo el código informático central para los hallazgos que se reportan debería estar disponible para las personas lectoras a fin de garantizar la reproducibilidad”.
+Science/AAAS establece explícitamente que "en general, todo el código informático fundamental para los hallazgos que se informan debe estar disponible para los lectores, a fin de garantizar la reproducibilidad".
 
 ### Instituciones
 
-Las instituciones con las que trabajamos imponen restricciones muy variables al software de código abierto debido a consideraciones de seguridad, privacidad, propiedad intelectual, aspectos comerciales u otros factores que no siempre se alinean con el espíritu de la ciencia abierta. Es importante interactuar con la comunidad institucional para facilitar el avance hacia políticas que promuevan el software de código abierto como base de la ciencia abierta.
+Las instituciones individuales donde trabajamos imponen restricciones muy variables al software de Código Abierto debido a preocupaciones de seguridad, privacidad, propiedad intelectual, comerciales u otras que no necesariamente se alinean con el espíritu de la Ciencia Abierta. Es importante colaborar con la comunidad institucional para facilitar el movimiento hacia políticas que faciliten el uso del software de Código Abierto como base de la Ciencia Abierta.
 
-### Actividad 5.1: redacción de un SMP
+### Actividad 5.1: Escribir un PGS
 
-En esta actividad, revisa el SMP que se presenta a continuación y reflexiona sobre las siguientes preguntas:
+En esta actividad revisa el PGS y piensa en estas preguntas:
 
-- ¿Qué tipos de software o código describe el SMP?
-- ¿Cuándo se compartirá el trabajo?
-- ¿Dónde se compartirá el trabajo?
-- ¿Cómo se compartirá el trabajo para que sea un objeto citable?
-- ¿Quién será responsable de los distintos aspectos del software o código?
-- ¿Cuáles son algunas de las limitaciones del software o código?
-- ¿Cómo impactaría la falta de un plan en el desarrollo del código a largo plazo?
-- ¿Los resultados son reproducibles sin el código original en Interactive Data Language (IDL)?
-- ¿Hay elementos en el plan de ejemplo que agregarías o especificarías con mayor detalle?
+¿Qué tipos de software describe el PGS?
+¿Cuándo se compartirá?
+¿Dónde se compartirá?
+¿Cómo se compartirá para que sea un artículo citable?
+¿Quién será responsable de los distintos aspectos del software?
+¿Cuáles son las limitaciones de algunos programas?
+¿Cómo puede afectar, en el futuro, no tener un plan acordado al inicio del desarrollo del código?
+¿Los resultados son reproducibles sin el código original en IDL (lenguaje de programación usado para el análisis de datos)?
+¿Hay cosas que agregarías al plan del ejemplo o sobre las que serías más específico?
 
 #### Ejemplo de Plan de Gestión de Software
 
 **1. Tipos de software esperados**
 
-Se utilizarán modelos de simulación establecidos para realizar simulaciones iniciales. Estos modelos están escritos en Fortran y fueron desarrollados a lo largo de la última década. Aunque no están disponibles públicamente, sí están disponibles para su uso en el proyecto (por ejemplo, mediante comunicación privada). Los modelos de simulación generarán archivos de salida según lo descrito en el Plan de Gestión de Datos (DMP). Se desarrollará software de análisis en Python para analizar los archivos de salida de los modelos, lo que permitirá generar productos de datos derivados, mapas y figuras. El desarrollo del software de análisis en Python se compartirá en un repositorio de GitHub.
+Usaremos modelos de simulación establecidos para realizar simulaciones iniciales de este trabajo. Estos modelos de simulación están escritos en Fortran y fueron desarrollados durante la última década. Si bien no están disponibles para el público, sí lo están para que los use el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de Gestión de Datos (PGD). Desarrollaremos software en Python para analizar los archivos de salida del modelo, lo que permitirá desarrollar productos de datos derivados, mapas y figuras. El desarrollo del software de análisis en Python se compartirá en un repositorio de GitHub.
 
-**2. Desarrollo del software de análisis**
+**2. Desarrollo de análisis de software**
 
-Todo el desarrollo nuevo de código en Python se realizará de manera abierta en GitHub por integrantes de este proyecto. Se publicará y seguirá un Código de Conducta para el desarrollo de software del proyecto de investigación, que incluye lineamientos para contribuciones de otras personas de la comunidad científica.
+Todo el desarrollo nuevo del código en Python será desarrollado por las personas participantes en el proyecto de manera abierta en GitHub. Publicaremos y seguiremos el código de conducta establecido para el desarrollo de software de nuestro proyecto de investigación, que incluye pautas para las contribuciones de miembros adicionales de la comunidad científica.
 
 **3. Repositorios y cronograma para compartir el software**
 
-Este trabajo respaldará el desarrollo de dos artículos revisados por pares. Todo el código fuente desarrollado en Python para respaldar cada artículo será archivado en Zenodo a más tardar en la fecha de publicación del artículo. El software se pondrá a disposición bajo una licencia permisiva Apache License 2.0. Zenodo asignará un DOI al software archivado.
+Este trabajo apoyará el desarrollo de dos artículos para revistas revisadas por pares. Todo el código fuente desarrollado en Python para respaldar cada artículo se archivará en Zenodo a más tardar en la fecha de publicación del artículo. El software estará disponible bajo una licencia Apache 2.0 permisiva. Zenodo asignará un DOI al software archivado cuando este sea archivado.
 
-**4. Excepciones para compartir software**
+**4. Exención para compartir software**
 
-Este trabajo no respalda el desarrollo adicional de los modelos de simulación existentes en Fortran, que se mantienen de forma independiente. No se cuenta con permiso para compartir públicamente el código fuente en Fortran de esos modelos.
+Este trabajo no respalda el desarrollo posterior de los modelos de simulación de Fortran existentes, que se mantienen de forma independiente. No tenemos permiso para compartir públicamente el código fuente en Fortran de los modelos de simulación.
 
 **5. Roles y responsabilidades**
 
-El modelado inicial de simulaciones y el desarrollo del software de análisis en Python serán realizados por estudiantes de doctorado y personas en instancias de posdoctorado. La persona Investigadora Principal (PI) del proyecto tiene la responsabilidad general de la ejecución de este plan.
+El modelado inicial de simulaciones y el desarrollo del software de análisis en Python serán realizados por estudiantes de doctorado y por personas en instancias de posdoctorado. La persona Investigadora Principal (PI) del proyecto tiene la responsabilidad general de ejecutar este plan.
 
-## Involucrarse y construir comunidades
+## Generar interés y construir comunidades
 
-Las comunidades de software abierto son espacios sociales de aprendizaje donde las personas se reúnen para aprender nuevas habilidades, intercambiar conocimientos y experiencias, y luego aplicar lo aprendido en su trabajo cotidiano.
+Las comunidades de Software Abierto son espacios de aprendizaje social donde las personas se reúnen para aprender una nueva habilidad, intercambiar conocimientos y experiencias, y luego aplicar lo que han aprendido de la comunidad en su trabajo diario.
 
 ### Las comunidades ofrecen:
 
-- Un punto de entrada accesible para aprender y mejorar el uso de software en investigación.
-- Una oportunidad para compartir experiencias individuales, identificar obstáculos comunes y mejorar el conocimiento de forma iterativa.
-- Una forma de construir colaboración en torno al software de código abierto en ciencia y mantenerse actualizado sobre herramientas y prácticas.
-- Comunidades de práctica no jerárquicas, donde todas las personas contribuyen.
+- Un punto de entrada accesible para aprender y mejorar el uso del software en la investigación.
+- Una oportunidad para compartir experiencias individuales, identificar obstáculos comunes, mejorar de manera iterativa el conocimiento y resolver problemas.
+- Una forma de fomentar la cultura del software de Código Abierto en la ciencia y una excelente manera de mantenerse actualizado sobre las últimas herramientas y prácticas.
+- Una comunidad de prácticas no jerárquica en la que todos los miembros deben ser tratados de manera igualitaria.
 
 ### Conectar con comunidades
 
 Algunas comunidades que pueden ayudarte a comenzar son:
 
-- PyData  
-- SPEC  
-- rOpenSci  
-- pyOpenSci  
-- PyHC  
-- Research Software Engineering  
-- NumFOCUS  
-- R-Ladies  
-- PyLadies  
-- WoCCode  
-- Pangeo  
-- ObsPy  
-- The Turing Way  
+- [PyData](https://pydata.org/) (enlace externo) 
+- [SPEC](https://scientific-python.org/specs/) (enlace externo)
+- [rOpenSci](https://ropensci.org/) (enlace externo)
+- [pyOpenSci](https://www.pyopensci.org/) (enlace externo)
+- [PyHC](https://heliopython.org/) (enlace externo)
+- [Research Software Engineering](https://society-rse.org/) (enlace externo)
+- [NumFOCUS](https://numfocus.org/) (enlace externo)
+- [R-Ladies](https://rladies.org/) (enlace externo)
+- [PyLadies](https://pyladies.com/) (enlace externo)
+- [WoCCode](https://woccode.github.io/) (enlace externo)
+- [Pangeo](https://pangeo.io/) (enlace externo)
+- [ObsPy](https://discourse.obspy.org/) (enlace externo)
+- [The Turing Way](https://the-turing-way.netlify.app/collaboration/new-community.html) (enlace externo)
 
-Suscribirse y participar en foros, talleres presenciales, conferencias y hackatones relacionadas con tu disciplina o el software al que contribuyes es una excelente forma de involucrarte. Conectar a través de redes sociales y conversar con colegas también puede abrir puertas a comunidades más amplias.
+Suscríbete y/o participa en foros (por ejemplo, discusiones en GitHub, Stack Overflow o en foros específicos de tu disciplina o software), talleres presenciales, conferencias, encuentros de hackatón, etc., relacionados con tu disciplina o con el software al que contribuyes o usas. Conéctate en redes sociales. Y por último, pero no menos importante, ¡habla con tus colegas!
 
-### Actividad 5.2: explorar comunidades de práctica
+### Actividad 5.2: Navega por algunas comunidades de práctica
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
-- Explora los sitios web de al menos dos comunidades listadas en la sección anterior.
-- Identifica al menos dos puntos de entrada para involucrarte, como eventos próximos, foros u otros espacios.
+- Encuentra y navega por los sitios web asociados a dos comunidades de práctica enumeradas en la sección anterior, "Conectarse con las comunidades".
+- Identifica al menos dos puntos de entrada para participar, por ejemplo, un evento próximo (virtual o presencial), formas en las que podrías contribuir, foros, etc.
 
-#### Ideas clave
+#### Conclusiones clave: 
 
-- Existen muchas oportunidades para involucrarse en comunidades que trabajan en software abierto.
-- La participación en estas comunidades puede enriquecer y mejorar tu software.
+- Hay muchas oportunidades para involucrarse con comunidades que trabajan en Software Abierto.
+- Involucrarse con comunidades de Software Abierto puede enriquecer y mejorar tu software.
 
-## Contribuir al software de código abierto
+## Contribuir a proyectos de software de Código Abierto
 
-Contribuir al software abierto ofrece múltiples beneficios y abre oportunidades valiosas. Existen diversas formas de contribuir, y no todas implican escribir código:
+Contribuir al software de Código Abierto ofrece muchas ventajas y abre las puertas a una serie de oportunidades muy provechosas. Hay pocas industrias que puedan presumir del enorme número de contribuciones globales como lo hace la comunidad de Código Abierto. Contribuir al software de Código Abierto es una excelente manera de mejorar tus habilidades de programación y documentar tu trabajo mientras haces crecer tu comunidad.
 
-|  |  |
-|---|---|
-| **Agregar nuevas funcionalidades** | Mejorar la usabilidad incorporando nuevas características. |
-| **Corregir errores** | Resolver problemas reportados en el código. |
-| **Reportar problemas y sugerir mejoras** | Informar errores o limitaciones también es una contribución valiosa. |
-| **Mejorar la documentación** | Es una excelente forma de comenzar y facilita el uso por parte de otras personas. |
-| **Crear tutoriales o casos de uso** | Compartir experiencias de uso del software. |
-| **Refactorizar código** | Mejorar estructura, automatización y estabilidad del código existente. |
-| **Organizar o participar en encuentros comunitarios** | Fortalecer la comunidad y el intercambio de conocimiento. |
-| **Revisar código** | Evaluar contribuciones de otras personas, de forma similar a la revisión por pares. |
+Existen varios tipos de contribuciones al software de Código Abierto. No todas requieren escribir código:
 
+|                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Añadir nuevas características**                                       | El caso más evidente para contribuir al software de Código Abierto es mejorar su funcionalidad incorporando nuevas características.                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Corregir errores**                                                    | También puedes responder a una incidencia (error) ya abierta corrigiéndola.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Reportar un problema y hacer sugerencias que mejoren el código**      | Informar sobre un problema es una contribución valiosa incluso si no sabes cómo solucionarlo. Por ejemplo, es posible que estés usando un navegador diferente en el que el software aún no se ha probado, hayas descubierto un mensaje de error en particular poco informativo, seas daltónico o puedas proporcionar una experiencia de uso valiosa que ayude a mejorar la funcionalidad general del software.                                                                                                                          |
+| **Mejorar y contribuir a la documentación**                             | Contribuir a la documentación constituye un gran punto de partida para colaborar con el software de Código Abierto y con frecuencia se ignora su importancia. Escribir documentación te permite familiarizarte con el uso del software y, al mismo tiempo, ayudar a otras personas a aprender.                                                                                                                                                                                                                                                  |
+| **Crear tutoriales, casos de uso, ejemplos o videos** | Otra forma de contribuir es hacer que tu experiencia y tu uso del software estén disponibles públicamente. Por ejemplo, podrías crear un tutorial basado en tu uso del software, resumir un caso de uso o presentar un resumen de tu experiencia en formato gráfico. Esta parte de la contribución es especialmente atractiva porque no requiere mucho trabajo adicional, simplemente publicar para qué has usado el software.                                                                                       |
+| **Mejorar el diseño, la automatización y la estructura del código**     | Además de crear nuevo código, una buena forma de contribuir al software de Código Abierto también puede ser mejorar, reestructurar o automatizar el código existente. Esto se llama refactorización y ayuda a hacer que el proyecto de software sea más eficiente, operativo y estable.                                                                                                                                                                                                                                                  |
+| **Organizar y asistir a un encuentro de la comunidad:** | Otra manera de contribuir al software de Código Abierto es a través del desarrollo de comunidades. Muchos productos y herramientas de software cuentan con una comunidad activa de personas que se reúnen regularmente, de forma presencial y/o en línea, para discutir y/o mejorar el software y su uso. Participar o incluso organizar una de estas reuniones puede ser una buena manera de mejorar el conocimiento acerca del software, conocer a tu comunidad de personas usuarias y contribuir a proyectos de Código Abierto. |
+| **Revisión de código**                                                  | Las solicitudes para integrar nuevas contribuciones en el código principal generalmente requieren una revisión de la contribución por parte de al menos otra persona usuaria. Similar a una revisión por pares, la revisión de un código implica escribir un breve resumen de su calidad y hacer sugerencias de mejora.                                                                                                                                                                                                            |
 ## Recursos adicionales
 
 ### Aviso
 
-Algunos artículos mencionados pueden estar detrás de muros de pago. Si necesitas acceso, contacta a las personas autoras o busca versiones en repositorios de preprints como bioRxiv.
+Algunos artículos mencionados pueden estar detrás de muros de pago. Si necesitas acceso, contacta a las personas autoras o busca versiones en repositorios de preimpresiones (preprints) como bioRxiv.
 
 ### Referencias y guías
 
-- OpenSciency  
-- NASA SMD Open Source Science Guidance  
-- Practical Guide to Software Management  
-- FAIR Principles for Research Software (FAIR4RS)  
-- Open Source Software Policy Options for NASA Earth and Space Sciences  
-- The Turing Way  
-- Ten simple rules for documenting scientific software  
-- Journal of Open Source Software  
+Además de los recursos mencionados en otras partes de este curso, los siguientes recursos comunitarios son excelentes fuentes de información sobre software de Código Abierto.
 
-### Formación adicional
+- [OpenSciency](https://zenodo.org/record/7662732) (en inglés).
+- [Dirección de Misiones Científicas de la NASA: Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/12/smd-open-source-science-guidance-v2.1-20231211-2.pdf) (en inglés).
+- [Guía práctica para la gestión de software (Practical Guide to Software Management)](https://zenodo.org/record/7589725) (en inglés).
+- [Principios FAIR para el Software de Investigación (Principios FAIR - _FAIR Principles for Research Software_)](https://zenodo.org/record/6623556) (en inglés).
+- [Opciones de Política de Software de Código Abierto para Ciencias de la Tierra y del Espacio de la NASA (_Open Source Software Policy Options for NASA Earth and Space Sciences_)](https://doi.org/10.17226/25217) (en inglés).
+- [Manual de Turing Way para la ciencia de datos reproducible, ética y colaborativa](https://the-turing-way.netlify.app/index.html) (en inglés).
+- [Diez reglas simples para documentar software científico](https://doi.org/10.1371/journal.pcbi.1006561) (en inglés).
+- [Journal of Open Source Software](https://joss.theoj.org/) (en inglés).
 
-- Software Carpentries  
-- How to contribute to Open Source projects (guía para principiantes)
+### Entrenamiento adicional
+
+Además de los recursos mencionados en otras partes de esta capacitación, los siguientes recursos representan capacitación adicional sobre software de Código Abierto.
+
+- [Software Carpentries](https://software-carpentry.org/lessons/) (en inglés).
+- [Cómo contribuir a proyectos de Código Abierto - Una guía para principiantes](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) (en inglés).
+
+### Una revista con miles de historias de éxito de software de investigación de Código Abierto
+
+[The Journal of Open Source Software (JOOS)](https://joss.theoj.org/) (en inglés). Ofrece un espacio para mejorar la calidad y reducir el esfuerzo al publicar software de investigación de Código Abierto:
+
+- Es una "revista" de Código Abierto revisada por pares que cubre software de investigación de Código Abierto publicado en GitHub.
+- Tiene su énfasis en el software.
+- Ha publicado una gran cantidad de proyectos de software de investigación de Código Abierto, varios de ellos muy citados. JOSS es una de varias revistas. Haz clic [aquí](https://www.software.ac.uk/which-journals-should-i-publish-my-software) para ver una lista de muchas más revistas que publican software (en inglés).
 
 ## Lección 5: Resumen
 
-En esta lección aprendiste:
+En esta lección has aprendido:
 
-- Cuándo es necesario redactar un SMP y que las organizaciones financiadoras o instituciones pueden tener reglas específicas sobre el desarrollo y la compartición de código.
-- Que integrarse a comunidades de software es una excelente forma de intercambiar conocimientos y aprender nuevas habilidades.
-- Que existen múltiples formas de contribuir al código abierto, y no todas requieren escribir código.
+- Cuándo se debería redactar un Plan de Gestión de Software y que el organismo o institución de financiamiento puede tener reglas sobre cómo desarrollar y compartir el código.
+- Que unirse a comunidades de software puede ser una forma excelente de intercambiar conocimientos y aprender nuevas habilidades en torno al Código Abierto.
+- Que hay muchas maneras de contribuir al Código Abierto, y que no todas requieren escribir código.
 
-## Lección 5: Autoevaluación
+## Lección 5: Evaluación
+
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
+
+_Pregunta_
 
 **01/02**  
-La participación en comunidades de software abierto es no jerárquica; todas las personas integrantes deben contribuir.  
+Lee la siguiente afirmación y decide si es Verdadera o Falsa:
+
+_El compromiso de la comunidad con el Software Abierto no es jerárquico; todas las personas de la comunidad deben ser tratadas de la misma manera._
+
 - Verdadero  
 - Falso  
 
 **02/02**  
-Selecciona las formas beneficiosas de contribuir al software de código abierto:  
-- Agregar nuevas funcionalidades  
-- Corregir errores  
-- Documentar el trabajo  
-- Refactorizar  
-- Todas las anteriores  
+Selecciona la o las maneras beneficiosas de contribuir al software de Código Abierto.
 
-## Resumen de Código Abierto
+- Añadir nuevas características
+- Corregir errores
+- Documentar el trabajo
+- Refactorizar el codigo
+- Todas las anteriores
 
-¡Felicitaciones! Ahora deberías poder:
+## Resumen del Módulo 4: Código Abierto
 
-- Explicar qué significa el software de código abierto, su ciclo de desarrollo, beneficios y limitaciones.
-- Descubrir software de código abierto, evaluarlo para su reutilización y citarlo cuando corresponda.
-- Crear un plan de gestión de software de código abierto.
-- Evaluar si tu software puede compartirse y cómo hacerlo para aumentar su visibilidad.
-- Enumerar las responsabilidades asociadas a compartir software de código abierto.
+¡Felicitaciones! Ahora que has completado el módulo, deberías poder hacer lo siguiente:
+
+- Explicar lo que significa el software de Código Abierto, incluyendo el ciclo de desarrollo de software, los beneficios del Software Abierto y algunas limitaciones comunes y cómo se abordan.
+- Evaluar el software de Código Abierto para su reusación mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
+- Crear un Plan de Gestión de Software de Código Abierto que incluya, por un lado, la estrategia para seleccionar dependencias de Software Abierto y repositorios abiertos como GIT, y por otro, cómo se incluirán elementos abiertos, como metadatos, archivos README y control de versiones, para hacer que el software sea reusable y localizable.
+- Evaluar si tu software de Código Abierto puede ser compartido y cuáles son las mejores opciones para compartirlo para aumentar su visibilidad.
+- Enumerar las responsabilidades que tiene una persona que desarrolla software una vez que el software de Código Abierto es compartido, incluyendo la gestión de los requisitos legales y la garantía del mantenimiento del software.
 
 ### Referencias citadas
 
