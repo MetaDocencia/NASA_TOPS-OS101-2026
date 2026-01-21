@@ -46,7 +46,8 @@ Recuerda que las preimpresiones (preprints) desempeñan un papel importante en l
 
 Una forma habitual de compartir un artículo es elegir una revista que ya sea completamente de Acceso Abierto y adoptar su licencia. Una manera de descubrir revistas abiertas es utilizar el [Directorio de Revistas de Acceso Abierto (en inglés, Directory of Open Access Journals, DOAJ)](https://doaj.org/) (enlace externo). El DOAJ ofrece un índice de búsqueda de todos los artículos y revistas de Acceso Abierto conocidos. Sirve como una herramienta útil en las primeras etapas de la planificación de la investigación para ayudar a una persona que investiga a determinar qué revistas hay que tener en cuenta cuando llegue el momento de publicar sus resultados.
 
-![](../images/media/image51_es.png)
+<img src="../images/media/image51_es.png" style="width:100%;height:auto;" alt="Captura de pantalla del sitio del Directorio de Revistas de Acceso Abierto (DOAJ) con el título “Encuentre revistas y artículos de acceso abierto”, pestañas “Revistas” y “Artículos”, un campo de búsqueda. Debajo se muestran métricas del índice: 80 idiomas, 134 países representados, 13.561 revistas sin honorarios, 20.518 revistas y 10.160.674 registros de artículos." />
+
 
 ### Actividad 5.1: Identificar una revista de acceso abierto
 
@@ -155,7 +156,7 @@ Entre las características de Zotero se incluyen:
 - Word + plugins del navegador.
 - Exportar citas a BibTeX.
 
-<img src="../images/media/image53_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image53_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de Zotero. Se ve una biblioteca llamada “Ciencia Abierta en Comunidad” con carpetas y elementos a la izquierda, una lista de referencias en el panel central (con títulos y creadores) y, a la derecha, la pestaña “Información” con los metadatos completos del ítem seleccionado (título, autores, resumen, institución, fecha, idioma, URL y fechas de acceso/modificación)." />
 
 ## Lección 5: Resumen
 
