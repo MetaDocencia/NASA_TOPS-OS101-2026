@@ -53,7 +53,7 @@ Un identificador digital persistente (o «PID», por sus siglas en inglés) es u
 
 ### ORCID
 
-<img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg">  
+<img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg" alt="logo ORCID." />  
 Fuente de la imagen: ORCID Logo - CC0 1.0
 
 ORCID es la sigla de «Open Researcher and Contributor IDentifier» y está pensado para proporcionar información profesional sobre una persona.
@@ -79,12 +79,12 @@ Por ejemplo, el DOI [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org
 
 Los DOI fueron estandarizados por la [Organización Internacional de Normalización (ISO)](https://www.iso.org/home.html) (enlace externo) y son provistos y mantenidos por la [International DOI Foundation](https://www.doi.org/) (enlace externo).
 
-<img src="../images/media/image18_es.png" style="width:350px;height:auto;" />  
+<img src="../images/media/image18_es.png" style="width:350px;height:auto;" alt="logo DOI." />   
 Fuente de la imagen: DOI Foundation Logo - CC 4.0
 
 ### Citas que usan DOI
 
-<img src="../images/media/image19_es.png" style="width:100%;height:auto;" />  
+<img src="../images/media/image19_es.png" style="width:100%;height:auto;" alt="Captura de pantalla del sitio Earthdata ASDC (Centro de datos de ciencias atmosféricas) en una página de citación. Se muestran ejemplos de cita en distintos formatos (APA y Harvard) y opciones para descargar la referencia en BibTeX, JSON CSL y RIS. En el texto de la cita aparece un enlace DOI para el conjunto de datos." /> 
 Ejemplo de cita de ASDC [captura de pantalla]. (2023). Centro de Datos de Ciencias Atmosféricas. [https://asdc.larc.nasa.gov/](https://asdc.larc.nasa.gov/)
 
 Los DOI facilitan y hacen más práctica la citación de productos de investigación.
@@ -113,7 +113,8 @@ Así de fácil debería ser para quienes lean tus artículos encontrar y utiliza
 
 ### Ejemplos de PIDs en acción
 
-<img src="../images/media/image22_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image22_es.jpg" style="width:100%;height:auto;" alt="Diapositiva titulada “Líderes de investigación en acción” (NASA TOPS). Presenta tres ejemplos de uso de identificadores persistentes (PIDs) en tres columnas. Columna izquierda: quienes investigan escriben código, lo suben a un repositorio, obtienen un DOI para el script y otras personas pueden revisarlo, usarlo y citarlo; incluye un ícono de una persona frente a una pantalla con símbolo de código. Columna central: el comité organizador de un taller redacta colaborativamente un trabajo que resume resultados, recopila los ORCID de las personas participantes y publica el trabajo en una revista que asigna un DOI; incluye texto sin ícono destacado. Columna derecha: una persona que hace ciencia en la comunidad presenta una charla en una conferencia en línea, deposita la presentación en un repositorio y comparte el DOI con colegas; incluye un ícono de videollamada con cuatro participantes." />
+
 
 <table>
   <thead>
@@ -448,7 +449,7 @@ El PCAGD describe cómo se gestiona y se pone a disposición del público la inf
 
 Un PCAGD bien escrito puede ayudarte a obtener financiamiento porque demuestra tus habilidades para hacer Ciencia Abierta.
 
-<img style="width:100%;height:auto;" src="../images/media/things-to-think-about-research-artifacts_es.png">
+<img style="width:100%;height:auto;" src="../images/media/things-to-think-about-research-artifacts_es.png" alt="Infografía sobre aspectos a tener en cuenta respecto a los resultados de investigación que las personas crean. A la izquierda aparece la pregunta “¿Mi investigación va a generar...?” y un recuadro titulado “Materiales” con cuatro tipos: Datos, Código, Resultados y Muestras. Desde esos materiales salen flechas hacia un recuadro central con seis preguntas: “¿Dónde se va a almacenar?”, “¿Cómo va a encontrarlo la gente?”, “¿Las personas sabrán cómo usarlo?”, “¿Las personas van a tener permiso para usarlo?”, “¿Quién puede responder preguntas sobre esto?” y “¿Cómo debería citarse?”. A la derecha se lee: “Un Plan de Ciencia Abierta y Gestión de Datos responde estas preguntas sobre los resultados de investigación de forma sistemática”. En la parte inferior dice: “Las solicitudes de financiamiento ahora requieren un Plan de Gestión de Datos”." />
 
 Secciones de ejemplo para incluir en un OSDMP:
 
