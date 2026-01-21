@@ -106,9 +106,9 @@ Utilizar un sistema distribuido de control de versiones como Git te da más flex
 
 El sistema de control de versiones más popular para el desarrollo de software es Git. Git es un sistema de Código Abierto que se usa habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puedes usarlo en tu computadora local cuando escribes tu propio código. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para usar Git, incluyendo GitHub Desktop y algunos editores de código que ya incluyen integración con Git. Más adelante en esta lección se darán más ejemplos.
 
-<img src="../images/media/image33_es.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image33_es.jpg" style="width:350px;height:auto;" alt="Viñeta sobre Git. Se ven tres figuras junto a una computadora. Un personaje explica: “Esto es Git. Rastrea el trabajo colaborativo en proyectos mediante un modelo de árbol distribuido de la teoría de grafos”. Otra persona responde: “Genial... ¿cómo lo usamos?”. El primer personaje contesta: “No tengo idea. Solo memoriza estos comandos de shell y escríbelos para sincronizar. Si devuelve un error, guarda tu trabajo en otro lado, borra el proyecto y descarga una copia nueva”. " />
 
-[https://xkcd.com/1597/](https://xkcd.com/1597/)
+Fuente: [https://xkcd.com/1597/](https://xkcd.com/1597/)
 
 ---
 
@@ -270,8 +270,10 @@ Los IDEs pueden aportar muchas herramientas útiles a tus trabajos. Ya no se tra
 
 El IDE más popular hoy en día, Visual Studio Code de Microsoft (o VS Code), es muy completo sin ser pesado.
 
-<img src="../images/media/image34_es.png" style="width:100%;height:auto;" />
-pantalla de inicio del VS Code donde se muestran las principales combinaciones de teclas para las funciones de "Mostrar todos los comandos"; "Abrir archivo o carpeta"; "Abrir reciente" y "Crear un nuevo archivo sin título". [Captura de pantalla] (2023). Microsoft Virtual Studio. [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/) (enlace externo)
+<img src="../images/media/image34_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de la pantalla de inicio del VS Code donde se muestran las principales combinaciones de teclas para las funciones de "Mostrar todos los comandos"; "Abrir archivo o carpeta"; "Abrir reciente" y "Crear un nuevo archivo sin título" />
+
+Fuente: Microsoft Virtual Studio. [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/) (enlace externo)
+
 
 - Dispone de una opción de "modo oscuro" que es más agradable a la vista para largas sesiones de codificación.
 - Proporciona el resaltado de sintaxis y una ventana de terminal integrada.
@@ -280,8 +282,9 @@ pantalla de inicio del VS Code donde se muestran las principales combinaciones d
 
 A continuación hay un ejemplo de un desarrollador que, por accidente, escribió un signo igual cuando debía escribir dos puntos. VS Code detectó el error y, cuando el desarrollador pasó el cursor por encima del subrayado rojo, VS Code explicó cuál era el error y ofreció llevarlo a documentación adicional.
 
- <img src="../images/media/image35_es.png" style="width:100%;height:auto;" />
- Ejemplo de fragmento de código. La captura de pantalla muestra que VS Code detectó un error en el código y, al pasar el cursor sobre la indicación visual, explicó cuál era el error (colon expected) y ofreció llevarlo a una documentación adicional. [Captura de pantalla] (2023). Microsoft Virtual Studio. [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/) (enlace externo)
+ <img src="../images/media/image35_es.png" style="width:100%;height:auto;" alt="Ejemplo de fragmento de código. La captura de pantalla muestra que VS Code detectó un error en el código y, al pasar el cursor sobre la indicación visual, explicó cuál era el error (colon expected) y ofreció llevarlo a una documentación adicional." />
+ 
+Fuente: Microsoft Virtual Studio. [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/) (enlace externo)
 
 Otra función útil en VS Code (así como en muchos otros editores de código) es la integración con Git. En lugar de usar una ventana de terminal, puedes integrar Git fácilmente en tu flujo de trabajo.
 
@@ -298,8 +301,9 @@ Mientras que VS Code es un entorno de desarrollo integrado (en inglés, Integrat
 
 Las personas investigadoras que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
 
-<img src="../images/media/image36_es.png" style="width:100%;height:auto;" />  
- Ejemplo de RStudio [Captura de pantalla] (2023). RStudio. [https://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot](https://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot) (enlace externo)
+<img src="../images/media/image36_es.png" style="width:100%;height:auto;" alt="Captura de pantalla con ejemplo de RStudio." />
+
+Fuente: RStudio. [https://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot](https://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot) (enlace externo)
 
 ### Editores de texto plano para programar
 
@@ -340,7 +344,7 @@ Un cuaderno computacional es un entorno de computación virtual e interactivo qu
 
 **Ejemplo: Jupyter Notebook y JupyterLab**
 
-<img style="width:350px;height:auto;" src="../images/media/jupyterlogo.jpg">
+<img style="width:350px;height:auto;" src="../images/media/jupyterlogo.jpg" alt="Logo Jupyter." />
 Fuente de la imagen: "Jupyter" y los logos de Jupyter son marcas registradas o marcas comerciales de LF Charities, usadas por OS101 con permiso.
 
 Los cuadernos de Jupyter son aplicaciones web de Código Abierto que se usan ampliamente para crear documentos computacionales. Pero antes de profundizar en Jupyter Notebooks, queremos dejar claro que Jupyter Notebooks es una de muchas plataformas en el ecosistema de Jupyter:
@@ -354,8 +358,8 @@ Usaremos Jupyter Notebook como ejemplo de un cuaderno computacional y discutirem
 
 Esta captura de pantalla muestra un ejemplo de un Jupyter Notebook que integra texto enriquecido (con encabezados y enlaces), ecuaciones, código y la salida interactiva de esas líneas de código, incluyendo un gráfico. Esta captura deja claro por qué se lo llama un cuaderno computacional: se parece a un cuaderno de laboratorio que podrías haber escrito a mano en la escuela.
 
-<img src="../images/media/image38_es.png" style="width:100%;height:auto;" />
-Ejemplos de Jupyter Notebook [Capturas de pantalla] (2023). [Project Jupyter | Home](https://jupyter.org/) (enlace externo)
+<img src="../images/media/image38_es.png" style="width:100%;height:auto;" alt="Capturas de pantalla con ejemplos de Jupyter Notebook." />
+Fuente: [Project Jupyter | Home](https://jupyter.org/) (enlace externo)
 
 Jupyter soporta muchos lenguajes de programación. Un dato curioso: el nombre "Jupyter" se refiere a los tres idiomas principales admitidos por Jupyter: Julia, Python, y R.
 
@@ -375,7 +379,8 @@ Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computaci
 
 En esta actividad, ejecutarás código Python ya escrito en un Jupyter Notebook desde tu navegador para generar gráficos relacionados con el fenómeno El Niño-Oscilación del Sur (o ENOS). Utilizarás el paquete de software de Código Abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra, en inglés Community Earth System Model, CESM) y crear algunas visualizaciones de eventos ENOS a lo largo de los últimos 20 años. El objetivo es recrear el siguiente gráfico para los últimos aproximadamente 20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
-![](../images/media/image39.jpeg)  
+<img src="../images/media/image39.jpeg" style="width:100%;height:auto;" alt="Gráfico relacionado con el fenómeno El Niño y La Niña (ENOS), que muestra una serie temporal con los períodos de El Niño resaltados en rojo y los de La Niña en azul." />
+
 Crédito de la imagen: "ONI: 1950-2018: Base:1960-1989". [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni) (enlace externo)
 
 ---
@@ -383,22 +388,38 @@ Crédito de la imagen: "ONI: 1950-2018: Base:1960-1989". [https://climatedatagui
 Sigue estos pasos:
 
 1. Navega a la lección “[Calculating ENSO with Xarray (Calculando ENOS con Xarray)](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)” (enlace externo)
+
 2. Localiza y selecciona la opción "Binder" que se encuentra dentro del desplegable del icono del cohete (en inglés, Rocket). Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse.
-![](../images/media/calculatingenso_es.png)  
-Ejemplo de Notebook Paso 2. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
+   
+<img src="../images/media/calculatingenso_es.png" style="width:100%;height:auto;" alt="Captura de pantalla con ejemplo de Notebook Paso 2. Lección «Calculating ENSO with Xarray», con una flecha señalando el ícono del cohete y el menú desplegable donde aparece la opción «Binder» para abrir el notebook en la nube." />
+ 
+Fuente: Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
+
 3. Después de cargar el Cuaderno Computacional, deberías encontrarte ahora en una interfaz de edición con un arbol de archivos y una sección de edición de los archivos del árbol.Nota -- ¡Esto realmente utiliza la vista de JupyterLab!
-![](../images/media/calculatingenso2_es.jpg)  
-Ejemplo de Notebook Paso 3. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
+
+<img src="../images/media/calculatingenso2_es.jpg" style="width:100%;height:auto;" alt="Captura de pantalla con ejemplo de Notebook Paso 3. JupyterLab con el notebook «Calculating ENSO with Xarray» abierto. A la izquierda se ve el árbol de archivos y, al centro, el área de edición del cuaderno con el título y secciones como «Overview» y «Prerequisites»." />
+ 
+Fuente: Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
+
 4. Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos. Está bien si no lo entiendes todo. ¡Aún puedes apreciar los bonitos gráficos que estás a punto de hacer!
+
 5. ¡Ahora ya puedes ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Run" (Ejecutar) y elegir "Run All Cells" (Ejecutar todas las celdas)
-![](../images/media/calculatingenso3_es.jpg)  
-Ejemplo de Notebook Paso 5. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
+
+<img src="../images/media/calculatingenso3_es.jpg" style="width:100%;height:auto;" alt="Captura de pantalla con ejemplo de Notebook Paso 5. JupyterLab con el menú «Run» desplegado. Se ve la opción «Run All Cells» resaltada, junto a otras opciones para ejecutar celdas y reiniciar el kernel, mientras el notebook «Calculating ENSO with Xarray» está abierto." />
+ 
+Fuente: Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
+
 6. Esto sólo debería tomar unos pocos segundos y aparecerán unas visualizaciones bonitas que acabas de crear:
 Usa los botones "<" y ">" para navegar entre las imágenes.
-![](../images/media/calculatingenso4_es.png)  
-Salida del Notebook Ejemplo 1. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)  
-![](../images/media/image44.jpeg)  
-Salida del Notebook Ejemplo 2. [Captura de pantalla] (2023). Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
+
+<img src="../images/media/calculatingenso4_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de la salida de un notebook ejemplo 1, con un mapa global. El mapa muestra la temperatura de la superficie del mar con una escala de colores (azules para valores más bajos y rojos para valores más altos). Arriba se lee «Tiempo = 2000-01-15 12:00:00» y a la derecha aparece la barra de colores con el rótulo «Temperatura de la superficie del Mar (grados)»." />
+
+Fuente: Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)  
+
+<img src="../images/media/image44.jpeg" style="width:100%;height:auto;" alt="Salida del Notebook Ejemplo 2. Gráfico de líneas del índice Niño 3.4 a lo largo del tiempo (aprox. 2000–2014). Las áreas en rojo resaltan períodos asociados a El Niño y las áreas en azul resaltan períodos asociados a La Niña." />
+
+Fuente: Calculating ENSO with Xarray [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) (enlace externo)
+
 7. Tómate algo de tiempo para explorar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo quienes hacen ciencia utilizan Cuadernos Computacionales para su investigación.
 
 Puedes explorar más recursos de aprendizaje sobre Python de Project Pythia en su [Libro de Fundamentos](https://foundations.projectpythia.org/landing-page.html) (enlace externo). Para ejemplos más avanzados de flujos de trabajo de investigación en geociencias que usan cuadernos computacionales, revisa estos "[Cookbooks (Guías Rapidas)](https://cookbooks.projectpythia.org/)" (enlace externo) para ver cómo se usan cuadernos en ciencia. Si te interesan las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook si lo tienes y quieres compartirlo!
@@ -460,7 +481,7 @@ Un repositorio de software es un espacio dinámico y colaborativo donde quienes 
 
 Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Las personas usuarias acceden a estos archivos para obtener versiones confiables del software, lo que asegura la estabilidad y la confiabilidad de sus aplicaciones. Comprender la diferencia entre ambos es crucial para un desarrollo y distribución de software eficaces.
 
-<img src="../images/media/image45_es.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image45_es.jpg" style="width:350px;height:auto;" alt="Diagrama conceptual: un cilindro que representa “Almacenamiento” + un conjunto de hojas que representan “Control de versiones”." />
 Crédito de la imagen: NASA
 
 Git/GitHub y Bitbucket son opciones populares para repositorios de software.
