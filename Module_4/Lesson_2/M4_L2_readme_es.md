@@ -81,9 +81,9 @@ Hay varios buscadores populares para buscar fragmentos de código. Primero, simp
 </colgroup>
 <tbody>
     <tr>
-        <td><img style="width:98%" src="../images/media/examplecoderepo1_es.png"></td>
-        <td><img style="width:98%" src="../images/media/examplecoderepo2_es.png"></td>
-        <td><img style="width:98%" src="../images/media/examplecoderepo3_es.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo1_es.png" alt="Logo GitHub" /></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo2_es.png" alt="Logo GitLab" /></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo3_es.png" alt="Logo Bitbucket" /></td>
     </tr>
     <tr>
         <td>GitHub</td>
@@ -111,11 +111,11 @@ GitHub permite a las personas usuarias colaborar en un proyecto compartido y seg
 
 Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para realizar esta acción. Puedes ingresar tus términos de forma sencilla en la barra de búsqueda mientras estás en tu página de perfil. En la barra de búsqueda, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y aparecerán varios repositorios con código relevante en Python, Julia, R, entre otros, junto con miles de partes de código relacionadas. ¡Felicitaciones! Has comenzado tu viaje hacia el software de Acceso Abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás. ¡Adelante!
 
-<img src="../images/media/image335_es.png" style="width:100%;height:auto;" />
-Búsqueda en GitHub [captura de pantalla]. (2023). GitHub. https://github.com/ (enlace externo)
+<img src="../images/media/image335_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de la página de resultados de búsqueda en GitHub. En la barra de búsqueda aparece el texto “Lomb Scargle”. A la izquierda se ve la sección “Filter by” con filtros como “Code”, “Repositories” (seleccionado, con “78”), “Issues”, “Pull requests”, “Discussions” y “Users”, y debajo el listado de “Languages” (Python, Jupyter Notebook, R, Julia, C++, Cuda, Java). En el panel central se lee “78 results (231 ms)”, con opciones “Sort by: Best match” y el botón “Save”. En los resultados se muestran repositorios como “jakevdp/PracticalLombScargle”, “JuliaAstro/LombScargle.jl” y “mzechmeister/GLS”, cada uno con su descripción, lenguaje y fecha de actualización, junto al botón “Star”." />
+Fuente: GitHub. https://github.com/ (enlace externo)
 
-<img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" />
-Búsqueda en GitHub [captura de pantalla]. (2023). GitHub. https://github.com/ (enlace externo)
+<img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" alt="Captura de pantalla de la página de resultados de búsqueda en GitHub. En la barra de búsqueda aparece el texto “Lomb Scargle”. A la izquierda se ve la sección “Filter by” con filtros como “Code” (seleccionado, con “6.3k”), “Repositories”, “Issues”, “Pull requests”, “Discussions” y “Users”, y debajo el listado de “Languages” (Python, Jupyter Notebook, R, Julia, C++, Cuda, Java). En el panel central se lee “6.3k results (215 ms)”, con muestras de fragmentos de códigos en los que figura “Lomb Scargle”." />
+Fuente: GitHub. https://github.com/ (enlace externo)
 
 ---
 
@@ -123,7 +123,11 @@ Con el Software Abierto, saber dónde buscar y qué buscar puede resultar desafi
 
 Revisa el diagrama de flujo a continuación, que ilustra cómo una búsqueda sigue la definición de la necesidad:
 
-<img src="../images/media/image128_es.jpg" style="width:100%;height:auto;" />
+  <img
+    src="../images/media/image128_es.jpg"
+    alt="Diagrama de flujo para orientar la búsqueda de Software Abierto. En la parte superior: “Definir los requerimientos: tareas, interoperabilidad, aplicaciones integrales vs. específicas, etc.” conectado con una doble flecha a: “Discutir con colegas o integrantes de la comunidad con mayor experiencia” y “Leer antecedentes relevantes”. Desde allí se bifurca en tres ramas: (1) “¿Es específico de una disciplina o investigación” → “Literatura revisada por pares” y “Repositorios de software propios de la disciplina”. (2) “¿Es de Código Abierto?” → “¿Es de un lenguaje específico?” → “Sí, por ejemplo, PyPI para Python, CRAN para R, etc.” / “No, por ejemplo: GitHub”. (3) “¿Tiene requisitos de hardware, sistema operativo u otras dependencias de entorno?” → “Sí, por ejemplo: Debian/dpkg, apt para linux, etc.” / “No, por ejemplo: SourceForge”."
+    style="width:100%;height:auto;"
+  />
 Crédito de la imagen: NASA
 
 ### El Software Abierto se agrega y se puede buscar en repositorios
@@ -145,32 +149,32 @@ La mayoría de los códigos de investigación deberían ser software de Código 
 </colgroup>
 <tbody>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo1_es.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo2_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo1_es.png" alt="Logo Software Heritage" /></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo2_es.png" alt="Logo Open Source Development Network" /></td>
     </tr>
     <tr>
         <td>Software Heritage</td>
         <td>Open Source Development Network (OSDN)</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo3_es.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo4_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo3_es.png" alt="Logo SourceForge" /></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo4_es.png" alt="Logo FOSSHUB" /></td>
     </tr>
     <tr>
         <td>SourceForge</td>
         <td>Free and Open Source Software Hub (FOSSHUB)</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo5_es.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo6_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo5_es.png" alt="Logo Google Open Source" /></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo6_es.png" alt="Logo CPAN" /></td>
     </tr>
     <tr>
         <td>Googlecode</td>
         <td>Comprehensive Perl Archive Network</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo7_es.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo8_es.jpg"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo7_es.png" alt="Logo python Package Index"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo8_es.jpg" alt="Logo R"></td>
     </tr>
     <tr>
         <td>PyPI</td>
@@ -248,7 +252,7 @@ Es una buena señal si puedes encontrar evidencia de que el código ha sido util
 
 Para evaluar rápidamente el uso y la calidad del repositorio de software por parte de la comunidad, utiliza las herramientas del repositorio donde lo encontraste. GitHub, por ejemplo, permite un rápido escaneo de la actividad de desarrollo como lo demuestra el número de veces que el código ha sido descargado o “bifurcado” (en la jerga de GitHub). También puedes ver la cantidad de actividad de una comunidad. GitHub, además, proporciona información sobre la calidad del software.
 
-<img src="../images/media/image291_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image291_es.jpg" style="width:100%;height:auto;" alt="Captura de pantalla de un repositorio en GitHub (astropy/astropy). Se resaltan indicadores usados para evaluar actividad y adopción del proyecto: pestaña “Pull requests” con 59, cantidad de “Fork” (1.6k), cantidad de “Star” (3.9k) y la sección “Releases” con 22. También se ve el listado de carpetas/archivos del repositorio y un panel lateral con información del proyecto." />
 Búsqueda modificada en GitHub [captura de pantalla]. (2023). GitHub. https://github.com/astropy/astropy (enlace externo)
 
 ### La importancia del archivo README (LEEME)
