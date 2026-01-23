@@ -11,46 +11,46 @@
 
 ## Descripción general
 
-En la Lección 2 aprendiste a usar resultados abiertos de manera responsable. En esta lección, nos enfocaremos en crear resultados abiertos. Empezaremos por conversar sobre qué significa crear resultados reproducibles. Habiendo conversado antes en el curso sobre las prácticas de reproducibilidad computacional en software abierto, en esta lección enfatizaremos específicamente la importancia de las colaboraciones para que esos resultados sean abiertos y reproducibles. Esto empieza por reconocer que los resultados científicos no son creados por individuos aislados. Luego enseñaremos cómo asegurar colaboraciones exitosas que reconozcan todas las contribuciones al crear tus resultados abiertos. Una vez que hayas planificado las reglas de participación, te proporcionaremos maneras de asegurar que tus informes y publicaciones respeten los principios de resultados abiertos y que contribuyan a combatir la crisis de reproducibilidad.
+En la Lección 2 aprendiste a usar los resultados de otras personas. En esta lección nos centraremos en generar Resultados Abiertos. Empezaremos por debatir qué significa lograr resultados reproducibles. Como ya hemos comentado en el curso las prácticas de reproducibilidad computacional en Software Abierto, en esta lección enfatizamos específicamente la importancia de las colaboraciones para que estos resultados sean abiertos y reproducibles. Empezando por reconocer que los resultados científicos no se obtienen de individuos. Luego enseñaremos cómo asegurar colaboraciones exitosas que reconozcan todas las contribuciones al crear tus Resultados Abiertos que reconozcan todas las contribuciones. Una vez que hayas planificado las reglas de participación, te brindaremos formas de garantizar que tus informes y publicaciones respeten los principios de Resultados Abiertos y combatan la crisis de reproducibilidad.
 
 ## Objetivos de aprendizaje
 
-Después de completar esta lección, deberías poder:
+Al finalizar esta lección deberías ser capaz de:
 
-- Identificar enfoques para crear distintos tipos de resultados abiertos.
-- Reconocer la importancia de la colaboración en la creación de resultados.
-- Desarrollar pautas de contribución que permitan el reconocimiento de quienes contribuyen a crear resultados.
-- Combinar distintos resultados abiertos para crear informes científicos y productos reproducibles.
+- Identificar enfoques para hacer diferentes tipos de Resultados Abiertos.
+- Reconocer la importancia de la colaboración para obtener resultados.
+- Desarrollar pautas de contribución para permitir el reconocimiento de quienes contribuyen a los resultados.
+- Combinar diferentes Resultados Abiertos para crear informes científicos y resultados reproducibles.
 
 ## Cómo hacer Resultados Abiertos
 
-### Capturar con precisión el proceso de investigación en la creación de resultados
+### Capturar con precisión el proceso de investigación en la obtención de resultados
 
-> Soy consciente de la crisis de reproducibilidad y de cómo la ciencia abierta puede ayudar a combatirla. ¿Qué maneras prácticas puedo aplicar a mis productos de investigación para crear resultados abiertos? ¿Cómo puedo asegurar que los resultados que comparto puedan ser reproducidos por otras personas? ¿Cómo puedo publicar publicaciones científicas que no sumen a la crisis de reproducibilidad, sino que la combatan?
+> Explicaremos qué es la crisis de reproducibilidad y cómo la Ciencia Abierta puede ayudarte a combatirla. ¿Qué formas prácticas puedo aplicar a mis resultados de investigación para obtener Resultados Abiertos? ¿Cómo puedo asegurarme de que los resultados que comparto puedan ser reproducidos por otras personas? ¿Cómo puedo realizar publicaciones científicas que no exacerben la crisis de reproducibilidad, sino que la combatan?
 
-En el Ethos de la Ciencia Abierta, aprendiste sobre la ética y los principios que sustentan prácticas responsables de ciencia abierta. En Código Abierto, exploraste e identificaste las herramientas y métodos adecuados que aseguran la usabilidad y la reproducibilidad de tu análisis. En Datos Abiertos, desarrollaste un plan de gestión de datos que puede asegurar la capacidad de ser Encontrados, Accesibles, Interoperables y Reutilizables (FAIR) de tus datos a lo largo del proceso de investigación, y no solo al final cuando se publica el informe final del proyecto. Estos enfoques de ciencia abierta abordan directamente las causas raíz de la crisis de reproducibilidad, tales como: falta de transparencia a lo largo del proceso científico, falta de documentación, descripción deficiente de métodos intermedios, o ausencia de datos utilizados en etapas intermedias del proceso de investigación. En esta lección, aprenderás a integrar todo esto para asegurar que estés preparado para crear tus resultados abiertos de modo que otras personas puedan reproducirlos con facilidad.
+En el conjunto de valores de la Ciencia Abierta, aprendiste sobre la ética y los principios subyacentes a las prácticas científicas abiertas responsables. En Software Abierto, exploraste e identificaste las herramientas y métodos correctos que aseguran la usabilidad y reproducibilidad de su análisis. En Datos Abiertos, desarrollaste un Plan de Gestión de Datos que puede garantizar los principios FAIR de los datos a lo largo del proceso de investigación, y no sólo al final cuando se publica el informe final del proyecto. Estos enfoques científicos abiertos abordan directamente las causas profundas de la crisis de reproducibilidad, que son la falta de apertura durante todo el proceso científico, la ausencia de documentación, la descripción deficiente de métodos intermedios o los datos faltantes que se utilizaron en etapas intermedias del proceso de investigación. En esta lección, aprenderás a reunir todo esto para asegurarte de que otras personas puedan reproducir fácilmente tus Resultados Abiertos.
 
-En la Lección 1, identificamos distintos componentes de investigación que pueden considerarse resultados abiertos en diversas etapas de la investigación. En esta lección, queremos explicar específicamente qué procesos están involucrados en crearlos.
+En la Lección 1, identificamos diferentes componentes de investigación que pueden considerarse Resultados Abiertos en varias etapas de la investigación. En esta lección, queremos explicar con detalle qué procesos intervienen en su elaboración.
 
-### Estudio de caso: Resultados abiertos de la colaboración distribuida de múltiples equipos del Event Horizon Telescope (EHTC)
+### Estudio de caso: Resultados Abiertos de colaboración distribuida entre varios equipos del Telescopio _Event Horizon_ 
 
-**Ejemplo: Capturar resultados en actividades que van desde la colaboración hasta las observaciones, desde la generación de imágenes hasta la interpretación.**
+**Ejemplo:** Captura de resultados de actividades que van desde la colaboración hasta las observaciones, pasando por la generación de imágenes y la  interpretación.
 
-En 2017, el Event Horizon Telescope se enfocó en agujeros negros supermasivos con los horizontes de sucesos aparentes más grandes: M87 y Sgr A* en el Centro Galáctico, en cuatro días separados. Esta colaboración distribuida condujo a la obtención de múltiples petabytes de datos que permitieron a la astronomía revelar la primera imagen de un agujero negro, proporcionando la evidencia visual más contundente de su existencia. El [sitio web de EHTC](https://eventhorizontelescope.org/) (enlace externo) ofrece información sobre proyectos de investigación, métodos científicos, instrumentos, recursos de prensa y medios (como entradas de blog, artículos de noticias y videos de YouTube), así como eventos, datos, propuestas y publicaciones. Este proyecto muestra trabajo de gran escala y alto impacto que aplica prácticas abiertas en la creación de sus resultados. Distintos tipos de productos compartidos en este proyecto pueden mapearse a diferentes etapas del proceso de investigación y a los equipos involucrados en su creación.
+En 2017, el telescopio del _Event Horizon_ (EHTC por sus siglas en inglés) apuntó a agujeros negros supermasivos con los horizontes de sucesos aparentes más grandes: M87 y Sgr A\* en el Centro Galáctico en cuatro días distintos. Esta colaboración distribuida condujo al almacenamiento de varios petabytes de datos, lo que permitió a las personas dedicadas a la astronomía revelar la primera imagen de un agujero negro y proporcionó la evidencia visual más sólida de su existencia. El [sitio web de EHTC](https://eventhorizontelescope.org/) (enlace externo, en inglés) proporciona información sobre proyectos de investigación, métodos científicos, instrumentos, medios de prensa y otros medios (como publicaciones del blog, artículos de noticias y vídeos de YouTube), así como sobre eventos, datos, propuestas y publicaciones. Este proyecto muestra un trabajo a gran escala y de alto impacto que aplica prácticas abiertas para lograr sus resultados. Los diferentes tipos de resultados compartidos en este proyecto se pueden asignar a diferentes etapas del proceso de investigación y a los equipos involucrados en su creación.
 
-### Crear resultados y acreditar contribuciones en distintas etapas de la investigación
+### Generar resultados y dar crédito a quienes contribuyeron de manera justa en diferentes etapas de la investigación
 
-Los estudios de caso listados arriba muestran que los resultados asociados con un proyecto son más que una publicación. Al entender cómo se crean resultados abiertos en distintos proyectos, podemos obtener conocimientos profundos sobre los procesos para crearlos. Con ese objetivo, el resto de esta lección describe el proceso de creación de resultados en tres partes: 1) crear todos los tipos de productos de investigación; 2) reconocer a todas las personas contribuyentes; y 3) combinar productos para informes científicos y publicaciones.
+Los estudios de caso mencionados anteriormente destacan que los resultados asociados a un proyecto son más que una publicación. Al comprender cómo se crean los Resultados Abiertos en distintos proyectos, podemos adquirir un conocimiento profundo sobre los procesos para lograrlo. Con ese objetivo, el resto de esta lección describe el proceso de obtención de resultados en tres partes: 1) generar todo tipo de resultados de investigación; 2) reconocer a todas las personas que contribuyeron; y 3) combinar resultados para informes y publicaciones científicas.
 
-### Crear todos los tipos de productos de investigación
+### Generar todo tipo de resultados de investigación
 
-Nuevas formas de trabajo con enfoques creativos para la colaboración y la comunicación en investigación han abierto oportunidades para involucrarse con comunidades de investigación más amplias compartiendo resultados científicos a medida que se desarrollan, en lugar de hacerlo al final mediante artículos de síntesis. A lo largo del ciclo de vida de la investigación se crean diversos componentes que pueden compartirse de manera abierta. Por ejemplo, los recursos creados en un proyecto científico incluyen, pero no se limitan a, los siguientes:
+Las nuevas formas de trabajar con enfoques creativos para la colaboración y la comunicación en investigación han abierto oportunidades para comprometerse con las comunidades de investigación más amplias al compartir los resultados científicos a medida que se desarrollan, en lugar de hacerlo al final mediante artículos resumidos. A lo largo del ciclo de investigación, se desarrolla una serie de componentes de investigación que pueden compartirse de forma abierta. Por ejemplo, los recursos creados en un proyecto científico incluyen, entre otros, los siguientes:
 
 <table>
   <thead>
     <tr>
-        <th>IDEACIÓN Y PLANIFICACIÓN &#9745;</th>
-        <th>RECOLECCIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>IDEACIÓN Y PLANIFICACIÓN ☑</th>
+        <th>RECOPILACIÓN Y EXPLORACIÓN DE DATOS</th>
         <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD</th>
         <th>PRESERVACIÓN Y PUBLICACIÓN</th>
     </tr>
@@ -58,12 +58,12 @@ Nuevas formas de trabajo con enfoques creativos para la colaboración y la comun
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Ideación y planificación (quizás antes de que el proyecto de investigación haya comenzado):</p>
+            <p>Ideación y planificación, tal vez antes de que se financie o comience el proyecto de investigación:</p>
             <ul>
                 <li>Propuestas de investigación</li>
                 <li>Personas y organizaciones involucradas</li>
-                <li>Pautas de ética en la investigación</li>
-                <li>Plan de gestión de datos</li>
+                <li>Directrices éticas de la investigación</li>
+                <li>Plan de Gestión de Datos</li>
             </ul>
         </td>
     </tr>
@@ -74,7 +74,7 @@ Nuevas formas de trabajo con enfoques creativos para la colaboración y la comun
   <thead>
     <tr>
         <th>IDEACIÓN Y PLANIFICACIÓN</th>
-        <th>RECOLECCIÓN Y EXPLORACIÓN DE DATOS &#9745;</th>
+        <th>RECOPILACIÓN Y EXPLORACIÓN DE DATOS ☑</th>
         <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD</th>
         <th>PRESERVACIÓN Y PUBLICACIÓN</th>
     </tr>
@@ -82,14 +82,14 @@ Nuevas formas de trabajo con enfoques creativos para la colaboración y la comun
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Recolección y exploración de datos (artefactos de investigación creados durante el proceso activo de investigación):</p>
+            <p>Recopilación y exploración de datos, artefactos de investigación creados durante el proceso de investigación activo:</p>
             <ul>
                 <li>Repositorio del proyecto</li>
-                <li>Hoja de ruta del proyecto e hitos</li>
+                <li>Hoja de ruta e hitos del proyecto</li>
                 <li>Requisitos de recursos</li>
                 <li>Recursos de gestión del proyecto (sin información sensible)</li>
-                <li>Procesos de colaboración como Código de Conducta y pautas para contribuir</li>
-                <li>Entorno virtual de investigación</li>
+                <li>Procesos de colaboración como Código de Conducta y Pautas de Colaboración</li>
+                <li>Entorno de investigación virtual</li>
                 <li>Información de datos y metadatos</li>
             </ul>
         </td>
@@ -101,24 +101,24 @@ Nuevas formas de trabajo con enfoques creativos para la colaboración y la comun
   <thead>
     <tr>
         <th>IDEACIÓN Y PLANIFICACIÓN</th>
-        <th>RECOLECCIÓN Y EXPLORACIÓN DE DATOS</th>
-        <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD &#9745;</th>
+        <th>RECOPILACIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD ☑</th>
         <th>PRESERVACIÓN Y PUBLICACIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Participación comunitaria y reproducibilidad (de mayor valor durante el periodo del proyecto):</p>
+            <p>Compromiso de la comunidad y reproducibilidad, lo más valioso durante el período del proyecto:</p>
             <ul>
                 <li>Materiales de formación y educación</li>
                 <li>Cuadernos computacionales</li>
                 <li>Flujo de trabajo computacional</li>
                 <li>Repositorio de código (con control de versiones)</li>
-                <li>Entradas de blog</li>
-                <li>Videos cortos y podcasts</li>
+                <li>Publicaciones en blogs</li>
+                <li>Vídeos de corta duración y podcasts</li>
                 <li>Publicaciones en redes sociales</li>
-                <li>Discusiones en foros (por ejemplo, al pedir retroalimentación o al resolver problemas)</li>
+                <li>Discusiones del foro (por ejemplo cuando se solicita comentarios o solución de problemas)</li>
             </ul>
         </td>
     </tr>
@@ -129,58 +129,57 @@ Nuevas formas de trabajo con enfoques creativos para la colaboración y la comun
   <thead>
     <tr>
         <th>IDEACIÓN Y PLANIFICACIÓN</th>
-        <th>RECOLECCIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>RECOPILACIÓN Y EXPLORACIÓN DE DATOS</th>
         <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD</th>
-        <th>PRESERVACIÓN Y PUBLICACIÓN &#9745;</th>
+        <th>PRESERVACIÓN Y PUBLICACIÓN ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Preservación y publicación (se espera que persista a largo plazo):</p>
+            <p>Preservación y publicación, se espera que persista a largo plazo:</p>
             <ul>
                 <li>Pautas de publicación y autoría</li>
-                <li>Artículos revisados por pares de acceso abierto</li>
-                <li>Resúmenes y presentaciones en conferencias</li>
-                <li>Informe de cierre del proyecto</li>
+                <li>Artículos revisados por pares y de Acceso Abierto</li>
+                <li>Resúmenes y presentaciones de congresos</li>
+                <li>Informe final del proyecto</li>
                 <li>Manual de usuario o documentación</li>
-                <li>Divulgación pública y eventos</li>
+                <li>Eventos y actividades públicas</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-<img style="width:100%;height:auto;" src="../images/media/turingwayillustration_es.png" alt="Ilustración estilo pizarra de The Turing Way: una persona empuja un carrito con datos por un camino que se divide en varios rutas que llevan a edificios etiquetados como “Colaboración”, “Diseño de proyecto”, “Reproducibilidad”, “Comunicación y extensión” y “Ética”. Al fondo aparece un sol naciente y, en la parte inferior, la frase “Demasiado fácil para NO hacerlo”." />
+<img style="width:100%;height:auto;" src="../images/media/turingwayillustration_es.png">
 
-
-Crédito de imagen: Esta imagen fue creada por Scriberia para la comunidad de The Turing Way y se utiliza bajo una licencia CC-BY 4.0.
+Crédito de imagen: Esta imagen fue creada por Scriberia para la comunidad de The Turing Way y se utiliza bajo la licencia CC-BY 4.0.
 
 ---
 
-Ya te encontraste con algunos de estos en las lecciones anteriores y, con suerte, ya puedes identificar cuáles de estos u otros productos estás generando en tu trabajo. Para que formen parte de tus resultados abiertos, es importante que se compartan abiertamente con licencias y documentación apropiadas para que otras personas puedan leerlos, investigarlos y reutilizarlos o construir sobre ellos cuando sea posible.
+Ya te has encontrado con algunos de estos en las lecciones anteriores y, con suerte, podrás identificar cuáles de ellos u otros resultados estás generando en tu trabajo. Para que formen parte de los Resultados Abiertos, es importante que sean compartidos abiertamente, con la licencia y la documentación apropiadas, de modo que otras personas puedan leer, investigar y, cuando sea posible, reutilizar o construir sobre ellos.
 
 ### Crear resultados abiertos y reproducibles
 
-La ciencia abierta, en última instancia, informa nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados sean abiertos en distintas etapas. Uno de los propósitos principales de los resultados abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada mediante definiciones como la siguiente:
+La Ciencia Abierta, en última instancia, informa sobre nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados se abran en diferentes etapas. Uno de los objetivos principales de los Resultados Abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada a través de definiciones como la siguiente:
 
 <img src="../images/media/stoddenquote_es.jpg" style="width:100%;height:auto;" />
 
-"La reproducibilidad es la capacidad de una persona investigadora de obtener los mismos resultados en un artículo publicado utilizando los datos en bruto y el código usados en el estudio original. (Stodden, 2015)"
+"La reproducibilidad es la capacidad de una persona que realiza una investigación para obtener los mismos resultados que un trabajo publicado, utilizando los datos sin procesar y el código empleados en el estudio original."
 
 -Stodden, 2015
 
 ---
 
-Usando esta definición, los resultados que pueden reproducirse computacionalmente por otras personas se llamarían "resultados reproducibles". Los estudios de caso de EHTC presentan los resultados abiertos como colecciones de productos de investigación creados en diferentes etapas del proceso de investigación. También proporcionan documentación y recursos que permiten el reanálisis y la reproducción de los resultados originales.
+Usando esta definición, los resultados que pueden ser reproducidos computacionalmente por otras personas pueden llamarse Resultados Reproducibles. Los casos prácticos del EHTC presentan Resultados Abiertos como colecciones de objetos de investigación creados en distintas fases del proceso de investigación. También proporcionan documentación y recursos que permiten el reanálisis y la reproducción de los resultados originales.
 
-Idealmente, cualquier persona, en cualquier lugar, debería poder leer una publicación y entender los resultados, encontrar con facilidad los métodos aplicados, y seguir correctamente los procedimientos para lograr los mismos resultados que se comparten en ese estudio. Sin embargo, como ya aprendiste, el problema de la reproducibilidad es prevalente en todos los campos científicos. Un estudio de Nature de 2016 encontró que el 70% de las personas investigadoras han intentado y fracasado al reproducir resultados del trabajo de otra persona científica, y la mitad ha fracasado al reproducir su propio trabajo. (Baker, 2016) Una persona científica con buenas intenciones puede compartir todos los productos de investigación y describir todos los pasos aplicados en su investigación, pero no proporcionar el entorno de investigación u otra configuración técnica que usó para analizar sus datos puede impedir que otras personas reproduzcan sus resultados. Según un artículo publicado en BioScience, este problema se ve además agravado por sesgos y errores humanos. Por ejemplo, las personas no siempre pueden identificar cómo sus intereses y experiencias informan sus decisiones y afectan sus conclusiones de investigación. Esto hace que el desafío de combatir la crisis de reproducibilidad sea aún mayor. (Elliott et al., 2014 )
+Lo ideal es que cualquier persona, en cualquier lugar, pueda leer una publicación y comprender los resultados, identificar fácilmente los métodos aplicados, así como seguir adecuadamente los procedimientos para lograr los mismos resultados que los compartidos en ese estudio. Sin embargo, como ya se sabe, el problema de la reproducibilidad es frecuente en todos los campos científicos. Un estudio de Nature de 2016 encontró que el 70% de las personas investigadoras han intentado reproducir los resultados de otro trabajo científico y han fracasado, y la mitad han fracasado al reproducir su propio trabajo. (Baker, 2016) Una persona que realiza un trabajo científico y es bienintencionada puede compartir todos los objetos de investigación y describir todos los pasos aplicados en su investigación, pero si no facilita el entorno de investigación u otra configuración técnica que haya utilizado para analizar sus datos, puede impedir que otras personas reproduzcan sus resultados. Según un artículo publicado en BioScience, este problema se agrava debido a sesgos y errores humanos. Por ejemplo, las personas no siempre son capaces de identificar cómo sus intereses y experiencias influyen en las decisiones que toman y en las conclusiones de sus investigaciones. Esto hace que la necesidad de combatir la crisis de reproducibilidad sea aún mayor.
 
-Los enfoques para crear resultados abiertos deberían integrar herramientas y métodos reproducibles como control de versiones, integración continua, contenerización, revisión de código, pruebas de código y documentación. Además, para extender la reproducibilidad más allá de los aspectos computacionales de la investigación, también deberían suministrarse de manera transparente informes y documentación para distintos tipos de productos y decisiones.
+Los enfoques para hacer Resultados Abiertos deben integrar herramientas y métodos reproducibles, como el control de versiones, la integración continua, la revisión de código, las pruebas de código y la documentación. Además, para ampliar la reproducibilidad más allá de los aspectos computacionales de la investigación, los informes y la documentación de los distintos tipos de resultados y decisiones deben facilitarse de forma transparente.
 
-### Cómo crear diferentes tipos de resultados abiertos
+### Cómo crear diferentes tipos de Resultados Abiertos
 
-Compartir distintos tipos de resultados lo antes posible no solo te ayuda a encontrar soluciones más rápido, sino que también ayuda a que tu ciencia sea más reproducible, ya que esa apertura te ayudará a comunicar tus metodologías y tus hallazgos con mayor claridad a otras personas. Aquí ofrecemos algunos lugares sencillos para empezar a crear tus resultados de forma abierta.
+Compartir diferentes tipos de resultados lo antes posible no solo ayuda a encontrar soluciones más rápidamente, sino que también contribuye a que la ciencia sea más reproducible, ya que esa apertura permite entender cómo comunicar las metodologías y los hallazgos con mayor claridad a las demás personas. Aquí te proponemos algunos lugares fáciles para empezar a crear tus resultados de forma abierta.
 
 <table>
   <thead>
@@ -194,7 +193,7 @@ Compartir distintos tipos de resultados lo antes posible no solo te ayuda a enco
   <tbody>
     <tr>
         <td colspan="4">
-            <p>A menudo, al comenzar en investigación, los foros públicos son un gran lugar para empezar a entender y colaborar con comunidades científicas. La mayoría de los foros de discusión tienen un código de conducta y pautas sobre buenas prácticas de participación. Algunas pautas comunes que pueden ser útiles son las de <a href="https://stackoverflow.com/help/discussions-guidelines">StackOverflow</a> (enlace externo) y <a href="https://github.com/pydata/xarray/discussions/5404">Xarray</a>(enlace externo), pero la mayoría de los foros tienen orientaciones específicas. En los foros, aumentas la confianza al interactuar con la comunidad científica, por lo que, cuanto más interactúes, más probable será que las personas respondan. A menudo, las buenas prácticas incluyen asegurar que publicas en el área correcta, usar etiquetas (cuando estén disponibles) e incluir ejemplos que documenten la pregunta o el problema que estás teniendo. Si revisas esta <a href="https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090">publicación de ejemplo</a> (enlace externo) en el <a href="https://discourse.pangeo.io/">Foro Pangeo Discourse</a> (enlace externo), puedes ver que la persona autora declara claramente el problema que intenta resolver, referencia otras publicaciones sobre temas similares, enlaza a un cuaderno computacional que tiene un ejemplo de su código y da un ejemplo del código que está intentando realizar.</p>
+            <p>A menudo, al iniciar la investigación, los foros públicos son un buen punto de partida para comprender y colaborar con las comunidades. La mayoría de los foros de discusión tienen un Código de Conducta y directrices sobre las mejores prácticas de participación. Algunas pautas comunes que pueden ser útiles son las directrices de <a href="https://stackoverflow.com/help/discussions-guidelines">StackOverflow</a> (enlace externo, en inglés) y <a href="https://github.com/pydata/xarray/discussions/5404">Xarray</a> (enlace externo, en inglés), pero la mayoría de los foros tienen alguna guía específica. En los foros, se incrementa la confianza al interactuar con la comunidad, por lo que cuanto más interactúes, ¡más gente responderá! A menudo, las mejores prácticas incluyen asegurarse de que publicamos en el área correcta, que usamos etiquetas (cuando estén disponibles) y que incluimos ejemplos que documenten la pregunta o el problema que presentamos. Si revisas el <a href="https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090">post</a> (enlace externo, en inglés) en el <a href="https://discourse.pangeo.io/">Foro del Discurso de Pangeo</a> con un gran número de revisiones puedes ver que exponen claramente el problema que intentan resolver, hacen referencia a otros posts sobre temas similares, enlazan a un cuaderno computacional que tiene un ejemplo de su código, y dan un ejemplo del código que están intentando ejecutar.</p>
         </td>
     </tr>
   </tbody>
@@ -212,7 +211,7 @@ Compartir distintos tipos de resultados lo antes posible no solo te ayuda a enco
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Los blogs son artículos extensos que no pasan por revisión por pares. Pueden ser una gran forma de compartir tu proceso científico y tus hallazgos antes de que se publiquen, pero también pueden ofrecer otra presentación del material incluso después de que se publique. Por ejemplo, tal vez escribas un artículo científico sobre tu investigación que sea altamente técnico, pero luego lo desgloses en un lenguaje más comprensible en una entrada de blog. Muchas personas dedicadas a la ciencia usan entradas de blog para desarrollar y poner a prueba ideas y enfoques porque son más interactivas. Hay blogs de ciencia por todo internet. Algunos populares son <a href="https://medium.com/tag/science">Medium</a> (enlace externo), <a href="https://sciencebites.org/sciencebites-sites-galaxy/">Science Bites</a> (enlace externo) y <a href="https://blogs.scientificamerican.com/">Scientific American</a> (enlace externo). Una buena manera de empezar es encontrar una entrada de blog que te guste o que te resulte inspiradora y usarla como guía para escribir tu propia entrada.</p>
+            <p>Los blogs son artículos extensos que no son revisados por pares. Los blogs pueden ser una excelente forma de compartir el proceso de investigación y los hallazgos antes de su publicación, pero también después, para ofrecer una presentación más accesible del material. Por ejemplo, podemos escribir un artículo científico sobre nuestra investigación que sea muy técnico, pero luego desglosarlo en un lenguaje más accesible en una entrada de blog. Muchas personas que realizan investigación utilizan los blogs para desarrollar e investigar ideas y enfoques, ya que son más interactivos. Hay blogs científicos en todo internet. Algunos de los más populares son <a href="https://medium.com/tag/science">Media</a> (enlace externo, en inglés), <a href="https://sciencebites.org/sciencebites-sites-galaxy/">Science Bites</a> (enlace externo, en inglés) y <a href="https://blogs.scientificamerican.com/">Scientific American</a> (enlace externo, en inglés). Una buena forma de empezar es buscar una entrada de blog que nos haya gustado o inspirado y utilizarla como guía para escribir nuestra propia entrada.</p>
         </td>
     </tr>
   </tbody>
@@ -230,7 +229,7 @@ Compartir distintos tipos de resultados lo antes posible no solo te ayuda a enco
   <tbody>
     <tr>
         <td colspan="4">
-            <p>¡Empieza en pequeño! Graba un video corto en el que muestres cómo hacer algo con lo que te costó lidiar o una habilidad o herramienta nueva que aprendiste a usar, y publícalo en YouTube u otras plataformas populares de video. Los grandes videos suelen explicar conceptos, ideas o experimentos científicos para una audiencia objetivo. Los videos pueden inspirar a otras personas a dedicarse a la ciencia, así que habla de cómo te metiste en la ciencia y muestra parte de tu investigación. ¡También hay muchos recursos en línea para ayudarte con esto!</p>
+            <p>¡Comienza con algo pequeño! Graba un breve vídeo en el que muestres cómo hacer algo que te costó mucho trabajo, o una nueva habilidad o herramienta que hayas aprendido a usar, y publícalo en YouTube o en otras plataformas de vídeo populares. Los grandes vídeos suelen explicar conceptos, ideas o experimentos científicos a un público específico. Los videos pueden inspirar a otras personas a trabajar en ciencia, así que puedes contar cómo te iniciaste en la ciencia y mostrar algunas de tus investigaciones. ¡Hay muchos recursos en línea para ayudarte aquí también!</p>
         </td>
     </tr>
   </tbody>
@@ -248,77 +247,77 @@ Compartir distintos tipos de resultados lo antes posible no solo te ayuda a enco
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Las redes sociales también son un buen lugar para hacer preguntas cuando estás empezando con un tema de investigación, y también pueden ser un lugar para compartir todo tipo de resultados. Proporcionar un enlace a un video, una entrada de blog o un cuaderno computacional y/o compartir una imagen de un resultado científico es una gran manera de iniciar interacciones. Puedes atraer atención hacia tu publicación usando hashtags y etiquetando a otras personas colaboradoras. Hay muchas guías en línea sobre cómo escribir publicaciones en redes sociales y siempre es bueno mirar qué hacen otras personas en tu área. Responder a comentarios e interactuar con otras personas puede ayudarte a mejorar tu investigación y a aprender sobre herramientas o métodos nuevos.</p>
+            <p>Las redes sociales también son un buen lugar para hacer preguntas cuando se está empezando en un tema de investigación y para compartir todo tipo de resultados. Proporcionar un enlace a un vídeo, una entrada de blog o un cuaderno computacional, y/o compartir una imagen de un resultado científico, es una buena forma de iniciar interacciones. Puedes llamar la atención sobre tu publicación usando hashtags y etiquetando a otras personas que colaboraron. Hay un montón de guías en Internet para aprender a escribir posts en redes sociales, y siempre es bueno mirar lo que hacen otras personas en tu área. Responder a los comentarios y comprometerse con otras personas puede ayudarte a mejorar tu investigación y aprender sobre nuevas herramientas o métodos.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-Todas estas diferentes maneras de compartir información ayudarán a que tu informe o artículo publicado sea mejor. Y a medida que empieces a trabajar más en abierto con otras personas, piensa en cómo funcionarán las colaboraciones y cómo darás crédito. Todos los recursos pueden centralizarse mediante informes y documentación en un repositorio o sitio web para que cualquiera (incluido el "tú del futuro") pueda encontrarlos en el futuro.
+Todas estas diferentes formas de compartir información ayudarán a mejorar nuestro informe o artículo publicado. Y a medida que empiezas a trabajar más abiertamente con otras personas, piensa en cómo funcionarán las colaboraciones y cómo otorgarás crédito. Todos los recursos pueden centralizarse mediante informes y documentación en un repositorio o sitio web para que cualquiera, incluido "tu yo a futuro", pueda encontrarlos el día de mañana.
 
-Puedes encontrar más maneras de comunicar tu trabajo en la Guía de Comunicación de The Turing Way: [Guide for Communication](https://book.the-turing-way.org/communication/communication) (enlace externo).
+Puedes encontrar más formas de comunicar tu trabajo en la [guía de comunicación](https://book.the-turing-way.org/communication/communication.html) (enlace externo, en inglés) de The Turing Way.
 
 ### Mantener estándares éticos
 
-La ciencia abierta, como aprendiste en el Ethos de la Ciencia Abierta, debería mantener los más altos estándares éticos. Esto puede habilitarse involucrando a personas contribuyentes en el desarrollo de resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y experiencias desde el inicio y aseguran que la revisión por pares ocurra para todos los productos de manera iterativa, no solo para los artículos al final.
+La ciencia abierta, como aprendiste en el Ethos de la Ciencia Abierta, debería mantener los más altos estándares éticos. Esto puede habilitarse mediante la participación de personas contribuyentes en el desarrollo de resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y experiencias desde el inicio y aseguran que la revisión por pares se aplique de manera iterativa a todos los productos, no solo al final de los artículos.
 
-Al crear y planificar compartir resultados abiertos, puedes aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger información sensible, gestionar prácticas de protección de datos cuando sea necesario y no compartir de manera descuidada datos sensibles o información privada de personas. Los repositorios en línea, como GitHub y GitLab, permiten interacción en línea además de cubrir aspectos técnicos como el control de versiones y el alojamiento de contenidos. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (enlace externo) y [un tablero de proyecto](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) (enlace externo) para comunicar qué está ocurriendo en un proyecto en un momento dado. El uso de [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (enlace externo) indica una invitación a revisión por pares sobre nuevos desarrollos de código u otros contenidos. Gracias a varios plantillas reutilizables, no tienes que configurar repositorios desde cero. Por ejemplo, puedes usar directamente la [plantilla para proyectos de investigación reproducible](https://github.com/the-turing-way/reproducible-project-template) de The Turing Way (enlace externo).
+Al crear y planificar compartir resultados abiertos, puedes aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger información sensible, gestionar las prácticas de protección de datos cuando sea necesario y no compartir de manera descuidada datos sensibles o información privada de personas. Los repositorios en línea, como GitHub y GitLab, permiten la colaboración en línea, además de cubrir aspectos técnicos como el control de versiones y el alojamiento de contenidos. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (enlace externo) y [un tablero de proyecto](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) (enlace externo) para comunicar lo que está ocurriendo en un proyecto en un momento dado. El uso de [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (enlace externo) implica una invitación a revisión por pares de nuevos desarrollos de código u otros contenidos. Gracias a varias plantillas reutilizables, no tienes que configurar repositorios desde cero. Por ejemplo, puedes usar directamente la [plantilla para proyectos de investigación reproducible](https://github.com/the-turing-way/reproducible-project-template) de The Turing Way (enlace externo).
 
 ## El rol de las personas colaboradoras en la Ciencia Abierta
 
-La colaboración es central en toda investigación científica. El impacto positivo de la colaboración se logra cuando las personas contribuyentes cuentan con apoyo para combinar una variedad de habilidades, perspectivas y recursos hacia un objetivo compartido. Los proyectos que aplican enfoques abiertos y reproducibles facilitan la participación y el reconocimiento de las contribuciones mientras se desarrollan soluciones beneficiosas.
+La colaboración es central en toda investigación científica. El impacto positivo de la colaboración se logra cuando las personas contribuyentes cuentan con apoyo para integrar una variedad de habilidades, perspectivas y recursos en torno a un objetivo compartido. Los proyectos que aplican enfoques abiertos y reproducibles facilitan la participación y el reconocimiento de las contribuciones mientras se desarrollan soluciones beneficiosas.
 
 Involucrar y reconocer los roles de todas las personas contribuyentes es una parte importante de la ciencia abierta, que discutiremos a continuación.
 
 ### Estudio de caso EHTC: Reconocer a todas las personas contribuyentes
 
-<img src="../images/media/image52_es.jpeg" style="width:100%;height:auto;" alt="Mapa mundial con líneas azules que conectan estaciones de observación a lo largo del planeta. Los sitios están marcados con puntos y etiquetas de colores." />
+<img src="../images/media/image52_es.jpeg" style="width:100%;height:auto;" />
 
-Crédito de imagen: "A map of the EHT. Stations active in 2017 and 2018 are shown with connecting lines and labeled in yellow, sites in commission are labeled in green, and legacy sites are labeled in red. From Paper II (Figure 1)" de The Astrophysical Journal Letters está licenciado bajo CC-BY 4.0.
+Crédito de imagen: "Mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas de conexión y están etiquetadas en amarillo; los sitios en servicio se encuentran etiquetados en verde y los sitios antiguos, en rojo. Del artículo II (Figura 1)" de The Astrophysical Journal Letters está licenciado bajo CC-BY 4.0.
 
 ---
 
-El equipo del Event Horizon Telescope (EHT) incluyó a doscientas personas integrantes de cincuenta y nueve institutos en veinte países, desde estudiantes de grado hasta personas sénior del campo. Usaron un conjunto que incluyó ocho radiotelescopios en seis ubicaciones geográficas en Estados Unidos, América Latina, Europa y el Polo Sur. Todas las personas colaboradoras estaban ubicadas en diferentes lugares geográficos, tenían acceso a diferentes instrumentos, recolectaron datos generados por telescopios en distintas ubicaciones y aplicaron habilidades de múltiples equipos para crear resultados innovadores. Cada persona contribuyente fue reconocida en distintos canales de comunicación y recibió autorías en publicaciones. EHTC también apoya el "análisis e interpretación crítica e independiente" de sus resultados publicados para facilitar transparencia, rigor y reproducibilidad. (Imaging Reanalyses of EHT Data, 2022)
+El equipo del _Event Horizon Telescope_ (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 personas de 59 institutos en 20 países, desde estudiantes de grado hasta referentes del campo de alto nivel. Utilizaron una matriz que incluía ocho radiotelescopios en seis ubicaciones geográficas de los Estados Unidos, América Latina, Europa y el Polo Sur. Todas las personas colaboradoras se ubicaron en distintos puntos geográficos, accedieron a distintos instrumentos, recopilaron datos provenientes de telescopios en distintos lugares y aplicaron habilidades de distintos equipos para crear resultados innovadores. Cada persona que colaboró fue reconocida a través de diferentes canales de comunicación y mediante autorías en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad. (Imaging Reanalyses of EHT Data, 2022)
 
-### Crear resultados abiertos empieza con las personas contribuyentes
+### ¡Generar Resultados Abiertos comienza con la colaboración!
 
-Crear distintos componentes de investigación y prepararlos para compartirlos como resultados abiertos implica una variedad de actividades. Detrás de estas actividades están las personas contribuyentes que asumen diferentes responsabilidades, que incluyen, pero no se limitan a:
+Crear diferentes componentes de investigación y prepararse para compartirlos como Resultados Abiertos implica una serie de actividades. Detrás de estas actividades se encuentran las personas que contribuyen, quienes asumen variadas responsabilidades que incluyen, entre otras:
 
 - Conceptualizar la idea
 - Diseñar el proyecto
-- Actuar como asesor (o asesora) o mentor (o mentora)
-- Realizar un experimento como estudiante, persona investigadora o asistente de investigación
-- Crear herramientas esenciales para llevar adelante la investigación
-- Aportar experiencia en datos
+- Asesorar o mentorear
+- Realizar experimentos como estudiante, persona investigadora o asistente de investigación
+- Crear herramientas esenciales para llevar a cabo la investigación
+- Proveer experiencia en datos
 - Desarrollar software
-- Aportar experiencia especializada y apoyo
-- Gestionar requisitos comunitarios y del proyecto
-- Proporcionar retroalimentación sobre los resultados
+- Proveer conocimientos especializados y soporte
+- Gestionar requerimientos de la comunidad y del proyecto
+- Proporcionar comentarios a los resultados
 - Diseñar experimentos e interpretar resultados
-- Redacción y revisión del manuscrito
-- ¡Y [más](https://book.the-turing-way.org/) (enlace externo)!
+- Escribir y revisar manuscritos
+- ¡Y [más](https://book.the-turing-way.org/) (enlace externo, en inglés)!
 
-Con demasiada frecuencia, las conversaciones sobre contribución y autoría ocurren hacia el final de un proyecto o cuando se redacta una publicación científica. Sin embargo, como aprendiste en las lecciones anteriores, los productos de investigación se generan a lo largo de toda la vida de un proyecto de investigación. Por lo tanto, es importante construir un acuerdo al inicio del proyecto sobre cómo se gestionará la contribución en el proyecto.
+Frecuentemente, las conversaciones sobre la contribución y la autoría tienen lugar al final de un proyecto o cuando se prepara el borrador de una publicación científica. Sin embargo, como se ha aprendido en las lecciones anteriores, los resultados de la investigación se generan a lo largo de toda la vida de un proyecto. Por lo tanto, es importante establecer un acuerdo al inicio del proyecto sobre cómo se gestionarán las contribuciones.
 
-Desarrollar pautas de contribución y acuerdos de contribución requiere definir colaborativamente qué se considera contribución en tu proyecto, quiénes entre las personas contribuyentes actuales obtendrán autoría, quiénes serán reconocidas como personas contribuyentes, la importancia del orden en que se listan las personas autoras en una publicación científica, y quién toma estas decisiones. También es importante asegurar que todas las personas colaboradoras entiendan y estén de acuerdo con estas pautas antes de comenzar el proyecto.
+Desarrollar pautas de contribución y acuerdos entre personas colaboradoras requiere definir de manera colectiva qué se consideran contribuciones en el proyecto, quiénes obtendrán autoría, quiénes serán reconocidos como colaboradores, cuál es la importancia del orden en que se enumeran las personas autoras en una publicación científica y quién toma estas decisiones. Garantizar que todas las personas que colaboran entiendan y acepten estas pautas antes de comenzar el proyecto también es importante.
 
-### Personas contribuyentes y autoría
+### Colaboraciones y autoría
 
-Antes que nada, debes asegurar que cualquier persona que haya contribuido al proyecto de investigación tenga su contribución reconocida. Con ese entendimiento compartido, en esta lección explorarás cómo pueden verse esos reconocimientos como personas contribuyentes o como personas autoras en tu proyecto de investigación.
+En primer lugar y sobre todo, debes asegurarte de que se reconozcan las contribuciones de cualquier persona que haya aportado al proyecto de investigación. Con esta idea en mente, en esta lección, se explorará cómo hacer efectivos esos reconocimientos a las personas colaboradoras o autoras de tu proyecto de investigación.
 
-Primero definamos los roles de persona contribuyente y persona autora.
+Primero, definamos los roles de personas autoras y colaboradoras.
 
 <table>
   <thead>
     <tr>
-        <th>UNA "PERSONA CONTRIBUYENTE" &#9745;</th>
-        <th>UNA "PERSONA AUTORA"</th>
+        <th>PERSONA COLABORADORA ☑</th>
+        <th>PERSONA AUTORA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Una persona contribuyente es cualquier persona que haya realizado alguna actividad que hizo posible que la investigación ocurriera y que se crearan, publicaran o compartieran resultados.</p>
+            <p>Una persona colaboradora es cualquiera que haya realizado alguna actividad que haya hecho posible que la investigación se lleve a cabo y que se generen resultados, se publiquen o se compartan.</p>
         </td>
     </tr>
   </tbody>
@@ -327,39 +326,39 @@ Primero definamos los roles de persona contribuyente y persona autora.
 <table>
   <thead>
     <tr>
-        <th>UNA "PERSONA CONTRIBUYENTE"</th>
-        <th>UNA "PERSONA AUTORA" &#9745;</th>
+        <th>PERSONA COLABORADORA</th>
+        <th>PERSONA AUTORA ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Una persona autora de un resultado abierto es una persona contribuyente que ha realizado una contribución sustantiva a la concepción o el diseño del trabajo, o a la adquisición, el análisis o la interpretación de los datos del trabajo publicado.</p>
+            <p>Una persona autora de un Resultado Abierto es una persona colaboradora que ha contribuido sustancialmente a la concepción o diseño del trabajo, o a la adquisición, análisis o interpretación de los datos para la publicación.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### ¿Todas las personas autoras son contribuyentes y viceversa?
+### ¿Todas las personas autoras son colaboradoras y viceversa?
 
-Una persona autora es una persona contribuyente que lleva a cabo activamente una o varias de las tareas de la lista con viñetas anterior. Todas las personas autoras son contribuyentes, pero no todas las personas contribuyentes pueden ser autoras, por ejemplo, alguien que actúa como mentor (o mentora), formador (o formadora) o mantenedor (o mantenedora) de infraestructura. Idealmente, a todas las personas contribuyentes se les da la oportunidad de autorar productos de investigación.
+Una autoría corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente (ver también [National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). Todas las personas autoras son colaboradoras, pero es posible que no todas las personas colaboradoras sean autoras, por ejemplo, alguien que contribuye mediante mentoría, capacitación o mantenimiento de infraestructura. Lo ideal es que a todas las personas colaboradoras se les ofrezca la oportunidad de tener autoría sobre los resultados de la investigación.
 
-Dada la importancia tradicional asignada a la autoría en publicaciones científicas y la vaguedad de las definiciones (que a menudo contienen términos relativos como "sustantiva" o "extensa", lo que deja demasiado margen a la interpretación), no sorprende que determinar quiénes entre las personas contribuyentes pasan a ser personas autoras pueda llevar a decisiones sesgadas, disputas entre personas contribuyentes o, como mínimo, a que alguien quede resentido y se sienta poco valorado.
+Dada la importancia que tradicionalmente se le atribuye a la autoría en la publicación científica y la ambigüedad de las definiciones (que a menudo contienen términos relativos, como "sustancial" o "extensivo", que dejan demasiado margen para interpretaciones subjetivas), no es de extrañar que determinar quién merece una autoría pueda conducir a decisiones sesgadas o injustas, disputas entre personas colaboradoras, o como mínimo, dejar a alguna persona resentida y con el sentimiento de ser menospreciada.
 
-No hay un único enfoque para reconocer a las personas contribuyentes como personas autoras, pero aquí tienes qué deberías considerar:
+No hay un único enfoque para reconocer a las personas contribuyentes como autoras, pero esto es lo que debes tener en cuenta:
 
 <table>
   <thead>
     <tr>
-        <th>DINÁMICAS DE PODER DEL GRUPO Y EQUIDAD (POR EJEMPLO, JERARQUÍA, SISTEMAS DE OPRESIÓN) &#9745;</th>
+        <th>DINÁMICAS DE PODER Y EQUIDAD EN EL GRUPO (ej. experiencia, sistemas opresivos) ☑</th>
         <th>EL TIPO DE CONTRIBUCIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Considera este escenario hipotético: Eres una persona posdoctoral y la autora principal de un proyecto de investigación. Un (o una) estudiante rotante pasa 4 meses en el laboratorio ayudándote a configurar y perfeccionar el protocolo experimental que luego usarás para realizar los experimentos necesarios para responder tu pregunta de investigación. Incluso puede ayudar a recolectar algunos datos preliminares, pero luego se va y más tarde decide unirse a otro laboratorio. ¿Le darías autoría a esa persona estudiante?</p>
-            <p>Sería poco ético no dar autoría o crédito a alguien que ha proporcionado ayuda significativa y ha contribuido al éxito de una investigación, incluso cuando ya no esté involucrado (o involucrada). Un camino apropiado en este escenario podría ser contactar a la persona contribuyente anterior e involucrarla en la redacción de una sección relevante del manuscrito.</p>
+            <p>Considera este escenario hipotético: Eres estudiante postdoctoral y tienes la autoría principal de un proyecto de investigación. Una persona estudiante rotativa pasa 4 meses en el laboratorio, ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de investigación. Incluso puede ayudar a obtener datos preliminares, pero luego se va y decide unirse a otro laboratorio. ¿Proporcionarías autoría a esa persona?</p>
+            <p>Sería poco ético no dar autoría o crédito a quien ha prestado una ayuda significativa y ha contribuido al éxito de una investigación, incluso cuando ya no esté implicada. Un camino justo en este escenario podría ser ponerse en contacto con quienes han colaborado anteriormente e implicarles en la escritura de una sección relevante del manuscrito.</p>
         </td>
     </tr>
   </tbody>
@@ -368,28 +367,28 @@ No hay un único enfoque para reconocer a las personas contribuyentes como perso
 <table>
   <thead>
     <tr>
-        <th>DINÁMICAS DE PODER DEL GRUPO Y EQUIDAD (POR EJEMPLO, JERARQUÍA, SISTEMAS DE OPRESIÓN)</th>
-        <th>EL TIPO DE CONTRIBUCIÓN &#9745;</th>
+        <th>DINÁMICAS DE PODER Y EQUIDAD EN EL GRUPO (ej. experiencia, sistemas opresivos) ☑</th>
+        <th>EL TIPO DE CONTRIBUCIÓN ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Las pautas del NIH para autoría describen qué tipo de contribución justifica o no justifica autoría. Cada contribución se representa en una escala gradual y no tiene umbrales rígidos. Algunas contribuciones se ponderan más que otras. Por ejemplo, para "diseño e interpretación de resultados" y para casi todos los tipos de "ideas originales, planificación e insumos", se otorga autoría. En cambio, simplemente supervisar a la persona autora principal por lo general no otorga autoría (a menos que también esté contribuyendo al artículo, por supuesto). Este es solo un ejemplo. ¡Tendrás que pensar cómo se ve esto en tu propio trabajo!</p>
+            <p>Las pautas del NIH sobre la autoría describen qué tipo de contribución justifica o no la autoría. Cada contribución se representa en una escala variable y no tiene límites rígidos. Algunas contribuciones tienen más peso que otras. Por ejemplo, en "diseño e interpretación de resultados", casi todos los tipos de "ideas originales, planificaciones y aportes" generan autoría. En cambio, simplemente supervisar a la persona primera en autoría generalmente no da lugar a autoría (a menos que también se esté contribuyendo al artículo, por supuesto). Este es solo un ejemplo. ¡Necesitarás pensar cómo se aplica esto en tu propio trabajo!</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-Una comunicación clara sobre roles y responsabilidades al inicio del proyecto, y pautas sobre cómo se determinará el crédito, puede ayudar a mitigar algunos de estos problemas.
+Una comunicación clara sobre roles y responsabilidades al inicio del proyecto, así como pautas sobre cómo se determinarán las autorías, pueden ayudar a mitigar algunos de estos problemas.
 
 **Recursos adicionales**
 
-El [National Institute of Health](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) (enlace externo) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) (enlace externo) ofrecen orientación útil sobre las diferencias entre los roles de una persona contribuyente y una persona autora.
+El [Instituto Nacional de la Salud (en inglés, National Institute of Health)](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) (enlace externo, en inglés) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) (enlace externo, en inglés) ofrecen orientación útil sobre las diferencias entre los roles de una persona colaboradora y una persona autora.
 
-### Rol diverso de las personas contribuyentes
+### Diversidad de roles entre quienes colaboran 
 
-Es importante establecer una referencia para cada equipo/proyecto de investigación sobre los distintos tipos de responsabilidades y oportunidades disponibles para personas contribuyentes y cómo se reconoce a cada una. La [Taxonomía CRediT](https://credit.niso.org/) (enlace externo) lista y define roles que típicamente desempeñan personas contribuyentes al crear productos académicos. La tabla de abajo, creada por la practicante de ciencia abierta e investigadora Malvika Sharan, desglosa aún más roles de investigación que ofrecen amplias oportunidades de contribución. (Sharan, 2022) Usando esto como punto de partida, puede facilitarse un diálogo abierto y discusiones entre integrantes del equipo para establecer un entendimiento y acuerdo compartidos sobre diversos roles de personas contribuyentes, incluida la autoría de publicaciones. La distinción entre tipos de contribución puede ayudar a establecer expectativas claras sobre responsabilidades y cómo pueden reconocerse en un proyecto.
+Es importante establecer una referencia para cada equipo de investigación o proyecto sobre los diferentes tipos de responsabilidades y oportunidades disponibles para quienes colaboran, así como el reconocimiento que recibirá cada persona. [CRediT Taxonomy](https://credit.niso.org/) (en inglés) describe los roles típicamente desempeñados por las personas colaboradoras en una investigación en la creación de una producción científica. A continuación, presentamos una tabla con roles de investigación que amplían la taxonomía de CRediT para incluir otras contribuciones (Sharan, 2022). Usando esto como punto de partida, se puede facilitar la discusión mediante un diálogo abierto entre quienes integran el equipo para establecer un entendimiento compartido y un acuerdo sobre los diversos roles de colaboración, incluida la autoría de las publicaciones. La distinción entre tipos de contribución puede ayudar a establecer expectativas claras sobre las responsabilidades y cómo estas pueden ser reconocidas en un proyecto.
 
 <table>
 <colgroup>
@@ -405,79 +404,79 @@ Es importante establecer una referencia para cada equipo/proyecto de investigaci
 <tbody>
     <tr>
         <td>Administración del proyecto</td>
-        <td>Responsabilidad de gestión y coordinación para la planificación y la ejecución de la actividad de investigación</td>
+        <td>Responsabilidad de gestión y coordinación de la planificación y ejecución de las actividades de investigación</td>
     </tr>
     <tr>
-        <td>Obtención de financiamiento</td>
-        <td>Obtención de apoyo financiero para el proyecto, conduciendo a la investigación y la publicación</td>
+        <td>Adquisición de fondos</td>
+        <td>Adquisición del respaldo financiero para el proyecto que conduzca a generar la investigación y las publicaciones</td>
     </tr>
     <tr>
         <td>Participación comunitaria</td>
-        <td>Conectar con partes interesadas del proyecto, habilitar la colaboración, identificar recursos y gestionar las interacciones de las personas contribuyentes</td>
+        <td>Conectar con personas interesadas en el proyecto, habilitar la colaboración, identificar recursos y administrar las interacciones para la colaboración</td>
     </tr>
     <tr>
         <td>Revisión ética</td>
         <td>Verifica si el proyecto de investigación necesita pasar por un proceso de revisión ética</td>
     </tr>
     <tr>
-        <td>Comunicaciones y participación</td>
-        <td>Comunicaciones sobre el proyecto y participaciones con partes interesadas más allá del proyecto y de la institución</td>
+        <td>Comunicaciones y compromiso</td>
+        <td>Comunicaciones sobre el proyecto y compromisos con las partes interesadas más allá del proyecto y la institución</td>
     </tr>
     <tr>
-        <td>Participación con especialistas y responsables de políticas</td>
-        <td>Revisión previa a la publicación, reuniones de consejo asesor externo, informes regulares, informes posteriores a la publicación y divulgación activa a responsables de políticas relevantes</td>
+        <td>Interacción con personas expertas y responsables de las políticas</td>
+        <td>Revisión previa a la publicación, reuniones con la junta asesora externa, informes regulares, reportes posteriores a la publicación y contacto activo con las personas responsables de políticas pertinentes</td>
     </tr>
     <tr>
-        <td>Reconocimiento y crédito</td>
-        <td>Evaluar incentivos, crear un sistema de valores apropiado y reconocer adecuadamente a todas las personas contribuyentes</td>
+        <td>Reconocimiento y autoría</td>
+        <td>Evaluación de incentivos, establecimiento de un sistema de valor justo, reconocimiento equitativamente a quienes colaboran</td>
     </tr>
     <tr>
         <td>Diseño del proyecto</td>
-        <td>Planificación técnica, recomendaciones de especialistas, supervisión u orientación, desarrollo de hojas de ruta e hitos del proyecto, y desarrollo de herramientas y plantillas</td>
+        <td>Planificación técnica, recomendaciones de personas expertas, supervisión u orientación, desarrollo de hojas de ruta e hitos del proyecto, desarrollo de herramientas y plantillas</td>
     </tr>
     <tr>
         <td>Conceptualización</td>
-        <td>Ideas; formulación o evolución de objetivos y metas generales de investigación</td>
+        <td>Ideas, formulación y/o evolución de objetivos y metas generales de investigación</td>
     </tr>
     <tr>
         <td>Metodología</td>
-        <td>Desarrollo o diseño de metodología; creación de modelos</td>
+        <td>Desarrollo o diseño de la metodología, creación de modelos</td>
     </tr>
     <tr>
         <td>Software</td>
-        <td>Programación, desarrollo de software; diseño de programas informáticos; implementación del código informático y algoritmos de soporte; pruebas de componentes de código existentes</td>
+        <td>Programación, desarrollo de software, diseño de programas informáticos, implementación del código informático y soporte de algoritmos, prueba de componentes de código existentes</td>
     </tr>
     <tr>
         <td>Validación</td>
-        <td>Verificación, ya sea como parte de la actividad o por separado, de la replicación/reproducibilidad general de resultados/experimentos y otros productos de investigación (generalizable)</td>
+        <td>Verificación, ya sea como parte de la actividad o de manera independiente, de la replicación/reproducibilidad general de resultados/experimentos y otros productos de investigación generalizables</td>
     </tr>
     <tr>
         <td>Investigación</td>
-        <td>Realizar un proceso de investigación e indagación, específicamente llevar a cabo experimentos o recolección de datos/evidencia</td>
+        <td>Realización del proceso de investigación e indagación, específicamente de los experimentos, o de la recolección de datos/evidencia</td>
     </tr>
     <tr>
         <td>Recursos</td>
-        <td>Provisión de materiales de estudio, reactivos, materiales, pacientes, muestras de laboratorio, animales, instrumental, recursos de cómputo u otras herramientas de análisis</td>
+        <td>Provisión de materiales de estudio, reactivos, materiales, pacientes, muestras de laboratorio, animales, instrumentación, recursos informáticos u otras herramientas de análisis</td>
     </tr>
     <tr>
-        <td>Curación de datos</td>
-        <td>Actividades de gestión para anotar (producir metadatos), depurar datos y mantener datos de investigación (incluido el código de software, cuando es necesario para interpretar los propios datos) y licenciamiento para uso inicial y reutilización posterior</td>
+        <td>Curaduría de datos</td>
+        <td>Actividades de gestión de registro (producir metadatos), depuración y mantenimiento de los datos de investigación (incluido el código de software, cuando sea necesario para interpretar los mismos) para su uso inicial y reusabilidad posterior (incluida la licencia)</td>
     </tr>
     <tr>
-        <td>Escritura (borrador original)</td>
-        <td>Preparación, creación y/o presentación del trabajo publicado, específicamente redactar el borrador inicial (incluida la traducción sustantiva)</td>
+        <td>Redacción - Borrador original</td>
+        <td>Preparación, creación y/o presentación del trabajo publicado, específicamente la redacción del primer borrador (incluidas traducciones sustanciales)</td>
     </tr>
     <tr>
-        <td>Escritura (revisión y edición)</td>
-        <td>Preparación, creación y/o presentación del trabajo publicado por quienes pertenecen al grupo de investigación, específicamente revisión crítica, comentarios o revisiones, incluidas etapas previas o posteriores a la publicación</td>
+        <td>Redacción - Revisión y Edición</td>
+        <td>Preparación, creación y/o presentación del trabajo por parte del equipo de investigación, en particular las revisiones críticas, comentarios o correcciones, incluyendo las etapas de pre y post publicación</td>
     </tr>
     <tr>
         <td>Visualización</td>
-        <td>Preparación, creación y/o presentación del trabajo publicado, específicamente visualización o presentación de datos</td>
+        <td>Preparación, creación y/o presentación de la obra publicada, específicamente visualización / presentación de datos</td>
     </tr>
     <tr>
         <td>Supervisión</td>
-        <td>Responsabilidad de supervisión y liderazgo para la planificación y ejecución de la actividad de investigación, incluida mentoría externa al equipo núcleo</td>
+        <td>Responsabilidad de supervisión y liderazgo para la planificación y ejecución de la actividad de investigación, incluida la tutoría externa al equipo principal</td>
     </tr>
 </tbody>
 </table>
@@ -486,124 +485,122 @@ Es importante establecer una referencia para cada equipo/proyecto de investigaci
 
 ## Cómo dar reconocimiento abierto
 
-Para reconocer de forma abierta y apropiada a todas las personas contribuyentes, sus nombres y los tipos de contribuciones que hicieron deberían listarse en la documentación del proyecto. En manuscritos, es una práctica común mencionar los roles de las personas contribuyentes en la sección de 'Agradecimientos', como usar CRediT o una taxonomía similar a la proporcionada en la tabla anterior. Se debería alentar a todas las personas contribuyentes a proporcionar iDs de ORCID asociados a sus nombres para que sean identificables.
+Para reconocer abierta y justamente a todas las personas colaboradoras, se deben listar en la documentación del proyecto sus nombres junto con los tipos de contribuciones que realizaron. En los manuscritos, es común mencionar los roles de quienes han colaborado en la sección de "agradecimientos", utilizando el sistema CRedIT u otro similar, como se muestra en la tabla anterior. Todas las personas colaboradoras deben ser alentadas a proporcionar ORCIDs asociados a sus nombres para que sean identificables.
 
-Las declaraciones de contribución en documentación y manuscritos pueden especificar quién hizo qué en los resultados oficiales. Esto es excelente para la transparencia, y también es una gran manera de resguardarse ante potenciales dinámicas de poder. Los detalles sobre el tipo de contribución muestran explícitamente quién trabaja en qué partes de los resultados, y facilitan otorgar autoría apropiada.
+Las declaraciones de contribución en la documentación y los manuscritos pueden especificar qué hizo cada integrante en los resultados oficiales. Esto es excelente para la transparencia. También es una gran manera de protegerse contra dinámicas de poder injustas. Los detalles sobre el tipo de contribución muestran explícitamente quién trabajó en cada parte de los resultados y facilitan otorgar una autoría justa. Por ejemplo:  _"Pierro Asara: revisión y edición (par). Kerys Jones: Conceptualización (líder); escritura – borrador original (líder); análisis formal (líder); escritura – revisión y edición (par). Elisha Roberto: Software (líder); escritura – revisión y edición (par). Hebei Wang: Metodología (líder); escritura – revisión y edición (par). Jinnie Wu: Conceptualización (apoyo); escritura – borrador original (apoyo); escritura – revisión y edición (par)_.
 
-**Por ejemplo:**
-"Pierro Asara: review and editing (equal). Kerys Jones: Conceptualization (lead); writing - original draft (lead); formal analysis (lead); writing - review and editing (equal). Elisha Roberto: Software (lead); writing - review and editing (equal). Hebei Wang: Methodology (lead); writing - review and editing (equal). Jinnie Wu: Conceptualization (supporting); Writing - original draft (supporting); Writing - review and editing (equal)." (CRediT, 2025)
+Si existe un repositorio en GitHub y un sitio web, debería crearse una página dedicada a listar y reconocer a todas las personas colaboradoras. A quienes contribuyeron de manera minoritaria al manuscrito, al código o a los datos, podrías incluirlas como personas autoras o colaboradoras en las versiones de GitHub y Zenodo, respectivamente. Las personas que colaboran y participan, que no estén directamente involucradas en la creación de resultados de investigación, deberían tener la oportunidad de contribuir a otros Resultados Abiertos tales como presentaciones, posters, charlas, blogs, podcasts, datos, software, así como también artículos.
 
-Si existe un repositorio en GitHub y un sitio web, debería crearse una página dedicada para listar y reconocer a todas las personas contribuyentes. Si alguien contribuyó de forma menor al artículo, al código o a los datos, podrías agregarlo (o agregarla) como persona autora o como persona contribuyente a los lanzamientos de GitHub y Zenodo, respectivamente. A personas colaboradoras y contribuyentes comprometidas que no estén ya involucradas en la creación de productos de investigación se les debería dar la oportunidad de contribuir a resultados abiertos, por ejemplo mediante presentaciones, pósters, charlas, blogs, podcasts, datos, software y artículos.
-
-### Actividad 3.1: Redactar una pauta de contribución
+### Actividad 3.1: Redacta una guía sobre las formas de contribución 
 
 <img src="../images/media/image21_es.png" style="width:350px;height:auto;"/>
 Crédito de imagen: NASA
 
-Se debería crear una pauta de contribución independiente para cada proyecto abierto, incluso cuando eso implique reutilizar un borrador existente que el equipo de investigación haya usado en otro proyecto.
+Deberías crear una guía independiente para cada proyecto abierto, incluso si eso significa reusar un borrador existente que el equipo de investigación ya haya utilizado.
 
-Ten en cuenta que esto es diferente de las pautas de "contributing" que describen "cómo" contribuir (por ejemplo, en repositorios de código). Las pautas de contribución deberían describir tipos de contribución y maneras de reconocerlas, como se discutió arriba.
+Ten en cuenta que esto es diferente de las pautas de contribución que describen "cómo" contribuir (por ejemplo, en los repositorios de código). La guía de contribución debe describir los tipos de contribución y las formas de reconocerlas, como se discutió anteriormente.
 
-Las pautas de contribución no son inamovibles, sino que:
+Las formas de contribución no están escritas en piedra, sino más bien:
 
 - Dependen de la disciplina
-- Pueden adaptarse a tu situación particular
+- Se puede adaptar a situaciones únicas
 
-Puedes empezar revisando las pautas de [NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) (enlace externo) y de [ICMJEs](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) (enlace externo) para contribuciones de autoría.
+Puedes comenzar revisando las guías del [NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y de [ICMJEs](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) para las contribuciones de autoría.
 
-Observa que muchas categorías y criterios de autoría, como los representados en la escala gradual de las pautas del NIH, pueden decidirse de manera diferente. Por ejemplo, aportar recursos financieros para un proyecto de investigación siempre justifica autoría en algunos campos. En otros campos, este no es el caso.
+Ten en cuenta que muchas categorías y criterios de autoría, como los que figuran en la escala de la guía del NIH, pueden definirse de manera diferente. Por ejemplo, en algunas disciplinas, proporcionar recursos financieros para un proyecto de investigación siempre justifica la autoría. En otros campos, este no es el caso.
 
-Algunos proyectos pueden no seguir manuscritos tradicionales como productos. Por ejemplo, si el software es un producto principal de un proyecto, puede haber necesidad de definir roles específicos respecto de contribuciones de código. Puedes trabajar con tu equipo de investigación para crear una versión de la Taxonomía CRediT para tu proyecto, como la versión ampliada de la tabla anterior.
+Algunos proyectos pueden no generar manuscritos tradicionales como resultado. Por ejemplo, si el software es el resultado principal de un proyecto, puede ser necesario establecer roles específicos para las contribuciones al código. Puedes trabajar con tu equipo de investigación para crear una versión de la Taxonomía de funciones de las personas colaboradoras *Taxonomía CRediT* (en inglés, _CRediT Taxonomy_) para tu proyecto, tal como se muestra en la versión ampliada de la tabla anterior.
 
-Cuando se han identificado diferentes tipos de contribución, aclara cómo se involucrará y reconocerá a distintas personas contribuyentes. Esto puede incluir procesos recomendados de comunicación y colaboración para integrantes del equipo, así como reconocimiento y crédito para diferentes tipos de contribuciones que realizan.
+Una vez que hayas identificado los diferentes tipos de contribución, aclara cómo estarán involucradas y reconocidas las personas colaboradoras. Esto puede incluir procesos de comunicación y colaboración recomendados para las personas que formen parte del equipo, así como el reconocimiento y el crédito por los distintos tipos de contribuciones que realicen.
 
-**Información adicional**
+**Información Adicional**
 
-Para más consejos sobre cómo reconocer diferentes tipos de personas contribuyentes o desarrollar un recurso que incluya autoría, revisa [Acknowledging Contributors The Turing Way](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) (enlace externo).
+Para obtener consejos adicionales sobre cómo dar reconocimiento a diferentes tipos de contribuciones en el desarrollo de un recurso, incluyendo la autoría, consulta [Dando reconocimiento a quienes contribuyen en The Turing Way](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) (enlace externo, en inglés).
 
-Si trabajas con repositorios en línea como GitHub, una app como el bot de '[all-contributors](https://allcontributors.org/)' (enlace externo) es una gran manera de automatizar el registro de todo tipo de contribuciones, desde corregir errores hasta organizar eventos o mejorar la usabilidad del proyecto.
+Si trabajas con repositorios en línea como GitHub, una aplicación como el bot de '[all-contributors](https://allcontributors.org/)' es una excelente manera de automatizar el registro de todo tipo de contribuciones, desde la solución de errores hasta la organización de eventos o mejora de la accesibilidad del proyecto.
 
-[hidden REF](https://hidden-ref.org/) (enlace externo) está llevando adelante un trabajo más sistemático, construyendo un conjunto amplio de [categorías](https://hidden-ref.org/categories) (enlace externo) que pueden usarse para celebrar a todas las personas que contribuyen a la investigación.
+Se está llevando a cabo un trabajo más sistemático por parte de [hideen REF](https://hidden-ref.org/), que construyó un amplio conjunto de [categorías](https://hidden-ref.org/categories) (enlace externo, en inglés) que pueden usarse para reconocer a todas las personas que contribuyen a la investigación.
 
-Hay varios [roles de infraestructura](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) (enlace externo), como gestores (o gestoras) de comunidad, responsables de datos, gestores (o gestoras) de producto, especialistas en ética y comunicadores (o comunicadoras) de ciencia, que también están siendo reconocidos como integrantes valiosos en proyectos de investigación. También existe la intención de ofrecer caminos de liderazgo para especialistas técnicos y temáticos, incluso cuando sus contribuciones no siempre puedan evaluarse en productos tangibles o tradicionales. (Mazumdar et al., 2015; Bennett et al., 2023)
+Hay varios [roles de infraestructura](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) (enlace externo, en inglés), como personas a cargo de la administración de comunidades, de la gestión de datos o productos, de la ética o comunicación científica, que también están siendo reconocidos como participaciones valiosos en proyectos de investigación con la intención de proporcionar vías de liderazgo para personas expertas, incluso cuando sus contribuciones no siempre pueden ser evaluadas en resultados tangibles o tradicionales (Mazumdar et al., 2015; Bennett et al., 2023)
 
-[The Declaration on Research Assessment](https://sfdora.org/) (DORA) (enlace externo) también es un buen recurso para entender qué pueden hacer personas investigadoras, instituciones, financiadores y editoriales para mejorar las maneras en que se evalúan las personas investigadoras y los productos de la investigación académica.
+[The Declaration on Research Assessment](https://sfdora.org/) (DORA) (enlace externo) también es un buen recurso para entender qué pueden hacer las personas investigadoras, las instituciones, los financiadores y las editoriales para mejorar la forma en que se evalúan las personas investigadoras y los productos de la investigación académica.
 
 ## Combinar resultados abiertos para informes científicos y publicaciones
 
-Las publicaciones científicas han sido tradicionalmente uno de los modos más populares de informar y publicar. Durante la última década, se volvió una práctica estándar enviar manuscritos previos a la revisión por pares a servidores de preprints (como [arXiv](https://arxiv.org/)) (enlace externo) para acelerar el acceso a la investigación antes de que se publiquen los artículos revisados por pares en revistas (discutido en la Lección 2). El sistema de publicaciones también evolucionó de forma masiva. Los artículos de revista ya no se tratan de escribir una visión general y un resumen de la investigación, sino que pueden usarse para compartir artículos sobre software, datos, materiales educativos y más.
+Las publicaciones científicas han sido tradicionalmente uno de los modos más populares de difusión de conocimiento. Durante la última década, se volvió una práctica estándar enviar manuscritos previos a la revisión por pares a servidores de preprints (como [arXiv](https://arxiv.org/)) (enlace externo) para acelerar el acceso a la investigación antes de que se publiquen los artículos revisados por pares en revistas (como se discute en la Lección 2). El sistema de publicaciones también evolucionó de forma masiva. Los artículos de revista ya no tratan de ofrecer una visión general y un resumen de la investigación, sino que pueden usarse para compartir artículos sobre software, datos, materiales educativos y más.
 
-### Estudio de caso EHTC: Capturar resultados en actividades que van desde la colaboración hasta las observaciones, desde la generación de imágenes hasta la interpretación
+### Caso de estudio EHTC: generar resultados desde la colaboración hasta las observaciones, pasando por la generación de imágenes y la  interpretación. 
 
-<img src="../images/media/image53_es.jpeg" style="width:100%;height:auto;" alt="Captura de pantalla de una página de IOPscience sobre resultados del Event Horizon Telescope (EHT). La imagen polarizada de la sombra del agujero negro M87 tal como se observó el 11 de abril de 2017 por el EHT (panel izquierdo), una imagen de la Biblioteca de Modelos del EHT con una configuración magnética MAD (panel derecho) y una lista de artículos que describen distintos conjuntos de resultados." />
+<img src="../images/media/image53_es.jpeg" style="width:100%;height:auto;" />
 
-Fuente: IOPscience. [https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) (enlace externo)
+La imagen polarizada de la sombra del agujero negro M87, tal como se observó el 11 de abril de 2017 por el EHT (panel izquierdo); una imagen de la Biblioteca de Modelos del EHT con una configuración magnética MAD (panel derecho); y una lista de artículos que describen distintos conjuntos de resultados. [Captura de pantalla]. (2023). IOPscience. [https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) (enlace externo, en inglés).
 
 ---
 
-A través de [varios preprints](https://arxiv.org/search/astro-ph?searchtype=author&query=Event%2BHorizon%2BTelescope%2BCollaboration) (enlace externo) y [ocho cartas revisadas por pares](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) (enlace externo), EHTC presentó resultados abiertos emitidos por distintos equipos sobre instrumentación, observación, algoritmos, software, modelado y gestión de datos, ofreciendo el alcance completo del proyecto y las conclusiones obtenidas hasta la fecha.
+A través de [varias preimpresiones](https://arxiv.org/search/astro-ph?searchtype=author\&query=Event%2BHorizon%2BTelescope%2BCollaboration) (enlace externo) y [ocho cartas revisadas por pares](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) (enlace externo), el proyecto de Colaboración del Telescopio Event Horizon (EHTC) presentó Resultados Abiertos publicados por diferentes equipos sobre instrumentación, observación, algoritmos, software, modelado y gestión de datos, proporcionando el alcance completo del proyecto y las conclusiones obtenidas hasta la fecha.
 
-Resultados abiertos como informes, publicaciones, código, documentos de posición, comunicados de prensa, entradas de blog, videos, charlas TED y publicaciones en redes sociales suman al repertorio integral de resultados abiertos respaldados por EHTC. Los recursos se centralizan en el [sitio web de EHTC](https://eventhorizontelescope.org/) (enlace externo), la [organización de GitHub](https://github.com/eventhorizontelescope) (enlace externo) y el [canal de YouTube](https://www.youtube.com/%40ehtelescope) (enlace externo) para proporcionar acceso fácil a todos los resultados abiertos.
+Resultados Abiertos, como informes, publicaciones, código, reportes técnicos, comunicados de prensa, publicaciones en blogs, videos, charlas TED y publicaciones en redes sociales, contribuyen al impacto global de los Resultados Abiertos del proyecto EHTC. Los recursos (en inglés) están centralizados en el [sitio web de EHTC](https://eventhorizontelescope.org/) (enlace externo), [organización de GitHub](https://github.com/eventhorizontelescope) (enlace externo) y el [canal de YouTube](https://www.youtube.com/%40ehtelescope) (enlace externo), entre otros, para facilitar el acceso a todos los Resultados Abiertos.
 
-Es importante resaltar que estos esfuerzos han llevado a reanálisis independientes y a la regeneración de imágenes de agujeros negros. Específicamente, Patel et al. no solo reprodujeron el hallazgo original, sino que también aportaron documentación adicional, código y un entorno computacional como paquete de software de código abierto contenerizado para asegurar pruebas futuras. (Patel et al., 2022) Algunas personas autoras originales revisaron este trabajo y [también dejaron sus comentarios disponibles en línea](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (enlace externo).
+Es importante destacar que sus esfuerzos han llevado a un reanálisis independiente y a la regeneración de las imágenes del agujero negro. Específicamente, [Patel et. al. (2022)](https://arxiv.org/abs/2205.10267) (enlace externo,en inglés) no sólo reprodujo el descubrimiento original, sino que también contribuyó con documentación adicional, código y un entorno computacional como paquete de software abierto en un contenedor para asegurar pruebas futuras. Algunas de las personas autoras originales revisaron este trabajo y [también hicieron públicos sus comentarios en línea](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (Authorea) (enlace externo, en inglés).
 
-### ¿Cómo conecto resultados abiertos para crear publicaciones reproducibles?
+### Cómo vincular Resultados Abiertos para hacer publicaciones reproducibles
 
-Si no se considera desde el inicio, puede volverse desafiante asegurar la reproducibilidad de resultados en la etapa de publicación. Asumiendo que has mantenido resultados abiertos considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarlos con el informe final y la publicación, con referencias apropiadas a estudios previos.
+Si no se lo considera desde el principio, puede resultar difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido abiertos los resultados, considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarnos con el informe y la publicación finales, con las referencias apropiadas a los estudios anteriores.
 
-- Antes de escribir tu manuscrito, evalúa cada producto para asegurarte de que tenga adjunta la licencia apropiada para la reutilización, que se haya proporcionado documentación y que las personas contribuyentes estén claramente listadas. Puedes decidir crear una versión del registro y apuntar a un identificador permanente, por ejemplo mediante Zenodo, para que el enlace nunca se rompa al compartirlos en un repositorio público (por ejemplo, GitLab/GitHub) o en manuscritos con una lista visible de personas contribuyentes.
-- Tus publicaciones pueden crearse de forma individual (como en el estudio de caso de EHTC) o combinando varios productos o piezas de información en manuscritos. Esto incluirá requisitos de recursos, dependencias, software, datos y el repositorio donde se comparte el código con documentación e información de contribuciones, entre otros artefactos de investigación.
-- El propio manuscrito describirá preguntas de investigación, métodos y figuras y tablas individuales que explican los resultados. Al escribir un manuscrito, puedes comenzar con figuras empaquetando datos, código y parámetros usados, y asegurando que la información representada pueda reproducirse. Puedes encontrar una lista de verificación detallada en la publicación de [Gil et al. (2016)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (enlace externo).
+- Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que has adjuntado la licencia apropiada para su reuso, que has proporcionado la documentación y que las personas colaboradoras están claramente listadas. Puedes decidir crear una versión del registro y vincularla a un identificador permanente en Zenodo para que el enlace no se rompa al compartirlo en un repositorio público (como GitLab/GitHub) o en manuscritos con una lista visible de personas colaboradoras.
+- Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación y la información de las personas que colaboraron, entre otros elementos de investigación.
+- El manuscrito en sí mismo describirá las preguntas de investigación, los métodos, así como figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que muestren los datos empaquetados, el código y los parámetros utilizados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista de verificación detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016) (enlace externo, en inglés).
 
-Como se demostró en el estudio de caso de EHTC, un paso final hacia la creación de resultados abiertos podría ser crear un metaanálisis (metaartículo) y/o un sitio web sencillo (o página de GitHub) que centralice todos tus productos de investigación. Distintas partes de la investigación (resultados abiertos individuales) pueden accederse de manera centralizada con detalles, incluido el reconocimiento abierto de todas las personas contribuyentes.
+Como demostramos en el caso de estudio de la EHTC, un último paso para generar Resultados Abiertos podría ser crear un meta-artículo y/o un sitio web o página Git simple que centralice todos tus resultados de investigación. Así, se puede acceder de forma centralizada a distintas partes de la investigación (Resultados Abiertos individuales), con detalles que incluyen el reconocimiento abierto a todas las personas que colaboraron.
 
-Si estás buscando acciones concretas para crear resultados abiertos, elige uno de estos cuatro ítems:
+Si estás buscando acciones concretas que puedas tomar para generar Resultados Abiertos, elige uno de estos cuatro elementos:
 
-- Mejorar cómo defines la contribución en tu proyecto y cómo se asigna la autoría.
-- Asegurar que los datos o el software de tu artículo estén subidos a Zenodo con la licencia y documentación adecuadas. Incluir los metadatos y el DOI en tu informe científico y publicación.
-- Asegurar que el proceso que usas para recolectar datos y realizar su análisis, incluidas todas las dependencias y métodos usados en tu canal de análisis de datos, esté claramente descrito para permitir que otras personas reproduzcan tus resultados.
-- Crear un repositorio centralizado o una página sencilla de GitHub para centralizar todos los productos de investigación con una lista de personas contribuyentes.
+- Mejora la forma en que defines las contribuciones en tu proyecto y cómo se asigna la autoría.
+- Asegúrate de que los datos o software de tu publicación se encuentren en Zenodo, con licencia y documentación, incluidos los metadatos, y que el DOI esté publicado en tu informe científico y en la publicación.
+- Asegúrate de que el proceso que utilizas para recopilar y analizar datos, incluyendo todas las dependencias y los métodos empleados en tu pipeline de análisis de datos, esté claramente descrito para permitir que otras personas reproduzcan tus resultados.
+- Crea un repositorio centralizado o una página simple en Git para centralizar todos los productos de investigación, junto con la lista de personas que han colaborado.
+
 
 ## Lección 3: Resumen
 
-Los pasos que destacamos para crear resultados abiertos no son intratables. De hecho, los pasos que destacamos son cosas que podemos hacer de manera regular para asegurar que todos los artefactos de investigación puedan compartirse más adelante como resultados abiertos y reproducibles. En esta lección aprendimos:
+Los pasos que destacamos para lograr Resultados Abiertos no son particularmente complicados. De hecho, son cosas que podemos hacer regularmente para garantizar que todos los elementos de la investigación puedan ser compartidos más adelante como Resultados Abiertos y reproducibles. En esta lección aprendimos:
 
-- Enfoques para crear resultados abiertos.
-- La importancia de la colaboración en la creación de resultados.
-- Cómo reconocer y acreditar a todas las personas contribuyentes que crean resultados.
-- Cómo combinar distintos resultados abiertos para crear informes científicos y productos reproducibles.
+- Enfoques para generar Resultados Abiertos.
+- La importancia de la colaboración para crear resultados.
+- Cómo reconocer y dar crédito a todas las personas que han contribuido a la creación de los resultados.
+- Cómo combinar distintos Resultados Abiertos para crear reportes científicos simples y resultados reproducibles.
 
-## Lección 3: Comprobación de conocimientos
+## Lección 3: Evaluación
 
-Responde las siguientes preguntas para probar lo que has aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-*Pregunta*
+_Pregunta_
 
 **01/02**
 
-1. ¿Cuál de los siguientes roles sería más apropiado acreditar como contribución? Selecciona todas las opciones que correspondan.
+¿A cuál de las siguientes funciones se le atribuiría más apropiadamente la condición de colaborador? Selecciona todas las que correspondan.
 
-- Idea original, planificación e insumos
+- Idea original, planificación y aportes
 - Supervisión del proyecto
 - Trabajo experimental original
 - Análisis de datos
-- Redacción del manuscrito
+- Redacción del borrador del manuscrito
 
-*Pregunta*
+**Pregunta**
 
 **02/02**
 
-¿Qué no es un ejemplo de resultados abiertos de investigación?
+¿Cuál de estos no es un ejemplo de Resultados Abiertos de investigación?
 
-- A. Artículos de acceso abierto
-- B. Presentación en conferencia
-- C. Notas internas de reuniones del equipo 
-- D. Informes regulares compartidos en línea
-- E. Póster en un taller
-- F. Entrada de blog
-- G. Cuaderno computacional en GitHub
-- H. Figura con un DOI (por ejemplo, Zenodo o Figshare)
-- I. Preprint de un artículo
+- Publicaciones de Acceso Abierto
+- Presentación en una conferencia
+- Notas internas de una reunión de equipo
+- Reportes regulares compartidos en internet
+- Póster en un taller
+- Publicación en un blog
+- Notebook computacional en GitHub
+- Figura con un DOI (por ejemplo, Zenodo o Figshare)
+- Pre-impresión de una publicación
 
 ### Referencias
 
