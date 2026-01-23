@@ -22,7 +22,7 @@ Después de completar esta lección, deberías poder:
 - Desarrollar pautas de contribución que permitan el reconocimiento de quienes contribuyen a crear resultados.
 - Combinar distintos resultados abiertos para crear informes científicos y productos reproducibles.
 
-## Cómo crear resultados abiertos
+## Cómo hacer Resultados Abiertos
 
 ### Capturar con precisión el proceso de investigación en la creación de resultados
 
@@ -263,7 +263,7 @@ La ciencia abierta, como aprendiste en el Ethos de la Ciencia Abierta, debería 
 
 Al crear y planificar compartir resultados abiertos, puedes aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger información sensible, gestionar prácticas de protección de datos cuando sea necesario y no compartir de manera descuidada datos sensibles o información privada de personas. Los repositorios en línea, como GitHub y GitLab, permiten interacción en línea además de cubrir aspectos técnicos como el control de versiones y el alojamiento de contenidos. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (enlace externo) y [un tablero de proyecto](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) (enlace externo) para comunicar qué está ocurriendo en un proyecto en un momento dado. El uso de [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (enlace externo) indica una invitación a revisión por pares sobre nuevos desarrollos de código u otros contenidos. Gracias a varios plantillas reutilizables, no tienes que configurar repositorios desde cero. Por ejemplo, puedes usar directamente la [plantilla para proyectos de investigación reproducible](https://github.com/the-turing-way/reproducible-project-template) de The Turing Way (enlace externo).
 
-## Rol de las personas colaboradoras en la ciencia abierta
+## El rol de las personas colaboradoras en la Ciencia Abierta
 
 La colaboración es central en toda investigación científica. El impacto positivo de la colaboración se logra cuando las personas contribuyentes cuentan con apoyo para combinar una variedad de habilidades, perspectivas y recursos hacia un objetivo compartido. Los proyectos que aplican enfoques abiertos y reproducibles facilitan la participación y el reconocimiento de las contribuciones mientras se desarrollan soluciones beneficiosas.
 
