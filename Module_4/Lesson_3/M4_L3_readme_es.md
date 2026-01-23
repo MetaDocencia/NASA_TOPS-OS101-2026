@@ -61,7 +61,11 @@ Esta lección se centra principalmente en cómo gestionar el código de acceso a
 
 ### Organizar un proyecto
 
-<img src="../images/media/image353_es.png" style="width:250px;height:auto;" />
+<img
+  src="../images/media/image353_es.png"
+  style="width:250px;height:auto;"
+  alt="Viñeta de XKCD. En la pantalla de una computadora aparece una lista desordenada de archivos: “Untitled 241.doc”, “Untitled 138 copia.docx”, “Untitled 138 copia 2.docx”, “Untitled 139.docx”, “Untitled 243 IMPORTANTE.doc”, “Untitled 244.doc”, “Untitled 4 DIRECCIÓN MAMÁ..jpg”, “Untitled 246 final.docx”, “Untitled 246_final_cad.dwg”. A la derecha, una persona mira la pantalla y exclama: “¡¡OH POR DIOS!!”. Texto al pie: “PROTIP: NUNCA MIRES LA CARPETA DE DOCUMENTOS DE OTRA PERSONA.”"
+/>
 Crédito de la imagen: Foto de XKCD con licencia Creative Commons Attribution-NonCommercial 2.5
 
 ---
@@ -225,7 +229,12 @@ Las licencias toman varias formas para describir:
 
 _Haz clic en '+' para ver más información._
 
-<img style="width:100%;height:auto;" src="../images/media/commonsoftwarelicenses_es.png">
+<img
+  src="../images/media/commonsoftwarelicenses_es.png"
+  style="width:100%;height:auto;"
+  alt="Diagrama con una escala horizontal. A la izquierda dice “Abierto” y a la derecha “Cerrado”. Entre ambos extremos hay una flecha verde con varios puntos/círculos verdes marcando posiciones intermedias. Debajo se lee: “La apertura es un espectro”."
+/>
+
 
 **Dominio Público**
 
