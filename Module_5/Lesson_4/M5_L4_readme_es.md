@@ -24,7 +24,7 @@ Luego de completar esta lección, deberías poder:
 
 ## Cuándo compartir
 
-<img src="../images/media/image7_es.png" style="width:100%height:auto;" />
+<img src="../images/media/image7_es.png" style="width:100%;height:auto;" alt="Diagrama tipo línea de tiempo del flujo de trabajo de Ciencia Abierta. Muestra etapas desde ‘Ideación’ y ‘Planificación del proyecto’ hasta ‘Recolección de datos’, ‘Exploración de datos’ y ‘Reporte y publicación’, con productos asociados como propuestas, planes de gestión de datos/código de conducta, tutoriales y pautas para colaboradores, datos sin procesar con metadatos, ciclos de análisis, código y cuadernos, archivos y productos de difusión (artículos, conferencias, blogs, videos, tuits)." />
 Crédito de la imagen: NASA  
 Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
@@ -104,18 +104,19 @@ En esta actividad aprenderás cómo acceder a información sobre las políticas 
 <br><br>Nota: Puedes ingresar cualquier revista que desees, pero para este ejercicio usa una de las listadas para ver el enlace de Sherpa (Romeo) que aparece en el Paso 5.
 3. Los resultados pueden mostrar más de una coincidencia. Seleccioná la revista deseada dentro de los resultados haciendo clic en el nombre de la revista. Aparece un panel que brinda información sobre tarifas de publicación, políticas de exención, el tipo de licencia abierta utilizada y otra información en múltiples títulos mostrados.
 4. Hacé clic en el enlace “archiving policy” que aparece en una de las cajas mostradas, como se ve aquí. Esto proporcionará enlaces a información extensa sobre las políticas de acceso abierto de la revista para el manuscrito en sí:  
-<br><img src="../images/media/image59_es.png" style="width:300px;height:auto;" /><br>
-Archiving policy [Captura de pantalla]. (2025). DOAJ. https://doaj.org/ (enlace externo)  
+<br><img src="../images/media/image59_es.png" style="width:300px;height:auto;" alt="Captura de pantalla de un recuadro informativo en DOAJ (Directory of Open Access Journals) donde se muestra la sección de archivado digital. Se ve un ítem de archivo (‘Portico’) y un enlace resaltado que dice ‘Find out about their archiving policy’ para acceder a la política de archivado de la revista." />
+<br>
+Archiving policy (2025). DOAJ. https://doaj.org/ (enlace externo)  
 <br>Se presentará una gran cantidad de información, incluyendo detalles sobre las políticas de publicación específicas de la revista seleccionada.
 5. Alternativamente, para obtener una vista más condensada de las políticas de la revista, volvé al panel de DOAJ en la página “About” con múltiples cajas mostradas, y hacé clic en el enlace “Sherpa/Romeo” como se muestra aquí:  
-<br>Sherpa (Romeo) [Captura de pantalla]. (2025). DOAJ. https://doaj.org/ (enlace externo)<br>
-<img src="../images/media/image60_es.jpeg" style="width:300px;height:auto;" />
+<img src="../images/media/image60_es.jpeg" style="width:300px;height:auto;" alt="Captura de pantalla de un panel informativo en DOAJ. Se ve el texto ‘Deposit policy with:’ y, debajo, un enlace resaltado que dice ‘Sherpa/Romeo’." />
+<br>Sherpa (Romeo). (2025). DOAJ. https://doaj.org/ (enlace externo)<br>
 6. Al hacer clic en el enlace “Sherpa/Romeo”, se abrirá el nuevo sitio Jisc Open policy finder. Ingresá el nombre de la revista y hacé clic en Search.  
-<br>Jisc journal search [Captura de pantalla]. (2025). Jisc. https://openpolicyfinder.jisc.ac.uk (enlace externo)<br>
-<img src="../images/media/image63_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image63_es.jpeg" style="width:100%;height:auto;" alt="Captura de pantalla de Sherpa Romeo con un resultado de búsqueda por título/ISSN. Se muestra una lista con un único resultado y el nombre de la revista como enlace (marcado con un recuadro rojo). La interfaz incluye opciones de ‘Refine search’ y ‘New search’." />
+<br>Jisc journal search. (2025). Jisc. https://openpolicyfinder.jisc.ac.uk (enlace externo)<br>
 7. Al ver la página, notarás que consolida y resume las políticas de acceso abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante.  
-<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;"/>
-Journal policy [Captura de pantalla]. (2025). Jisc. https://openpolicyfinder.jisc.ac.uk (enlace externo)
+<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;" alt="Captura de pantalla de la sección ‘Publisher Policy’. Se listan tres versiones del artículo (Published Version, Accepted Version y Submitted Version). La fila de ‘Published Version’ aparece resaltada con un recuadro rojo." />
+Journal policy. (2025). Jisc. https://openpolicyfinder.jisc.ac.uk (enlace externo)
 8. Revisá la página y determiná qué licencia definió la revista que seleccionaste para la reutilización de manuscritos.
 
 #### Puntos clave de la actividad: Leer las políticas de acceso abierto de editoriales que usas
@@ -187,7 +188,7 @@ Hay ejemplos de identificadores globalmente únicos y persistentes:
 
 ### Licencias
 
-<img src="../images/media/image67_es.png" style="width:350px;height:auto;" />
+<img src="../images/media/image67_es.png" style="width:350px;height:auto;" alt="Ilustración de íconos de licencias Creative Commons: aparece el símbolo de CC, el ícono de atribución (persona) y la etiqueta ‘BY’, junto a un símbolo de dominio público (cero tachado), sobre un círculo azul de fondo." />
 Crédito de la imagen: NASA
 
 Al aplicar una licencia a tu trabajo, dejas en claro qué pueden hacer otras personas con los materiales que compartes, y también estableces las condiciones bajo las cuales lo ofreces (como el requisito de citarte). Otro elemento muy importante para incluir junto con tus productos de investigación es establecer reglas claras de reutilización (tal cual está y para crear trabajos derivados), que a menudo se codifican más fácilmente mediante licencias.
@@ -200,7 +201,7 @@ Tu institución, agencia financiadora o propuesta de investigación puede exigir
 
 ### Vías para publicar en acceso abierto
 
-<img src="../images/media/image68_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image68_es.png" style="width:100%;height:auto;" alt="Ilustración. Un tren que muestra vías para publicar en acceso abierto. Incluye etiquetas de costos: ‘Gratis’ en el vagón ‘Acceso abierto verde’, ‘Pagan las personas autoras’ en el vagón ‘Acceso abierto verde’ y ‘Pagan el financiador o la institución’ en el vagón ‘Acceso abierto diamante’. Aparecen tres rutas principales: servidor de preimpresiones (verde), revisión por pares y publicación en revistas de acceso abierto (dorado y diamante) y autoarchivo (verde). " />
 Crédito de la imagen: Esta imagen fue creada por Scriberia para la comunidad de The Turing Way y se usa bajo una licencia CC BY 4.0.
 
 ---
@@ -364,7 +365,8 @@ Mientras hayas hecho todo lo necesario para que tu trabajo sea reproducible, no 
 
 - **¿Qué pasa si no puedo hacer todo? ¿Soy un mal científico abierto?**  
 La respuesta corta es no. Solo tienes una cantidad limitada de tiempo. Incluso con colaboradores, es imposible hacerlo todo.  
-<br><br><img src="../images/media/image69_es.png" style="width:150px;height:auto;" /> <img src="../images/media/image70_es.png" style="width:150px;height:auto;" />  
+<img src="../images/media/image69_es.png" style="width:150px;height:auto;" alt="Ilustración: dos personas detrás de una caja rota que tiene un ícono de foco. Una de las personas dice “Oh no!”." />
+<img src="../images/media/image70_es.png" style="width:150px;height:auto;" alt="Ilustración: dos personas detrás de una caja rota que tiene un ícono de foco. La otra persona dice “Está bien“." />
 Crédito de la imagen: NASA
 
 Compartir resultados abiertos mejora la ciencia: es más rápida, más accesible y más colaborativa. En esta lección aprendiste sobre todas las distintas formas en que puedes compartir resultados abiertos. Pensá cómo podrías compartir algo en lo que estás trabajando ahora.
@@ -408,7 +410,7 @@ Leé la afirmación a continuación y decidí si es verdadera o falsa.
 
 Mirá con atención la solicitud para enviar un artículo a una revista a continuación. ¿Esta solicitud parece confiable?
 
-<img src="../images/media/image74_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image74_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un correo en Gmail con asunto “Publicación rápida”, marcado como “Recibidos” y con aviso de que el mensaje está en la carpeta Spam. El remitente figura como “Revisiones e Investigación”. El cuerpo del correo comienza con “Querido profesor, que empieces cada día con una sonrisa!” y solicita enviar un trabajo a la revista “Anuario de Revisiones e Investigación (ARI)”, menciona el lanzamiento del Volumen 8 - Issue 4 y un nuevo lanzamiento planeado para el 10 de abril. Cierra con una firma de ‘Editor Asociado’ y datos de contacto (ISSN y teléfonos)." />
 
 - Sí
 - No
