@@ -27,14 +27,18 @@ Los Datos Abiertos no siempre son fáciles de usar en tu investigación. A veces
 
 Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Observatorio "Mauna Loa" en Hawaii. Este conjunto de datos fundacional constituye el registro más extenso de mediciones directas de dióxido de carbono en la atmósfera terrestre. Estas observaciones se iniciaron con el trabajo de C. David Keeling de la Institución de Oceanografía "Scripps" en marzo de 1958, en una instalación de la Administración Nacional Oceánica y Atmosférica (Scripps CO2 Program, s. f.).
 
-<img src="../images/media/image19_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image19_es.jpg" style="width:100%;height:auto;" alt="Gráfico de serie temporal titulado “Concentración de dióxido de carbono en el Observatorio Mauna Loa*”. Eje vertical: “Concentración de CO2 (ppm)”. Eje horizontal: años desde 1960 hasta 2020+. Una línea negra con oscilaciones estacionales muestra un aumento sostenido de CO2 a lo largo del tiempo. En la esquina inferior derecha aparecen los logos de UC San Diego y Scripps Institution of Oceanography." />
 Fuente de la imagen: “Concentración de dióxido de carbono en el Observatorio de Mauna Loa (en inglés, Carbon Dioxide Concentration at Mauna Loa Observatory)”, de la Institución Scripps de Oceanografía de la Universidad de California en San Diego (Scripps Institution of Oceanography UC San Diego). Licencia CC BY 4.0
 
 Si deseas hacer este gráfico tú mismo o usar los datos para algún otro fin, primero deberás encontrarlos. Si buscas este conjunto de datos o cualquier otro dato, es posible que encuentres varias fuentes. ¿Cómo decides qué datos usar?
 
 Si comienzas en Google y buscas "datos de dióxido de carbono de Mauna Loa", encontrarás muchos resultados. Aquí se presentan algunos de ellos:
 
-<img src="../images/media/image20_es.png" style="width:100%;height:auto;" />
+<img
+  src="../images/media/image20_es.png"
+  style="width:100%;height:auto;"
+  alt="Imágenes de cinco pantallas comparando resultados de búsqueda para “datos de dióxido de carbono de Mauna Loa”. Pantalla 1: “Laboratorio de Monitoreo Global de la NOAA” (https://gml.noaa.gov/ccgg/trends/data.html) con el texto: “Sitio de la NOAA. Archivos en formato texto y csv. Las condiciones de uso requieren mencionar la autoría y menciona a alguien ¡que no es Keeling! Sin DOI.” Pantalla 2: “La Curva Keeling de UCSD” (https://keelingcurve.ucsd.edu/) con el texto: “¡La fuente de datos original! ¡Pero sólo está como un archivo csv! Buena declaración de reutilización, licencias y tiene DOI.” Pantalla 3: “CO2.earth” (https://www.co2.earth/) con el texto: “Otra fuente de los datos de Keeling.” Pantalla 4: “IRIDL KEELING MAUNA_LOA co2” (https://gml.noaa.gov/ccgg/trends/data.html) con el texto: “Los datos finalizan en 1995. Referencias las publicaciones de Keeling. Sin DOI. Sin link a los datos originales.” Pantalla 5: “DataHub CO2 PPM” (https://datahub.io/core/co2-ppm) con el texto: “Tiene link para comenzar a explorar los datos en una notebook interactiva. No está siendo actualizado.”"
+/>
 - Primer crédito de imagen: Modificado de "Trends in Atmospheric Carbon Dioxide CO2" Dr. Xin Lan, NOAA/GML y Dr. Ralph Keeling Scripps Institution of Oceanography  
 - Segundo crédito de imagen: Modificado de "Carbon Dioxide Concentration at Mauna Loa Observatory" por Scripps Institution of Oceanography en UC San Diego, Licencia CC BY 4.0  
 - Tercer crédito de imagen: Modificado de Earth's CO2 Home Page por CO2.earth  
@@ -53,7 +57,11 @@ Los Datos Abiertos pueden descubrirse accediendo a una gran variedad de reposito
 
 Hay múltiples caminos para encontrar datos de investigación y deberías tener práctica en todos.
 
-<img src="../images/media/image21_es.png" style="width:100%;height:auto;" />
+<img
+  src="../images/media/image21_es.png"
+  style="width:100%;height:auto;"
+  alt="Infografía con un círculo central que dice “Datos” y flechas hacia cinco formas de comenzar a buscar datos de investigación. 1) “Búsqueda de revistas (ADS, PubMed)”: “El mejor lugar para comenzar cuando sabes lo que quieres estudiar; sigue los datos referenciados en los artículos.” 2) “Entornos de software (APIs, módulos de Python)”: “Muchos sitios que archivan datos tienen interfaces de programación (aunque no todos). La manera más fácil de integrar los datos a tu código.” 3) “Personas asesoras en investigación y colegas”: “Si recién comienzas a investigar, ¡este es el mejor lugar para comenzar! Aquí también es donde ‘aprendes el lenguaje’.” 4) “Búsqueda en internet”: “Probado y comprobado, pero tienes que hacer mucho más trabajo para asegurarte que los datos son confiables.” 5) “Repositorio de datos”: “Examinado por tu comunidad profesional; ésta es tu fuente de mejor.”"
+/>
 
 ### Personas que conoces (en línea o en persona)
 
@@ -275,7 +283,11 @@ Unir el tipo de repositorio con la definición correcta.
 
 ## Evaluar los Datos Abiertos
 
-<img src="../images/media/image24_es.png" style="width:100%;height:auto;" />
+<img
+  src="../images/media/image24_es.png"
+  style="width:100%;height:auto;"
+  alt="Infografía titulada “Encontré los datos... ¿pero son buenos?” con una nube central verde y tres íconos (microscopio, símbolos de código y un átomo). Alrededor aparecen preguntas para evaluar un conjunto de datos: “¿Los datos son apropiados para mi proyecto?”, “¿Tienen metadatos?”, “¿Los datos están documentados?”, “¿Necesito software específico para usar los datos?”, “¿Están en un formato en el que puedo usarlos?”, “¿Cuál es la licencia? ¿Tengo permiso para usarlos?”, “¿Cómo debo citar los datos?”, “¿Son los datos originales o alguien los modificó?” y “¿Alguien más ha usado estos datos?”."
+/>
 Crédito: NASA
 
 El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reúso, la facilidad para encontrar los datos, etc. Algunos elementos esenciales (adaptados de un curso de gestión de datos abiertos creado por GODAN Action) para evaluar la pertinencia y utilidad de los conjuntos de datos son:
@@ -334,8 +346,12 @@ Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La
 - Fecha de creación
 - También pueden especificarse campos adicionales
 
-<img src="../images/media/image25_es.png" style="width:100%;height:auto;" />
-Ejemplo sencillo de archivo CITATION.cff. [Captura de pantalla] GitHub (https://github.com/) (enlace externo)
+<img
+  src="../images/media/image25_es.png"
+  style="width:100%;height:auto;"
+  alt="Captura de pantalla de un ejemplo de código en un archivo CITATION.cff (formato YAML) que indica cómo citar un software. Incluye campos como versión del formato (cff-version), mensaje de citación, autores con nombres y ORCID, título del software, versión, identificador DOI y fecha de publicación."
+/>
+Fuente: GitHub (https://github.com/) (enlace externo)
 
 ---
 
