@@ -194,7 +194,8 @@ A modo de ejemplo, aquí te mostramos cómo asignar una licencia a un repositori
 
 Elige la licencia adecuada para compartir software de manera que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENSE" (LICENCIA) en el campo de nombre; entonces aparecerá la opción "Elegir una plantilla de licencia" (en inglés choose a license template).
 
-<img src="../images/media/image78_es.png" style="width:350px;height:auto;" />
+<img src="../images/media/image78_es.png" style="width:500px;height:auto;" alt="Captura de pantalla de GitHub al crear un archivo nuevo: en el campo de nombre se escribió “LICENSE” y aparece la opción “Choose a license template”. También se ven las pestañas “Edit” y “Preview”." />
+
 
 Asegúrate de que tu repositorio de GitHub sea público, permitiendo que cualquier persona pueda buscarlo.
 
@@ -228,28 +229,30 @@ Pasos para esta actividad:
 
 1. Ve a la [página de Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/). Selecciona el botón 'Conectar' para permitir que Zenodo acceda a sus repositorios de GitHub.
 
-<img src="../images/media/zenododoi1_es.png" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi1_es.png" style="width:100%;height:auto" alt="Captura de pantalla de la página de inicio de sesión de Zenodo. Se ve el logo ‘zenodo’, el título ‘Iniciar sesión en la cuenta’, botones ‘Iniciar sesión con ORCID’, ‘Iniciar sesión con GitHub’ y ‘Iniciar sesión con OpenAIRE’, campos para ‘Dirección de correo electrónico’ y ‘Contraseña’, y el botón ‘Acceso’." />
 
 2. Revisa la información sobre los permisos de acceso y selecciona 'Autorizar Zenodo'.
 3. Sincroniza tu repositorio de GitHub con Zenodo seleccionando la opción 'Sincronizar ahora'.
 
-<img src="../images/media/zenododoi3_es.png" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi3_es.png" style="width:100%;height:auto" alt="Captura de pantalla de Zenodo en la sección ‘Mi cuenta’, dentro de ‘GitHub’. En el panel principal se ve ‘Repositorios de GitHub’ con el encabezado ‘Empezar’ y tres pasos: ‘1 Mueve el interruptor’, ‘2 Crear un comunicado’ y ‘3 Consigue la insignia’. En la esquina superior derecha del panel aparece el botón ‘Sincronizar ahora’." />
+
 
 4. Localiza el interruptor (en inglés, _switch_) del repositorio que deseas archivar ('os-test'), cambia el estado a 'Encendido' (en inglés, _On_) para activar la conservación automática del software.
 5. Selecciona el nombre del repositorio.
 6. Localiza y selecciona el botón que contiene 'usuario/os-test'
 
-<img src="../images/media/zenododoi6_es.png" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi6_es.png" style="width:100%;height:auto" alt="Captura de pantalla de Zenodo (instancia Sandbox) en ‘Mi cuenta’ > ‘GitHub’, dentro del repositorio ‘/os-test’. En la sección ‘Lanzamientos’ aparece el encabezado ‘¡Empieza ya!’ con los pasos ‘1 Activa el interruptor’ y ‘2 Crear un comunicado’. En el paso 2 se ve, resaltado con un círculo rojo, un botón verde con el ícono de GitHub y el texto ‘/os-test’, que corresponde al botón ‘usuario/os-test’." />
 
 7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
 8. Localiza y selecciona el botón 'publicar lanzamiento' (en inglés, _publish release_).
 
-<img src="../images/media/zenododoi8_es.png" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi8_es.png" style="width:100%;height:auto" alt="Captura de pantalla de la página ‘Releases’ de GitHub para crear un lanzamiento. Se ve el menú desplegable ‘Choose a tag’ con el texto ‘test’ escrito y la opción ‘Create new tag: test on publish’, resaltado con un círculo rojo. En la parte inferior izquierda, también resaltados con un círculo rojo, aparecen la casilla ‘Set as a pre-release’ y los botones ‘Publish release’ y ‘Save draft’." />
+
 
 9. Navega a la página [Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/) y verifica el DOI de 'os-test'.
 10. A continuación, comparte tu DOI.
 
-<img src="../images/media/zenododoi10_es.jpg" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi10_es.jpg" style="width:100%;height:auto" alt="Captura de pantalla de un formulario para compartir un DOI. Arriba aparece el texto: “Por favor, pega tu DOI en el campo de abajo. A continuación, selecciona Enviar”. Debajo hay un campo de texto con el marcador “Coloca aquí tu nuevo DOI” y un botón verde grande que dice “ENVIAR”." />
 
 Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" (en inglés _Managing releases in a repository_) para crear uno nuevo.
 
