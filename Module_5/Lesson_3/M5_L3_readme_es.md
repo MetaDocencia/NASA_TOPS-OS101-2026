@@ -151,7 +151,8 @@ Nuevas formas de trabajo con enfoques creativos para la colaboración y la comun
   </tbody>
 </table>
 
-<img style="width:100%;height:auto;" src="../images/media/turingwayillustration_es.png">
+<img style="width:100%;height:auto;" src="../images/media/turingwayillustration_es.png" alt="Ilustración estilo pizarra de The Turing Way: una persona empuja un carrito con datos por un camino que se divide en varios rutas que llevan a edificios etiquetados como “Colaboración”, “Diseño de proyecto”, “Reproducibilidad”, “Comunicación y extensión” y “Ética”. Al fondo aparece un sol naciente y, en la parte inferior, la frase “Demasiado fácil para NO hacerlo”." />
+
 
 Crédito de imagen: Esta imagen fue creada por Scriberia para la comunidad de The Turing Way y se utiliza bajo una licencia CC-BY 4.0.
 
@@ -271,7 +272,7 @@ Involucrar y reconocer los roles de todas las personas contribuyentes es una par
 
 ### Estudio de caso EHTC: Reconocer a todas las personas contribuyentes
 
-<img src="../images/media/image52_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image52_es.jpeg" style="width:100%;height:auto;" alt="Mapa mundial con líneas azules que conectan estaciones de observación a lo largo del planeta. Los sitios están marcados con puntos y etiquetas de colores." />
 
 Crédito de imagen: "A map of the EHT. Stations active in 2017 and 2018 are shown with connecting lines and labeled in yellow, sites in commission are labeled in green, and legacy sites are labeled in red. From Paper II (Figure 1)" de The Astrophysical Journal Letters está licenciado bajo CC-BY 4.0.
 
@@ -534,9 +535,9 @@ Las publicaciones científicas han sido tradicionalmente uno de los modos más p
 
 ### Estudio de caso EHTC: Capturar resultados en actividades que van desde la colaboración hasta las observaciones, desde la generación de imágenes hasta la interpretación
 
-<img src="../images/media/image53_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image53_es.jpeg" style="width:100%;height:auto;" alt="Captura de pantalla de una página de IOPscience sobre resultados del Event Horizon Telescope (EHT). La imagen polarizada de la sombra del agujero negro M87 tal como se observó el 11 de abril de 2017 por el EHT (panel izquierdo), una imagen de la Biblioteca de Modelos del EHT con una configuración magnética MAD (panel derecho) y una lista de artículos que describen distintos conjuntos de resultados." />
 
-La imagen polarizada de la sombra del agujero negro M87 tal como se observó el 11 de abril de 2017 por el EHT (panel izquierdo), una imagen de la Biblioteca de Modelos del EHT con una configuración magnética MAD (panel derecho) y una lista de artículos que describen distintos conjuntos de resultados. [Captura de pantalla]. (2023). IOPscience. [https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) (enlace externo)
+Fuente: IOPscience. [https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) (enlace externo)
 
 ---
 
