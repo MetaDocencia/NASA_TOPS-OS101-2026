@@ -24,7 +24,7 @@ Luego de completar esta lección, deberías poder:
 
 ## Cuándo compartir
 
-<img src="../images/media/image7_es.jpeg" style="width:100%height:auto;" />
+<img src="../images/media/image7_es.png" style="width:100%height:auto;" />
 Crédito de la imagen: NASA  
 Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
