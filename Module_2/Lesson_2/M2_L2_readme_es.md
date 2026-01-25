@@ -54,7 +54,7 @@ Un identificador digital persistente (o «PID», por sus siglas en inglés) es u
 ### ORCID
 
 <img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg" alt="logo ORCID." />  
-Fuente de la imagen: ORCID Logo - CC0 1.0
+Créditos de imagen: ORCID Logo (CC0 1.0).
 
 ORCID es la sigla de «Open Researcher and Contributor IDentifier» y está pensado para proporcionar información profesional sobre una persona.
 
@@ -80,12 +80,13 @@ Por ejemplo, el DOI [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org
 Los DOI fueron estandarizados por la [Organización Internacional de Normalización (ISO)](https://www.iso.org/home.html) (enlace externo) y son provistos y mantenidos por la [International DOI Foundation](https://www.doi.org/) (enlace externo).
 
 <img src="../images/media/image18_es.png" style="width:350px;height:auto;" alt="logo DOI." />   
-Fuente de la imagen: DOI Foundation Logo - CC 4.0
+Créditos de imagen: DOI Foundation Logo (CC 4.0).
 
 ### Citas que usan DOI
 
 <img src="../images/media/image19_es.png" style="width:100%;height:auto;" alt="Captura de pantalla del sitio Earthdata ASDC (Centro de datos de ciencias atmosféricas) en una página de citación. Se muestran ejemplos de cita en distintos formatos (APA y Harvard) y opciones para descargar la referencia en BibTeX, JSON CSL y RIS. En el texto de la cita aparece un enlace DOI para el conjunto de datos." /> 
-Ejemplo de cita de ASDC [captura de pantalla]. (2023). Centro de Datos de Ciencias Atmosféricas. [https://asdc.larc.nasa.gov/](https://asdc.larc.nasa.gov/)
+Créditos de imagen: [Centro de Datos de Ciencias Atmosféricas](https://asdc.larc.nasa.gov/) (2023). Ejemplo de cita de ASDC. (enlace externo)
+
 
 Los DOI facilitan y hacen más práctica la citación de productos de investigación.
 
