@@ -146,11 +146,12 @@ Al público le interesa lo que estás haciendo y llegar a ese público puede imp
 Las plataformas de comunicación abierta ampliaron notablemente el alcance y la audiencia de los resultados.
 
 <img src="../images/media/image14_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama del flujo de trabajo de investigación que culmina en “Reporte y publicación” (remarcada). Debajo se muestran ejemplos de comunicación abierta en redes y plataformas: dos publicaciones en Twitter, un video en TikTok y un video en YouTube, junto a los íconos de cada plataforma y un mensaje que destaca que hay muchas maneras de reportar resultados abiertos." />
-Créditos de imagen: 
-- Publicación de Megan Weiner Mansfield. (2023). [X](https://x.com/cornerof_thesky/status/1595086671275589632?s=20). (enlace externo)
-- Publicación de Vivien Parmentier. (2023). [X](https://x.com/V_Parmentier/status/1595127493199302656?s=20). (enlace externo)
-- Publicación de Astro jacket. (2023). [TikTok](https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1). (enlace externo)
-- Astronomers Discover Sulfur Dioxide in an Exoplanet Atmosphere. (2023). [YouTube](https://www.youtube.com/watch?v=cI-kM_wPbbQ). (enlace externo)
+
+Créditos de imagen:
+- Publicación de Megan Weiner Mansfield. (2023). [X](https://x.com/cornerof_thesky/status/1595086671275589632?s=20) (enlace externo).
+- Publicación de Vivien Parmentier. (2023). [X](https://x.com/V_Parmentier/status/1595127493199302656?s=20) (enlace externo).
+- Publicación de Astro jacket. (2023). [TikTok](https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1) (enlace externo).
+- Astronomers Discover Sulfur Dioxide in an Exoplanet Atmosphere. (2023). [YouTube](https://www.youtube.com/watch?v=cI-kM_wPbbQ) (enlace externo).
 
 ---
 
