@@ -127,6 +127,7 @@ Los datos pueden usarse para la navegación, así como para la planificación y 
 Créditos de imagen: “Man in Black Suit Jacket Using Computer”, Kampus Production vía [Pexels](https://www.pexels.com/) (enlace externo).
 
 
+
 Matplotlib es actualmente la librería de gráficas más utilizada en el lenguaje de programación Python y un componente principal del conjunto de librerías científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se usó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
 
 ### Estudio de caso del proyecto JWST: Informes y publicación
@@ -136,9 +137,11 @@ Y, por último, pero no por ello menos importante, tenemos el ejemplo del equipo
 Las plataformas de comunicación abierta ampliaron el alcance y la audiencia de los resultados, habilitaron la participación de más de 400 personas investigadoras y contribuyeron a un descubrimiento increíble: la primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella.
 
 <img src="../images/media/image13_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama de flujo del proceso de investigación con etapas como ideación, planificación del proyecto, recolección y exploración de datos, y reporte y publicación. Reporte y publicación aparecen remarcadas y en la parte inferior se muestran ejemplos de publicación en acceso abierto: un artículo en Nature y su preprint en arXiv, ambos titulados “Identificación de dióxido de carbono en la atmósfera de un exoplaneta”." />
-Créditos de imagen: 
-- Identificación de dióxido de carbono en una atmósfera de un exoplaneta. (2023). [Nature](https://www.nature.com/articles/s41586-022-05269-w). (enlace externo)
-- Identificación de dióxido de carbono en una atmósfera de un exoplaneta. (2023). [arXiv](https://arxiv.org/abs/2208.11692). (enlace externo)
+
+Créditos de imagen:
+- Identificación de dióxido de carbono en una atmósfera de un exoplaneta. (2023). [Nature](https://www.nature.com/articles/s41586-022-05269-w) (enlace externo).
+- Identificación de dióxido de carbono en una atmósfera de un exoplaneta. (2023). [arXiv](https://arxiv.org/abs/2208.11692) (enlace externo).
+
 
 
 Al público le interesa lo que estás haciendo y llegar a ese público puede implicar comunicación a través de plataformas tradicionales y nuevas. Publicar resultados en plataformas como X (antes Twitter), YouTube, TikTok, blogs, sitios web y otras redes sociales se volvió más común. La visibilidad en redes sociales aumenta drásticamente el alcance y la audiencia de tu trabajo. Hubo estudios sobre cómo esto afecta las tasas de citación. Por ejemplo, la Revista de Investigación Médica en Internet (The Journal of Medical Internet Research, JMIR, en inglés) realizó un estudio de tres años sobre el éxito relativo de los artículos de JMIR tanto en X (antes Twitter) como en el mundo académico. Encontraron que los artículos muy compartidos en X tenían 11 veces más probabilidades de ser altamente citados que los menos compartidos. (Eysenbach, 2011)
