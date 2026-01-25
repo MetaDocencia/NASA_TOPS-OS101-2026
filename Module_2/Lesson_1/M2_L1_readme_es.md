@@ -23,11 +23,11 @@ Al finalizar esta lección deberías ser capaz de:
 ### ¿Qué es la Ciencia Abierta?
 
 <img style="width:100%;height:auto;" src="../images/media/ostpquote_es.jpg">
+Créditos de imagen: «Earth Science», NASA [1992].
+
 
 «La Ciencia Abierta es una cultura de colaboración, posibilitada por la tecnología, que fortalece el intercambio abierto de datos, información y conocimiento dentro de la comunidad científica y también con el público en general, con el objetivo de acelerar la investigación y la comprensión científica (Ramachandran et al. 2021).»  
 Ramachandran et al. 2021
-
-Crédito de la imagen: «Earth Science», NASA [1992]
 
 ---
 
@@ -36,7 +36,7 @@ Crédito de la imagen: «Earth Science», NASA [1992]
 El conocimiento científico, o productos de investigación, adopta la forma de datos, resultados, código y software.
 
 <img style="width:100%;height:auto;" src="../images/media/science-data.png">
-Crédito de la imagen: modificado a partir de «Scientist explaining with graph», illustrAC
+Créditos de imagen: Modificado a partir de «Scientist explaining with graph», illustrAC.
 
 Dentro de estos productos de investigación se incluyen además otros tipos de productos, como metodologías, algoritmos y artefactos físicos.
 
