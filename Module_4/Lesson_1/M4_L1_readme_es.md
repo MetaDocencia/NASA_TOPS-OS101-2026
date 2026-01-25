@@ -31,12 +31,12 @@ Muchas revistas y agencias de financiación exigen compartir el código al momen
 Revisemos algunos ejemplos conocidos de grupos que compartieron su código y cuáles fueron los impactos:
 
 <img src="../images/media/image394_es.jpg" style="width:500px;height:auto;" />
-Crédito de la imagen: Event Horizon Telescope Collaboration
+Créditos de imagen: Event Horizon Telescope Collaboration.
 
 La primera imagen de un agujero negro no habría sido posible en esta década si todo el código necesario hubiera tenido que ser escrito únicamente por las personas científicas involucradas. Estas pudieron utilizar un software de Código Abierto bien probado y aceptado por la comunidad para realizar sus análisis y crear esta imagen ahora famosa. El código utilizado para capturar esta imagen fue creado por 21.485 personas. Los sofisticados algoritmos y pipelines iterativos de procesamiento de datos utilizados por el equipo de investigación fueron desarrollados y probados por la comunidad, lo que permitió una ciencia robusta y reproducible sin tener que reescribir cada pieza de software necesaria.
 
 <img src="../images/media/image553_es.png" style="width:500px;height:auto;" />
-Crédito de la imagen: NASA/JPL-Caltech
+Créditos de imagen: NASA/JPL-Caltech.
 
 Este es el helicóptero "Ingenuity", o como lo llaman los ingenieros, Ginny. Llegó a Marte a bordo del rover Perseverance, que aterrizó en el cráter Jezero en 2021.
 
@@ -49,7 +49,7 @@ Detrás de ese helicóptero de menos de dos kilogramos hay más de 12.000 person
 Además, el software final de Ginny desarrollado en el Laboratorio de Propulsión a Chorro (Jet Propulsion Lab), llamado F prime, era a su vez de Código Abierto y se ha utilizado desde entonces en la investigación de vuelos, drones y nanosatélites (CubeSats). De hecho, F prime se había copiado en los repositorios de otras personas más de 1.200 veces.
 
 <img src="../images/media/image408_es.jpg" style="width:500px;height:auto;" />
-Crédito de la imagen: NASA GSFC/CIL/Adriana Marique Gutierrez
+Créditos de imagen: NASA GSFC/CIL/Adriana Marique Gutierrez.
 
 La mayoría de los datos de los telescopios espaciales se embargan durante 12 meses y sólo el equipo científico principal puede trabajar con ellos. En un caso único, se ofreció la liberación anticipada de una pequeña porción de los datos del nuevo telescopio espacial James Webb (JWST) de la NASA. Estos datos del JWST estuvieron disponibles de inmediato.
 
@@ -90,7 +90,7 @@ Fuente: deal.II https://dealii.org/developer/doxygen/deal.II/grid_2tria_8h_sourc
 ### ¿Qué es el código vs. el software?
 
 <img src="../images/media/image109_es.png" style="width:500px;height:auto;" />
-Crédito de la imagen: NASA
+Créditos de imagen: NASA.
 
 Cuando escribimos "software", en realidad estamos escribiendo código de texto y utilizando un intérprete o un compilador para traducirlo en un programa que la máquina pueda ejecutar. El código es un lenguaje que los humanos pueden escribir y entender. El software suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Un ejemplo es una biblioteca de software, que es un conjunto de datos y código de programación que se utiliza para desarrollar programas y aplicaciones.
 
@@ -170,7 +170,7 @@ Los principios del Software Abierto se derivan de las mejores prácticas del sof
 (The open source way, 2025)
 
 <img src="../images/media/image616M4l1_es.png" style="width:500px;height:auto;" />
-Crédito de la imagen: NASA
+Créditos de imagen: NASA.
 
 Compartir código mejora la ciencia porque permite la reproducibilidad, la reutilización y la replicabilidad. La decisión de compartir el código beneficia a la comunidad científica al aumentar la transparencia, la participación y la colaboración. Compartir código en cualquier etapa del proceso de investigación puede resultar valioso.
 
