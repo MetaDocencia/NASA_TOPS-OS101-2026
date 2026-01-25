@@ -61,7 +61,7 @@ El ecosistema de Código Abierto es vasto, orgánico, multifacético y altamente
 Si buscas software científico, los estándares comunitarios exigen cada vez más que el código se publique y se vincule a artículos científicos.
 
 <img src="../images/media/image333_es.jpg" style="width:350px;height:auto;" />
-Crédito de la imagen: NASA
+Créditos de imagen: NASA.
 
 Por lo tanto, la literatura científica y sus archivos de códigos auxiliares son, cada vez más, un excelente lugar para buscar Código Abierto científico.
 
@@ -112,10 +112,12 @@ GitHub permite a las personas usuarias colaborar en un proyecto compartido y seg
 Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para realizar esta acción. Puedes ingresar tus términos de forma sencilla en la barra de búsqueda mientras estás en tu página de perfil. En la barra de búsqueda, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y aparecerán varios repositorios con código relevante en Python, Julia, R, entre otros, junto con miles de partes de código relacionadas. ¡Felicitaciones! Has comenzado tu viaje hacia el software de Acceso Abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás. ¡Adelante!
 
 <img src="../images/media/image335_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de la página de resultados de búsqueda en GitHub. En la barra de búsqueda aparece el texto “Lomb Scargle”. A la izquierda se ve la sección “Filter by” con filtros como “Code”, “Repositories” (seleccionado, con “78”), “Issues”, “Pull requests”, “Discussions” y “Users”, y debajo el listado de “Languages” (Python, Jupyter Notebook, R, Julia, C++, Cuda, Java). En el panel central se lee “78 results (231 ms)”, con opciones “Sort by: Best match” y el botón “Save”. En los resultados se muestran repositorios como “jakevdp/PracticalLombScargle”, “JuliaAstro/LombScargle.jl” y “mzechmeister/GLS”, cada uno con su descripción, lenguaje y fecha de actualización, junto al botón “Star”." />
-Fuente: GitHub. https://github.com/ (enlace externo)
+Créditos de imagen: [GitHub](https://github.com/). (enlace externo)
+
 
 <img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" alt="Captura de pantalla de la página de resultados de búsqueda en GitHub. En la barra de búsqueda aparece el texto “Lomb Scargle”. A la izquierda se ve la sección “Filter by” con filtros como “Code” (seleccionado, con “6.3k”), “Repositories”, “Issues”, “Pull requests”, “Discussions” y “Users”, y debajo el listado de “Languages” (Python, Jupyter Notebook, R, Julia, C++, Cuda, Java). En el panel central se lee “6.3k results (215 ms)”, con muestras de fragmentos de códigos en los que figura “Lomb Scargle”." />
-Fuente: GitHub. https://github.com/ (enlace externo)
+Créditos de imagen: [GitHub](https://github.com/). (enlace externo)
+
 
 ---
 
@@ -128,7 +130,7 @@ Revisa el diagrama de flujo a continuación, que ilustra cómo una búsqueda sig
     alt="Diagrama de flujo para orientar la búsqueda de Software Abierto. En la parte superior: “Definir los requerimientos: tareas, interoperabilidad, aplicaciones integrales vs. específicas, etc.” conectado con una doble flecha a: “Discutir con colegas o integrantes de la comunidad con mayor experiencia” y “Leer antecedentes relevantes”. Desde allí se bifurca en tres ramas: (1) “¿Es específico de una disciplina o investigación” → “Literatura revisada por pares” y “Repositorios de software propios de la disciplina”. (2) “¿Es de Código Abierto?” → “¿Es de un lenguaje específico?” → “Sí, por ejemplo, PyPI para Python, CRAN para R, etc.” / “No, por ejemplo: GitHub”. (3) “¿Tiene requisitos de hardware, sistema operativo u otras dependencias de entorno?” → “Sí, por ejemplo: Debian/dpkg, apt para linux, etc.” / “No, por ejemplo: SourceForge”."
     style="width:100%;height:auto;"
   />
-Crédito de la imagen: NASA
+Créditos de imagen: NASA.
 
 ### El Software Abierto se agrega y se puede buscar en repositorios
 
