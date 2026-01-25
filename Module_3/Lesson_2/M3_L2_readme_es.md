@@ -28,7 +28,7 @@ Los Datos Abiertos no siempre son fáciles de usar en tu investigación. A veces
 Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Observatorio "Mauna Loa" en Hawaii. Este conjunto de datos fundacional constituye el registro más extenso de mediciones directas de dióxido de carbono en la atmósfera terrestre. Estas observaciones se iniciaron con el trabajo de C. David Keeling de la Institución de Oceanografía "Scripps" en marzo de 1958, en una instalación de la Administración Nacional Oceánica y Atmosférica (Scripps CO2 Program, s. f.).
 
 <img src="../images/media/image19_es.jpg" style="width:100%;height:auto;" alt="Gráfico de serie temporal titulado “Concentración de dióxido de carbono en el Observatorio Mauna Loa*”. Eje vertical: “Concentración de CO2 (ppm)”. Eje horizontal: años desde 1960 hasta 2020+. Una línea negra con oscilaciones estacionales muestra un aumento sostenido de CO2 a lo largo del tiempo. En la esquina inferior derecha aparecen los logos de UC San Diego y Scripps Institution of Oceanography." />
-Fuente de la imagen: “Concentración de dióxido de carbono en el Observatorio de Mauna Loa (en inglés, Carbon Dioxide Concentration at Mauna Loa Observatory)”, de la Institución Scripps de Oceanografía de la Universidad de California en San Diego (Scripps Institution of Oceanography UC San Diego). Licencia CC BY 4.0
+Créditos de imagen: “Concentración de dióxido de carbono en el Observatorio de Mauna Loa (en inglés, Carbon Dioxide Concentration at Mauna Loa Observatory)”, Scripps Institution of Oceanography, UC San Diego. Licencia CC BY 4.0.
 
 Si deseas hacer este gráfico tú mismo o usar los datos para algún otro fin, primero deberás encontrarlos. Si buscas este conjunto de datos o cualquier otro dato, es posible que encuentres varias fuentes. ¿Cómo decides qué datos usar?
 
@@ -39,11 +39,11 @@ Si comienzas en Google y buscas "datos de dióxido de carbono de Mauna Loa", enc
   style="width:100%;height:auto;"
   alt="Imágenes de cinco pantallas comparando resultados de búsqueda para “datos de dióxido de carbono de Mauna Loa”. Pantalla 1: “Laboratorio de Monitoreo Global de la NOAA” (https://gml.noaa.gov/ccgg/trends/data.html) con el texto: “Sitio de la NOAA. Archivos en formato texto y csv. Las condiciones de uso requieren mencionar la autoría y menciona a alguien ¡que no es Keeling! Sin DOI.” Pantalla 2: “La Curva Keeling de UCSD” (https://keelingcurve.ucsd.edu/) con el texto: “¡La fuente de datos original! ¡Pero sólo está como un archivo csv! Buena declaración de reutilización, licencias y tiene DOI.” Pantalla 3: “CO2.earth” (https://www.co2.earth/) con el texto: “Otra fuente de los datos de Keeling.” Pantalla 4: “IRIDL KEELING MAUNA_LOA co2” (https://gml.noaa.gov/ccgg/trends/data.html) con el texto: “Los datos finalizan en 1995. Referencias las publicaciones de Keeling. Sin DOI. Sin link a los datos originales.” Pantalla 5: “DataHub CO2 PPM” (https://datahub.io/core/co2-ppm) con el texto: “Tiene link para comenzar a explorar los datos en una notebook interactiva. No está siendo actualizado.”"
 />
-- Primer crédito de imagen: Modificado de "Trends in Atmospheric Carbon Dioxide CO2" Dr. Xin Lan, NOAA/GML y Dr. Ralph Keeling Scripps Institution of Oceanography  
-- Segundo crédito de imagen: Modificado de "Carbon Dioxide Concentration at Mauna Loa Observatory" por Scripps Institution of Oceanography en UC San Diego, Licencia CC BY 4.0  
-- Tercer crédito de imagen: Modificado de Earth's CO2 Home Page por CO2.earth  
-- Cuarto crédito de imagen: Modificado de "Trends in Atmospheric Carbon Dioxide CO2" Dr. Xin Lan, NOAA/GML y Dr. Ralph Keeling Scripps Institution of Oceanography  
-- Quinto crédito de imagen: Modificado de "Trends in Atmospheric Carbon Dioxide" DATA HUB Open Data Commons Public Domain Dedication and License
+- Créditos de imagen 1: Modificado de “Trends in Atmospheric Carbon Dioxide CO2”, Dr. Xin Lan (NOAA/GML) y Dr. Ralph Keeling (Scripps Institution of Oceanography).
+- Créditos de imagen 2: Modificado de “Carbon Dioxide Concentration at Mauna Loa Observatory”, Scripps Institution of Oceanography (UC San Diego). Licencia CC BY 4.0.
+- Créditos de imagen 3: Modificado de Earth’s CO2 Home Page, CO2.earth.
+- Créditos de imagen 4: Modificado de “Trends in Atmospheric Carbon Dioxide CO2”, Dr. Xin Lan (NOAA/GML) y Dr. Ralph Keeling (Scripps Institution of Oceanography).
+- Créditos de imagen 5: Modificado de “Trends in Atmospheric Carbon Dioxide”, DATA HUB. Open Data Commons Public Domain Dedication and License.
 
 ¿Cómo decides cuál usar? En esta lección cubriremos cómo encontrar datos abiertos, evaluar su relevancia y luego usarlos en tu propio trabajo.
 
@@ -68,7 +68,7 @@ Hay múltiples caminos para encontrar datos de investigación y deberías tener 
 ¿Cuál es la primera y mejor forma de encontrar datos de investigación? Preguntar a tu comunidad. Esto incluye a quien te asesora en la investigación, a colegas, a miembros del equipo y a personas en línea. Saber dónde encontrar datos confiables y de alta calidad es una habilidad tan importante como cualquier técnica de laboratorio. Esta habilidad se aprende trabajando con profesionales de tu campo. No existe una única fuente ideal ni un único método. Incluso puedes encontrar datos de personas que no esperabas.
 
 <img src="../images/media/image22_es.jpeg" style="width:100%;height:auto;" />
-Fuente de la imagen: NASA, Dominic Hart 2023
+Créditos de imagen: NASA, Dominic Hart (2023).
 
 ---
 
@@ -288,7 +288,8 @@ Unir el tipo de repositorio con la definición correcta.
   style="width:100%;height:auto;"
   alt="Infografía titulada “Encontré los datos... ¿pero son buenos?” con una nube central verde y tres íconos (microscopio, símbolos de código y un átomo). Alrededor aparecen preguntas para evaluar un conjunto de datos: “¿Los datos son apropiados para mi proyecto?”, “¿Tienen metadatos?”, “¿Los datos están documentados?”, “¿Necesito software específico para usar los datos?”, “¿Están en un formato en el que puedo usarlos?”, “¿Cuál es la licencia? ¿Tengo permiso para usarlos?”, “¿Cómo debo citar los datos?”, “¿Son los datos originales o alguien los modificó?” y “¿Alguien más ha usado estos datos?”."
 />
-Crédito: NASA
+Créditos de imagen: NASA.
+
 
 El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reúso, la facilidad para encontrar los datos, etc. Algunos elementos esenciales (adaptados de un curso de gestión de datos abiertos creado por GODAN Action) para evaluar la pertinencia y utilidad de los conjuntos de datos son:
 
@@ -351,7 +352,8 @@ Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La
   style="width:100%;height:auto;"
   alt="Captura de pantalla de un ejemplo de código en un archivo CITATION.cff (formato YAML) que indica cómo citar un software. Incluye campos como versión del formato (cff-version), mensaje de citación, autores con nombres y ORCID, título del software, versión, identificador DOI y fecha de publicación."
 />
-Fuente: GitHub (https://github.com/) (enlace externo)
+Créditos de imagen: [GitHub](https://github.com/) (enlace externo).
+
 
 ---
 
