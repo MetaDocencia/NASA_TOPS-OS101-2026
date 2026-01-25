@@ -158,7 +158,7 @@ Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre e
 ### Consideraciones generales
 
 <img src="../images/media/image197_es.png" style="width:100%;height:auto;" />
-Crédito de la imagen: NASA
+Créditos de imagen: NASA.
 
 Al igual que los datos, el código puede compartirse de muchas maneras; por ejemplo, por correo electrónico o en un sitio web personal, aunque estos métodos no son recomendables. Entonces, ¿dónde deberías compartir tu Código Abierto?
 
