@@ -25,8 +25,8 @@ Al finalizar esta lección deberías ser capaz de:
 ## Cuándo compartir
 
 <img src="../images/media/image7_es.png" style="width:100%;height:auto;" alt="Diagrama tipo línea de tiempo del flujo de trabajo de Ciencia Abierta. Muestra etapas desde ‘Ideación’ y ‘Planificación del proyecto’ hasta ‘Recolección de datos’, ‘Exploración de datos’ y ‘Reporte y publicación’, con productos asociados como propuestas, planes de gestión de datos y/o código de conducta, tutoriales y pautas para colaboradores, datos sin procesar con metadatos, ciclos de análisis, código y cuadernos, archivos y productos de difusión (artículos, conferencias, blogs, videos, tuits)." />
-Crédito de la imagen: NASA  
-Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
+
+Créditos de imagen: NASA. Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
 Parte de practicar la Ciencia Abierta consiste en ofrecer resultados colaborativos e interactivos. Compartir los diferentes tipos de objetos de investigación de manera temprana durante el proceso de investigación ayudará a aumentar la visibilidad de tu trabajo, al mismo tiempo que podrá acelerarlo aprovechando el conocimiento colectivo de la comunidad. Internet ha cambiado de manera sustancial el momento y la manera en que quienes hacen ciencia comunican los resultados.
 
@@ -92,7 +92,7 @@ Las revistas de Acceso Abierto son revistas revisadas por pares que son más acc
 ### Actividad 4.1: Lee las políticas de Acceso Abierto de los servicios editoriales o revistas que usas
 
 <img src="../images/media/image21_es.png" style="width:350px;height:auto;" />
-Crédito de la imagen: NASA
+Créditos de imagen: NASA.
 
 En esta actividad aprenderás cómo acceder a la información sobre las políticas de archivo de datos de una revista. El Directorio de Revistas de Acceso Abierto (DOAJ, por sus siglas en inglés) proporciona un índice extenso de revistas de Acceso Abierto de todo el mundo. El DOAJ se puede usar para buscar información, incluidas las políticas de archivo de datos de las revistas que publican investigaciones. Vamos a explorar su sitio web y buscar las políticas específicas de las revistas que más usas.
 
@@ -184,7 +184,7 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
 ### Licencias
 
 <img src="../images/media/image67_es.png" style="width:350px;height:auto;" alt="Ilustración de íconos de licencias Creative Commons: aparece el símbolo de CC, el ícono de atribución (persona) y la etiqueta ‘BY’, junto a un símbolo de dominio público (cero tachado), sobre un círculo azul de fondo." />
-Crédito de la imagen: NASA
+Créditos de imagen: NASA.
 
 Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con lo que compartes, así como las condiciones para hacerlo (como el requisito de citarte). Otro elemento muy importante que debes incluir en tus objetos de investigación son normas claras para su reuso (tal como es y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
 
@@ -197,7 +197,9 @@ Las instituciones, agencias de financiación o propuestas de investigación pued
 ### Vías para publicar en acceso abierto
 
 <img src="../images/media/image68_es.png" style="width:100%;height:auto;" alt="Ilustración. Un tren que muestra vías para publicar en acceso abierto. Incluye etiquetas de costos: ‘Gratis’ en el vagón ‘Acceso abierto verde’, ‘Pagan las personas autoras’ en el vagón ‘Acceso abierto verde’ y ‘Pagan el financiador o la institución’ en el vagón ‘Acceso abierto diamante’. Aparecen tres rutas principales: servidor de preimpresiones (preprints) (verde), revisión por pares y publicación en revistas de acceso abierto (dorado y diamante) y autoarchivo (verde). " />
-Crédito de la imagen: Esta imagen fue creada por Scriberia para la comunidad de The Turing Way y se usa bajo una licencia CC BY 4.0.
+
+Créditos de imagen: Imagen creada por Scriberia para la comunidad de The Turing Way. Licencia CC BY 4.0.
+
 
 ---
 
@@ -359,7 +361,7 @@ Compartir de diferentes maneras, especialmente sin revisión por pares, puede se
 - **¿Y si no puedo hacerlo todo? ¿Practico mal la Ciencia Abierta?**<br>¡La respuesta corta es no! Sólo tienes una cantidad de tiempo limitada. Incluso con la colaboración de otras personas no puedes hacer todo 
 <img src="../images/media/image69_es.png" style="width:150px;height:auto;" alt="Ilustración: dos personas detrás de una caja rota que tiene un ícono de foco. Una de las personas dice “Oh no!”." />
 <img src="../images/media/image70_es.png" style="width:150px;height:auto;" alt="Ilustración: dos personas detrás de una caja rota que tiene un ícono de foco. La otra persona dice “Está bien“." />
-Crédito de la imagen: NASA
+Créditso de imagen: NASA.
 
 Compartir Resultados Abiertos mejora la ciencia: es más rápida, más accesible y más colaborativa. En esta lección has aprendido todas las formas de compartir Resultados Abiertos. ¡Piensa cómo podrías compartir algo en lo que estés trabajando ahora!
 
