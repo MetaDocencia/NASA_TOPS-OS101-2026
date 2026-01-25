@@ -29,21 +29,21 @@ Cuando pensamos en resultados, la mayoría de las personas piensa sólo en la pu
 **1665**
 
 <img src="../images/media/image4_es.jpeg" style="width:350px;height:auto;" />
-Crédito de imagen: "Philoshoical Transactions of the Royal Society" de la Royal Society está bajo licencia CC-BY-NC 4.0.
+Créditos de imagen: “Philosophical Transactions of the Royal Society”, Royal Society. Licencia CC BY-NC 4.0.
 
 Esta publicación se remonta a 1665, cuando se fundó la primera revista científica, *Philosophical Transactions*, para publicar cartas sobre observaciones y experimentos científicos.
 
 **Década de 1940**
 
 <img src="../images/media/image5_es.png" style="width:350px;height:auto;" />
-Crédito de imagen: NASA
+Créditos de imagen: NASA.
 
 Más tarde, en la década de 1940, el trabajo editorial comenzó a comercializarse y se convirtió en el mecanismo para publicar revistas, actas de conferencias y libros. Este nuevo modelo de negocio normalizó las barreras de pago para la publicación.
 
 **Siglo XXI**
 
 <img src="../images/media/image6_es.png" style="width:350px;height:auto;" />
-Crédito de imagen: NASA
+Créditos de imagen: NASA.
 
 Recién en el siglo XXI la comunidad científica amplió el significado de Resultados Abiertos. La evolución de esta definición fue impulsada por avances tecnológicos, como Internet y mejoras en los modos de compartir información. El movimiento de Acceso Abierto fue establecido por la Iniciativa de Acceso Abierto de [Budapest Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) (en inglés) en 2002 y la Declaración de Berlín sobre Acceso Abierto [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration) (en inglés) en 2003, ambas formalizaron la idea de que, con respecto a los nuevos conocimientos, debería haber "disponibilidad gratuita en la Internet pública, permitir a cualquier persona leer, descargar, copiar, distribuir, imprimir, buscar o enlazar el texto completo de estos artículos" (Budapest Open Access Initiative).
 
@@ -52,9 +52,8 @@ Recién en el siglo XXI la comunidad científica amplió el significado de Resul
 Es posible que conozcas cómo es el ciclo de vida de una investigación, pero tal vez no hayas considerado qué resultados podrían compartirse abiertamente a lo largo de este proceso. Esta lección adopta una definición del ciclo de vida de la investigación basada en *The Turing Way* y lo desglosa en nueve fases, como se muestra en la figura a continuación. (OpenSciency Contributors, 2023; The Turing Way, 2024)
 
 <img src="../images/media/image7_es.png" style="width:100%;height:auto;" alt="Diagrama del flujo de trabajo con hitos y productos asociados. Hitos: Ideación → producto: “Propuestas”. Planificación y Planificación del proyecto → productos: “Planes de Gestión de Datos, código de conducta”. Compromiso y formación → producto: “Tutoriales, pautas para colaboradores”. Recolección de datos → producto: “Datos sin procesar, metadatos”. Gestión de datos → producto: “Ciclos de análisis”. Exploración de datos → producto: “Código, cuadernos”. Preservación → producto: “Archivos”. Reporte y publicación → productos: “Artículos, conferencias, blogs, videos, tuits”." />
-Crédito de imagen: NASA.
+Créditos de imagen: NASA. Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
-Fuente de productos del flujo de trabajo de ciencia abierta: Opensciency.
 
 Aunque las fases se presentan de manera lineal, reconocemos que el ciclo de investigación rara vez lo es. Se crean productos a lo largo del proceso científico que se necesitan para que otras personas puedan reproducir los hallazgos. Los productos de investigación incluyen artículos de revistas, datos y código, así como presentaciones, actas de congresos, informes, documentos técnicos, algoritmos, modelos y simulaciones, materiales de divulgación, tutoriales y muchos otros. El término “Resultados Abiertos” abarca de manera integral todos estos productos de investigación y más.
 
@@ -81,7 +80,7 @@ A lo largo de este módulo te mostraremos cómo usar, hacer y compartir Resultad
 Específicamente, el sistema "Usar, Hacer, Compartir" ha sido integrado de forma natural a lo largo de este plan de estudios y debería resultarte un formato familiar en este momento. La Lección 2 cubrirá "Usar". La Lección 3, "Hacer". Y la Lección 4, "Compartir". A lo largo de este módulo, prestaremos especial atención a los manuscritos y otros productos de investigación como ejemplos, ya que los módulos anteriores cubrieron el sistema "Usar, Hacer, Compartir" sobre datos y software abiertos.
 
 <img src="../images/media/thepracticeofopen_es.png" style="width:100%;height:auto;" alt="Diagrama “Usar, Hacer, Compartir” organizado en tres columnas. Columna USAR: “Descubrir productos existentes”; “Evaluar productos existentes”; “Usar productos existentes”. Columna HACER: “Crear un plan de gestión”; “Crear nuevos productos”; “Crear guías de contribución”; “Crear papers reproducibles”. Columna COMPARTIR: “¿Se pueden compartir los productos? (regulación)”; “¿Cuándo compartirlos?”; “¿Cómo compartirlos? (Qué revista elegir)”; “¿Dónde compartirlos?”; “Archivar”; “Asignar una licencia”; “Verificar identificadores” (“ORCID”, “DOI”); “Crear citación”. En la parte superior hay flechas que sugieren un ciclo y se incluyen íconos ilustrativos sobre cada columna." />
-Crédito de imagen: NASA
+Créditos de imagen: NASA.
 
 ## Ejemplos de Resultados Abiertos
 
@@ -91,7 +90,8 @@ Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación**
 
 <img src="../images/media/image9_es.png" style="width:100%;height:auto;" alt="Captura de pantalla del sitio web de GeoPython: banner principal con el texto “22-23 de abril de 2020” y “2 días de GeoPython”." />
 
-Taller de Google Earth Engine y geemap en GeoPython Conference 2021. YouTube. [https://www.youtube.com/watch?v=wGjpjh9IQ5I](https://www.youtube.com/watch?v=wGjpjh9IQ5I) (enlace externo)
+Créditos de imagen: Taller de Google Earth Engine y geemap en GeoPython Conference 2021. [YouTube](https://www.youtube.com/watch?v=wGjpjh9IQ5I ). (enlace externo)
+
 
 El profesor Qiusheng Wu, asociado en la Universidad de Tennesee, creó un [canal de YouTube](https://youtube.com/%40giswqs) (enlace externo) en abril de 2020 con el propósito de compartir tutoriales en video sobre el [paquete de Python geemap](https://geemap.org/) (enlace externo) que estaba desarrollando. Desde entonces, Wu ha publicado más de 700 tutoriales en video sobre temas geoespaciales de código abierto. El canal superó los 42 mil suscriptores, con más de 1,9 millones de visualizaciones y más de 60 mil horas de reproducción en total. En promedio, recibe 70 horas de reproducción al día.
 
@@ -104,14 +104,16 @@ En general, el canal de YouTube sirve como una herramienta importante para que W
 En 2021, Lucas Sterzinger pasó un verano de su doctorado en una pasantía. Durante ese verano, escribió una entrada de blog titulada “Un nuevo método redujo el tiempo de cálculo de esta imagen de aproximadamente 30 minutos a menos de 1 minuto” para explicar y demostrar una tecnología transformadora llamada Kerchunk, un paquete de software que hace que acceder a datos científicos en la nube sea mucho más rápido. (Sterzinger, 2021)
 
 <img src="../images/media/image10_es.jpeg" style="width:350px;height:auto;" />
-Crédito de imagen: “Fake it until you make it—Using Kerchunk to read NetCDF4 data on AWS S3 as Zarr for rapid data access” de Lucas Sterzinger, Medium, bajo CC-BY-NC 4.0
+Créditos de imagen: “Fake it until you make it—Using Kerchunk to read NetCDF4 data on AWS S3 as Zarr for rapid data access”, Lucas Sterzinger (Medium). Licencia CC BY-NC 4.0.
+
 
 Además de la publicación del blog, creó un tutorial en formato Jupyter Notebook (cuaderno computacional): tanto este recurso como el código asociado son de libre acceso para el público, lo que permite una adopción e iteración rápidas por parte de otras personas desarrolladoras y científicas. Publicó el blog en Medium y lo compartió en Twitter. El blog atrajo mucha atención sobre una tecnología reciente, ¡a medida que se desarrollaba! Esto es marcadamente diferente al lento y complicado mundo de las publicaciones académicas, donde este resultado no se habría compartido durante aproximadamente un año (debido al proceso de redacción, revisión y publicación). Dijo: "Trabajar en Kerchunk y compartirlo ampliamente, usando los principios de la Ciencia Abierta, expandió mis conexiones profesionales y me introdujo en el campo de la ingeniería de software de investigación. Las conexiones que hice a partir de esto me llevaron directamente a mi cargo actual como desarrollador de software científico en NASA". (L. Sterzinger, comunicación personal, 2023)
 
 ### Nuevos productos para aumentar el impacto
 
 <img src="../images/media/image11_es.png" style="width:350px;height:auto;" />
-Crédito de imagen: “OpenStreetMap 2011” de Ken Vermette bajo CC BY-SA 3.0
+Créditos de imagen: “OpenStreetMap 2011”, Ken Vermette. Licencia CC BY-SA 3.0.
+
 
 [OpenStreetMap](https://welcome.openstreetmap.org/) brinda acceso a mapas gratuitos y editables que cubren todo el mundo. Los mapas incluyen datos sobre rutas, edificios, direcciones, comercios, puntos de interés, modos y medios de transporte, características naturales y mucho más. Según el sitio web, el proyecto, iniciado en 2004 por Steve Coast, cuenta con más de 1 millón de personas contribuyentes y 5 millones de personas usuarias. OpenStreetMap es usado por personas, empresas, organizaciones sin fines de lucro e incluso gobiernos.
 
@@ -122,7 +124,8 @@ Los datos pueden usarse para la navegación, así como para la planificación y 
 [Matplotlib](https://matplotlib.org/) fue desarrollado alrededor de 2002 por el postdoctorando John Hunter para visualizar datos de neurobiología en los que trabajaba. Él no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «Bueno, si esto es útil para mí, tal vez lo sea para otras personas…».
 
 <img src="../images/media/image12M5L1_es.jpeg" style="width:100%;height:auto;" />
-Crédito de imagen: “Man in Black Suit Jacket Using Computer” de Kampus Production vía [Pexels](https://www.pexels.com/) (enlace externo)
+Créditos de imagen: “Man in Black Suit Jacket Using Computer”, Kampus Production vía [Pexels](https://www.pexels.com/) (enlace externo).
+
 
 Matplotlib es actualmente la librería de gráficas más utilizada en el lenguaje de programación Python y un componente principal del conjunto de librerías científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se usó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
 
@@ -133,20 +136,21 @@ Y, por último, pero no por ello menos importante, tenemos el ejemplo del equipo
 Las plataformas de comunicación abierta ampliaron el alcance y la audiencia de los resultados, habilitaron la participación de más de 400 personas investigadoras y contribuyeron a un descubrimiento increíble: la primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella.
 
 <img src="../images/media/image13_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama de flujo del proceso de investigación con etapas como ideación, planificación del proyecto, recolección y exploración de datos, y reporte y publicación. Reporte y publicación aparecen remarcadas y en la parte inferior se muestran ejemplos de publicación en acceso abierto: un artículo en Nature y su preprint en arXiv, ambos titulados “Identificación de dióxido de carbono en la atmósfera de un exoplaneta”." />
+Créditos de imagen: 
+- Identificación de dióxido de carbono en una atmósfera de un exoplaneta. (2023). [Nature](https://www.nature.com/articles/s41586-022-05269-w). (enlace externo)
+- Identificación de dióxido de carbono en una atmósfera de un exoplaneta. (2023). [arXiv](https://arxiv.org/abs/2208.11692). (enlace externo)
 
-- Identificación de dióxido de carbono en una atmósfera de un exoplaneta [captura de pantalla]. (2023). Nature. [https://www.nature.com/articles/s41586-022-05269-w](https://www.nature.com/articles/s41586-022-05269-w) (enlace externo)  
-- Identificación de dióxido de carbono en una atmósfera de un exoplaneta [captura de pantalla]. (2023). arXiv. [https://arxiv.org/abs/2208.11692](https://arxiv.org/abs/2208.11692) (enlace externo)
 
 Al público le interesa lo que estás haciendo y llegar a ese público puede implicar comunicación a través de plataformas tradicionales y nuevas. Publicar resultados en plataformas como X (antes Twitter), YouTube, TikTok, blogs, sitios web y otras redes sociales se volvió más común. La visibilidad en redes sociales aumenta drásticamente el alcance y la audiencia de tu trabajo. Hubo estudios sobre cómo esto afecta las tasas de citación. Por ejemplo, la Revista de Investigación Médica en Internet (The Journal of Medical Internet Research, JMIR, en inglés) realizó un estudio de tres años sobre el éxito relativo de los artículos de JMIR tanto en X (antes Twitter) como en el mundo académico. Encontraron que los artículos muy compartidos en X tenían 11 veces más probabilidades de ser altamente citados que los menos compartidos. (Eysenbach, 2011)
 
 Las plataformas de comunicación abierta ampliaron notablemente el alcance y la audiencia de los resultados.
 
 <img src="../images/media/image14_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama del flujo de trabajo de investigación que culmina en “Reporte y publicación” (remarcada). Debajo se muestran ejemplos de comunicación abierta en redes y plataformas: dos publicaciones en Twitter, un video en TikTok y un video en YouTube, junto a los íconos de cada plataforma y un mensaje que destaca que hay muchas maneras de reportar resultados abiertos." />
-
-- Publicación de Megan Weiner Mansfield [captura de pantalla]. (2023). X. [https://x.com/cornerof_thesky/status/1595086671275589632?s=20](https://x.com/cornerof_thesky/status/1595086671275589632?s=20) (enlace externo)  
-- Publicación de Vivien Parmentier [captura de pantalla]. (2023). X. [https://x.com/V_Parmentier/status/1595127493199302656?s=20](https://x.com/V_Parmentier/status/1595127493199302656?s=20) (enlace externo)  
-- Publicación de Astro jacket [captura de pantalla]. (2023). TikTok. [https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1](https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1) (enlace externo)  
-- Astronomers Discover Sulfur Dioxide in an Exoplanet Atmosphere [captura de pantalla]. (2023). YouTube. [https://www.youtube.com/watch?v=cI-kM_wPbbQ](https://www.youtube.com/watch?v=cI-kM_wPbbQ) (enlace externo)
+Créditos de imagen: 
+- Publicación de Megan Weiner Mansfield. (2023). [X](https://x.com/cornerof_thesky/status/1595086671275589632?s=20). (enlace externo)
+- Publicación de Vivien Parmentier. (2023). [X](https://x.com/V_Parmentier/status/1595127493199302656?s=20). (enlace externo)
+- Publicación de Astro jacket. (2023). [TikTok](https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1). (enlace externo)
+- Astronomers Discover Sulfur Dioxide in an Exoplanet Atmosphere. (2023). [YouTube](https://www.youtube.com/watch?v=cI-kM_wPbbQ). (enlace externo)
 
 ---
 
@@ -158,7 +162,7 @@ En 2016, una encuesta de *Nature* sobre reproducibilidad encontró que, de 1.576
 Si queremos resolver la crisis de la reproducibilidad, debemos considerar todo el flujo de trabajo de la investigación. El hecho de que el 70% de las personas que investigan no puedan reproducir los resultados de otros equipos científicos resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia es la piedra angular del método científico.
 
 <img src="../images/media/image15_es.png" style="width:350px;height:auto;" />
-Crédito de imagen: NASA
+Créditos de imagen: NASA.
 
 Hay muchos incentivos personales para implementar principios de ciencia abierta en todas las etapas del proceso de investigación. Al hacer Resultados Abiertos a lo largo del proceso, aumentás tu capacidad de reproducir tus propios resultados. Esto también tiene implicancias para la investigación, más allá de la capacidad de mejorarla.
 
@@ -166,7 +170,7 @@ Hay muchos incentivos personales para implementar principios de ciencia abierta 
 
 <img src="../images/media/image16_es.png" style="width:100%;height:auto;" alt="Diagrama de una línea de tiempo del proceso de investigación con etapas etiquetadas: Ideación, Planificación, Planificación del proyecto, Compromiso y formación, Recolección de datos, Gestión de datos, Exploración de datos, Preservación y Reporte y publicación. La línea avanza de izquierda a derecha." />
 
-Crédito de imagen: NASA
+Créditos de imagen: NASA.
 
 Las tres causas principales de la crisis de reproducibilidad son:
 
@@ -189,7 +193,7 @@ Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo
 ### Actividad 1.1: ¿Qué podrías hacer?
 
 <img src="../images/media/image21_es.png" style="width:350px;height:auto" />
-Crédito de imagen: NASA
+Créditos de imagen: NASA.
 
 Repensemos tu flujo de trabajo de investigación. Identifica los objetos de investigación que podrían compartirse (o podrían haber sido compartidos) como Resultados Abiertos de un proyecto en el que estás o estuviste participando. ¿Cuáles son los puntos prioritarios para superar la crisis de la reproducibilidad en cada área del proceso de investigación?
 
@@ -207,7 +211,7 @@ Repensemos tu flujo de trabajo de investigación. Identifica los objetos de inve
 **“La aplicación de los principios de la Ciencia Abierta en todas las etapas del proceso de investigación tiene muchas ventajas personales.”**
 
 [IMG:]  
-Crédito de imagen: “A Person in White Lab Gown Looking through Microscope” de Thirdman vía Pexels (enlace externo)
+Créditos de imagen: “A Person in White Lab Gown Looking through Microscope” de Thirdman vía Pexels (enlace externo)
 
 #### Conclusiones clave: ¿Qué podrías hacer?
 
