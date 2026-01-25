@@ -126,9 +126,6 @@ Los datos pueden usarse para la navegación, así como para la planificación y 
 <img src="../images/media/image12M5L1_es.jpeg" style="width:100%;height:auto;" />
 Créditos de imagen: “Man in Black Suit Jacket Using Computer”, Kampus Production vía [Pexels](https://www.pexels.com/) (enlace externo).
 
-Créditos de imagen: “Man in Black Suit Jacket Using Computer”, Kampus Production vía [Pexels](https://www.pexels.com/) (enlace externo).
-
-Créditos de imagen: “Man in Black Suit Jacket Using Computer”, Kampus Production vía <a href="https://www.pexels.com/">Pexels</a> (enlace externo).
 
 
 Matplotlib es actualmente la librería de gráficas más utilizada en el lenguaje de programación Python y un componente principal del conjunto de librerías científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se usó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
