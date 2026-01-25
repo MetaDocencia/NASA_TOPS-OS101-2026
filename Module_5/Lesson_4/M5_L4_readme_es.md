@@ -361,7 +361,7 @@ Compartir de diferentes maneras, especialmente sin revisión por pares, puede se
 - **¿Y si no puedo hacerlo todo? ¿Practico mal la Ciencia Abierta?**<br>¡La respuesta corta es no! Sólo tienes una cantidad de tiempo limitada. Incluso con la colaboración de otras personas no puedes hacer todo 
 <img src="../images/media/image69_es.png" style="width:150px;height:auto;" alt="Ilustración: dos personas detrás de una caja rota que tiene un ícono de foco. Una de las personas dice “Oh no!”." />
 <img src="../images/media/image70_es.png" style="width:150px;height:auto;" alt="Ilustración: dos personas detrás de una caja rota que tiene un ícono de foco. La otra persona dice “Está bien“." />
-Créditso de imagen: NASA.
+Créditos de imagen: NASA.
 
 Compartir Resultados Abiertos mejora la ciencia: es más rápida, más accesible y más colaborativa. En esta lección has aprendido todas las formas de compartir Resultados Abiertos. ¡Piensa cómo podrías compartir algo en lo que estés trabajando ahora!
 
