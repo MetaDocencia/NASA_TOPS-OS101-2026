@@ -108,8 +108,7 @@ Los materiales de investigación son valiosos y reutilizables por un largo perí
 ### La Ciencia Abierta aplica a todo el flujo de trabajo
 
 <img src="../images/media/image402_es.png" style="width: 100%; height: auto;" alt="Diagrama de flujo de trabajo con una línea de tiempo y el título “HITOS”. Muestra tres fases: “Planificación”, “Implementación” y “Lanzamiento”. En “Planificación” aparecen los hitos “Ideación”, “Planificación” y “Planificación del proyecto”. En “Implementación” aparecen “Compromiso y formación”, “Recolección de datos”, “Gestión de datos” y “Exploración de datos”. En “Lanzamiento” aparecen “Preservación” y “Reporte y publicación”." />
-
-Flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
+Créditos de imagen: Flujo de trabajo de Ciencia Abierta. Opensciency.
 
 ---
 
@@ -120,9 +119,7 @@ Para el propósito de nuestra discusión en esta lección y en los otros módulo
 Los productos creados a lo largo del proceso científico son necesarios para que otras personas puedan reproducir los hallazgos. Quienes investigan y deseen hacer que sus resultados sean reproducibles deben poner los elementos clave de su estudio abiertamente a disposición de los demás.
 
 <img src="../images/media/image130_es.png" style="width: 100%; height: auto;" alt="Diagrama con el listado de productos para cada hito del flujo de trabajo. Para el hito Ideación, el producto es Propuestas. Para el hito Planificación y para el hito Planificación del proyecto, el producto es Planes de Gestión de Datos y código de conducta. Para el hito Compromiso y formación, el producto es Tutoriales y pautas para colaboradores. Para el hito Recolección de datos, el producto es Datos sin procesar y metadatos. Para el hito Gestión de datos, el producto es Ciclos de análisis. Para el hito Exploración de datos, el producto es Código y cuadernos. Para el hito Preservación, el producto es Archivos. Para el hito Reporte y publicación, los productos son Artículos, conferencias, blogs, videos y tuits." />
-
-
-Productos del flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
+Créditos de imagen: Productos del flujo de trabajo de Ciencia Abierta. Opensciency.
 
 ---
 
@@ -153,8 +150,7 @@ Los módulos 3, 4 y 5 abordarán cómo generar tus datos, tu código y tus resul
 ### ¿Cómo vas a compartir?
 
 <img src="../images/media/image257_es.png" style="width: 100%; height: auto;" alt="Texto en un globo: “¿Cómo vas a compartir tus resultados más allá de una publicación? Incluye en tu plan actividades sociales y de difusión - ¿Cómo estás capacitando e involucrando a tus pares, comunidad y el público?”. A la derecha se ve una ilustración de charla o taller con varias personas sentadas y una persona presentando frente a una pantalla con gráficos e íconos." />
-
-Crédito de la imagen: Freepik.com
+Créditos de imagen: Freepik.com.
 
 El lugar que elijas para compartir tus materiales y resultados de investigación tendrá una gran influencia en su impacto, en qué tan fácil será para los demás encontrarlo, cuánto tiempo estará disponible y lo fácil que será reusarlo.
 
@@ -177,8 +173,7 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 ## Caso de estudio: Los resultados de un Plan Abierto
 
 <img src="../images/media/natashaquote_es.jpg" style="width:100%;height:auto;" alt="Manos en un laboratorio usando una pipeta." />
-
-Crédito de la imagen: modificado por la NASA a partir de “Unrecognizable chemist taking liquid with pipette from test tube in modern laboratory” de RF..studio vía [Pexels](https://www.pexels.com/) (enlace externo)
+Créditos de imagen: Modificado por la NASA a partir de “Unrecognizable chemist taking liquid with pipette from test tube in modern laboratory”, de RF..studio vía [Pexels](https://www.pexels.com/) (enlace externo).
 
 "Las pautas de la Ciencia Abierta de la NASA están centradas en nuestro trabajo de Ciencia de Temprana Liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo."
 
@@ -190,14 +185,10 @@ Crédito de la imagen: modificado por la NASA a partir de “Unrecognizable chem
 Uno de los primeros descubrimientos del Telescopio Espacial James Webb (JWST, por sus siglas en inglés) fue la [primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento se hizo posible gracias a la adopción de principios de Ciencia Abierta tanto por parte del proyecto como del equipo de investigación.
 
 <img src="../images/media/image255_es.jpg" style="width: 100%; height: auto;" alt="Ilustración del Telescopio Espacial James Webb (JWST) en el espacio." />
-
-
-Crédito de la imagen: NASA's Goddard Space Flight Center Conceptual Image Lab
+Créditos de imagen: NASA's Goddard Space Flight Center Conceptual Image Lab.
 
 <img src="../images/media/atmocomp_es.png" style="width: 100%; height: auto;" alt="Gráfico de la composición atmosférica del exoplaneta WASP-39 b medido con JWST (NIRSpec). Eje vertical: cantidad de luz bloqueada. Eje horizontal: longitud de onda (micrones)." />
-
-
-Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
+Créditos de imagen: NASA, ESA, CSA, Joseph Olmsted (STScI).
 
 ---
 
@@ -233,7 +224,7 @@ Veamos qué resultados abiertos se obtuvieron y, mientras lo hacemos, echemos un
             <td>
                 <p>En la página del equipo y en GitHub.</p>
                 <p><img src="../images/media/image219_es.jpg" style="width: 100%; height: auto;" alt="Captura de pantalla de un documento titulado: “La política de publicaciones del Programa de Ciencia de Liberación Temprana de la Comunidad de Exoplanetas en Tránsito del JWST”. Debajo se lee: “Versión 1.0, 5 de marzo de 2018”. Luego aparece un párrafo que comienza: “Todas las personas del Equipo ERS del Programa de Tránsitos ERS (ERS 1366) deben cumplir esta política…”, y más abajo el encabezado: “Valores y requisitos centrales:”." />
- The JWST Transiting Exoplanet Community Early Release Science Program Publication Policy [captura de pantalla]. (2023). GitHub. [https://ers-transit.github.io/documents/publication-policy-v1.0.pdf](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf) (enlace externo)</p>
+Créditos de imagen: GitHub (2023). The JWST Transiting Exoplanet Community Early Release Science [Program Publication Policy](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf). (enlace externo) </p>
             </td>
         </tr>
     </tbody>
@@ -281,7 +272,7 @@ OpenSciency en GitHub
             <td>
                 <p>Código en <i>GitHub</i>, lanzamiento en <i>Zenodo</i>, documentos publicados en <i>Journal of Open Source Software</i> (una revista de acceso abierto).</p>
                 <p><img src="../images/media/image221_es.jpg" style="width: 100%; height: auto;" alt="Captura de pantalla de la revista JOSS (The Journal of Open Source Software). Se ve el título del artículo: “Eureka!: An End-to-End Pipeline for JWST Time-Series Observations”. Debajo aparece un listado con autorías." />
- "Eureka! Un flujo de procesamiento de punta a punta para las series temporales de las observaciones de JWST" (en inglés, Eureka!: An End-to-End Pipeline for JWST Time-Series Observations) [captura de pantalla]. (2023). The Journal of Open Source Software. [https://joss.theoj.org/papers/10.21105/joss.04503](https://joss.theoj.org/papers/10.21105/joss.04503) (enlace externo)</p>
+Créditos de imagen: The [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.04503) (2023). “Eureka!: An End-to-End Pipeline for JWST Time-Series Observations” (enlace externo).</p>
             </td>
         </tr>
     </tbody>
@@ -322,7 +313,7 @@ El beneficio y el resultado fue que, gracias a este esfuerzo de colaboración, e
             <td>
                 <p>Todos recopilados en la <a href="https://zenodo.org/communities/ers-transit">comunidad de Zenodo</a> de ERS-TRANSIT, con el reconocimiento a quienes contribuyeron y los DOIs</p>
                 <p><img src="../images/media/zenodojwst_es.png" style="width: 100%; height: auto;" alt="Captura de pantalla de Zenodo. El título de la página dice: “El programa científico de lanzamiento temprano de la comunidad de exoplanetas en tránsito del JWST”. El resultado de la búsqueda muestra “14 resultados encontrados” y se muestra un registro con el título “Productos y modelos para ‘Nubes nocturnas y química de desequilibrio en el caliente Júpiter WASP-43b’” y el listado de autorías." />
- El Programa de Ciencia de Publicación Temprana para la Comunidad de Exoplanetas en Tránsito del JWST [captura de pantalla]. (2023). Zenodo. [https://zenodo.org/communities/ers-transit](https://zenodo.org/communities/ers-transit)</p>
+Créditos de image: [Zenodo](https://zenodo.org/communities/ers-transit) (2023). El Programa de Ciencia de Publicación Temprana para la Comunidad de Exoplanetas en Tránsito del JWST. (enlace externo)</p>
             </td>
         </tr>
     </tbody>
@@ -385,8 +376,7 @@ Existen muchos repositorios que albergan datos abiertos, software y resultados. 
 ### Continúa el plan de estudios de Introducción a la Ciencia Abierta
 
 <img src="../images/media/lightbulb-ethos-of-open-science_es.png" style="width: 100%; height: auto;" alt="Ilustración de una bombilla que representa el ethos de la Ciencia Abierta. Dentro de la bombilla hay cuatro secciones con los textos: Herramientas Abiertas, Código Abierto, Datos Abiertos y Resultados Abiertos. Alrededor de la bombilla aparecen beneficios asociados: Reproducibilidad y transparencia, Aceleración del ritmo de la ciencia, Fomento de la colaboración y Maximización del impacto científico. En la base de la bombilla se lee: El ethos de la Ciencia Abierta." />
-
-Crédito de la imagen: NASA
+Créditos de imagen: NASA.
 
 Este plan de estudios de Introducción es un buen lugar para una introducción más profunda de los diversos elementos de Ciencia Abierta. Cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a quienes participan del programa a desarrollar una mejor comprensión de este tema específico.
 
