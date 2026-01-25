@@ -33,10 +33,12 @@ Revisemos algunos ejemplos conocidos de grupos que compartieron su código y cu�
 <img src="../images/media/image394_es.jpg" style="width:500px;height:auto;" />
 Créditos de imagen: Event Horizon Telescope Collaboration.
 
+
 La primera imagen de un agujero negro no habría sido posible en esta década si todo el código necesario hubiera tenido que ser escrito únicamente por las personas científicas involucradas. Estas pudieron utilizar un software de Código Abierto bien probado y aceptado por la comunidad para realizar sus análisis y crear esta imagen ahora famosa. El código utilizado para capturar esta imagen fue creado por 21.485 personas. Los sofisticados algoritmos y pipelines iterativos de procesamiento de datos utilizados por el equipo de investigación fueron desarrollados y probados por la comunidad, lo que permitió una ciencia robusta y reproducible sin tener que reescribir cada pieza de software necesaria.
 
 <img src="../images/media/image553_es.png" style="width:500px;height:auto;" />
 Créditos de imagen: NASA/JPL-Caltech.
+
 
 Este es el helicóptero "Ingenuity", o como lo llaman los ingenieros, Ginny. Llegó a Marte a bordo del rover Perseverance, que aterrizó en el cráter Jezero en 2021.
 
@@ -66,6 +68,7 @@ Este ejemplo ilustra los beneficios de aplicar principios de Ciencia Abierta par
 <img src="../images/media/image168_es.jpg" style="width:500px;height:auto;" />
 Crédito de la imagen: NASA's Earth Observatory
 
+
 Los nuevos conjuntos de modelos climáticos de Código Abierto incorporan características que apuntan a hacer la investigación climática más colaborativa, eficiente y confiable. (Junker, 2018)
 
 Las personas que participan de la investigación han publicado un marco de modelos climáticos de Código Abierto [(Isca)](https://execlim.github.io/IscaWebsite/) que contiene modelos fáciles de obtener, totalmente gratuitos, documentados y con programas informáticos que facilitan su instalación y funcionamiento. Todos los cambios están documentados y pueden revertirse. Por lo tanto, cualquiera puede utilizar fácilmente los mismos modelos.
@@ -85,7 +88,8 @@ Entender cómo encontrar y utilizar el código de otras personas, crear el propi
   style="width:100%;height:auto;"
   alt="Captura de pantalla de la página de código fuente (estilo Doxygen) del proyecto deal.II. Se ve un editor con fondo oscuro y líneas con código."
 />
-Fuente: deal.II https://dealii.org/developer/doxygen/deal.II/grid_2tria_8h_source.html (enlace externo)
+Créditos de imagen: [deal.II](https://dealii.org/developer/doxygen/deal.II/grid_2tria_8h_source.html). (enlace externo)
+
 
 ### ¿Qué es el código vs. el software?
 
