@@ -35,8 +35,7 @@ Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de c�
 
 <img src="../images/media/image2_es.jpg" style="width:100%;height:auto;" alt="Imagen de un astronauta flotando en el espacio, con la Tierra al fondo. Sobre la imagen hay dos recuadros de texto. Uno indica: 'Las personas investigadoras identificaron un posible responsable de los cambios que se ven en el cuerpo en el espacio: el motor de la célula, llamada mitocondria'; el otro señala: 'Este análisis usa datos de la plataforma abierta GeneLab colectados durante décadas de experimentación en la Estación Espacial Internacional, incluyendo muestras de 59 astronautas'." />
 
-
-Crédito de la imagen: "Astronaut at spacewalk (en español, Astronauta en caminata espacial)" por Vadimsadovski vía [AdobeStock](https://stock.adobe.com/contributor/203529807/vadimsadovski?load_type=author&prev_url=detail&asset_id=132366202), licencia estándar (enlace externo)
+Créditos de imagen: "Astronaut at spacewalk (en español, Astronauta en caminata espacial)" por Vadimsadovski vía [AdobeStock](https://stock.adobe.com/contributor/203529807/vadimsadovski?load_type=author&prev_url=detail&asset_id=132366202), licencia estándar (enlace externo).
 
 ### Ejemplo
 
@@ -51,7 +50,8 @@ Para obtener información adicional sobre el estudio del estrés mitocondrial en
 ### ¿Qué son los datos?
 
 <img src="../images/media/image3_es.png" style="width:500px;height:auto;" alt="Ilustración de una persona caminando por un sendero mientras carga un gran cubo que dice: “DATA”. A la izquierda, un cartel indica: “REPOSITORIO DE DATOS” y debajo: “DEPÓSITOS BIENVENIDOS”, con una flecha apuntando hacia la izquierda." />
-La Comunidad The Turing Way (en inglés, The Turing Way Community). Esta ilustración fue creada por Scriberia con la comunidad de The Turing Way y se usa bajo una licencia CC-BY 4.0. [DOI: 10.5281/zenodo.3332807](https://zenodo.org/records/3332808) (enlace externo)
+Créditos de imagen: The Turing Way Community. Ilustración creada por Scriberia con la comunidad de The Turing Way, licencia CC BY 4.0. DOI: [10.5281/zenodo.3332807](https://zenodo.org/records/3332808) (enlace externo).
+
 
 ---
 
@@ -76,7 +76,8 @@ El término "Datos Abiertos" se define en el manual de Datos Abiertos de la Open
 "Los Datos Abiertos son datos que cualquiera puede usar, reusar y redistribuir libremente, sujetos únicamente y como máximo al requisito de atribuir y compartir por igual" [¿Qué son los Datos Abiertos? (en inglés, What is Open Data?), s. f.](https://opendatahandbook.org/guide/en/what-is-open-data/)
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote_es.jpg">
-Crédito de la imagen: Foto de Killian Cartignies en [Unsplash](https://unsplash.com/photos/person-wearing-silver-bracelet-holding-a-light-oKb2_15Uc8w) (enlace externo)
+Créditos de imagen: Foto de Killian Cartignies en [Unsplash](https://unsplash.com/photos/person-wearing-silver-bracelet-holding-a-light-oKb2_15Uc8w) (enlace externo).
+
 
 Al hablar de datos en el contexto de este módulo, nos centramos en los datos que estás preparando para compartir, como los asociados a una publicación científica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y, por lo tanto, no serán el foco de este módulo.
 
@@ -169,8 +170,8 @@ La implementación de buenas prácticas para la Ciencia Abierta puede fortalecer
 Tómate un momento para reflexionar sobre lo que significa para ti compartir datos.
 
 <img style="width:100%;height:auto;" src="../images/media/image6_es.jpeg" alt="Nube de palabras" />
+Créditos de imagen: Nube de palabras "Open Research Data - the FAIRest Data is the Future of Science - Estonia national OpenAIRE event" por OpenAIRE, licencia CC 4.0.
 
-Fuente de la imagen: Nube de palabras "Open Research Data - the FAIRest Data is the Future of Science - Estonia national OpenAIRE event" por OpenAIRE, con licencia CC 4.0
 
 La imagen muestra una nube de palabras (en inglés) con mayor presencia de términos como FAIR (principios FAIR), Datos Abiertos de investigación (Open Research Data), Ciencia Abierta (Open Science), Datos Abiertos (Open Data), Planes de Gestión de Datos (Data Management Plans), DOI (identificador de objeto digital), almacenamiento (storage) y reuso (reuse). También, con menor presencia, personas investigadoras (researchers), repositorio (repository), archivo (archiving), publicación (publishing), DataCite y OpenAire, entre otras.
 
@@ -209,7 +210,7 @@ En última instancia, eres libre de implementar los principios y recursos de los
 
 <img src="../images/media/image9_es.jpg" style="width:100%;height:auto;" alt="Caricatura en trazo naranja titulada “PRINCIPIOS FAIR”. Presenta cuatro viñetas, cada una asociada a un principio: “FÁCIL DE ENCONTRAR” (una persona busca datos en una hoja), “ACCESIBLE” (otra persona accede a datos en un pizarrón donde aparece un DOI), “INTEROPERABLE” (una persona frente a una computadora se pregunta cómo abrir un archivo .xz) y “REUSABLE” (dos personas intercambian un paquete con el símbolo de Creative Commons, indicando permisos de reutilización). " />
 
-Crédito de la imagen: Una caricatura que describe el intercambio de datos FAIR por Patrick Hochstenbach, con licencia CC0 1.0
+Créditos de imagen: Caricatura sobre el intercambio de datos FAIR, por Patrick Hochstenbach, licencia CC0 1.0.
 
 ---
 
@@ -371,7 +372,8 @@ Para este plan de estudios, utilizamos el modelo de flujo de trabajo de Openscie
 Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaciones de datos para adherirse a los principios de Datos Abiertos en la medida de lo posible. Para nuevos proyectos, tus propuestas deberían incluir la creación de Datos Abiertos desde el inicio de tu proyecto.
 
 <img src="../images/media/image10_es.png" style="width:100%;height:auto;" alt="Diagrama del flujo de trabajo con hitos y productos asociados. Hitos: Ideación → producto: “Propuestas”. Planificación y Planificación del proyecto → productos: “Planes de Gestión de Datos, código de conducta”. Compromiso y formación → producto: “Tutoriales, pautas para colaboradores”. Recolección de datos → producto: “Datos sin procesar, metadatos”. Gestión de datos → producto: “Ciclos de análisis”. Exploración de datos → producto: “Código, cuadernos”. Preservación → producto: “Archivos”. Reporte y publicación → productos: “Artículos, conferencias, blogs, videos, tuits”." />
-Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
+
+Créditos de imagen: Opensciency. Productos del flujo de trabajo de Ciencia Abierta.
 
 En este plan de estudios, el contenido se organiza según cómo podrías usarlo, hacerlo y compartirlo. Una parte de la Ciencia Abierta consiste en construir sobre los materiales de otros (usar), crear materiales por ti mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
 
