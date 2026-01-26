@@ -43,8 +43,6 @@ Para estos ejemplos, ¿qué otra información o detalles podrían añadirse? Si 
 
 ## Ejemplos de pasos hacia resultados más abiertos
 
-**Encode: Multidimensional encoding of brain connectomes (external link)**
-
 <img src="../images/media/encode_example_es.jpg" style="width:100%;height:auto;" alt="Figura sobre codificación multidimensional de conectomas: ejemplos de tractografía dMRI y esquemas que representan fascículos, vóxeles y orientación en una estructura multidimensional, con tractos y regiones cerebrales resaltadas." />
 
 Créditos de imagen: Caiafa, C. F., Pestilli, F. Multidimensional encoding of brain connectomes. Scientific Reports 7, 11491 (2017). [https://doi.org/10.1038/s41598-017-09250-w](https://doi.org/10.1038/s41598-017-09250-w) (enlace externo)
