@@ -30,7 +30,7 @@ Selecciona el término para ver la descripción.
 
 **Ciencia Abierta** – Cultura colaborativa habilitada por la tecnología que promueve el intercambio abierto de datos, información y conocimiento dentro de la comunidad científica y el público en general, con el fin de acelerar la investigación y su comprensión. (Ramachandran et al., 2021)
 
-**Datos Abiertos** – Datos que pueden ser utilizados, reutilizados y redistribuidos libremente por cualquier persona.  
+**Datos Abiertos** – Datos que pueden ser usados, reusados y redistribuidos libremente por cualquier persona.  
 [Más información sobre Datos Abiertos](https://opendatahandbook.org/guide/es/what-is-open-data/).
 
 **Código Abierto** – Programas informáticos cuyo código fuente está disponible para su uso o modificación a partir de su diseño original.  
@@ -40,7 +40,7 @@ Selecciona el término para ver la descripción.
 [Más información sobre Acceso Abierto](https://www.unesco.org/es/open-access).
 
 **Ciencia Ciudadana, Ciencia Comunitaria y Ciencia Participativa** –  
-Términos utilizados para describir proyectos donde personas del público participan en el proceso científico.
+Términos usados para describir proyectos en los que personas del público participan en el proceso científico.
 
 - **Ciencia Ciudadana**: definida por ley como "una forma de colaboración abierta en la que personas u organizaciones participan voluntariamente en el proceso científico de diversas maneras". (*Crowdsourcing and citizen science*, 2025).  
   Información adicional sobre la Ciencia Ciudadana de la NASA:  
@@ -48,37 +48,37 @@ Términos utilizados para describir proyectos donde personas del público partic
   - [Los proyectos de Ciencia Ciudadana de la NASA](https://science.nasa.gov/citizen-science/) se evalúan con los mismos estándares rigurosos que cualquier proyecto científico de la NASA.  
   - Esta práctica ética reconoce el aporte de las personas voluntarias y procura que su trabajo genere contribuciones reales a la ciencia, idealmente publicadas en la literatura científica. Puedes [obtener más información aquí](https://science.nasa.gov/citizen-science/how-to-guide/) sobre cómo liderar un proyecto de Ciencia Ciudadana de la NASA.
 
-- **Ciencia Comunitaria**: puede incluir proyectos con o sin participación de personas especialistas. (*Community Science*, 2025)
+- **Ciencia Comunitaria**: puede incluir proyectos con o sin la participación de personas especialistas. (*Community Science*, 2025)
 
-- **Ciencia Participativa**: término que busca evitar el uso de "ciudadana" para disminuir confusiones e incrementar la colaboración, ya que la participación en proyectos de Ciencia Ciudadana o Comunitaria no requiere ciudadanía de un país determinado. (*Why Do We Call It Participatory Science?*, n.d.)
+- **Ciencia Participativa**: término que busca evitar el uso de "ciudadana" para disminuir confusiones e incrementar la colaboración, ya que la participación en proyectos de Ciencia Ciudadana o Comunitaria no requiere la ciudadanía de un país determinado. (*Why Do We Call It Participatory Science?*, n.d.)
 
 **Investigación Abierta** – Forma de realizar investigación y compartir conocimiento basada en el principio de que la investigación debe ser lo más abierta posible.  
 [Más información sobre Investigación Abierta](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/).
 
-**Práctica académica abierta** – Término amplio que engloba el intercambio rápido y generalizado de actividades y resultados académicos en múltiples disciplinas.  
+**Práctica académica abierta** – Término amplio que engloba el intercambio rápido y generalizado de actividades y resultados académicos entre múltiples disciplinas.  
 (Basado en *Collaborating to build a more open scholarly ecosystem*, 2024)
 
 **Reproducibilidad y replicabilidad** –  
-- **Reproducibilidad**: obtener resultados consistentes utilizando los mismos datos y código que en un estudio original (reproducibilidad computacional).  
-- **Replicabilidad**: obtener resultados consistentes en diferentes estudios orientados a responder la misma pregunta científica, utilizando nuevos datos o métodos computacionales.  
+- **Reproducibilidad**: obtener resultados consistentes usando los mismos datos y el mismo código que en un estudio original (reproducibilidad computacional).  
+- **Replicabilidad**: obtener resultados consistentes en diferentes estudios orientados a responder la misma pregunta científica, usando nuevos datos o métodos computacionales.  
   [Más información](https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research).
 
-En informática, la reproducibilidad puede referirse a obtener los mismos resultados usando datos y métodos propios, mientras que la replicabilidad puede implicar obtener los mismos resultados usando los datos o artefactos de quien realizó el estudio original.  
+En informática, la reproducibilidad puede referirse a obtener los mismos resultados usando datos y métodos propios, mientras que la replicabilidad puede implicar obtener los mismos resultados usando los datos o los artefactos de quien realizó el estudio original.  
 [Más información](https://www.ncbi.nlm.nih.gov/books/NBK547546/).
 
 **Revisión por pares** – Evaluación de un trabajo por parte de personas con competencias similares a las de quienes lo produjeron.  
 [Más información](https://es.wikipedia.org/wiki/Revisi%C3%B3n_por_pares).
 
-**Principios FAIR** – Principios para mejorar la Facilidad de encontrar, Accesibilidad, Interoperabilidad y Reutilización de activos digitales.
+**Principios FAIR** – Principios para mejorar la Facilidad de encontrar, Accesibilidad, Interoperabilidad y Reuso de activos digitales.
 
 **Métricas (en el contexto del mérito científico)** – Herramientas cuantitativas para evaluar la calidad e impacto de los resultados de investigación.  
 [Información sobre métricas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/).
 
-**Apertura** – Rasgo vinculado con la transparencia, la colaboración, la honestidad y la receptividad a nuevas ideas y experiencias.
+**Apertura** – Rasgo vinculado a la transparencia, la colaboración, la honestidad y la receptividad a nuevas ideas y experiencias.
 
-**Transparencia** – Cualidad de ser claro o fácil de percibir.
+**Transparencia** – Cualidad de ser clara o fácil de percibir.
 
-**Rigor** – Se utiliza para describir experiencias educativas y expectativas que suponen un desafío académico, intelectual y personal.
+**Rigor** – Se usa para describir experiencias educativas y expectativas que suponen un desafío académico, intelectual y personal.
 
 ---
 
