@@ -12,17 +12,17 @@
 
 La capacidad de discernir cuándo y cómo compartir información de manera adecuada es una habilidad esencial de la Ciencia Abierta. Quienes practican Ciencia Abierta deben equilibrar el objetivo de maximizar la apertura con la necesidad de mantener la seguridad y la privacidad y, al mismo tiempo, respetar las políticas y prácticas institucionales.
 
-En esta lección se presentan consideraciones importantes sobre seguridad y privacidad para quienes investigan al compartir información. Luego, se abordará el tema de la propiedad intelectual, la forma en que puede protegerse y los distintos tipos de licencias disponibles para facilitar el intercambio, garantizando que la persona propietaria de la información reciba el crédito correspondiente por su trabajo. Por último, esta lección explicará el efecto que tienen las normas y regulaciones establecidas por una organización, un subsidio o una editorial sobre las opciones de una persona que hace ciencia para poner sus resultados en Acceso Abierto.
+En esta lección se presentan consideraciones importantes sobre seguridad y privacidad para quienes investigan al compartir información. Luego, se abordará el tema de la propiedad intelectual, la forma de protegerla y los distintos tipos de licencias disponibles para facilitar el intercambio, garantizando que la persona propietaria de la información reciba el crédito correspondiente por su trabajo. Por último, esta lección explicará el efecto que tienen las normas y regulaciones establecidas por una organización, un subsidio o una editorial sobre las opciones de una persona que hace ciencia para poner sus resultados en Acceso Abierto.
 
 ## Objetivos de aprendizaje
 
 Al finalizar esta lección, deberías ser capaz de:
 
-- Enumerar los motivos por los que cierta información no debe compartirse por cuestiones de seguridad o privacidad.
+- Enumerar los motivos por los que cierta información no debe compartirse por cuestiones de seguridad o de privacidad.
 - Definir qué es la propiedad intelectual y recordar las distintas formas de compartir de manera abierta, ya sea mediante licencias o a través del dominio público.
-- Reconocer las políticas y procedimientos de intercambio de información del propio departamento, organización, agencia financiadora y revista o editorial, con el fin de tomar decisiones de comunicación científica responsables.
+- Reconocer las políticas y procedimientos de intercambio de información del propio departamento, de la organización, de la agencia financiadora y de la revista o editorial, con el fin de tomar decisiones de comunicación científica responsables.
 
-Los párrafos siguientes de esta sección describen las principales áreas a considerar para determinar si los datos deben ponerse a disposición de manera abierta o no.
+Los párrafos siguientes de esta sección describen las principales áreas a considerar para determinar si los datos deben ponerse a disposición de forma abierta o no.
 
 ## Mantener la seguridad y proteger la privacidad
 
@@ -49,7 +49,7 @@ Este ejemplo y otros pueden consultarse en el [Repositorio de Datos de Ciencia A
 
 ### ¿Qué es la propiedad intelectual?
 
-La propiedad intelectual es el reconocimiento de los derechos asociados a contenidos creados por la mente humana. Existen diversos tipos de propiedad intelectual y la forma en que se reconocen depende del país, del tipo de obra y de los plazos de protección.
+La propiedad intelectual es el reconocimiento de los derechos asociados a los contenidos creados por la mente humana. Existen diversos tipos de propiedad intelectual y la forma en que se reconocen depende del país, del tipo de obra y de los plazos de protección.
 
 Es importante entender quién tiene los derechos sobre el contenido creado. Esto puede depender de varios factores. El trabajo que se realiza puede pertenecer al empleador o a la editorial que publica la obra, puede estar en el dominio público, puede depender de la licencia de un trabajo subyacente o puede constituir propiedad intelectual propia. La titularidad de los derechos afecta la forma en que se puede compartir el trabajo.
 
@@ -77,13 +77,13 @@ Muchas organizaciones cuentan con grupos que apoyan el desarrollo y la comercial
 
 **Dominio público**
 
-En algunos casos, la propiedad intelectual no está protegida. El dominio público se refiere a obras creativas que no tienen derechos de propiedad intelectual asociados. Algunos tipos de propiedad intelectual pueden caducar tras transcurrido cierto tiempo. Determinados tipos de trabajos, como los generados por empleados públicos en Estados Unidos, no están protegidos por el derecho de autor y pueden pasar de inmediato al dominio público. En otros casos, la persona creadora decide donar su obra al dominio público o los derechos de propiedad intelectual no se aplican al tipo de trabajo creativo del que se trata.
+En algunos casos, la propiedad intelectual no está protegida. El dominio público se refiere a obras creativas que no tienen derechos de propiedad intelectual asociados. Algunos tipos de propiedad intelectual pueden caducar tras un cierto tiempo. Determinados tipos de trabajos, como los realizados por empleados públicos en Estados Unidos, no están protegidos por el derecho de autor y pueden pasar de inmediato al dominio público. En otros casos, la persona creadora decide donar su obra al dominio público o los derechos de propiedad intelectual no se aplican al tipo de trabajo creativo en cuestión.
 
 ### ¿Por qué deben importarte las políticas de propiedad intelectual?
 
 ¿Por qué, como persona científica, debería preocuparme por esto? Piensa en lo que ocurriría con la propiedad de tu investigación si cambias de institución:
 
-- ¿Puedes llevarte los borradores de tus trabajos, presentaciones y ejemplares de publicaciones?
+- ¿Puedes llevarte los borradores de tus trabajos y presentaciones, y los ejemplares de tus publicaciones?
 - ¿Puedes llevarte tus datos?
 - ¿Puedes llevarte tu software?
 
@@ -95,14 +95,14 @@ Al principio, preocuparse por la propiedad intelectual y los derechos de autorí
 
 Si envías tu manuscrito a una editorial que exige ser la dueña de los derechos de la obra, ¿Podrás acceder a esa publicación cuando cambies de trabajo y ya no tengas una suscripción a esa obra? ¿Puedes cumplir los mandatos de tu organismo de financiación para compartir abiertamente tu trabajo? ¿Puedes reusar las figuras que has hecho en obras derivadas? ¿Podrán otras personas acceder a tu trabajo? Aunque parezcan cuestiones por las que no deberías preocuparte, pueden resultar muy difíciles de afrontar luego.
 
-Ejemplo: En los escenarios en los que se solicita el consentimiento antes de compartir (o se modifican las condiciones para compartir), puede resultar complejo aplicar los cambios. Biopython, un conjunto de herramientas de software libre para biología, comenzó a cambiar la licencia de su código en 2016 y todavía seguía trabajando en ese proceso en 2023, revisando persona colaboradora por persona colaboradora.
+Ejemplo: En escenarios en los que se solicita el consentimiento antes de compartir (o se modifican las condiciones para compartir), puede resultar complejo aplicar los cambios. Biopython, un conjunto de herramientas de software libre para biología, comenzó a cambiar la licencia de su código en 2016 y todavía seguía trabajando en ese proceso en 2023, revisando persona colaboradora por persona colaboradora.
 
-<img src="../images/media/image106_es.png" style="width: 100%; height: auto;" alt="Captura de pantalla de un issue de GitHub titulado “Cambiar al uso de la licencia BSD de 3 cláusulas” (#898), abierto el 25 de julio de 2016 por peterjc. En el texto se explica que Biopython usa una variante de la licencia estilo Python/HPND y se propone cambiar a la licencia BSD de 3 cláusulas para simplificar el empaquetado y la reutilización, con enlaces a las licencias y a discusiones previas." />
+<img src="../images/media/image106_es.png" style="width: 100%; height: auto;" alt="Captura de pantalla de un issue de GitHub titulado “Cambiar al uso de la licencia BSD de 3 cláusulas” (#898), abierto el 25 de julio de 2016 por peterjc. En el texto se explica que Biopython usa una variante de la licencia estilo Python/HPND y se propone cambiar a la licencia BSD de 3 cláusulas para simplificar el empaquetado y el reuso, con enlaces a las licencias y a discusiones previas." />
 Créditos de imagen: GitHub (2023). [biopython/biopython#898](https://github.com/biopython/biopython/issues/898) (enlace externo).
 
 ### Licenciamiento
 
-El licenciamiento es una forma de ayudar a los demás a reusar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden utilizar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo reciba el crédito adecuado. Por lo general, reusar contenidos sin licencia es ilegal y puede constituir una falta de ética académica, aunque estos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido, así como tu trabajo de ser utilizado sin un permiso explícito. Afortunadamente, es fácil permitir que otras personas reusen tu trabajo.
+El licenciamiento es una forma de ayudar a los demás a reusar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden usar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo reciba el crédito correspondiente. Por lo general, reusar contenidos sin licencia es ilegal y puede constituir una falta de ética académica, aunque estos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido, así como tu trabajo, de ser usado sin un permiso explícito. Afortunadamente, es fácil permitir que otras personas reusen tu trabajo.
 
 <img style="width:70%;height:auto;" src="../images/media/knowledgebasequote_es.jpg" alt="Primer plano del símbolo de Creative Commons con el texto “BY-NC-ND”." />
 Créditos de imagen: Umberto, Unsplash (CC BY-NC-ND 4.0).
@@ -113,7 +113,7 @@ Créditos de imagen: Umberto, Unsplash (CC BY-NC-ND 4.0).
 
 Créditos de imagen: [XKCD](https://xkcd.com/14/](https://xkcd.com/14/) (CC BY-NC 2.5 DEEX). (enlace externo)  
 
-Si un trabajo no tiene una licencia explícita, otras personas no pueden ni deberían reutilizarlo, incluso cuando se desea que lo hagan.
+Si un trabajo no tiene una licencia explícita, otras personas no pueden ni deberían reusarlo, incluso cuando se desea que lo hagan.
 
 Las licencias pueden aplicarse a datos, código, informes, publicaciones y casi cualquier otro resultado “creativo”. Existen varios tipos de licencias, además de la situación en la que no se necesita licencia porque la obra se encuentra en el dominio público:
 
@@ -162,7 +162,7 @@ Las licencias pueden aplicarse a datos, código, informes, publicaciones y casi 
   <tbody>
     <tr>
         <td colspan="3">
-            <p>El dominio público no es una licencia, sino una indicación de que no existen restricciones de reuso sobre la obra. <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero</a> es una marca de dominio público con validez mundial que indica que el material puede utilizarse sin restricciones.</p>
+            <p>El dominio público no es una licencia, sino una indicación de que no existen restricciones al reuso de la obra. <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero</a> es una marca de dominio público con validez mundial que indica que el material puede usarse sin restricciones.</p>
         </td>
     </tr>
   </tbody>
@@ -206,7 +206,7 @@ Hasta ahora hemos hablado de las situaciones en las que compartir puede no ser a
 
 Es importante planificar la publicación de tus datos y resultados desde el inicio de un proyecto de investigación. Conviene investigar y obtener todos los permisos, aprobaciones y certificaciones necesarios para asegurarte de poder compartir los productos de investigación.
 
-**Recordar:** Las revistas y los repositorios respetables rechazarán los envíos si los requerimientos no se pueden documentar.
+**Recordar:** Las revistas y los repositorios respetables rechazarán los envíos si los requerimientos no pueden documentarse.
 
 <table>
   <thead>
@@ -270,9 +270,9 @@ Es importante planificar la publicación de tus datos y resultados desde el inic
 
 ### Compartir investigación controlada
 
-Como ya hemos visto, diferentes tipos de propiedad intelectual se concretan utilizando diferentes estructuras formales. Por ejemplo, los productos, tales como textos y medios de comunicación, se publican bajo copyright, y el software se suministra bajo una licencia.
+Como ya hemos visto, los distintos tipos de propiedad intelectual se materializan mediante distintas estructuras formales. Por ejemplo, los productos, tales como textos y medios de comunicación, se publican bajo copyright y el software se suministra bajo una licencia.
 
-Es importante consultar con comunidades especializadas cuando prepares tu plan de investigación. Los métodos para compartir resultados pueden seguir diferentes estándares o prácticas, o requerir un formato de datos especial para su distribución o envío a repositorios comunes.
+Es importante consultar con comunidades especializadas cuando prepares tu plan de investigación. Los métodos para compartir resultados pueden seguir diferentes estándares o prácticas, o requerir un formato de datos específico para su distribución o envío a repositorios comunes.
 
 <table>
   <thead>
@@ -335,9 +335,9 @@ Es importante consultar con comunidades especializadas cuando prepares tu plan d
   </tbody>
 </table>
 
-¿Cuáles son las reglas para la ciencia? Antes de compartir, comprueba que tienes los derechos para hacerlo:
+¿Cuáles son las reglas de la ciencia? Antes de compartir, comprueba que tienes los derechos para hacerlo:
 
-1. ¿Qué dice tu supervisor o investigador principal?
+1. ¿Qué dice quien supervisa tu investigación?
 2. ¿Qué dice tu subsidio/contrato?
 3. ¿Qué dice tu organización?
 4. ¿Qué dice tu agencia de financiación?
@@ -348,25 +348,25 @@ Recuerda, a veces lo que digan puede entrar en conflicto, por ejemplo:
 - Si tu subsidio/patrocinador indica que los resultados deben ser públicos, normalmente tu instituto te permitirá compartirlos, incluso si por lo general son más restrictivos.
 - Diferentes tipos de resultados pueden tener distintos tipos de restricciones. (ej. Software o hardware pueden tener una expectativa, mientras que los datos pueden tener otras).
 
-Las universidades y otras instituciones pueden contar con oficinas de política de software de código abierto (Open Source Policy Offices, OSPO) o con oficinas de comercialización. La mayoría de los institutos contarán con consejos asesores en propiedad intelectual para responder consultas. El personal de biblioteca también es un buen recurso para orientación sobre cómo compartir resultados. Tener presentes estas políticas desde el inicio del proyecto puede ahorrar tiempo y esfuerzo más adelante, por todo esto…
+Las universidades y otras instituciones pueden contar con oficinas de política de software de código abierto (Open Source Policy Offices, OSPO) o con oficinas de comercialización. La mayoría de los institutos contarán con consejos asesores en materia de propiedad intelectual para responder consultas. El personal de la biblioteca también es un buen recurso para orientación sobre cómo compartir resultados. Tener presentes estas políticas desde el inicio del proyecto puede ahorrar tiempo y esfuerzo más adelante, por todo esto…
 
 ### Cuanto antes, mejor
 
-Es importante considerar qué políticas pueden afectar tus resultados de investigación tan pronto como sea posible, de modo que cuando desees compartirlos, ya hayas obtenido las aprobaciones necesarias o sepas dónde solicitarlas. Esto asegura que no compartas inadvertidamente (o dejes de compartir) algo que pueda afectar tu carrera, impactar negativamente a otras personas o plantear problemas legales.
+Es importante considerar qué políticas pueden afectar tus resultados de investigación tan pronto como sea posible, de modo que cuando desees compartirlos, ya hayas obtenido las aprobaciones necesarias o sepas dónde solicitarlas. Esto asegura que no compartas inadvertidamente (o dejes de compartir) algo que pueda afectar tu carrera, perjudicar a otras personas o plantear problemas legales.
 
 **Recuerda:** ¡No puedes dejar de compartir algo que ya está compartido! Del mismo modo, si tu investigación requiere aprobación ética o consentimiento para ser compartida, podría ser más difícil obtenerlo después de haber completado el estudio.
 
-Esto también ayuda a estructurar tu investigación, datos y métodos de manera que te resulte más fácil compartirlos cuando llegue el momento.
+Esto también ayuda a estructurar tu investigación, tus datos y tus métodos de manera que te resulte más fácil compartirlos cuando llegue el momento.
 
 ### Reusar éticamente en ciencia - ¡Da crédito!
 
-Como mencionamos anteriormente, las licencias ayudan a facilitar el compartir tu trabajo, pero también garantiza que conserves el crédito. Siempre es importante citar la fuente correctamente de cualquier contenido que uses y recordar compartir solo contenido con licencias adecuadas. Aunque una licencia no exija atribución, proporcionar la fuente ayuda a aumentar la reproducibilidad al señalar la procedencia de tu trabajo. Esta es la norma en la comunidad científica.
+Como mencionamos anteriormente, las licencias facilitan compartir tu trabajo y también garantizan que conserves el crédito. Siempre es importante citar la fuente correctamente de cualquier contenido que uses y recordar compartir solo contenido con licencias adecuadas. Aunque una licencia no exija atribución, proporcionar la fuente ayuda a aumentar la reproducibilidad al señalar la procedencia de tu trabajo. Esta es la norma en la comunidad científica.
 
 Al reusar ciencia recuerda:
 
 - La Ciencia Abierta es una práctica de colaboración y dar reconocimiento es fundamental para que funcione.
-- Considera citar todos los recursos utilizados: conjuntos de datos, software, infraestructura, etc.
-- Es de esperar que otras personas actúen de igual manera al utilizar tu trabajo (la ética científica dicta que deberían hacerlo).
+- Considera citar todos los recursos usados: conjuntos de datos, software, infraestructura, etc.
+- Es de esperar que otras personas actúen de la misma manera al usar tu trabajo (la ética científica exige que lo hagan).
   
 <img src="../images/media/image332_es.jpg" style="width: 350px; height: auto;" alt="Ilustración de un hombre cpon corona y barba llevando sobre sus hombros a otra persona más pequeña, que señala hacia adelante." />
 Créditos de imagen: “Pararse sobre hombros de gigantes” (dominio público). [Biblioteca del Congreso](https://commons.wikimedia.org/wiki/File:Library_of_Congress,_Rosenwald_4,_Bl._5r_cropped_es.jpg), Rosenwald (CC BY).
@@ -387,16 +387,16 @@ En esta actividad reflexiona sobre las siguientes preguntas:
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
-- ¿Cuáles son algunas razones por las que NO querrías que tu investigación sea abierta?
+- ¿Cuáles son algunas razones por las que NO querrías que tu investigación fuera abierta?
 - ¿Cómo equilibrarías la apertura con la privacidad, la seguridad y el control?
 
 ## Lección 3: Resumen
 
 En esta lección has aprendido:
 
-- Situaciones cuando puede ser inapropiado o perjudicial compartir tus datos o investigación. Estas incluyen el mantenimiento de la seguridad, la protección de la intimidad y el respeto de comunidades diversas.
-- Qué es la propiedad intelectual, quién la posee, y cómo se protege a través de licencias.
-- Diversas organizaciones dentro del ámbito científico (ej. universidades, editoriales, agencias de financiación, etc.) pueden tener sus propias políticas individuales sobre compartir que es mejor considerar al inicio de un proyecto de investigación para evitar posibles obstáculos en el camino.
+- Situaciones en las que puede ser inapropiado o perjudicial compartir tus datos o investigación. Estas incluyen el mantenimiento de la seguridad, la protección de la intimidad y el respeto a las comunidades diversas.
+- Qué es la propiedad intelectual, quién la posee y cómo se protege a través de licencias.
+- Diversas organizaciones dentro del ámbito científico (ej. universidades, editoriales, agencias de financiación, etc.) pueden tener sus propias políticas individuales sobre compartir, que es mejor considerar al inicio de un proyecto de investigación para evitar posibles obstáculos en el camino.
 
 ## Lección 3: Evaluación
 
@@ -430,5 +430,5 @@ Responder las siguientes preguntas para poner a prueba lo aprendido hasta el mom
 
 - ¿Qué dice tu agencia de financiación?
 - ¿Qué dice tu organización?
-- ¿Cuál es el impacto en las comunidades involucradas debido a la divulgación de la información?
+- ¿Cuál es el impacto en las comunidades involucradas por la divulgación de la información?
 - Todas las anteriores
