@@ -12,19 +12,19 @@
 
 ## Descripción general
 
-En esta lección practicarás la redacción de un plan de gestión de datos (PGD) para tu proyecto. Contar con un PGD puede aclarar dónde, cuándo y cómo tus datos pueden ser reutilizados. También aprenderás a involucrarte en comunidades de Datos Abiertos, lo que abre nuevas vías para compartir tus datos. Por último, conocerás recursos que puedes explorar, así como capacitaciones para comenzar tu camino con Datos Abiertos.
+En esta lección practicarás la redacción de un plan de gestión de datos (PGD) para tu proyecto. Contar con un PGD puede aclarar dónde, cuándo y cómo tus datos pueden ser reusables. También aprenderás a involucrarte en comunidades de Datos Abiertos, lo que abre nuevas vías para compartir tus datos. Por último, conocerás recursos que puedes explorar, así como capacitaciones para comenzar tu camino con Datos Abiertos.
 
 ## Objetivos de aprendizaje
 
 Al finalizar esta lección deberías ser capaz de:
 
-- Describir los pasos para escribir un Plan de Gestión de Datos.
+- Describir los pasos para elaborar un Plan de Gestión de Datos.
 - Enumerar oportunidades para participar en las comunidades de Datos Abiertos.
 - Identificar recursos adicionales de Ciencia Abierta y listar formas de continuar entrenándote.
 
 ## Escribir un Plan de Ciencia Abierta y Gestión de Datos
 
-A lo largo de este módulo se presentaron el proceso, las responsabilidades y los factores a considerar al crear un Plan de Ciencia Abierta y Gestión de Datos. Elementos comunes de los PGD relevantes para datos abiertos incluyen una descripción de lo siguiente:
+A lo largo de este módulo se presentaron el proceso, las responsabilidades y los factores a considerar al crear un Plan de Ciencia Abierta y Gestión de Datos. Elementos comunes de los PGD relevantes para Datos Abiertos incluyen una descripción de lo siguiente:
 
 |  |  |
 |---|---|
@@ -44,11 +44,11 @@ Revisa el ejemplo de un Plan de Gestión de Datos público del proyecto [ThEBES]
 
 En el PGD, responde las siguientes preguntas:
 
-1. Qué: Formatos de datos y, cuando corresponda, estándares.
-2. Cuándo: Cuándo y si compartir datos.
-3. Dónde: Repositorios previstos para datos archivados.
-4. Cómo: Cómo el plan habilita al reuso de los datos.
-5. Quién: Roles y responsabilidades de los miembros del equipo para implementar el pgd.
+1. **Qué**: formatos de datos y, cuando corresponda, estándares.
+2. **Cuándo**: cuándo y si compartir datos.
+3. **Dónde**: repositorios previstos para datos archivados.
+4. **Cómo**: cómo el plan habilita el reuso de los datos.
+5. **Quién**: roles y responsabilidades de los miembros del equipo para implementar el pgd.
 
 ## Las comunidades de Datos Abiertos y tú
 
@@ -68,7 +68,7 @@ Existen numerosas formas de involucrarse y apoyar comunidades de Datos Abiertos,
     <tr>
         <td colspan="3">
             <ul>
-            <li>Contribuir a repositorios de datos abiertos</li>
+            <li>Contribuir a repositorios de Datos Abiertos</li>
             <li>Muchos repositorios cuentan con comités que proporcionan consejos y comentarios (y con frecuencia buscan voluntarios para participar)</li>
             <li>Suscribirse a listas de correo y cuentas de redes sociales de repositorios</li>
             </ul>
@@ -112,8 +112,8 @@ Existen numerosas formas de involucrarse y apoyar comunidades de Datos Abiertos,
     <tr>
         <td colspan="3">
             <ul>
-            <li>Organizar un encuentro sobre datos abiertos</li>
-            <li>Participar en un encuentro sobre datos abiertos</li>
+            <li>Organizar un encuentro sobre Datos Abiertos</li>
+            <li>Participar en un encuentro sobre Datos Abiertos</li>
             </ul>
             <p><img src="../images/media/image54_es.png" style="width:350px;height:auto" /></p>
         </td>
@@ -125,7 +125,7 @@ Existen numerosas formas de involucrarse y apoyar comunidades de Datos Abiertos,
 
 ### Descargo de responsabilidad
 
-Ten en cuenta que se citan varios artículos a lo largo del curso y, según el artículo, es posible que esté detrás de un muro de pago. Si necesitas una copia de algún artículo, contacta a la persona autora o busca el texto en un archivo de preprints en línea, como [bioRxiv.org](http://biorxiv.org/) (enlace externo).
+Ten en cuenta que se citan varios artículos a lo largo del curso y que, según el artículo, es posible que esté detrás de un muro de pago. Si necesitas una copia de algún artículo, contacta a la persona autora o busca el texto en un archivo de preprints en línea, como [bioRxiv.org](http://biorxiv.org/) (enlace externo).
 
 ### Recursos para obtener más información
 
@@ -161,7 +161,7 @@ Referencias y guías:
 
 [HACER CLIC PARA APRENDER](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/6.-Archive-Publish/Data-publishing-routes) (enlace externo)
 
-**DataTags: Un proyecto de Herramientas de Privacidad de la Universidad de Harvard para ayudar a los investigadores a utilizar y compartir datos sensibles**
+**DataTags: Un proyecto de Herramientas de Privacidad de la Universidad de Harvard para ayudar a los investigadores a usar y compartir datos sensibles**
 
 [HACER CLIC PARA APRENDER](https://privacytools.seas.harvard.edu/datatags) (enlace externo)
 
@@ -196,7 +196,7 @@ Ahora que has completado la lección, deberías poder iniciar tu camino hacia lo
 - Aprendiste distintas formas de involucrarte en la comunidad de Datos Abiertos.
 - Hay un gran número de recursos disponibles para obtener más información y recibir más formación sobre Datos Abiertos.
 
-## Lección 5: Autoevaluación
+## Lección 5: Evaluación
 
 *Pregunta*
 
@@ -204,10 +204,10 @@ Ahora que has completado la lección, deberías poder iniciar tu camino hacia lo
 
 ¿Cuál de los siguientes son los pasos a incluir en un Plan de Gestión de Datos (PGD)? Seleccione todas las opciones que correspondan.
 
-- Qué: ¿Cuál es el formato de los datos y, si es relevante, sus estándares?
+- Qué: ¿Cuál es el formato de los datos y, si es relevante, cuáles son sus estándares?
 - Cuándo: ¿Cuándo se pueden compartir los datos?
-- Por qué: ¿Por qué se ha utilizado un modelo de Plan de Gestión de Datos en línea?
-- Dónde: ¿Dónde se van a almacenar los datos o qué repositorios se van a utilizar para ello?
+- Por qué: ¿Por qué se ha usado un modelo de Plan de Gestión de Datos en línea?
+- Dónde: ¿Dónde se van a almacenar los datos o qué repositorios se van a usar para ello?
 - Cuáles: ¿En qué comunidades de datos participas?
 - Cómo: ¿Cómo el plan facilita el reúso de los datos?
 - Quién: ¿Cuáles son los roles y las responsabilidades de las personas que participan del equipo en la implementación del PGD?
@@ -224,11 +224,11 @@ Ahora que has completado la lección, deberías poder iniciar tu camino hacia lo
 - Ofrecerse para hacer trabajo voluntario y participar en conferencias, talleres y sesiones especiales
 - Identificar roles y responsabilidades del equipo a la hora de compartir datos
 
-## Resumen de Datos Abiertos
+## Resumen del Módulo 3: Datos Abiertos
 
 Felicitaciones. Ahora que completaste el módulo, deberías poder hacer lo siguiente:
 
 - Explicar qué significan los Datos Abiertos, sus ventajas y cómo se usan los principios FAIR.
 - Descubrir Datos Abiertos, evaluar los datos para su reuso a partir de la documentación proporcionada y citarlos según las instrucciones.
-- Implementar un Plan de Gestión de Datos Abiertos, seleccionar formatos de Datos Abiertos y agregar la documentación necesaria, incluyendo metadatos, archivos README (LEEME) y control de versiones, para hacer los datos reutilizables y fáciles de encontrar.
+- Implementar un Plan de Gestión de Datos Abiertos, seleccionar formatos de Datos Abiertos y agregar la documentación necesaria, incluyendo metadatos, archivos README (LEEME) y control de versiones, para hacer los datos reusables y fáciles de encontrar.
 - Evaluar si tus datos deben y pueden ser compartidos y usar el proceso de accesibilidad de datos, incluida la incorporación de un DOI e instrucciones de citación para que puedan encontrarse y citarse.
