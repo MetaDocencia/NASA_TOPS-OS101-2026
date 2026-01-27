@@ -12,13 +12,13 @@
 
 ## Descripción general
 
-En esta lección aprenderás los pasos prácticos para que el código esté disponible de forma abierta. Un software bien establecido y de gran volumen tiene necesidades diferentes a las de un proyecto incipiente. Por ejemplo, un programa escrito para crear un gráfico simple tiene requisitos distintos de los de un paquete de software que modela el clima de la Tierra. El tamaño del equipo de investigación también puede determinar los pasos necesarios para que el código sea de acceso abierto. Esta lección cubre: el proceso para hacer que el código sea utilizable para otras personas que investigan mediante la documentación, consideraciones sobre licencias y buenas prácticas en el desarrollo de software.
+En esta lección aprenderás los pasos prácticos para que el código esté disponible de forma abierta. Un software bien establecido y de gran volumen tiene necesidades diferentes a las de un proyecto incipiente. Por ejemplo, un programa escrito para crear un gráfico simple tiene requisitos distintos de los de un paquete de software que modela el clima de la Tierra. El tamaño del equipo de investigación también puede determinar los pasos necesarios para que el código sea de Acceso Abierto. Esta lección cubre: el proceso para hacer que el código sea usable por otras personas que investigan mediante la documentación, consideraciones sobre licencias y buenas prácticas en el desarrollo de software.
 
 ## Objetivos de aprendizaje
 
 Al completar la lección, deberías ser capaz de:
 
-- Describir las consideraciones clave al planificar un nuevo proyecto de software abierto.
+- Describir las consideraciones clave al planificar un nuevo proyecto de Software Abierto.
 - Enumerar tres razones por las que los proyectos deberían usar control de versiones.
 - Explicar el propósito y recordar la información general típicamente incluida en un archivo README (LEEME).
 - Ser capaz de seleccionar una licencia para tu código y listar las diferencias entre licencias de software de Código Abierto permisivas y protectoras.
@@ -55,7 +55,7 @@ Al iniciar un nuevo proyecto, los aspectos clave a considerar son:
 - Considerar los recursos necesarios para que el software funcione. ¿Se ejecutará en una computadora personal, en un servidor informático de alto rendimiento o en la nube?
 - ¿Cómo se gestionará?
 
-Esta lección se centra principalmente en cómo gestionar el código de acceso abierto.
+Esta lección se centra principalmente en cómo gestionar el código de Acceso Abierto.
 
 ¿Quién trabajará en el proyecto? ¿Cuáles son algunas de las mejores prácticas para el desarrollo? ¿Cómo se compartirá abiertamente? ¿Qué tipo de licencia se aplicará?
 
@@ -83,37 +83,37 @@ Al nombrar un proyecto, realiza una búsqueda rápida del nombre previsto para v
 
 Al alojar el producto en una plataforma de control de versiones, aseguras la persistencia de tu proyecto. Si el código solo existe en tu computadora, puede desaparecer si esta se daña o se pierde.
 
-Documentar la producción y la gestión de tu código te beneficia tanto a ti como a quienes podrían usarlo en el futuro. Tú eres tu mejor colaborador. La documentación puede evitarte dolores de cabeza si reutilizas el código en seis meses o intentas recordar detalles minuciosos de tu proceso más adelante.
+Documentar la producción y la gestión de tu código te beneficia tanto a ti como a quienes podrían usarlo en el futuro. Tú eres tu mejor colaborador. La documentación puede evitarte dolores de cabeza si reusas el código en seis meses o intentas recordar detalles minuciosos de tu proceso más adelante.
 
 **Preguntas a considerar al elegir un lenguaje de programación:**
 
-- ¿Podrán los colaboradores potenciales contribuir en el lenguaje elegido?
+- ¿Podrán los colaboradores potenciales contribuir al lenguaje elegido?
 - ¿Con qué lenguajes tienes más experiencia?
 - ¿Existe alguna limitación en tu entorno informático que pueda afectar tu capacidad para escribir o gestionar este código?
-- Los lenguajes tienen fortalezas y debilidades, ¿Cuáles son más importantes para tu proyecto?
+- Los lenguajes tienen fortalezas y debilidades. ¿Cuáles son más importantes para tu proyecto?
 
 **Antes de que alguien más pueda usar tu código, seguramente hará algunas preguntas:**
 
 - ¿Dónde puedo encontrar tu código?
 - ¿Está documentado tu código?
 - ¿De qué maneras puedo usar tu código?
-- ¿Aceptarás cambios en tu código? Si encuentro un error, ¿Qué debo hacer?
+- ¿Aceptarás cambios en tu código? Si encuentro un error, ¿qué debo hacer?
 - ¿Cómo puedo confiar en que tu código funcione?
 - ¿Cómo sé si el código tendrá soporte a largo plazo?
 
 ## Importancia del control de versiones
 
-Tu código cambiará significativamente a lo largo de la vida de tu proyecto. Del mismo modo que apreciamos la capacidad de rastrear versiones anteriores de documentos o de versiones creadas por diferentes personas, inevitablemente alguien querrá poder revertir, comparar y sintetizar cambios en el código.
+Tu código cambiará significativamente a lo largo de la vida de tu proyecto. Del mismo modo que apreciamos la capacidad de rastrear versiones anteriores de documentos o de versiones creadas por diferentes personas, inevitablemente alguien querrá revertir, comparar y sintetizar los cambios en el código.
 
 La herramienta más popular de control de versiones es Git. Git es un sistema que rastrea los cambios en los archivos del equipo, similar a Google Docs o SharePoint, pero más aplicable a código. Git se usa generalmente junto con una plataforma de control de versiones como GitHub, Gitlab, o Bitbucket. Estas herramientas fueron abordadas en el Módulo 2.2.
 
 El control de versiones permite:
 
-- Realizar un seguimiento de los cambios en el código de un proyecto (incluidos archivos suplementarios y documentación) a lo largo de toda su evolución.
+- Realizar un seguimiento de los cambios en el código de un proyecto (incluidos los archivos suplementarios y la documentación) a lo largo de toda su evolución.
 - Las revisiones de los archivos de un proyecto pueden ser rastreadas, incluidas las contribuciones de diferentes personas.
 - Los cambios no deseados (como equivocaciones o errores de programación) pueden revertirse en cualquier momento.
 
-El control de versiones es una buena práctica para programar, incluso si no se comparte el código de inmediato. El mismo puede usarse en un código personal, de forma privada, en su computadora, o, alternativamente, en el modo privado de los servicios de alojamiento (por ejemplo, GitHub y GitLab). Al configurar el control de versiones pronto, se prepara el código para un uso futuro esperado e inolvidable.
+El control de versiones es una buena práctica para programar, incluso si no se comparte el código de inmediato. El mismo puede usarse en un código personal, de forma privada, en su computadora o, alternativamente, en el modo privado de los servicios de alojamiento (por ejemplo, GitHub y GitLab). Al configurar el control de versiones pronto, se prepara el código para un uso futuro esperado e inolvidable.
 
 **Recursos adicionales sobre control de versiones**
 
@@ -146,11 +146,11 @@ Además, la siguiente información es útil para añadir al archivo LEEME especi
 
 El archivo CONTRIBUTING.md (en español, "contribuyendo") proporciona información sobre cómo contribuir al proyecto. En él se explica cómo funciona el proceso de contribución y qué tipo de contribuciones se requieren. Si bien no todos los proyectos tienen un archivo CONTRIBUTING.md, la existencia de uno es un claro indicador de que las contribuciones son bienvenidas.
 
-Será necesario decidir personalmente cuando tu proyecto ha progresado lo suficiente como para invitar contribuidores. Cuando lo haya hecho, un documento llamado CONTRIBUYENDO deberá ser creado en el nivel superior del informe.
+Será necesario decidir personalmente cuándo tu proyecto ha progresado lo suficiente como para invitar contribuidores. Cuando lo haya hecho, un documento llamado CONTRIBUYENDO deberá ser creado en el nivel superior del informe.
 
 Las [pautas de contribución de Astropy](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) (enlace externo, en inglés) y las [pautas de contribución de Numpy](https://numpy.org/devdocs/dev/index.html) (enlace externo, en inglés) son dos ejemplos.
 
-**Consejo extra: Aunque desarrolles tu código públicamente, esto no significa que tengas que aceptar contribuciones de otros ni mantener tu código para siempre. Las pautas de contribución o el archivo LEEME son buenos lugares para indicar las expectativas para el código. El mismo puede aclarar que el código no está siendo mantenido o que no acepta contribuciones.**
+**Consejo extra: Aunque desarrolles tu código públicamente, esto no significa que tengas que aceptar contribuciones de otros ni mantener tu código para siempre. Las pautas de contribución o el archivo LEEME son buenos lugares para establecer las expectativas para el código. El mismo puede aclarar que el código no está siendo mantenido o que no acepta contribuciones.**
 
 ### Código de conducta
 
@@ -160,7 +160,7 @@ El código de conducta establece normas básicas para el comportamiento de los p
 
 **Documentación sobre el código para quienes desarrollan**
 
-Su software debe estar documentado en el código fuente. Cada función debe tener comentarios al principio que expliquen brevemente, en lenguaje sencillo, para qué sirve la función. Esto no es sólo para otros desarrolladores, sino para el desarrollador original que una semana más tarde puede olvidar que escribió.
+Su software debe estar documentado en el código fuente. Cada función debe tener comentarios al principio que expliquen brevemente, en lenguaje sencillo, para qué sirve. Esto no es sólo para otros desarrolladores, sino para el desarrollador original que una semana más tarde puede olvidar que escribió.
 
 > **Ejemplo**
 >
@@ -174,7 +174,7 @@ Su software debe estar documentado en el código fuente. Cada función debe tene
 >
 > x = 17
 >
-> Los nombres de variables, clases y funciones descriptivos pueden hacer que tu código sea legible. . A veces, incluso los grandes programadores trabajan rápido y nombran las variables 'a', 'temp' u otros nombres que probablemente no tendrán mucho sentido en una semana o dos cuando vuelvan a algo en lo que estaban trabajando. Nombres como 'tiempo_de_coccion' o 'velocidad' son más claros. Los nombres variables deberían ser fáciles de entender y representar con claridad lo que son.
+> Los nombres de variables, clases y funciones descriptivos pueden hacer que tu código sea legible. . A veces, incluso los grandes programadores trabajan rápido y nombran las variables 'a', 'temp' u otros nombres que probablemente no tendrán mucho sentido en una semana o dos cuando vuelvan a algo en lo que estaban trabajando. Nombres como 'tiempo_de_coccion' o 'velocidad' son más claros. Los nombres variables deberían ser fáciles de entender y representar con claridad lo que representan.
 >
 > Lo ideal es que alguien que no escriba en el lenguaje del código pueda leer los comentarios del archivo y hacerse una idea aproximada de lo que ocurre.
 >
@@ -182,11 +182,11 @@ Su software debe estar documentado en el código fuente. Cada función debe tene
 
 ### Documentación sobre el código para el usuario
 
-Si estás desarrollando código que esperas que otras personas usen, escribe un manual de instrucciones para usarlo. Como el código se desarrolla constantemente, es mucho más fácil documentarlo mientras se escribe o incluso antes de escribir cualquier código.
+Si estás desarrollando código que esperas que otras personas usen, escribe un manual de instrucciones para su uso. Como el código se desarrolla constantemente, es mucho más fácil documentarlo mientras se escribe, o incluso antes de escribir cualquier línea de código.
 
 Si escribes la documentación dentro del propio código, hay software que puede extraerla, formatearla y presentarla como un manual pulido. Ejemplos de documentación generada a partir del código se pueden ver en [Astropy](https://docs.astropy.org/en/latest/) o [NumPy](https://numpy.org/doc/stable/).
 
-Se ven maravillosos, pero también muy similares. Estos sitios fueron generados por completo a partir de comentarios y de documentos escritos en el código fuente. A diferencia de los comentarios escritos para las personas desarrolladoras del código, estos comentarios fueron redactados específicamente para la audiencia de usuarios externos del código: el manual.
+Se ven maravillosos, pero también muy similares. Estos sitios fueron generados por completo a partir de comentarios y documentos escritos en el código fuente. A diferencia de los comentarios escritos para las personas desarrolladoras del código, estos fueron redactados específicamente para la audiencia de usuarios externos del código: el manual.
 
 Aunque hay varios paquetes de software para la generación automática de documentación, los más usados son [Sphinx](https://www.sphinx-doc. rg/es/master/) para Python y [Doxygen](https://www.doxygen.nl/index.html) para casi todo lo demás. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) también es una opción popular para el formato de la documentación.
 
@@ -216,11 +216,11 @@ Una licencia de software es un documento legal que establece los derechos de las
 
 Una licencia de Código Abierto es un tipo de licencia de software aprobada por la [Iniciativa de Código Abierto](https://opensource.org/osd) (enlace externo) (en inglés, _Open Source Initiative, OSI_), conforme a la Definición de Código Abierto. Una licencia de Código Abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
 
-Las licencias aseguran que las personas que desarrollan el software reciban crédito y control sobre cómo se usa su trabajo. Sin licencia, se asume que el software tiene derechos de autor y no cuenta con permisos. Las personas que programan incluyen licencias que permiten su reuso.
+Las licencias aseguran que las personas que desarrollan el software reciban crédito y control sobre cómo se usa su trabajo. Sin licencia, se asume que el software está protegido por derechos de autor y no cuenta con permisos. Las personas que programan incluyen licencias que permiten su reuso.
 
 Las licencias toman varias formas para describir:
 
-- Obligaciones contractuales (si existen) entre las personas que desarrollan y quienes las usan.
+- Obligaciones contractuales (si existen) entre las personas que desarrollan y las que las usan.
 - Lo que las personas usuarias del software pueden hacer con él.
 - A quiénes pueden las personas usuarias del software distribuirlo (si existe tal derecho).
 - Periodo durante el cual la persona usuaria tiene derecho a usar el software.
@@ -232,7 +232,7 @@ _Haz clic en '+' para ver más información._
 <img
   src="../images/media/commonsoftwarelicenses_es.png"
   style="width:100%;height:auto;"
-  alt="Diagrama con una escala horizontal. A la izquierda dice “Abierto” y a la derecha “Cerrado”. Entre ambos extremos hay una flecha verde con varios puntos/círculos verdes marcando posiciones intermedias. Debajo se lee: “La apertura es un espectro”."
+  alt="Diagrama con una escala horizontal. A la izquierda dice “Abierto” y a la derecha, “Cerrado”. Entre ambos extremos hay una flecha verde con varios puntos/círculos verdes que marcan posiciones intermedias. Debajo se lee: “La apertura es un espectro”."
 />
 
 
@@ -242,7 +242,7 @@ Cualquier persona puede usarlo libremente.
 
 **Licencia Pública General Reducida**
 
-Puede vincularse a bibliotecas de Código Abierto, y el código puede ser licenciado bajo cualquier tipo de licencia.
+Puede vincularse a bibliotecas de Código Abierto y el código puede ser licenciado bajo cualquier tipo de licencia.
 
 **Permisivo**
 
@@ -266,7 +266,7 @@ Antes de elegir una licencia, consulta primero con tu organización o con quien 
 
 Si una licencia no se comparte con un código, se asume por defecto que está protegida por derechos de autor en los Estados Unidos (https://www.copyright.gov/help/faq/faq-general.html) (enlace externo) . No necesita ser registrado y se asume que está automáticamente protegido por derechos de autoría desde el momento de su creación.
 
-Para el software, la licencia se comparte en un archivo llamado LICENSE (en español, LICENCIA) en la parte superior del repositorio. Es una ubicación estándar que la gente sabrá que debe mirar. No es mala práctica incluir también una línea con la versión de la licencia en la parte superior de cada archivo de código, con un puntero a donde se podría encontrar la licencia completa.
+Para el software, la licencia se comparte en un archivo llamado LICENSE (en español, LICENCIA) en la parte superior del repositorio. Es una ubicación estándar que la gente sabrá que debe mirar. No es mala práctica incluir también una línea con la versión de la licencia en la parte superior de cada archivo de código, con un enlace a donde se podría encontrar la licencia completa.
 
 ### Tipos de licencias de software de Código Abierto
 
@@ -299,7 +299,7 @@ Hay dos tipos principales de licencias de Código Abierto. Permisiva y protector
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Las licencias protectoras (copyleft) son una técnica legal para otorgar ciertas libertades sobre copias de obras protegidas por derechos de autor, con el requisito de que se preserven los mismos derechos en las obras derivadas. Esto permite a los usuarios reusar, pero también requiere que compartan sus cambios con la comunidad bajo la misma licencia. Un ejemplo de licencia protectora es la Licencia Pública General (en inglés, GPL) que garantiza que los usuarios tengan la libertad y responsabilidad de compartir sus cambios con la comunidad. Es la licencia de protección más usada. Estos tipos de licencias pueden dar como resultado un menor reuso por parte de los usuarios que prefieren o se les exige que usen únicamente licencias permisivas.</p>
+            <p>Las licencias protectoras (copyleft) son una técnica legal para otorgar ciertas libertades sobre copias de obras protegidas por derechos de autor, con el requisito de que se preserven los mismos derechos en las obras derivadas. Esto permite a los usuarios reusar, pero también requiere que compartan sus cambios con la comunidad bajo la misma licencia. Un ejemplo de licencia protectora es la Licencia Pública General (en inglés, GPL), que garantiza a los usuarios la libertad y la responsabilidad de compartir sus cambios con la comunidad. Es la licencia de protección más usada. Estos tipos de licencias pueden dar como resultado un menor reuso por parte de los usuarios que prefieren o se les exige que usen únicamente licencias permisivas.</p>
         </td>
     </tr>
   </tbody>
@@ -307,7 +307,7 @@ Hay dos tipos principales de licencias de Código Abierto. Permisiva y protector
 
 ### Licencias Comunes para Software Abierto
 
-Algunas de las licencias más populares usadas en software abierto son:
+Algunas de las licencias más populares usadas en Software Abierto son:
 
 <table>
   <thead>
@@ -385,23 +385,23 @@ Los usuarios no pueden copiar ni modificar ningún software con licencia copylef
 
 ## Buenas prácticas de programación
 
-En esta sección, se proporcionan algunas prácticas recomendadas en desarrollo, incluidas la revisión de código, pruebas, seguridad y accesibilidad. Estas prácticas mejorarán la calidad del código, la reproducibilidad de los resultados y la seguridad de un proyecto. Las acciones mencionadas ayudan a mejorar la solidez del código de acceso abierto y ayudan a enfrentar los desafíos únicos que pueden surgir con múltiples contribuyentes y revisiones que ocurren durante un período prolongado de tiempo.
+En esta sección se presentan algunas prácticas recomendadas de desarrollo, incluidas la revisión de código, las pruebas, la seguridad y la accesibilidad. Estas prácticas mejorarán la calidad del código, la reproducibilidad de los resultados y la seguridad de un proyecto. Las acciones mencionadas ayudan a mejorar la solidez del código de Acceso Abierto y ayudan a enfrentar los desafíos únicos que pueden surgir con múltiples contribuyentes y revisiones que ocurren durante un período prolongado de tiempo.
 
 ### Revisión de Código
 
 El código se beneficia de la revisión por pares de la misma manera que la ciencia. Hacer que otra persona lea tu código y lo pruebe es una de las mejores formas de mejorar la calidad del código.
 
-Muchas plataformas de control de versiones tienen herramientas integradas que permiten a los desarrolladores revisar, comentar e iterar el código de otros. Los controles se pueden hacer de forma abierta y permitir que cualquiera pueda comentar.
+Muchas plataformas de control de versiones tienen herramientas integradas que permiten a los desarrolladores revisar, comentar e iterar sobre el código de otros. Los controles se pueden hacer de forma abierta, permitiendo que cualquiera pueda comentar.
 
 Aquí hay un gran ejemplo de la discusión que puede presentarse cuando el creador original de un algoritmo [comenta sobre una implementación de Python realizada por un colaborador primerizo del proyecto Astropy.](https://github.com/astropy/astropy/pull/4301) La discusión abierta y constructiva condujo a una mejor implementación del algoritmo junto con posibles mejoras futuras.
 
-Los paquetes de software también se pueden revisar como productos propios. Muchas publicaciones científicas ahora aceptan artículos centrados en software. Hay entidades como [PyOpenSci](https://www.pyopensci.org/) y el [Journal of Open Source Software](https://joss.theoj.org/) que ofrecen revisión abierta por pares de paquetes científicos. Puedes ver más detalles sobre JOSS en la próxima lección sobre cómo compartir tu código.
+Los paquetes de software también pueden revisarse como productos propios. Muchas publicaciones científicas ahora aceptan artículos centrados en software. Hay entidades como [PyOpenSci](https://www.pyopensci.org/) y el [Journal of Open Source Software](https://joss.theoj.org/) que ofrecen revisión abierta por pares de paquetes científicos. Puedes ver más detalles sobre JOSS en la próxima lección sobre cómo compartir tu código.
 
 ### Pruebas
 
-Un método probado para evaluar la reproducibilidad de tu software es mediante pruebas. Hay muchos tipos de pruebas que van desde probar las partes comprobables más pequeñas de un código hasta verificar si un código funciona en su totalidad en diferentes escenarios. Las pruebas de código pueden incluir una amplia gama de técnicas diferentes. La siguiente sección de la lección proporciona sólo una breve introducción al tema.
+Un método comprobado para evaluar la reproducibilidad de tu software es realizar pruebas. Hay muchos tipos de pruebas que van desde probar las partes comprobables más pequeñas de un código hasta verificar si un código funciona en su totalidad en diferentes escenarios. Las pruebas de código pueden incluir una amplia gama de técnicas. La siguiente sección de la lección proporciona sólo una breve introducción al tema.
 
-El principal objetivo de las pruebas de código es evaluar si un código hace lo que sus autores pretendían que hiciera. Probar el código de manera integral puede ser muy difícil, ya que implica probar el código para generar los resultados esperados y para fallar cuando debería.
+El principal objetivo de las pruebas de código es evaluar si un código realiza lo que sus autores pretendían que hiciera. Probar el código de manera integral puede ser muy difícil, ya que implica probar el código para generar los resultados esperados y para fallar cuando debería.
 
 <table>
   <thead>
@@ -415,7 +415,7 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Ya sea que se produzca un guión o un proceso completo de procesamiento de datos, la validación del software es fundamental para garantizar la calidad y confiabilidad de los resultados científicos. Esto podría significar calcular manualmente los resultados para verificar el resultado del código o compararlos con resultados producidos anteriormente o hacer que otro miembro del equipo lo pruebe.</p>
+            <p>Ya sea que se produzca un guión o un proceso completo de procesamiento de datos, la validación del software es fundamental para garantizar la calidad y la confiabilidad de los resultados científicos. Esto podría significar calcular manualmente los resultados para verificar el resultado del código o compararlos con resultados producidos anteriormente o hacer que otro miembro del equipo lo pruebe.</p>
         </td>
     </tr>
   </tbody>
@@ -433,7 +433,7 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Dados los mismos insumos y parámetros, ¿se pueden producir los mismos resultados? Hacer que los archivos de configuración, los datos de entrada, etc. estén disponibles abiertamente para que los usuarios puedan ejecutarlos fácilmente y producir los mismos resultados publicados es una forma fundamental de aumentar la confianza en su código.</p>
+            <p>Dados los mismos insumos y parámetros, ¿se pueden obtener los mismos resultados? Hacer que los archivos de configuración, los datos de entrada, etc. estén disponibles abiertamente para que los usuarios puedan ejecutarlos fácilmente y producir los mismos resultados publicados es una forma fundamental de aumentar la confianza en su código.</p>
         </td>
     </tr>
   </tbody>
@@ -451,7 +451,7 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Las pruebas unitarias permiten a los desarrolladores de software reforzar su confianza en la capacidad de su código para funcionar según lo esperado. Las pruebas unitarias son pequeñas funciones que se encuentran fuera de la base del código y que prueban una función específica o ejecutan una prueba específica. Por ejemplo, si una función toma una imagen y la voltea horizontalmente, una prueba podría verificar que la imagen resultante tenga el mismo tamaño. Otro compara la salida usando una imagen conocida con el resultado esperado. Otro comprueba que se devuelva una nueva imagen.</p>
+            <p>Las pruebas unitarias permiten a los desarrolladores de software reforzar su confianza en la capacidad de su código para funcionar como se espera. Las pruebas unitarias son pequeñas funciones que se encuentran fuera de la base del código y que prueban una función específica o ejecutan una prueba específica. Por ejemplo, si una función toma una imagen y la voltea horizontalmente, una prueba podría verificar que la imagen resultante tenga el mismo tamaño. Otro compara la salida con una imagen conocida y el resultado esperado. Otro comprueba que se devuelva una nueva imagen.</p>
         </td>
     </tr>
   </tbody>
@@ -469,7 +469,7 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Las pruebas integradas generalmente se pueden ejecutar tanto de forma manual como automática. La mayoría de las plataformas de control de versiones ofrecen servicios para ejecutar pruebas automáticamente. Cuando se ejecuta de esta manera, se puede verificar el código para ver si los cambios generan algún problema. Este proceso de verificar el código automáticamente a medida que se desarrolla se llama desarrollo continuo o integración continua (CI/CD, por sus siglas en inglés). Si un pequeño cambio realizado en una parte del código da como resultado un cambio inesperado en otra parte, la ejecución de las pruebas lo descubrirá inmediatamente.</p>
+            <p>Las pruebas integradas generalmente pueden ejecutarse tanto de forma manual como automática. La mayoría de las plataformas de control de versiones ofrecen servicios para ejecutar pruebas automáticamente. Cuando se ejecuta de esta manera, se puede verificar el código para ver si los cambios generan algún problema. Este proceso de verificar el código automáticamente a medida que se desarrolla se llama desarrollo continuo o integración continua (CI/CD, por sus siglas en inglés). Si un pequeño cambio realizado en una parte del código da como resultado un cambio inesperado en otra parte, la ejecución de las pruebas lo descubrirá inmediatamente.</p>
         </td>
     </tr>
   </tbody>
@@ -477,13 +477,13 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
 
 ### Minimizar el riesgo de vulnerabilidades de seguridad
 
-Ya sea que se use software de código abierto, de código cerrado o comercial, es importante considerar los riesgos de seguridad inherentes al desarrollo de software.
+Ya sea que se use software de Código Abierto, de código cerrado o comercial, es importante considerar los riesgos de seguridad inherentes al desarrollo de software.
 
 - Asegúrate de que el código sea mínimo, sin partes repetidas (más fácil de mantener y reparar).
 - Usa variables globales o administradores de claves para las credenciales. Nunca incluyas credenciales en tu código.
 - Usa dependencias bien probadas y mantenidas. En los paquetes que mantiene, mantén actualizada la lista de dependencias.
 - Crea software con herramientas que proporcionen escaneo y auditoría automatizados.
-- Si hay dependencias no compatibles en las que confías, evalúalas para determinar cómo podrían introducir riesgos de seguridad y si sería apropiado cambiar a un paquete diferente.
+- Si hay dependencias incompatibles en las que confías, evalúalas para determinar cómo podrían introducir riesgos de seguridad y si sería apropiado cambiarlas por un paquete diferente.
 
 <table>
   <thead>
@@ -495,8 +495,8 @@ Ya sea que se use software de código abierto, de código cerrado o comercial, e
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Se han desarrollado herramientas comerciales y de código abierto para abordar el desafío de identificar vulnerabilidades de seguridad en distintos componentes de la fuente. Si no dispones de ninguna tecnología para asegurar el uso de código abierto, puedes considerar usar las herramientas de verificación de dependencias Dependabot o <a href="https://owasp.org/">OWASP</a>.</p>
-            <p>El Proyecto de Seguridad de Aplicaciones Web Abiertas (Open Web Application Security Project, OWASP) es una comunidad en línea que desarrolla herramientas y tecnologías gratuitas en el campo de la seguridad de aplicaciones web. La verificación de dependencias de OWASP es una herramienta creada por desarrolladores que identifica las dependencias de un proyecto y verifica si contienen alguna vulnerabilidad conocida de código abierto que haya sido públicamente divulgada.</p>
+            <p>Se han desarrollado herramientas comerciales y de Código Abierto para abordar el desafío de identificar vulnerabilidades de seguridad en distintos componentes de la fuente. Si no dispones de ninguna tecnología para asegurar el uso de Código Abierto, puedes considerar usar las herramientas de verificación de dependencias Dependabot o <a href="https://owasp.org/">OWASP</a>.</p>
+            <p>El Proyecto de Seguridad de Aplicaciones Web Abiertas (Open Web Application Security Project, OWASP) es una comunidad en línea que desarrolla herramientas y tecnologías gratuitas en el campo de la seguridad de aplicaciones web. La verificación de dependencias de OWASP es una herramienta creada por desarrolladores que identifica las dependencias de un proyecto y verifica si contienen alguna vulnerabilidad conocida de Código Abierto que haya sido públicamente divulgada.</p>
         </td>
     </tr>
   </tbody>
@@ -512,7 +512,7 @@ Ya sea que se use software de código abierto, de código cerrado o comercial, e
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Probar la seguridad de los componentes de código abierto que estás usando es la mejor manera de garantizar la seguridad de tus aplicaciones y de tu organización. Tu compromiso con el análisis oportuno y frecuente de los componentes de código abierto debería ser el mismo que con tu propio código.</p>
+            <p>Probar la seguridad de los componentes de Código Abierto que estás usando es la mejor manera de garantizar la seguridad de tus aplicaciones y de tu organización. Tu compromiso con el análisis oportuno y frecuente de los componentes de Código Abierto debería ser el mismo que con tu propio código.</p>
             <p>Esto es especialmente cierto, dado que el componente en cuestión puede presentar vulnerabilidades de seguridad desconocidas o dependencias que varían según el caso de uso. Es posible que un componente sea seguro en una aplicación concreta, pero vulnerable en otra.</p>
         </td>
     </tr>
@@ -600,7 +600,7 @@ Aquí hay algunas sugerencias adicionales sobre cómo hacer que tu código sea m
 |                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nombres descriptivos**         | Las variables, funciones y entidades similares deben recibir nombres descriptivos en lugar de nombres vagos. Los nombres descriptivos proporcionan de inmediato a otros programadores una idea de lo que representa la variable o la función. Por ejemplo, el nombre de la variable **ColorDeGato** es un buen nombre porque describe lo que pretende hacer, que es abarcar el color de gatos.                                                                                                                                                                                                                                                           |
-| **Archivo de metadatos**         | Considera incluir un archivo de metadatos en tu software para facilitar su búsqueda. Puedes crear un archivo 'codemeta.json' con [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) para incluirlo en tu paquete.                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Archivo de metadatos**         | Considera incluir un archivo de metadatos en tu software para facilitar la búsqueda. Puedes crear un archivo 'codemeta.json' con [CodeMeta generator](https://codemeta.github.io/codemeta-generator/) para incluirlo en tu paquete.                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Documentación de operaciones** | Comparte detalles sobre cómo estás ejecutando el código. Por ejemplo, documenta la versión de la biblioteca de software que estás usando o la versión del compilador. Suelen compartirse en un archivo llamado 'environment.yml'.                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Automatización**               | Considera el siguiente escenario:<br><br>Estás a punto de publicar un artículo que incluye 17 gráficos que dependen de un conjunto de datos lanzado por una misión. Justo antes de enviarlo, la misión publica una versión actualizada del conjunto de datos.<br><br> ¿Qué tan fácil será recrear esos gráficos? <br><br> El software permite automatizar la secuencia de programas y alertar a los programadores cuando se ejecuten para que los archivos de entrada se codifiquen de forma rígida. Esto permite a los programadores volver a ejecutar fácilmente el código si cambia un parámetro inicial. |
 | **Uso de normas**                | La mayoría de los lenguajes tienen su propio estilo de codificación adoptado por sus respectivas comunidades. Seguir esas convenciones facilita que otros contribuyan al código que construiste y hace que tu proyecto sea más inclusivo.                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -617,7 +617,7 @@ En esta lección has aprendido:
 - Las licencias aseguran que las personas que desarrollan el software reciben crédito y control sobre cómo se usa su trabajo. Sin licencia, se supone que el software tiene derechos de autor y no tiene permisos
 - La realización de pruebas, etiquetar y aplicar medidas de seguridad son ejemplos de buenas prácticas de programación que favorecen la Ciencia Abierta.
 
-## Lección 3: Autoevaluación
+## Lección 3: Evaluación
 
 Responde las siguientes preguntas para evaluar lo aprendido.
 
@@ -625,7 +625,7 @@ _Pregunta_
 
 **01/05**
 
-¿Cuál de los siguientes aspectos debe tenerse en cuenta al planificar un proyecto de software abierto? Seleccione todas las opciones que correspondan.
+¿Cuál de los siguientes aspectos debe tenerse en cuenta al planificar un proyecto de Software Abierto? Seleccione todas las opciones que correspondan.
 
 - El público al que va dirigido.
 - Qué protocolo se usará para sincronizar cambios entre los colaboradores individuales y el repositorio central.
@@ -639,7 +639,7 @@ _Pregunta_
 ¿Cuál de las siguientes es una ventaja de usar un sistema de control de versiones en tu software?
 
 - Los cambios recientes se registran automáticamente.
-- Diferentes colaboradores pueden agregar o editar el mismo código al mismo tiempo.
+- Diferentes colaboradores pueden agregar o editar el mismo código simultáneamente.
 - Los cambios no deseados pueden revertirse rápidamente.
 - Todas las anteriores.
 
