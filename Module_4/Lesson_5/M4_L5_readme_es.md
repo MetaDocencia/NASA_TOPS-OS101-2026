@@ -116,13 +116,13 @@ En esta actividad revisa el PGS y piensa en estas preguntas:
 ¿Cuáles son las limitaciones de algunos programas?
 ¿Cómo puede afectar, en el futuro, no tener un plan acordado al inicio del desarrollo del código?
 ¿Los resultados son reproducibles sin el código original en IDL (lenguaje de programación usado para el análisis de datos)?
-¿Hay cosas que agregarías al plan del ejemplo o sobre las que serías más específico?
+¿Hay algo que agregarías al plan del ejemplo o sobre lo que serías más específico?
 
 #### Ejemplo de Plan de Gestión de Software
 
 **1. Tipos de software esperados**
 
-Usaremos modelos de simulación establecidos para realizar simulaciones iniciales de este trabajo. Estos modelos de simulación están escritos en Fortran y fueron desarrollados durante la última década. Si bien no están disponibles para el público, sí lo están para que los use el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de Gestión de Datos (PGD). Desarrollaremos software en Python para analizar los archivos de salida del modelo, lo que permitirá desarrollar productos de datos derivados, mapas y figuras. El desarrollo del software de análisis en Python se compartirá en un repositorio de GitHub.
+Usaremos modelos de simulación establecidos para realizar simulaciones iniciales de este trabajo. Estos modelos de simulación están escritos en Fortran y fueron desarrollados durante la última década. Si bien no están disponibles para el público, sí lo están para que los use el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de Gestión de Datos (PGD). Desarrollaremos software en Python para analizar los archivos de salida del modelo, lo que permitirá generar productos de datos derivados, mapas y figuras. El desarrollo del software de análisis en Python se compartirá en un repositorio de GitHub.
 
 **2. Desarrollo de análisis de software**
 
@@ -130,7 +130,7 @@ Todo el desarrollo nuevo del código en Python será desarrollado por las person
 
 **3. Repositorios y cronograma para compartir el software**
 
-Este trabajo apoyará el desarrollo de dos artículos para revistas revisadas por pares. Todo el código fuente desarrollado en Python para respaldar cada artículo se archivará en Zenodo a más tardar en la fecha de publicación del artículo. El software estará disponible bajo una licencia Apache 2.0 permisiva. Zenodo asignará un DOI al software archivado cuando este sea archivado.
+Este trabajo apoyará el desarrollo de dos artículos para revistas revisadas por pares. Todo el código fuente desarrollado en Python para respaldar cada artículo se archivará en Zenodo a más tardar en la fecha de publicación del artículo. El software estará disponible bajo una licencia Apache 2.0 permisiva. Zenodo asignará un DOI al software archivado.
 
 **4. Exención para compartir software**
 
