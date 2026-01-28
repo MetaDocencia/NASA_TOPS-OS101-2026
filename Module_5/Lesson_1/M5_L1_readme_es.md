@@ -147,7 +147,7 @@ Al público le interesa lo que estás haciendo y llegar a ese público puede imp
 
 Las plataformas de comunicación abierta ampliaron notablemente el alcance y la audiencia de los resultados.
 
-<img src="../images/media/image14_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama del flujo de trabajo de investigación que culmina en “Reporte y publicación” (remarcada). A continuación se muestran ejemplos de comunicación abierta en redes y plataformas: dos publicaciones en Twitter, un video en TikTok y otro en YouTube, junto con los íconos de cada plataforma y un mensaje que destaca que hay muchas maneras de reportar resultados abiertos." />
+<img src="../images/media/image14_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama del flujo de trabajo de investigación que culmina en “Reporte y publicación” (remarcada). A continuación se muestran ejemplos de comunicación abierta en redes y plataformas: dos publicaciones en Twitter, un video en TikTok y otro en YouTube, junto con los íconos de cada plataforma y un mensaje que destaca que hay muchas maneras de reportar Resultados Abiertos." />
 
 Créditos de imagen:
 - Publicación de Megan Weiner Mansfield. (2023). [X](https://x.com/cornerof_thesky/status/1595086671275589632?s=20) (enlace externo).
@@ -221,7 +221,7 @@ Créditos de imagen: “A Person in White Lab Gown Looking through Microscope”
 El equipo de OpenSciency creó una gran tabla que describe todos los tipos de objetos de investigación que pueden compartirse y crear a lo largo del ciclo de vida de la investigación.
 
 **La tabla está disponible aquí**  
-**Tabla de etapas de investigación y resultados abiertos de Opensciency**
+**Tabla de etapas de investigación y Resultados Abiertos de Opensciency**
 
 [HACÉ CLIC PARA APRENDER (ENLACE EXTERNO, EN INGLÉS)](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table)
 
