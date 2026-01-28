@@ -12,7 +12,7 @@
 
 ## Descripción general
 
-En las lecciones anteriores hemos aprendido varias formas de compartir nuestra ciencia y los pasos que debemos tener en cuenta al hacerlo. En esta lección, unimos los conceptos de las lecciones anteriores con algunas orientaciones específicas para redactar la sección "Compartir Resultados" de un Plan de Ciencia Abierta y Gestión de Datos (PCAGD; en inglés, _Open Science Data Management Plan, OSDMP_). También reflexionaremos sobre cómo nuestra sociedad y la tecnología evolucionan constantemente, así como sobre nuestra forma de hacer ciencia. Una nueva tecnología con el potencial de alterar radicalmente la forma en que hacemos y compartimos la ciencia es la inteligencia artificial (IA), especialmente cuando se trata de modelos de aprendizaje de idiomas. Estas herramientas de IA ya están cambiando la forma en que interactuamos con el texto escrito. En esta lección analizaremos algunas de las formas en que la IA afecta y afectará la manera en que hacemos y compartimos nuestra ciencia.
+En las lecciones anteriores hemos aprendido varias formas de compartir nuestra ciencia y los pasos que debemos tener en cuenta al hacerlo. En esta lección, unimos los conceptos de las lecciones anteriores con algunas orientaciones específicas para redactar la sección "Compartir Resultados" de un Plan de Ciencia Abierta y Gestión de Datos (PCAGD; en inglés, _Open Science Data Management Plan, OSDMP_). También reflexionaremos sobre cómo evolucionan constantemente nuestra sociedad y la tecnología, así como sobre nuestra forma de hacer ciencia. Una nueva tecnología con el potencial de alterar radicalmente la forma en que hacemos y compartimos la ciencia es la inteligencia artificial (IA), especialmente en modelos de aprendizaje de idiomas. Estas herramientas de IA ya están cambiando la forma en que interactuamos con el texto escrito. En esta lección analizaremos algunas de las formas en que la IA afecta y afectará la manera en que hacemos y compartimos nuestra ciencia.
 
 ## Objetivos de Aprendizaje
 
@@ -20,7 +20,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 - Listar lo que debe incluirse en un PCAGD para compartir resultados de forma abierta.
 - Listar algunos pasos concretos para compartir los resultados de forma abierta.
-- Describir cómo la tecnología emergente, como la IA, está influyendo actualmente en la forma en que utilizamos, realizamos y compartimos nuestra ciencia.
+- Describir cómo la tecnología emergente, como la IA, está influyendo actualmente en la forma en que usamos, realizamos y compartimos nuestra ciencia.
 
 ## Escribir un Plan de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos
 
@@ -52,9 +52,9 @@ Créditos de imagen: Caiafa, C. F., Pestilli, F. Multidimensional encoding of br
 
 Cuando los resultados y los objetos de investigación se publican abiertamente, cualquiera puede reproducirlos. En temas como el cambio climático, la transparencia de los resultados ayuda a reducir la desinformación y aumenta la confianza del público en los resultados.
 
-Aquí se presenta un ejemplo de software de código abierto y de repositorios en GitHub. [Encode](https://github.com/brain-life/encode) (enlace externo, en inglés) es un software que puede utilizarse en análisis neurocomputacionales de datos de resonancia magnética ponderada por difusión (en inglés, diffusion-weighted magnetic resonance imaging, dMRI) para visualizar estructuras anatómicas y conectomas cerebrales. Este software, [descrito aquí](https://www.nature.com/articles/s41598-017-09250-w#Abs1) (enlace externo, en inglés), puede resultar sumamente útil para mapear redes cerebrales y comprender relaciones en la salud y la enfermedad humanas. La página de GitHub también contiene repositorios con el software complementario necesario, así como conjuntos de datos de demostración que permiten a los usuarios ejecutar el código mientras aprenden a utilizarlo. Este es un excelente ejemplo de cómo quienes hacen investigación pueden hacer Ciencia Abierta y presentar métodos fáciles de seguir, de modo que la investigación pueda continuar de manera fluida y sostenible.
+Aquí se presenta un ejemplo de software de Código Abierto y de repositorios en GitHub. [Encode](https://github.com/brain-life/encode) (enlace externo, en inglés) es un software que puede usarse en análisis neurocomputacionales de datos de resonancia magnética ponderada por difusión (en inglés, diffusion-weighted magnetic resonance imaging, dMRI) para visualizar estructuras anatómicas y conectomas cerebrales. Este software, [descrito aquí](https://www.nature.com/articles/s41598-017-09250-w#Abs1) (enlace externo, en inglés), puede resultar sumamente útil para mapear redes cerebrales y comprender relaciones en la salud y la enfermedad humanas. La página de GitHub también contiene repositorios con el software complementario necesario, así como conjuntos de datos de demostración que permiten a los usuarios ejecutar el código mientras aprenden a usarlo. Este es un excelente ejemplo de cómo quienes hacen investigación pueden hacer Ciencia Abierta y presentar métodos fáciles de seguir, de modo que la investigación pueda continuar de manera fluida y sostenible.
 
-Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alcance de los proyectos. Estos son algunos pasos que puedes tomar para compartir tus Resultados Abiertos de forma que tu trabajo sea más utilizable, reproducible y colaborativo:
+Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alcance de los proyectos. Estos son algunos pasos que puedes tomar para compartir tus Resultados Abiertos de forma que tu trabajo sea más usable, reproducible y colaborativo:
 
 - Añade un Código de Conducta a través del archivo CODIGO_DE_CONDUCTA (_CODE_OF_CONDUCT_, en inglés) y enlaza a otras políticas aplicables a tu trabajo.
 - Añade guías de personas colaboradoras y de autoría en el archivo CONTRIBUCION (_CCONTRIBUTING_, en inglés).
@@ -64,8 +64,8 @@ Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alc
 - Crea una carpeta de gestión del proyecto, otra de código y otra de datos, en las que podrás cargar la información adecuada a medida que avanza el proyecto.
 - Elabora una lista de los recursos necesarios para tu proyecto.
 - Proporciona enlaces a materiales de capacitación que puedan beneficiar a las personas que colaboren.
-- Utiliza tableros de proyecto e incidencias (_issues_) para comunicar lo que ocurre en el proyecto.
-- Utiliza _Pull Request_ para solicitar la revisión de nuevos desarrollos de código y contenido (en Git).
+- Usa tableros de proyecto e incidencias (_issues_) para comunicar lo que ocurre en el proyecto.
+- Usa _Pull Request_ para solicitar la revisión de nuevos desarrollos de código y de contenido (en Git).
 - Añade manuales de usuario y cuadernos ejecutables para permitir la prueba de código.
 - Crea y comparte cuadernos computacionales que documenten cómo se procesan los datos y los resultados obtenidos.
 - Crea tutoriales o videos cortos que muestren cómo se realizó un paso del flujo de trabajo de tu investigación.
@@ -77,13 +77,13 @@ Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alc
 
 ## Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia
 
-A lo largo de estos módulos, Internet ha sido identificado como una tecnología disruptiva fundamental que ha cambiado la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez acude a las bibliotecas para leer los artículos más recientes de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte en disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones y agencias buscan cómo usarlas de forma eficaz, comprender su fiabilidad, precisión y sesgos y utilizarlas de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales, intencionadamente o no, lo que plantea problemas de privacidad.
+A lo largo de estos módulos, Internet ha sido identificado como una tecnología disruptiva fundamental que ha cambiado la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez acude a las bibliotecas para leer los artículos más recientes de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte en disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones y agencias buscan cómo usarlas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y hacerlo de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede usarse para revelar datos confidenciales, intencionadamente o no, lo que plantea problemas de privacidad.
 
 <img src="../images/media/image80_es.png" style="width:500px;height:auto;" />
 
 Créditos de imagen: NASA.
 
-La IA puede ayudarnos a utilizar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando a las personas que investigan libres para pensar en ideas más creativas. Estas herramientas son mejores que los seres humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Es importante tener esto en cuenta al determinar si usar o no la IA. Por ejemplo, muchas personas ya utilizan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido generado por IA. En el ámbito científico, hay muchas tareas que podrían agilizarse usando la IA, según tres estudios publicados en Nature:
+La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando a las personas que investigan libres para pensar en ideas más creativas. Estas herramientas son mejores que los seres humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Es importante tener esto en cuenta al determinar si usar o no la IA. Por ejemplo, muchas personas ya usan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido generado por IA. En el ámbito científico, hay muchas tareas que podrían agilizarse usando la IA, según tres estudios publicados en Nature:
 
 - [Los motores de búsqueda de ciencias de la IA están creciendo en número — ¿son buenos?](https://www.nature.com/articles/d41586-023-01273-w) (enlace externo, en inglés).
 - [Cómo la tecnología de IA puede dominar la literatura científica](https://www.nature.com/articles/d41586-018-06617-5) (enlace externo, en inglés).
@@ -126,7 +126,7 @@ La IA puede ayudarnos a utilizar y compartir la investigación. Puede actuar com
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Las herramientas de IA pueden utilizarse para descubrir diferentes conjuntos de datos que pueden ser relevantes para una consulta científica y recomendar bibliotecas de software relevantes.</p>
+            <p>Las herramientas de IA pueden usarse para descubrir diferentes conjuntos de datos que pueden ser relevantes para una consulta científica y recomendar bibliotecas de software relevantes.</p>
         </td>
     </tr>
   </tbody>
@@ -143,7 +143,7 @@ La IA puede ayudarnos a utilizar y compartir la investigación. Puede actuar com
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Las herramientas de IA pueden utilizarse para crear traducciones automáticas a distintos idiomas. Varias de las herramientas mencionadas también ofrecen traducción.</p>
+            <p>Las herramientas de IA pueden usarse para crear traducciones automáticas a distintos idiomas. Varias de las herramientas mencionadas también ofrecen traducción.</p>
         </td>
     </tr>
   </tbody>
@@ -161,7 +161,7 @@ La IA puede ayudarnos a utilizar y compartir la investigación. Puede actuar com
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Las herramientas de IA pueden utilizarse para generar código para realizar tareas de análisis y traducir entre lenguajes de programación. Algunos ejemplos de estas herramientas incluyen <a href="https://github.com/features/copilot">Co-Pilot</a>, <a href="https://openai.com/blog/openai-codex">Codex</a>, <a href="https://chat.openai.com/auth/login">ChatGPT</a> y <a href="https://alphacode.deepmind.com/">AlphaCode</a>.</p>
+            <p>Las herramientas de IA pueden usarse para generar código para realizar tareas de análisis y traducir entre lenguajes de programación. Algunos ejemplos de estas herramientas incluyen <a href="https://github.com/features/copilot">Co-Pilot</a>, <a href="https://openai.com/blog/openai-codex">Codex</a>, <a href="https://chat.openai.com/auth/login">ChatGPT</a> y <a href="https://alphacode.deepmind.com/">AlphaCode</a>.</p>
             <p><strong>Consejo de uso:</strong> Modelos grandes de lenguaje populares pueden ser usados para generar código, pero muchas personas han notado que la fragmentación de tareas y el uso de indicaciones cuidadosas ayudan a generar mejores resultados.</p>
         </td>
     </tr>
@@ -191,7 +191,7 @@ La IA puede ayudarnos a utilizar y compartir la investigación. Puede actuar com
 
 ### Compartiendo con IA:
 
-- Resultados: Los modelos de IA/AA (aprendizaje automático) se utilizan cada vez más en la investigación. Al compartir resultados, sigue las mejores prácticas descritas en el artículo [Uso ético y responsable de IA/AA en la Tierra, el Espacio y las Ciencias Ambientales](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences) (enlace externo, en inglés).
+- Resultados: Los modelos de IA/AA (aprendizaje automático) se usan cada vez más en la investigación. Al compartir resultados, sigue las mejores prácticas descritas en el artículo [Uso ético y responsable de IA/AA en la Tierra, el Espacio y las Ciencias Ambientales](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences) (enlace externo, en inglés).
 - Las indicaciones incrementales pueden ayudarte a elaborar un esquema para tu artículo de investigación. Se puede encontrar un ejemplo en [X (antes conocido como Twitter)](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite) (enlace externo, en inglés).
 - Las herramientas de IA pueden ayudar a identificar dónde compartir los resultados y a redactar publicaciones breves en redes sociales u otras publicaciones basadas en tu artículo.
 
@@ -201,13 +201,13 @@ Créditos de imagen: NASA.
 
 ### Precauciones sobre el uso de herramientas de IA
 
-Las revistas están implementando cada vez más pautas y requisitos para el uso de herramientas de IA durante el proceso de escritura. Muchas exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y que se identifique su método de uso. Como sucede con todo otro material en un artículo, las personas responsables de la autoría deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden leerse en las pautas de IA de [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/) (ambos enlaces externos, en inglés).
+Las revistas están implementando cada vez más pautas y requisitos para el uso de herramientas de IA durante el proceso de escritura. Muchas exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos, y que se identifique el método de uso. Como sucede con todo otro material en un artículo, las personas responsables de la autoría deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden leerse en las pautas de IA de [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/) (ambos enlaces externos, en inglés).
 
 Además, existen numerosos ejemplos de IA generativa (tanto para código como para contenido) que proporciona información plagiada en violación de las licencias, así como falsificación de material, incluidas las citas. El uso de estas herramientas de IA puede dar lugar a hallazgos de mala conducta académica y de investigación si los materiales generados por IA contienen falsificación o plagio. Así que ten cuidado. Obtén más información sobre posibles problemas con la IA en un [ejemplo de Nature](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) (enlace externo, en inglés).
 
 En este momento, y por estas razones, las herramientas de IA generalmente no están permitidas en las solicitudes de subvenciones, en la revisión por pares ni en las actividades de revisión de propuestas.
 
-El Instituto Nacional de Salud (NIH, por sus siglas en inglés) ha prohibido "a los revisores científicos por pares usar procesadores de lenguaje natural, grandes modelos de lenguaje, u otras tecnologías generativas de Inteligencia Artificial (IA) para analizar y formular críticas de revisión por pares para solicitudes de subvenciones y propuestas de contratos de Investigación y Desarrollo." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. (National Institutes of Health, 2023)
+El Instituto Nacional de Salud (NIH, por sus siglas en inglés) ha prohibido "a los revisores científicos por pares usar procesadores de lenguaje natural, grandes modelos de lenguaje, u otras tecnologías generativas de Inteligencia Artificial (IA) para analizar y formular críticas de revisión por pares para solicitudes de subvenciones y propuestas de contratos de Investigación y Desarrollo." usar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o usarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. (National Institutes of Health, 2023)
 
 Las herramientas de IA para la ciencia se están desarrollando rápidamente. La comprensión de la comunidad científica sobre cómo usar la IA de forma ética y segura está avanzando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea del tiempo y probablemente seguirán evolucionando. Si eliges usar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden afectar los resultados, como se advierte en [este artículo de la revista Nature](https://www.nature.com/articles/d41586-023-02980-0) (enlace externo, en inglés). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se usen con el fin apropiado y de forma ética.
 
@@ -218,8 +218,8 @@ Los pasos que destacamos para hacer que tu investigación sea más reproducible 
 En esta lección has aprendido:
 
 - Cómo incluir Resultados Abiertos en el Plan de Ciencia Abierta y Gestión de Datos (PCAGD).
-- Un ejemplo de cómo se pueden compartir los resultados de forma abierta.
-- Que las herramientas de IA en desarrollo se están usando en todas las etapas del flujo de trabajo científico, evolucionan rápidamente y aún quedan muchas preguntas abiertas sobre cómo y cuándo utilizarlas.
+- Un ejemplo de cómo compartir los resultados de forma abierta.
+- Que las herramientas de IA en desarrollo se están usando en todas las etapas del flujo de trabajo científico, evolucionan rápidamente y aún quedan muchas preguntas abiertas sobre cómo y cuándo usarlas.
 
 ## Lección 5: Evaluación
 
@@ -275,9 +275,8 @@ Créditos de imagen: “Primer plano de pequeños átomos bajo un microscopio (C
 
 ---
 
-**Aprende más sobre la iniciativa TOPS (Transfórmate a la Ciencia Abierta) de la NASA y únete a las conversaciones siguiendo el enlace.**
+**[*Más información sobre la iniciativa TOPS (Transformate a la Ciencia Abierta) de la NASA.](https://nasa.github.io/Transform-to-Open-Science/)** (en inglés) Únete a las conversaciones a través del enlace.
 
-[CLICK PARA MÁS INFORMACIÓN](https://nasa.github.io/Transform-to-Open-Science/) (en inglés)
 
 ## Resumen de Introducción a la Ciencia Abierta
 
@@ -287,45 +286,29 @@ Créditos de imagen: “Primer plano de pequeños átomos bajo un microscopio (C
 
 ### ¡Aprende más sobre TOPS y participa!
 
-**Suscríbete al boletín mensual de NASA Open Science**
+**[Suscríbete al boletín mensual de NASA Open Science](https://open.science.gov/)** (en inglés)
 
-[SUSCRÍBETE AQUÍ](https://open.science.gov/) (en inglés)
-
-**Sitio web de NASA Open Science**
-
-[ACCEDE AQUÍ](https://science.nasa.gov/open-science/) (en inglés)
+**[Sitio web de NASA Open Science](https://science.nasa.gov/open-science/)** (en inglés)
 
 ### Aprende más a través de cursos en línea:
 
-**OpenSciency**
+**[OpenSciency](https://opensciency.github.io/sprint-content/)** (enlace externo, en inglés)
 
-[CLICK PARA MÁS INFORMACIÓN](https://opensciency.github.io/sprint-content/) (enlace externo, en inglés)
-
-**Curso online, masivo y abierto (MOOC, por sus siglas en inglés) de Ciencia Abierta**
-
-[CLICK PARA MÁS INFORMACIÓN](https://opensciencemooc.eu/) (enlace externo, en inglés)
+**[Curso online, masivo y abierto (MOOC, por sus siglas en inglés) de Ciencia Abierta](https://opensciencemooc.eu/)** (enlace externo, en inglés)
 
 ### ¡Lleva tus habilidades en programación y ciencias de datos al siguiente nivel!
 
-**Carpentries**
-
-[CLICK PARA MÁS INFORMACIÓN](https://carpentries.org/) (enlace externo, en inglés)
+**[Carpentries](https://carpentries.org/)** (enlace externo, en inglés)
 
 ### Lee guías en línea y aprende sobre las iniciativas en curso de la comunidad científica abierta:
 
-**The Turing Way**
+**[The Turing Way](https://the-turing-way.netlify.app/index.html)** (enlace externo, en inglés)
 
-[CLICK PARA MÁS INFORMACIÓN](https://the-turing-way.netlify.app/index.html) (enlace externo, en inglés)
+**[Centro de Ciencia Abierta](https://www.cos.io/)** (enlace externo, en inglés)
 
-**Centro de Ciencia Abierta**
+**[Open Science NL](https://www.openscience.nl/en)** (enlace externo, en inglés)
 
-[CLICK PARA MÁS INFORMACIÓN](https://www.cos.io/) (enlace externo, en inglés)
-
-**Open Science NL**
-
-[CLICK PARA MÁS INFORMACIÓN](https://www.openscience.nl/en) (enlace externo, en inglés)
-
-Estos sitios son solo un comienzo: ¡hay muchos más recursos fantásticos de Ciencia Abierta en línea! ¡Sigue de cerca el contenido de aprendizaje de disciplinas específicas que los beneficiarios de la subvención ScienceCore de la NASA están desarrollando actualmente y que aparecerá aquí una vez que esté disponible!
+Estos sitios son solo un comienzo: ¡hay muchos más recursos fantásticos de Ciencia Abierta en línea! ¡Sigue de cerca el contenido de aprendizaje de disciplinas específicas que los beneficiarios de la subvención ScienceCore de la NASA están desarrollando actualmente y que se publicará aquí una vez que esté disponible!
 
 ### Disclaimer
 
