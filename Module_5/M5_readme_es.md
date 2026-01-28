@@ -4,22 +4,22 @@
 
 ## Acerca de este módulo
 
-¡Te damos la bienvenida a Resultados Abiertos! Este módulo se centra en brindarte las herramientas necesarias para iniciar una colaboración científica mediante la creación de pautas para los contribuyentes que garanticen una colaboración ética. El módulo comienza con un caso de uso de la ciencia abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar resultados abiertos. A continuación, se centra en cómo publicar resultados, incluyendo una lista de verificación de tareas. Finalmente, el módulo concluye con una orientación específica para la redacción de la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). Además, reflexionaremos sobre cómo nuestra sociedad y nuestra tecnología evolucionan constantemente en la forma en que hacemos ciencia.
+¡Te damos la bienvenida a Resultados Abiertos! Este módulo se centra en brindarte las herramientas necesarias para iniciar una colaboración científica mediante la creación de pautas para los contribuyentes que garanticen una colaboración ética. El módulo comienza con un caso de uso de la Ciencia Abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar Resultados Abiertos. A continuación, se centra en cómo publicar resultados, incluida una lista de verificación de tareas. Finalmente, el módulo concluye con una orientación específica para la redacción de la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). Además, reflexionaremos sobre cómo nuestra sociedad y nuestra tecnología evolucionan constantemente en la forma en que hacemos ciencia.
 
 ### Objetivos de aprendizaje
 
 Al finalizar esta lección deberías ser capaz de:
 
 - Describir qué constituye un resultado abierto.
-- Explicar qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudar a combatirla.
-- Llevar adelante un proceso para identificar, evaluar y citar resultados abiertos que permitan su reutilización.
-- Enumerar las responsabilidades de quienes participan en la creación de resultados abiertos: personas usuarias de los resultados abiertos, personas líderes de proyectos, personas colaboradoras y autoras.
+- Explicar qué es la crisis de reproducibilidad y cómo la Ciencia Abierta puede ayudar a combatirla.
+- Llevar a cabo un proceso para identificar, evaluar y citar Resultados Abiertos que permitan su reuso.
+- Enumerar las responsabilidades de quienes participan en la creación de Resultados Abiertos: personas usuarias de los Resultados Abiertos, personas líderes de proyectos, personas colaboradoras y autoras.
 - Enumerar las tareas para crear resultados reproducibles y los elementos que se deben incluir en un manuscrito para garantizar resultados reproducibles.
 - Definir una estrategia para compartir resultados, incluyendo la selección de editores, la interpretación de las políticas de revistas y de licencias, y determinar en tu documento cuándo compartir tus datos o software.
 
 # Términos clave
 
-Estos términos clave son temas clave para este módulo. Seleccioná el término para ver la descripción.
+Estos términos clave son temas centrales para este módulo. Seleccioná el término para ver la descripción.
 
 **Objeto de investigación (OI)** - También llamado producto o resultado de la investigación. Son los resultados obtenidos durante un proceso de investigación. Esto incluye artículos de revistas, datos y código, así como presentaciones, actas de congresos, informes, documentos técnicos, informes de posición, algoritmos, modelos y simulaciones, materiales de divulgación, tutoriales y muchos otros productos.
 
@@ -31,9 +31,9 @@ Estos términos clave son temas clave para este módulo. Seleccioná el término
 
 **Identificadores persistentes (PIDs)** - Referencias de larga duración a un documento, archivo, página web u otro objeto digital. Por lo general, se usan en el contexto de objetos digitales disponibles en internet. La mayoría de los PIDs tiene un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
 
-**Crisis de reproducibilidad** - La “crisis de reproducibilidad” en la ciencia es una preocupación creciente a partir de varios estudios de reproducibilidad en los que los resultados positivos previos no pudieron ser reproducidos.
+**Crisis de reproducibilidad** - La “crisis de reproducibilidad” en la ciencia es una preocupación creciente tras varios estudios de reproducibilidad en los que los resultados positivos previos no pudieron ser reproducidos.
 
-**DOI** - Un identificador de objeto digital es el “handle” de un identificador persistente utilizado para identificar de manera única diversos objetos. Está estandarizado por la Organización Internacional de Normalización (ISO).
+**DOI** - Un identificador de objeto digital es el “handle” de un identificador persistente usado para identificar de manera única diversos objetos. Está estandarizado por la Organización Internacional de Normalización (ISO).
 
 **Código de conducta** - Conjunto de reglas y políticas que establecen las normas, principios, expectativas y valores de un grupo u organización en particular. Se considera obligatorio para cualquier persona que forme parte de ese grupo u organización. Puede ayudar a los miembros a alinear su conducta con los valores de la comunidad, a apoyar la toma de decisiones y a fomentar la retención y el compromiso.
 
