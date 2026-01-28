@@ -30,21 +30,21 @@ Créditos de imagen: NASA. Fuente de productos del flujo de trabajo de Ciencia A
 
 Parte de practicar la Ciencia Abierta consiste en ofrecer resultados colaborativos e interactivos. Compartir los diferentes tipos de objetos de investigación de manera temprana durante el proceso de investigación ayudará a aumentar la visibilidad de tu trabajo, al mismo tiempo que podrá acelerarlo aprovechando el conocimiento colectivo de la comunidad. Internet ha cambiado de manera sustancial el momento y la manera en que quienes hacen ciencia comunican los resultados.
 
-Si planificas compartir tus resultados intermedios al inicio de tu proyecto, será más fácil compartir los resultados finales. La figura anterior ilustra muchos de los objetos que se pueden compartir antes de la versión 'final' de tu informe o publicación. Compartir y hablar de tu investigación mientras la realizas, así como interactuar con otras personas científicas, fortalecerán la calidad de tu trabajo.
+Si planificas compartir tus resultados intermedios al inicio de tu proyecto, será más fácil compartir los resultados finales. La figura anterior ilustra muchos de los objetos que pueden compartirse antes de la versión 'final' de tu informe o publicación. Compartir y hablar de tu investigación mientras la realizas, así como interactuar con otras personas científicas, fortalecerán la calidad de tu trabajo.
 
 Haz preguntas. Comparte en qué estás trabajando. Descubrirás que muchas personas de la comunidad científica están dispuestas a ayudar. Cuanto más te involucres, mayor será la audiencia y mayor impacto tendrás cuando se publique la versión 'final' de tu trabajo.
 
 En décadas pasadas, quienes se dedicaban a la ciencia generaban nuevas conexiones al buscar colaboración mediante cartas y en conferencias. Sin embargo, esta manera de hacer ciencia tendía a restringir la participación. Hoy, la mayoría de estas discusiones tienen lugar en internet, lo que ha habilitado nuevas vías de comunicación para la ciencia colaborativa en la que todas las personas pueden participar.
 
-Las plataformas en las que compartes tu investigación depende de lo que quieras compartir. Consulta la figura anterior y piensa en dónde podrías compartir los diferentes objetos o tipos de información que ahí se presentan. ¿Cómo influirá esto en la forma en que interactúes con alguien?
+Las plataformas en las que compartes tu investigación dependen de lo que quieras compartir. Consulta la figura anterior y piensa en dónde podrías compartir los diferentes objetos o tipos de información que se presentan allí. ¿Cómo influirá esto en la forma en que interactúes con alguien?
 
 Puedes comenzar compartiendo tus resultados en grupos pequeños, como en talleres y conferencias, para luego avanzar hacia audiencias más grandes. A continuación, exploraremos las diversas razones que influyen en la elección del tamaño de los grupos para comunicar tus resultados.
 
 ### En talleres y conferencias
 
-Muchos veces asistimos a conferencias científicas, talleres y otros encuentros para discutir temas de nuestra disciplina con colegas. Los costos asociados a la asistencia y al viaje a estos eventos pueden limitar el acceso a los materiales y exposiciones que se presentan allí. En estos eventos, las personas científicas a menudo dan charlas o presentan pósteres que aún no han sido revisados por pares, donde aprovechan la oportunidad para invitar a la comunidad a emitir observaciones y, potencialmente, sumar colaboraciones. Estas interacciones son importantes para mejorar los proyectos de investigación y suelen realizarse cuando un proyecto aún está en curso para que los equipos de investigación puedan recopilar comentarios al inicio de su proceso científico.
+Muchas veces asistimos a conferencias científicas, talleres y otros encuentros para discutir temas de nuestra disciplina con colegas. Los costos asociados a la asistencia y al viaje a estos eventos pueden limitar el acceso a los materiales y exposiciones que se presentan allí. En estos eventos, las personas científicas a menudo dan charlas o presentan pósteres que aún no han sido revisados por pares, aprovechando la oportunidad para invitar a la comunidad a emitir observaciones y, potencialmente, a sumar colaboraciones. Estas interacciones son importantes para mejorar los proyectos de investigación y suelen realizarse cuando un proyecto aún está en curso para que los equipos de investigación puedan recopilar comentarios al inicio de su proceso científico.
 
-Es importante tener en cuenta el tipo de audiencia a la que potencialmente llegará el evento. Las conferencias tienen diferentes políticas sobre el Acceso Abierto a los materiales presentados. Piensa en lo que estás ofreciendo y con quién quieres compartirlo. Por ejemplo, no todos los eventos ofrecen Acceso Abierto a largo plazo a los materiales del taller después del evento. Si deseas llegar a una audiencia más amplia o preservar los materiales a largo plazo, como persona dedicada a la ciencia, tienes opciones para licenciar y publicar abiertamente tú mismo los materiales que has presentado (por ejemplo, usando Zenodo con un DOI) en caso de que quienes organizan el evento no lo hagan.
+Es importante tener en cuenta el tipo de audiencia a la que podría llegar el evento. Las conferencias tienen diferentes políticas sobre el Acceso Abierto a los materiales presentados. Piensa en lo que estás ofreciendo y con quién quieres compartirlo. Por ejemplo, no todos los eventos ofrecen Acceso Abierto a largo plazo a los materiales del taller después del evento. Si deseas llegar a una audiencia más amplia o preservar los materiales a largo plazo, como persona dedicada a la ciencia, tienes opciones para licenciar y publicar abiertamente tú mismo los materiales que has presentado (por ejemplo, usando Zenodo con un DOI) en caso de que quienes organizan el evento no lo hagan.
 
 ### Otras formas de retroalimentación interactiva
 
@@ -52,7 +52,7 @@ Existen otras formas de compartir que pueden servir para distribuir y documentar
 
 - Publicar en blogs y/o artículos de difusión en línea
 - Elaborar videos cortos y podcasts
-- Utilizar cuadernos computacionales o 'interfaz notebooks'
+- Usar cuadernos computacionales o 'interfaz notebooks'
 - Publicar en redes sociales
 - Participar de discusiones en foros
 
@@ -79,7 +79,7 @@ Hay varios ejemplos (discutidos en estas lecciones) que demuestran cómo podemos
 
 Publicar trabajos en una revista revisada por pares constituye un fundamento básico de la divulgación científica. Al mismo tiempo, se considera una vía importante para comunicar resultados rigurosos entre colegas. Las revistas académicas también actúan como un archivo de preservación a largo plazo de artículos de investigación científica. Para muchas personas, publicar en revistas revisadas por pares y ser citadas son factores clave para ser evaluadas en el avance de su carrera científica, recibir nombramientos, obtener reconocimiento o aspirar a formar parte de comités.
 
-En este sentido, de manera recurrente, las personas autoras pueden pagar un Cargo por Procesamiento de Artículos (APC, por sus siglas en inglés), que puede variar entre $200 y $12.000 USD. Las revistas de mayor prestigio a menudo cobran las tarifas más altas. El acceso a los artículos ha estado tradicionalmente restringido por muros de pago que requieren una suscripción o un cargo por consulta por artículo. Las revistas pueden contar con diferentes opciones para hacer que tu trabajo publicado sea accesible para todas las personas.
+En este sentido, de manera recurrente, las personas autoras pueden pagar un Cargo por Procesamiento de Artículos (APC, por sus siglas en inglés), que puede variar entre $200 y $12.000 USD. Las revistas de mayor prestigio a menudo cobran las tarifas más altas. El acceso a los artículos ha estado tradicionalmente restringido por muros de pago que requieren una suscripción o un cargo por consulta. Las revistas pueden contar con diferentes opciones para hacer que tu trabajo publicado sea accesible para todas las personas.
 
 **¿Quién tiene acceso a las suscripciones de revistas?**
 
@@ -112,7 +112,7 @@ En esta actividad aprenderás cómo acceder a la información sobre las polític
 
 7. En la página se resumen las políticas de Acceso Abierto de esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante.<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;"/>
 
-8. Revisa la página web para determinar qué licencia ha definido la revista seleccionada para el reuso de manuscritos.
+8. Revisa la página web de la revista seleccionada para determinar qué licencia ha establecido para el reuso de manuscritos.
 
 #### Conclusiones de la actividad: Lee las políticas de Acceso Abierto de las editoriales que usas
 
@@ -158,7 +158,7 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Se trata de un número internacional normalizado para libros, que las personas editoras deben adquirir a través de la Agencia Internacional del ISBN.</p>
+            <p>Se trata de un número internacional normalizado para libros que las personas editoras deben adquirir a través de la Agencia Internacional del ISBN.</p>
         </td>
     </tr>
   </tbody>
@@ -188,15 +188,15 @@ Créditos de imagen: NASA.
 
 Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con lo que compartes, así como las condiciones para hacerlo (como el requisito de citarte). Otro elemento muy importante que debes incluir en tus objetos de investigación son normas claras para su reuso (tal como es y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
 
-Sin licencia, todos los derechos corresponden a la persona autora del resultado de la investigación. Eso significa que nadie más puede usar, copiar, distribuir ni modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispones de una licencia para cada uno de los objetos de investigación que constituyen el resultado de tu investigación, este no podrá ser utilizado por toda la comunidad de investigación.
+Sin licencia, todos los derechos corresponden a la persona autora del resultado de la investigación. Eso significa que nadie más puede usar, copiar, distribuir ni modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispones de una licencia para cada uno de los objetos de investigación que constituyen el resultado de tu investigación, este no podrá ser usado por toda la comunidad de investigación.
 
-Las licencias Creative Commons suelen utilizarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría de ellas exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc) (enlace externo, en inglés), es la licencia de Acceso Abierto más común para compartir publicaciones, ya que solo requiere la atribución. Existen otras licencias Creative Commons que pueden tener diferentes limitaciones respecto de si pueden o no utilizarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
+Las licencias Creative Commons suelen usarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría de ellas exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc) (enlace externo, en inglés), es la licencia de Acceso Abierto más común para compartir publicaciones, ya que solo requiere la atribución. Existen otras licencias Creative Commons que pueden tener diferentes limitaciones respecto de si pueden o no usarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
 
 Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica según el tipo de material que se produzca a partir de tu investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar su reuso y, por lo tanto, el rendimiento de la inversión. Elegir una licencia CC con restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a un menor reuso de los datos. Cuando compartas resultados en distintas plataformas, ¡fíjate bien cuál es la licencia que se está aplicando!
 
-### Vías para publicar en acceso abierto
+### Vías para publicar en Acceso Abierto
 
-<img src="../images/media/image68_es.png" style="width:100%;height:auto;" alt="Ilustración. Un tren que muestra vías para publicar en acceso abierto. Incluye etiquetas de costos: ‘Gratis’ en el vagón ‘Acceso abierto verde’, ‘Pagan las personas autoras’ en el vagón ‘Acceso abierto verde’ y ‘Pagan el financiador o la institución’ en el vagón ‘Acceso abierto diamante’. Aparecen tres rutas principales: servidor de preimpresiones (preprints) (verde), revisión por pares y publicación en revistas de acceso abierto (dorado y diamante) y autoarchivo (verde). " />
+<img src="../images/media/image68_es.png" style="width:100%;height:auto;" alt="Ilustración. Un tren que muestra vías para publicar en Acceso Abierto. Incluye etiquetas de costos: ‘Gratis’ en el vagón ‘Acceso abierto verde’, ‘Pagan las personas autoras’ en el vagón ‘Acceso abierto verde’ y ‘Pagan el financiador o la institución’ en el vagón ‘Acceso abierto diamante’. Aparecen tres rutas principales: servidor de preimpresiones (preprints) (verde), revisión por pares y publicación en revistas de Acceso Abierto (dorado y diamante) y autoarchivo (verde). " />
 
 Créditos de imagen: Imagen creada por Scriberia para la comunidad de The Turing Way. Licencia CC BY 4.0.
 
@@ -216,8 +216,8 @@ Los tipos más comunes de vías de publicación en Acceso Abierto son Verde (_gr
   <tbody>
     <tr>
         <td colspan="3">
-            <p>En el Acceso Abierto Dorado, las personas autoras pagan una tasa de procesamiento de artículos, APC (<i>Article Processing Charge</i>), a una revista para que ésta publique la versión final de su artículo bajo una licencia de Acceso Abierto, que luego queda disponible en línea de forma permanente y gratuita para cualquiera. Las personas autoras conservarán los derechos de autoría, normalmente a través de una licencia Creative Commons de su elección, que dicta lo que los demás pueden hacer con el artículo. Una crítica en torno a la publicación dorada en Acceso Abierto es el costo.</p>
-            <p>Por lo general, los APC pueden rondar los 2.000 USD o, en algunos casos, más, lo que puede resultar prohibitivo para las personas que hacen ciencia en muchas partes del mundo. Algunas editoriales ofrecen descuentos o exenciones a los autores de países clasificados por el Banco Mundial como economías de renta baja, o es posible que su financiador cubra los costos de APC como parte de su subvención.</p>
+            <p>En el Acceso Abierto Dorado, las personas autoras pagan una tasa de procesamiento de artículos, APC (<i>Article Processing Charge</i>), a una revista para que ésta publique la versión final de su artículo bajo una licencia de Acceso Abierto, que luego queda disponible en línea de forma permanente y gratuita para cualquiera. Las personas autoras conservarán los derechos de autoría, normalmente mediante una licencia Creative Commons de su elección, que establece qué pueden hacer los demás con el artículo. Una crítica en torno a la publicación dorada en Acceso Abierto es el costo.</p>
+            <p>Por lo general, los APC pueden rondar los 2.000 USD o incluso más, lo que puede resultar prohibitivo para las personas que hacen ciencia en muchas partes del mundo. Algunas editoriales ofrecen descuentos o exenciones a los autores de países clasificados por el Banco Mundial como economías de renta baja, o es posible que su financiador cubra los costos de APC como parte de su subvención.</p>
         </td>
     </tr>
   </tbody>
@@ -252,7 +252,7 @@ Los tipos más comunes de vías de publicación en Acceso Abierto son Verde (_gr
   <tbody>
     <tr>
         <td colspan="3">
-            <p>El Acceso Abierto Diamante, son publicaciones en las que no hay costo alguno para leer o publicar un artículo. Las revistas de Acceso Abierto Diamante, o bien tienen costos muy bajos debido a que aprovechan la infraestructura existente y los esfuerzos de personas voluntarias, o bien cuentan con el apoyo directo de fundaciones o instituciones. Para las personas autoras, las publicaciones de Acceso Abierto Diamante suelen permitir que conserven los derechos de autoría (copyright) y la versión final de su artículo, ya que se publica bajo una licencia de Acceso Abierto.</p>
+            <p>El Acceso Abierto Diamante es una publicación en la que no hay costo alguno para leer ni publicar un artículo. Las revistas de Acceso Abierto Diamante, o bien tienen costos muy bajos debido a que aprovechan la infraestructura existente y los esfuerzos de personas voluntarias, o bien cuentan con el apoyo directo de fundaciones o instituciones. Para las personas autoras, las publicaciones de Acceso Abierto Diamante suelen permitir que conserven los derechos de autoría (copyright) y la versión final de su artículo, ya que se publica bajo una licencia de Acceso Abierto.</p>
         </td>
     </tr>
   </tbody>
@@ -324,13 +324,13 @@ Lee la [historia](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and
 
 ### ¿Quién está compartiendo?
 
-Cuando se escribe un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés de _Open Science and Data Management Plan_), es importante incluir un plan de las funciones y responsabilidades necesarias para compartir los resultados. Como se explica en la Lección 3, tu comunidad estará formada por personas con diferentes funciones: algunas participarán activamente y otras sólo tendrán un interés pasajero. Contar con un plan claro para compartir los Resultados Abiertos y la forma en que se otorgará el crédito ayudará a que todas comprendan sus contribuciones y funciones y minimizará los conflictos.
+Cuando se escribe un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés, _Open Science and Data Management Plan_), es importante incluir un plan de las funciones y responsabilidades necesarias para compartir los resultados. Como se explica en la Lección 3, tu comunidad estará formada por personas con diferentes funciones: algunas participarán activamente y otras sólo tendrán un interés pasajero. Contar con un plan claro para compartir los Resultados Abiertos y la forma en que se otorgará el crédito ayudará a que todas comprendan sus contribuciones y funciones y minimizará los conflictos.
 
 En la Lección 3 se describen en detalle las diferentes funciones que pueden desempeñar las personas en la puesta en común de resultados. Esto debe describirse con claridad en el Plan de Ciencia Abierta y Gestión de Datos.
 
 ### Editoriales depredadoras
 
-Las editoriales depredadoras suelen ser editoriales con ánimo de lucro que cobran una tasa de publicación, pero proporcionan pocos controles de calidad de la publicación que cabría esperar de las publicaciones académicas. A veces utilizan las ventajas del Acceso Abierto para atraer a las personas autoras a publicar con ellos. Si no tienes la seguridad de que una editorial puede ser depredadora, un buen punto de partida es consultar al personal de tu biblioteca.
+Las editoriales depredadoras suelen ser editoriales con ánimo de lucro que cobran una tasa de publicación, pero proporcionan pocos controles de calidad de la publicación que cabría esperar de las publicaciones académicas. A veces usan las ventajas del Acceso Abierto para atraer a las personas autoras a publicar con ellos. Si no tienes la seguridad de que una editorial puede ser depredadora, un buen punto de partida es consultar al personal de tu biblioteca.
 
 Hay muchas señales de alarma en estas solicitudes de editoriales depredadoras:
 
@@ -338,7 +338,7 @@ Hay muchas señales de alarma en estas solicitudes de editoriales depredadoras:
 - El inglés escrito de la correspondencia suele ser de mala calidad, con muchos errores gramaticales. (Aunque es importante recordar que esto, por sí solo, no indica un comportamiento depredador, ya que los errores gramaticales pueden cometerse por razones inocentes, como ser un hablante no nativo).
 - El tema de la revista no es específico.
 - La solicitud es imprecisa o genérica.
-- El correo electrónico a menudo no es solicitado, incluso si afirman que se están refiriendo a un documento tuyo anterior. Puede empezar con una solicitud imprecisa o genérica, como "profesor".
+- El correo electrónico a menudo no se solicita, incluso si afirman que se refieren a un documento tuyo anterior. Puede empezar con una solicitud imprecisa o genérica, como "profesor".
 - Hacen hincapié en la indexación del ISSN (_International Standard Serial Number_) y/o en los factores de impacto, aunque esta revista en concreto no los cuente. Considera el indicador de citas de revistas (JCI por las siglas en inglés de _Journal Citation Indicator_) además del factor de impacto de la revista (JIF por las siglas en inglés de _Journal Impact Factor_).
 - La editorial/revista envía múltiples correos electrónicos solicitando manuscritos, números especiales y funciones editoriales.
 - Tienen un elevado número de ediciones especiales, por lo que la mayoría de los artículos publicados aparecen en ellas.
@@ -347,11 +347,11 @@ Hay muchas señales de alarma en estas solicitudes de editoriales depredadoras:
 - Tienen una alta tasa de aceptación de los trabajos enviados.
 - Envían con frecuencia solicitudes para presentar trabajos o para servir de editor/a.
 
-A continuación, se presentan algunas reflexiones finales sobre lo que debes tener en cuenta al decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar se determinará por las conversaciones de boca en boca con colegas. Lee más sobre la [guía de NOAA sobre la publicación depredadora](https://libguides.library.noaa.gov/predatorypublishing). (enlace externo, en inglés).
+A continuación, se presentan algunas reflexiones finales para considerar al decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar se determinará por las conversaciones de boca en boca con colegas. Lee más sobre la [guía de NOAA sobre la publicación depredadora](https://libguides.library.noaa.gov/predatorypublishing). (enlace externo, en inglés).
 
 ### Preguntas frecuentes sobre la divulgación de resultados
 
-Compartir de diferentes maneras, especialmente sin revisión por pares, puede ser intimidante. Tal vez te hayan preocupado las siguientes preguntas:
+Compartir de diferentes maneras, especialmente sin revisión por pares, puede resultar intimidante. Tal vez te hayan preocupado las siguientes preguntas:
 
 - **¿Qué pasa si un resultado abierto es erróneo?**<br>Un tuit, un post o un video no es más que una instantánea en el tiempo de un resultado de investigación. Quienes hacemos ciencia de manera profesional sabemos que estamos constantemente aprendiendo y descubriendo cosas nuevas. La elaboración de resultados reproducibles incluirá necesariamente diferentes versiones y revisiones de una idea a medida que se desarrolla.
 
@@ -371,7 +371,7 @@ En esta lección has aprendido:
 
 - Cuándo compartir Resultados Abiertos y las diferentes formas en que se pueden compartir. Esto incluye: publicaciones revisadas por pares, resúmenes de congresos, entradas de blog, videos, anotaciones y redes sociales.
 - Cómo compartir Resultados Abiertos, incluyendo consideraciones sobre la licencia de la publicación, vías para publicaciones de Acceso Abierto (Verde, Dorada, Diamante) y preimpresiones (_preprints_) como parte del proceso de publicación.
-- Consideraciones en torno al uso compartido, incluyendo consideraciones sobre las editoriales depredadoras y preocupaciones comunes en relación al intercambio abierto de resultados.
+- Consideraciones en torno al uso compartido, incluyendo las editoriales depredadoras y las preocupaciones comunes en relación con el intercambio abierto de resultados.
 
 ## Lección 4: Evaluación
 
