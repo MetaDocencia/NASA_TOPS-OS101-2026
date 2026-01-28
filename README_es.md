@@ -1,6 +1,4 @@
-# Introducción a Open Science 101
-
-**Importante:** una vez que finalices nuestras capacitaciones, la emisión de tu insignia digital puede demorar una hora o más. Este tiempo varía según la cantidad de solicitudes que estemos procesando en un momento dado. ¡Gracias por tu comprensión!
+# Introducción a la Ciencia Abierta
 
 ## ¿Necesitas ayuda?
 Puedes comunicarte con nosotros a través del correo [cursos@metadocencia.org](cursos@metadocencia.org).
