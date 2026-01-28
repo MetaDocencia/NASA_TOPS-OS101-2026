@@ -6,7 +6,12 @@ Puedes comunicarte con nosotros a través del correo [cursos@metadocencia.org](c
 ## Obtener la insignia digital
 Cuando finalices las evaluaciones, recibirás una insignia digital emitida por Credly. Podrás compartirla en tu currículum o en tus perfiles de redes sociales. También puedes agregar tu insignia digital de Credly a tu perfil de ORCID en el módulo [Open Science 101 completo](https://nasastem.instructure.com/courses/283/modules/900).
 
-[IMG: readme1.png](https://drive.google.com/file/d/1Jz-LxjX6OQL3lCMlZoNX9g4xkgdq0jG8/view?usp=drive_link)
+<img
+  src="./Module_1/images/media/readme1_es.png"
+  style="width:100%;height:auto;"
+  alt="Portada del curso: “CIENCIA ABIERTA 101”. Texto: “Este curso de cinco módulos ofrece a las personas participantes una base sólida sobre los principios de la Ciencia Abierta; cómo planificar, llevar a cabo y participar en proyectos de investigación con este enfoque; las consideraciones legales y éticas al planificar proyectos; y las buenas prácticas en Ciencia Abierta.” Recuadro inferior: “Información sobre la licencia: Esta obra está disponible bajo una licencia Creative Commons Atribución 4.0 Internacional. El material que no esté bajo licencia CC BY está identificado con la licencia correspondiente.” “Información de cita: NASA Open Science Training Team. (2025). Open Science 101 [Ciencia Abierta 101]. NASA. https://science.nasa.gov/open-science/training/”"
+/>
+
 
 ---
 
@@ -24,7 +29,7 @@ La NASA también utilizará este plan de estudios para apoyar a quienes investig
 
 ### 5 módulos organizados como flujo de trabajo científico
 
-<img src="./Module_1/images/media/image441.png" style="width:100%;height:auto;" />
+<img src="./Module_1/images/media/image441_es.png" style="width:100%;height:auto;" />
 
 [IMG: badge1.png](https://drive.google.com/file/d/1os_7dqHlsVOYAUOzb5JRu-DtKA316maK/view?usp=drive_link)
 
