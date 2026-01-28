@@ -28,7 +28,7 @@ La NASA también utilizará este plan de estudios para apoyar a quienes investig
 
 [IMG: badge1.png](https://drive.google.com/file/d/1os_7dqHlsVOYAUOzb5JRu-DtKA316maK/view?usp=drive_link)
 
-Completando los cinco módulos y aprobando la evaluación final de cada uno se obtiene la insignia digital de "Ciencia Abierta de la NASA" (en inglés, *NASA Open Science*).
+Al completar los cinco módulos y aprobar la evaluación final de cada uno, se obtiene la insignia digital de "Ciencia Abierta de la NASA" (en inglés, *NASA Open Science*).
 
 ---
 
@@ -38,9 +38,7 @@ A lo largo del curso compartiremos información sobre cómo involucrarte en opor
 
 Este boletín mensual destaca iniciativas actuales, nuevas herramientas y recursos diseñados para que la comunidad científica aproveche más eficazmente la gran cantidad de datos científicos de la NASA. En los próximos números se incluirán novedades sobre herramientas de IA, el desarrollo del motor de búsqueda Science Discovery Engine y más.
 
-**¡Suscríbete aquí!**
-
-[Button](https://lp.constantcontactpages.com/sl/dngxZy8/NASAOpenScience)
+**[¡Suscríbete aquí!](https://lp.constantcontactpages.com/sl/dngxZy8/NASAOpenScience)**
 
 ---
 
